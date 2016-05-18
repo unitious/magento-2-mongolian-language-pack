@@ -9,7 +9,7 @@
 
 Хоёр янзын аргаар суулгаж хэрэглэх боломжтой. 
 
-1. Хуулах аргаар суулгах
+### Хуулах аргаар суулгах
 
 ```
 rm pub/static/frontend/Magento/luma/mn_Cyrl_MN/js-translation.json
@@ -20,7 +20,7 @@ php bin/magento setup:di:compile
 ```
 
 
-2. Composer ашиглан суулгах
+### Composer ашиглан суулгах
 
 Composer.json файлын "repositories" блок дотор нэмнэ:   
 
