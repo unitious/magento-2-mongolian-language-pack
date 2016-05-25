@@ -52,11 +52,11 @@ php bin/magento setup:static-content:deploy mn_Cyrl_MN
 
 |Орчуулгын файлууд|Орчуулагдсан төлөв|
 |---|---|
-|Magento_Admin_Notification| |
-|Magento_Advanced_Pricing_Import_Export| |
-|Magento_Authorization| |
-|Magento_Authorizenet| |
-|Magento_Backend| |
+|Magento_Admin_Notification|100%|
+|Magento_Advanced_Pricing_Import_Export|100%|
+|Magento_Authorization|100%|
+|Magento_Authorizenet|80%|
+|Magento_Backend|50%|
 |Magento_Backup| |
 |Magento_Braintree| |
 |Magento_Bundle| |
