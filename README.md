@@ -55,8 +55,8 @@ php bin/magento setup:static-content:deploy mn_Cyrl_MN
 |Magento_Admin_Notification|100%|
 |Magento_Advanced_Pricing_Import_Export|100%|
 |Magento_Authorization|100%|
-|Magento_Authorizenet|80%|
-|Magento_Backend|50%|
+|Magento_Authorizenet|80% орчуулж байгаа|
+|Magento_Backend|50% орчуулж байгаа|
 |Magento_Backup| |
 |Magento_Braintree| |
 |Magento_Bundle| |
