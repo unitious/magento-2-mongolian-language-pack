@@ -1,0 +1,49 @@
+"Read Details","Read Details",module,Magento_AdminNotification
+"Mark as Read","Mark as Read",module,Magento_AdminNotification
+"Are you sure?","Are you sure?",module,Magento_AdminNotification
+Remove,Remove,module,Magento_AdminNotification
+"Messages Inbox","Messages Inbox",module,Magento_AdminNotification
+"You have %1 new system messages","You have %1 new system messages",module,Magento_AdminNotification
+"You have %1 new system message","You have %1 new system message",module,Magento_AdminNotification
+"Incoming Message","Incoming Message",module,Magento_AdminNotification
+close,close,module,Magento_AdminNotification
+Notifications,Notifications,module,Magento_AdminNotification
+"The message has been marked as Read.","The message has been marked as Read.",module,Magento_AdminNotification
+"We couldn't mark the notification as Read because of an error.","We couldn't mark the notification as Read because of an error.",module,Magento_AdminNotification
+"Please select messages.","Please select messages.",module,Magento_AdminNotification
+"A total of %1 record(s) have been marked as Read.","A total of %1 record(s) have been marked as Read.",module,Magento_AdminNotification
+"Total of %1 record(s) have been removed.","Total of %1 record(s) have been removed.",module,Magento_AdminNotification
+"We couldn't remove the messages because of an error.","We couldn't remove the messages because of an error.",module,Magento_AdminNotification
+"The message has been removed.","The message has been removed.",module,Magento_AdminNotification
+"1 Hour","1 Hour",module,Magento_AdminNotification
+"2 Hours","2 Hours",module,Magento_AdminNotification
+"6 Hours","6 Hours",module,Magento_AdminNotification
+"12 Hours","12 Hours",module,Magento_AdminNotification
+"24 Hours","24 Hours",module,Magento_AdminNotification
+critical,critical,module,Magento_AdminNotification
+major,major,module,Magento_AdminNotification
+minor,minor,module,Magento_AdminNotification
+notice,notice,module,Magento_AdminNotification
+"Wrong message type","Wrong message type",module,Magento_AdminNotification
+"Wrong notification ID specified.","Wrong notification ID specified.",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.",module,Magento_AdminNotification
+"One or more of the Cache Types are invalidated: %1. ","One or more of the Cache Types are invalidated: %1. ",module,Magento_AdminNotification
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Please go to <a href=""%1"">Cache Management</a> and refresh cache types.",module,Magento_AdminNotification
+"We were unable to synchronize one or more media files. Please refer to the log file for details.","We were unable to synchronize one or more media files. Please refer to the log file for details.",module,Magento_AdminNotification
+"Synchronization of media storages has been completed.","Synchronization of media storages has been completed.",module,Magento_AdminNotification
+"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.",module,Magento_AdminNotification
+"Close popup","Close popup",module,Magento_AdminNotification
+Close,Close,module,Magento_AdminNotification
+"System Messages:","System Messages:",module,Magento_AdminNotification
+"Critical System Messages","Critical System Messages",module,Magento_AdminNotification
+"Major System Messages","Major System Messages",module,Magento_AdminNotification
+"System messages","System messages",module,Magento_AdminNotification
+"See All (","See All (",module,Magento_AdminNotification
+" unread)"," unread)",module,Magento_AdminNotification
+"Use HTTPS to Get Feed","Use HTTPS to Get Feed",module,Magento_AdminNotification
+"Update Frequency","Update Frequency",module,Magento_AdminNotification
+"Last Update","Last Update",module,Magento_AdminNotification
+Severity,Severity,module,Magento_AdminNotification
+"Date Added","Date Added",module,Magento_AdminNotification
+Message,Message,module,Magento_AdminNotification
+Actions,Actions,module,Magento_AdminNotification

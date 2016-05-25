@@ -1,0 +1,13 @@
+"Change Encryption Key","Change Encryption Key",module,Magento_EncryptionKey
+"Encryption Key","Encryption Key",module,Magento_EncryptionKey
+"New Encryption Key","New Encryption Key",module,Magento_EncryptionKey
+"The encryption key is used to protect passwords and other sensitive data.","The encryption key is used to protect passwords and other sensitive data.",module,Magento_EncryptionKey
+"Auto-generate a Key","Auto-generate a Key",module,Magento_EncryptionKey
+No,No,module,Magento_EncryptionKey
+Yes,Yes,module,Magento_EncryptionKey
+"The generated key will be displayed after changing.","The generated key will be displayed after changing.",module,Magento_EncryptionKey
+"New Key","New Key",module,Magento_EncryptionKey
+"Deployment configuration file is not writable.","Deployment configuration file is not writable.",module,Magento_EncryptionKey
+"Please enter an encryption key.","Please enter an encryption key.",module,Magento_EncryptionKey
+"The encryption key has been changed.","The encryption key has been changed.",module,Magento_EncryptionKey
+"This is your new encryption key: %1. Be sure to write it down and take good care of it!","This is your new encryption key: %1. Be sure to write it down and take good care of it!",module,Magento_EncryptionKey

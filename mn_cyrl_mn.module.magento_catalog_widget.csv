@@ -1,0 +1,20 @@
+"Conditions Combination","Conditions Combination",module,Magento_CatalogWidget
+"Product Attribute","Product Attribute",module,Magento_CatalogWidget
+SKU,SKU,module,Magento_CatalogWidget
+"Please choose a condition to add.","Please choose a condition to add.",module,Magento_CatalogWidget
+"Add to Cart","Add to Cart",module,Magento_CatalogWidget
+"In stock","In stock",module,Magento_CatalogWidget
+"Out of stock","Out of stock",module,Magento_CatalogWidget
+"Add to Wish List","Add to Wish List",module,Magento_CatalogWidget
+"Add to Compare","Add to Compare",module,Magento_CatalogWidget
+"Catalog Products List","Catalog Products List",module,Magento_CatalogWidget
+"List of Products","List of Products",module,Magento_CatalogWidget
+Title,Title,module,Magento_CatalogWidget
+"Display Page Control","Display Page Control",module,Magento_CatalogWidget
+"Number of Products per Page","Number of Products per Page",module,Magento_CatalogWidget
+"Number of Products to Display","Number of Products to Display",module,Magento_CatalogWidget
+Template,Template,module,Magento_CatalogWidget
+"Products Grid Template","Products Grid Template",module,Magento_CatalogWidget
+"Cache Lifetime (Seconds)","Cache Lifetime (Seconds)",module,Magento_CatalogWidget
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.",module,Magento_CatalogWidget
+Conditions,Conditions,module,Magento_CatalogWidget

@@ -1,0 +1,4 @@
+"Please correct the data sent.","Please correct the data sent.",module,Magento_AdvancedPricingImportExport
+"Entity type model \'%1\' is not found","Entity type model \'%1\' is not found",module,Magento_AdvancedPricingImportExport
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
+"There are no product types available for export","There are no product types available for export",module,Magento_AdvancedPricingImportExport

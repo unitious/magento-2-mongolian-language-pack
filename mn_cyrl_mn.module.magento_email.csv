@@ -1,0 +1,96 @@
+"Add New Template","Add New Template",module,Magento_Email
+"Transactional Emails","Transactional Emails",module,Magento_Email
+Back,Back,module,Magento_Email
+Reset,Reset,module,Magento_Email
+"Delete Template","Delete Template",module,Magento_Email
+"Convert to Plain Text","Convert to Plain Text",module,Magento_Email
+"Return Html Version","Return Html Version",module,Magento_Email
+"Preview Template","Preview Template",module,Magento_Email
+"Save Template","Save Template",module,Magento_Email
+"Load Template","Load Template",module,Magento_Email
+"Edit Email Template","Edit Email Template",module,Magento_Email
+"New Email Template","New Email Template",module,Magento_Email
+"Default Config","Default Config",module,Magento_Email
+"Template Information","Template Information",module,Magento_Email
+"Currently Used For","Currently Used For",module,Magento_Email
+"Template Name","Template Name",module,Magento_Email
+"Template Subject","Template Subject",module,Magento_Email
+"Insert Variable...","Insert Variable...",module,Magento_Email
+"Template Content","Template Content",module,Magento_Email
+"Template Styles","Template Styles",module,Magento_Email
+Preview,Preview,module,Magento_Email
+Unknown,Unknown,module,Magento_Email
+"You deleted the email template.","You deleted the email template.",module,Magento_Email
+"The email template is currently being used.","The email template is currently being used.",module,Magento_Email
+"We can\'t delete email template data right now. Please review log and try again.","We can\'t delete email template data right now. Please review log and try again.",module,Magento_Email
+"We can\'t find an email template to delete.","We can\'t find an email template to delete.",module,Magento_Email
+"Edit Template","Edit Template",module,Magento_Email
+"Edit System Template","Edit System Template",module,Magento_Email
+"New Template","New Template",module,Magento_Email
+"New System Template","New System Template",module,Magento_Email
+"Email Templates","Email Templates",module,Magento_Email
+"Email Preview","Email Preview",module,Magento_Email
+"An error occurred. The email template can not be opened for preview.","An error occurred. The email template can not be opened for preview.",module,Magento_Email
+"This email template no longer exists.","This email template no longer exists.",module,Magento_Email
+"You saved the email template.","You saved the email template.",module,Magento_Email
+"Area is already set","Area is already set",module,Magento_Email
+"Design config must have area and store.","Design config must have area and store.",module,Magento_Email
+"Base Unsecure URL","Base Unsecure URL",module,Magento_Email
+"Base Secure URL","Base Secure URL",module,Magento_Email
+"General Contact Name","General Contact Name",module,Magento_Email
+"General Contact Email","General Contact Email",module,Magento_Email
+"Sales Representative Contact Name","Sales Representative Contact Name",module,Magento_Email
+"Sales Representative Contact Email","Sales Representative Contact Email",module,Magento_Email
+"Custom1 Contact Name","Custom1 Contact Name",module,Magento_Email
+"Custom1 Contact Email","Custom1 Contact Email",module,Magento_Email
+"Custom2 Contact Name","Custom2 Contact Name",module,Magento_Email
+"Custom2 Contact Email","Custom2 Contact Email",module,Magento_Email
+"Store Name","Store Name",module,Magento_Email
+"Store Phone Number","Store Phone Number",module,Magento_Email
+"Store Hours","Store Hours",module,Magento_Email
+Country,Country,module,Magento_Email
+Region/State,Region/State,module,Magento_Email
+"Zip/Postal Code","Zip/Postal Code",module,Magento_Email
+City,City,module,Magento_Email
+"Street Address 1","Street Address 1",module,Magento_Email
+"Street Address 2","Street Address 2",module,Magento_Email
+"Store Contact Information","Store Contact Information",module,Magento_Email
+%1,%1,module,Magento_Email
+"Template Variables","Template Variables",module,Magento_Email
+"Please enter a template name.","Please enter a template name.",module,Magento_Email
+"Duplicate Of Template Name","Duplicate Of Template Name",module,Magento_Email
+"Invalid transactional email code: %1","Invalid transactional email code: %1",module,Magento_Email
+"Requested invalid store ""%1""","Requested invalid store ""%1""",module,Magento_Email
+"""file"" parameter must be specified","""file"" parameter must be specified",module,Magento_Email
+"Contents of %s could not be loaded or is empty","Contents of %s could not be loaded or is empty",module,Magento_Email
+"""file"" parameter must be specified and must not be empty","""file"" parameter must be specified and must not be empty",module,Magento_Email
+"Design params must be set before calling this method","Design params must be set before calling this method",module,Magento_Email
+"<pre> %1 </pre>","<pre> %1 </pre>",module,Magento_Email
+"CSS inlining error:","CSS inlining error:",module,Magento_Email
+"Error filtering template: %s","Error filtering template: %s",module,Magento_Email
+"We're sorry, an error has occurred while generating this email.","We're sorry, an error has occurred while generating this email.",module,Magento_Email
+"Invalid sender data","Invalid sender data",module,Magento_Email
+Title,Title,module,Magento_Email
+"Load default template","Load default template",module,Magento_Email
+Template,Template,module,Magento_Email
+"Are you sure you want to strip tags?","Are you sure you want to strip tags?",module,Magento_Email
+"Are you sure you want to delete this template?","Are you sure you want to delete this template?",module,Magento_Email
+"The template did not load. Please review the log for details.","The template did not load. Please review the log for details.",module,Magento_Email
+"Thank you, %store_name","Thank you, %store_name",module,Magento_Email
+Emails,Emails,module,Magento_Email
+"Logo Image","Logo Image",module,Magento_Email
+"Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in width/height fields below.","Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in width/height fields below.",module,Magento_Email
+"Logo Image Alt","Logo Image Alt",module,Magento_Email
+"Logo Width","Logo Width",module,Magento_Email
+"Only necessary if image has been uploaded above. Enter number of pixels, without appending ""px"".","Only necessary if image has been uploaded above. Enter number of pixels, without appending ""px"".",module,Magento_Email
+"Logo Height","Logo Height",module,Magento_Email
+"Header Template","Header Template",module,Magento_Email
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Email
+"Footer Template","Footer Template",module,Magento_Email
+"No Templates Found","No Templates Found",module,Magento_Email
+ID,ID,module,Magento_Email
+Added,Added,module,Magento_Email
+Updated,Updated,module,Magento_Email
+Subject,Subject,module,Magento_Email
+"Template Type","Template Type",module,Magento_Email
+Action,Action,module,Magento_Email

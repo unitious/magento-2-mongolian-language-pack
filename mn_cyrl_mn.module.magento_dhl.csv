@@ -1,0 +1,80 @@
+"Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds %1 %2.","Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds %1 %2.",module,Magento_Dhl
+"Wrong Content Type","Wrong Content Type",module,Magento_Dhl
+Pounds,Pounds,module,Magento_Dhl
+Kilograms,Kilograms,module,Magento_Dhl
+Inches,Inches,module,Magento_Dhl
+Centimeters,Centimeters,module,Magento_Dhl
+inch,inch,module,Magento_Dhl
+cm,cm,module,Magento_Dhl
+Height,Height,module,Magento_Dhl
+Depth,Depth,module,Magento_Dhl
+Width,Width,module,Magento_Dhl
+Regular,Regular,module,Magento_Dhl
+Specific,Specific,module,Magento_Dhl
+"Easy shop","Easy shop",module,Magento_Dhl
+Sprintline,Sprintline,module,Magento_Dhl
+Secureline,Secureline,module,Magento_Dhl
+"Express easy","Express easy",module,Magento_Dhl
+Europack,Europack,module,Magento_Dhl
+"Break bulk express","Break bulk express",module,Magento_Dhl
+"Medical express","Medical express",module,Magento_Dhl
+"Express worldwide","Express worldwide",module,Magento_Dhl
+"Express 9:00","Express 9:00",module,Magento_Dhl
+"Express 10:30","Express 10:30",module,Magento_Dhl
+"Domestic economy select","Domestic economy select",module,Magento_Dhl
+"Economy select","Economy select",module,Magento_Dhl
+"Break bulk economy","Break bulk economy",module,Magento_Dhl
+"Domestic express","Domestic express",module,Magento_Dhl
+Others,Others,module,Magento_Dhl
+"Globalmail business","Globalmail business",module,Magento_Dhl
+"Same day","Same day",module,Magento_Dhl
+"Express 12:00","Express 12:00",module,Magento_Dhl
+"Express envelope","Express envelope",module,Magento_Dhl
+"Customer services","Customer services",module,Magento_Dhl
+Jetline,Jetline,module,Magento_Dhl
+"Freight worldwide","Freight worldwide",module,Magento_Dhl
+"Jumbo box","Jumbo box",module,Magento_Dhl
+"DHL service is not available at %s date","DHL service is not available at %s date",module,Magento_Dhl
+"The response is in wrong format.","The response is in wrong format.",module,Magento_Dhl
+"Error #%1 : %2","Error #%1 : %2",module,Magento_Dhl
+"We had to skip DHL method %1 because we couldn\'t find exchange rate %2 (Base Currency).","We had to skip DHL method %1 because we couldn\'t find exchange rate %2 (Base Currency).",module,Magento_Dhl
+"Zero shipping charge for '%1'","Zero shipping charge for '%1'",module,Magento_Dhl
+DHL,DHL,module,Magento_Dhl
+"Cannot identify measure unit for %1","Cannot identify measure unit for %1",module,Magento_Dhl
+"Cannot identify weight unit for %1","Cannot identify weight unit for %1",module,Magento_Dhl
+"There is no items in this order","There is no items in this order",module,Magento_Dhl
+"Please, specify origin country","Please, specify origin country",module,Magento_Dhl
+Documents,Documents,module,Magento_Dhl
+"Non Documents","Non Documents",module,Magento_Dhl
+"Height, width and length should be equal or greater than %1","Height, width and length should be equal or greater than %1",module,Magento_Dhl
+"Wrong Region","Wrong Region",module,Magento_Dhl
+"Unable to retrieve tracking","Unable to retrieve tracking",module,Magento_Dhl
+"Response is in the wrong format","Response is in the wrong format",module,Magento_Dhl
+"No packages for request","No packages for request",module,Magento_Dhl
+"Unable to retrieve shipping label","Unable to retrieve shipping label",module,Magento_Dhl
+"Non documents","Non documents",module,Magento_Dhl
+None,None,module,Magento_Dhl
+"Enabled for Checkout","Enabled for Checkout",module,Magento_Dhl
+"Gateway URL","Gateway URL",module,Magento_Dhl
+Title,Title,module,Magento_Dhl
+"Access ID","Access ID",module,Magento_Dhl
+Password,Password,module,Magento_Dhl
+"Account Number","Account Number",module,Magento_Dhl
+"Content Type","Content Type",module,Magento_Dhl
+"Calculate Handling Fee","Calculate Handling Fee",module,Magento_Dhl
+"Handling Applied","Handling Applied",module,Magento_Dhl
+"""Per Order"" allows a single handling fee for the entire order. ""Per Package"" allows an individual handling fee for each package.","""Per Order"" allows a single handling fee for the entire order. ""Per Package"" allows an individual handling fee for each package.",module,Magento_Dhl
+"Handling Fee","Handling Fee",module,Magento_Dhl
+"Divide Order Weight","Divide Order Weight",module,Magento_Dhl
+"Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg.","Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg.",module,Magento_Dhl
+"Weight Unit","Weight Unit",module,Magento_Dhl
+Size,Size,module,Magento_Dhl
+"Allowed Methods","Allowed Methods",module,Magento_Dhl
+"Displayed Error Message","Displayed Error Message",module,Magento_Dhl
+"Free Method","Free Method",module,Magento_Dhl
+"Free Shipping Amount Threshold","Free Shipping Amount Threshold",module,Magento_Dhl
+"Ship to Applicable Countries","Ship to Applicable Countries",module,Magento_Dhl
+"Ship to Specific Countries","Ship to Specific Countries",module,Magento_Dhl
+"Show Method if Not Applicable","Show Method if Not Applicable",module,Magento_Dhl
+"Sort Order","Sort Order",module,Magento_Dhl
+Debug,Debug,module,Magento_Dhl

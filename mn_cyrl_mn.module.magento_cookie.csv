@@ -1,0 +1,13 @@
+"Invalid domain name: %1","Invalid domain name: %1",module,Magento_Cookie
+"Invalid cookie lifetime: %1","Invalid cookie lifetime: %1",module,Magento_Cookie
+"Invalid cookie path","Invalid cookie path",module,Magento_Cookie
+"We use cookies to make your experience better.","We use cookies to make your experience better.",module,Magento_Cookie
+"To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.",module,Magento_Cookie
+"<a href=""%1"">Learn more</a>.","<a href=""%1"">Learn more</a>.",module,Magento_Cookie
+"Allow Cookies","Allow Cookies",module,Magento_Cookie
+"Default Cookie Settings","Default Cookie Settings",module,Magento_Cookie
+"Cookie Lifetime","Cookie Lifetime",module,Magento_Cookie
+"Cookie Path","Cookie Path",module,Magento_Cookie
+"Cookie Domain","Cookie Domain",module,Magento_Cookie
+"Use HTTP Only","Use HTTP Only",module,Magento_Cookie
+"Cookie Restriction Mode","Cookie Restriction Mode",module,Magento_Cookie

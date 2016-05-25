@@ -1,0 +1,88 @@
+"Change Billing Address","Change Billing Address",module,Magento_Multishipping
+"Ship to Multiple Addresses","Ship to Multiple Addresses",module,Magento_Multishipping
+"Billing Information - %1","Billing Information - %1",module,Magento_Multishipping
+"Review Order - %1","Review Order - %1",module,Magento_Multishipping
+Total,Total,module,Magento_Multishipping
+"Total for this address","Total for this address",module,Magento_Multishipping
+"Shipping Methods","Shipping Methods",module,Magento_Multishipping
+"Edit Address","Edit Address",module,Magento_Multishipping
+"Edit Billing Address","Edit Billing Address",module,Magento_Multishipping
+"Edit Shipping Address","Edit Shipping Address",module,Magento_Multishipping
+"Create Billing Address","Create Billing Address",module,Magento_Multishipping
+"Create Shipping Address","Create Shipping Address",module,Magento_Multishipping
+"Data saving problem","Data saving problem",module,Magento_Multishipping
+"We cannot open the overview page.","We cannot open the overview page.",module,Magento_Multishipping
+"Please agree to all Terms and Conditions before placing the order.","Please agree to all Terms and Conditions before placing the order.",module,Magento_Multishipping
+"Order place error","Order place error",module,Magento_Multishipping
+"Maximum qty allowed for Shipping to multiple addresses is %1","Maximum qty allowed for Shipping to multiple addresses is %1",module,Magento_Multishipping
+"Please check shipping address information.","Please check shipping address information.",module,Magento_Multishipping
+"Please check billing address information.","Please check billing address information.",module,Magento_Multishipping
+"Please select shipping methods for all addresses.","Please select shipping methods for all addresses.",module,Magento_Multishipping
+"A payment method is not defined.","A payment method is not defined.",module,Magento_Multishipping
+"The requested payment method is not available for multishipping.","The requested payment method is not available for multishipping.",module,Magento_Multishipping
+"Item not found or already ordered","Item not found or already ordered",module,Magento_Multishipping
+"Please specify a payment method.","Please specify a payment method.",module,Magento_Multishipping
+"Please check shipping addresses information.","Please check shipping addresses information.",module,Magento_Multishipping
+"Please specify shipping methods for all addresses.","Please specify shipping methods for all addresses.",module,Magento_Multishipping
+"Select Addresses","Select Addresses",module,Magento_Multishipping
+"Shipping Information","Shipping Information",module,Magento_Multishipping
+"Billing Information","Billing Information",module,Magento_Multishipping
+"Place Order","Place Order",module,Magento_Multishipping
+"Order Success","Order Success",module,Magento_Multishipping
+"Default Billing","Default Billing",module,Magento_Multishipping
+"Default Shipping","Default Shipping",module,Magento_Multishipping
+"Select Address","Select Address",module,Magento_Multishipping
+"Add New Address","Add New Address",module,Magento_Multishipping
+"Back to Billing Information","Back to Billing Information",module,Magento_Multishipping
+"Please select a shipping address for applicable items.","Please select a shipping address for applicable items.",module,Magento_Multishipping
+Product,Product,module,Magento_Multishipping
+Qty,Qty,module,Magento_Multishipping
+"Send To","Send To",module,Magento_Multishipping
+"A shipping selection is not applicable.","A shipping selection is not applicable.",module,Magento_Multishipping
+Actions,Actions,module,Magento_Multishipping
+"Remove Item","Remove Item",module,Magento_Multishipping
+"Remove item","Remove item",module,Magento_Multishipping
+"Go to Shipping Information","Go to Shipping Information",module,Magento_Multishipping
+"Update Qty &amp; Addresses","Update Qty &amp; Addresses",module,Magento_Multishipping
+"Enter a New Address","Enter a New Address",module,Magento_Multishipping
+"Back to Shopping Cart","Back to Shopping Cart",module,Magento_Multishipping
+"Billing Address","Billing Address",module,Magento_Multishipping
+Change,Change,module,Magento_Multishipping
+"Payment Method","Payment Method",module,Magento_Multishipping
+"Go to Review Your Order","Go to Review Your Order",module,Magento_Multishipping
+"Back to Shipping Information","Back to Shipping Information",module,Magento_Multishipping
+"Other items in your order","Other items in your order",module,Magento_Multishipping
+"Edit Items","Edit Items",module,Magento_Multishipping
+"Shipping is not applicable.","Shipping is not applicable.",module,Magento_Multishipping
+"Product Name","Product Name",module,Magento_Multishipping
+"Check Out with Multiple Addresses","Check Out with Multiple Addresses",module,Magento_Multishipping
+"Address %1 <span>of %2</span>","Address %1 <span>of %2</span>",module,Magento_Multishipping
+"Shipping To","Shipping To",module,Magento_Multishipping
+"Shipping Method","Shipping Method",module,Magento_Multishipping
+"Incl. Tax","Incl. Tax",module,Magento_Multishipping
+"Excl. Tax","Excl. Tax",module,Magento_Multishipping
+"Order Review","Order Review",module,Magento_Multishipping
+Item,Item,module,Magento_Multishipping
+Edit,Edit,module,Magento_Multishipping
+Price,Price,module,Magento_Multishipping
+Subtotal,Subtotal,module,Magento_Multishipping
+Items,Items,module,Magento_Multishipping
+"Grand Total:","Grand Total:",module,Magento_Multishipping
+"Submitting order information...","Submitting order information...",module,Magento_Multishipping
+"Sorry, no quotes are available for this order right now.","Sorry, no quotes are available for this order right now.",module,Magento_Multishipping
+"Continue to Billing Information","Continue to Billing Information",module,Magento_Multishipping
+"Back to Select Addresses","Back to Select Addresses",module,Magento_Multishipping
+"Thank you for your purchase!","Thank you for your purchase!",module,Magento_Multishipping
+"Thanks for your order. We\'ll email you order details and tracking information.","Thanks for your order. We\'ll email you order details and tracking information.",module,Magento_Multishipping
+"Your order numbers are: ","Your order numbers are: ",module,Magento_Multishipping
+"Your order number is: ","Your order number is: ",module,Magento_Multishipping
+"Continue Shopping","Continue Shopping",module,Magento_Multishipping
+"We can\'t complete your order because you don\'t have a payment method set up.","We can\'t complete your order because you don\'t have a payment method set up.",module,Magento_Multishipping
+"Please choose a payment method.","Please choose a payment method.",module,Magento_Multishipping
+"Multishipping Settings","Multishipping Settings",module,Magento_Multishipping
+Options,Options,module,Magento_Multishipping
+"Allow Shipping to Multiple Addresses","Allow Shipping to Multiple Addresses",module,Magento_Multishipping
+"Maximum Qty Allowed for Shipping to Multiple Addresses","Maximum Qty Allowed for Shipping to Multiple Addresses",module,Magento_Multishipping
+"Review Order","Review Order",module,Magento_Multishipping
+"Select Shipping Method","Select Shipping Method",module,Magento_Multishipping
+"We received your order!","We received your order!",module,Magento_Multishipping

@@ -1,0 +1,4 @@
+"Please enter a value less than or equal to %s.","Please enter a value less than or equal to %s.",lib,lib/web/mage/validation.js
+"Please enter a value greater than or equal to %s.","Please enter a value greater than or equal to %s.",lib,lib/web/mage/validation.js
+"Maximum length of this field must be equal or less than %1 symbols.","Maximum length of this field must be equal or less than %1 symbols.",lib,lib/web/mage/validation.js
+"This is a required field.","This is a required field.",lib,lib/web/mage/validation.js

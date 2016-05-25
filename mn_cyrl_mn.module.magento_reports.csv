@@ -1,0 +1,214 @@
+"New Accounts","New Accounts",module,Magento_Reports
+"Customers by number of orders","Customers by number of orders",module,Magento_Reports
+"Customers by Orders Total","Customers by Orders Total",module,Magento_Reports
+Filter,Filter,module,Magento_Reports
+"Date Used","Date Used",module,Magento_Reports
+Day,Day,module,Magento_Reports
+Month,Month,module,Magento_Reports
+Year,Year,module,Magento_Reports
+Period,Period,module,Magento_Reports
+From,From,module,Magento_Reports
+To,To,module,Magento_Reports
+Yes,Yes,module,Magento_Reports
+No,No,module,Magento_Reports
+"Empty Rows","Empty Rows",module,Magento_Reports
+"Invalid date specified","Invalid date specified",module,Magento_Reports
+Refresh,Refresh,module,Magento_Reports
+"We can\'t find records for this period.","We can\'t find records for this period.",module,Magento_Reports
+"Show Reviews","Show Reviews",module,Magento_Reports
+"Products Report","Products Report",module,Magento_Reports
+Downloads,Downloads,module,Magento_Reports
+Product,Product,module,Magento_Reports
+Link,Link,module,Magento_Reports
+SKU,SKU,module,Magento_Reports
+Purchases,Purchases,module,Magento_Reports
+CSV,CSV,module,Magento_Reports
+"Excel XML","Excel XML",module,Magento_Reports
+Unlimited,Unlimited,module,Magento_Reports
+"Low stock","Low stock",module,Magento_Reports
+"Products Ordered","Products Ordered",module,Magento_Reports
+"Most Viewed","Most Viewed",module,Magento_Reports
+"Show Report","Show Report",module,Magento_Reports
+Interval,Interval,module,Magento_Reports
+Total,Total,module,Magento_Reports
+Price,Price,module,Magento_Reports
+Views,Views,module,Magento_Reports
+"Refresh Statistics","Refresh Statistics",module,Magento_Reports
+"Customers Reviews","Customers Reviews",module,Magento_Reports
+"Reviews for %1","Reviews for %1",module,Magento_Reports
+Customer,Customer,module,Magento_Reports
+Title,Title,module,Magento_Reports
+Detail,Detail,module,Magento_Reports
+Created,Created,module,Magento_Reports
+"Products Reviews","Products Reviews",module,Magento_Reports
+"Products Bestsellers Report","Products Bestsellers Report",module,Magento_Reports
+"Order Quantity","Order Quantity",module,Magento_Reports
+"Coupons Usage Report","Coupons Usage Report",module,Magento_Reports
+Subtotal,Subtotal,module,Magento_Reports
+"Coupon Code","Coupon Code",module,Magento_Reports
+"Price Rule","Price Rule",module,Magento_Reports
+Uses,Uses,module,Magento_Reports
+"Sales Subtotal","Sales Subtotal",module,Magento_Reports
+"Sales Discount","Sales Discount",module,Magento_Reports
+"Sales Total","Sales Total",module,Magento_Reports
+Discount,Discount,module,Magento_Reports
+"Total Invoiced vs. Paid Report","Total Invoiced vs. Paid Report",module,Magento_Reports
+Orders,Orders,module,Magento_Reports
+"Invoiced Orders","Invoiced Orders",module,Magento_Reports
+"Total Invoiced","Total Invoiced",module,Magento_Reports
+"Paid Invoices","Paid Invoices",module,Magento_Reports
+"Unpaid Invoices","Unpaid Invoices",module,Magento_Reports
+"Total Refunded Report","Total Refunded Report",module,Magento_Reports
+"Refunded Orders","Refunded Orders",module,Magento_Reports
+"Total Refunded","Total Refunded",module,Magento_Reports
+"Online Refunds","Online Refunds",module,Magento_Reports
+"Offline Refunds","Offline Refunds",module,Magento_Reports
+"Total Ordered Report","Total Ordered Report",module,Magento_Reports
+"Sales Items","Sales Items",module,Magento_Reports
+Items,Items,module,Magento_Reports
+Revenue,Revenue,module,Magento_Reports
+Profit,Profit,module,Magento_Reports
+Invoiced,Invoiced,module,Magento_Reports
+Paid,Paid,module,Magento_Reports
+Refunded,Refunded,module,Magento_Reports
+"Sales Tax","Sales Tax",module,Magento_Reports
+Tax,Tax,module,Magento_Reports
+"Sales Shipping","Sales Shipping",module,Magento_Reports
+Shipping,Shipping,module,Magento_Reports
+Canceled,Canceled,module,Magento_Reports
+"Total Shipped Report","Total Shipped Report",module,Magento_Reports
+Carrier/Method,Carrier/Method,module,Magento_Reports
+"Total Sales Shipping","Total Sales Shipping",module,Magento_Reports
+"Total Shipping","Total Shipping",module,Magento_Reports
+"Order Taxes Report Grouped by Tax Rate","Order Taxes Report Grouped by Tax Rate",module,Magento_Reports
+Rate,Rate,module,Magento_Reports
+"Tax Amount","Tax Amount",module,Magento_Reports
+"Abandoned carts","Abandoned carts",module,Magento_Reports
+Email,Email,module,Magento_Reports
+Products,Products,module,Magento_Reports
+Quantity,Quantity,module,Magento_Reports
+"Applied Coupon","Applied Coupon",module,Magento_Reports
+Updated,Updated,module,Magento_Reports
+"IP Address","IP Address",module,Magento_Reports
+Customers,Customers,module,Magento_Reports
+ID,ID,module,Magento_Reports
+"First Name","First Name",module,Magento_Reports
+"Last Name","Last Name",module,Magento_Reports
+"Items in Cart","Items in Cart",module,Magento_Reports
+"Products in carts","Products in carts",module,Magento_Reports
+Carts,Carts,module,Magento_Reports
+Name,Name,module,Magento_Reports
+"Wish Lists","Wish Lists",module,Magento_Reports
+"Wish List Purchase","Wish List Purchase",module,Magento_Reports
+"Wish List vs. Regular Order","Wish List vs. Regular Order",module,Magento_Reports
+"Times Deleted","Times Deleted",module,Magento_Reports
+"Index type is not valid","Index type is not valid",module,Magento_Reports
+Reports,Reports,module,Magento_Reports
+"Last updated: %1. To refresh last day\'s <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.","Last updated: %1. To refresh last day\'s <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.",module,Magento_Reports
+"New Accounts Report","New Accounts Report",module,Magento_Reports
+"Customers by Number of Orders","Customers by Number of Orders",module,Magento_Reports
+"Order Count Report","Order Count Report",module,Magento_Reports
+"Order Total Report","Order Total Report",module,Magento_Reports
+"Downloads Report","Downloads Report",module,Magento_Reports
+"Low Stock","Low Stock",module,Magento_Reports
+"Low Stock Report","Low Stock Report",module,Magento_Reports
+"Ordered Products Report","Ordered Products Report",module,Magento_Reports
+"Products Most Viewed Report","Products Most Viewed Report",module,Magento_Reports
+"Product Views Report","Product Views Report",module,Magento_Reports
+"An error occurred while showing the product views report. Please review the log and try again.","An error occurred while showing the product views report. Please review the log and try again.",module,Magento_Reports
+Review,Review,module,Magento_Reports
+Reviews,Reviews,module,Magento_Reports
+"Customers Report","Customers Report",module,Magento_Reports
+"Customer Reviews Report","Customer Reviews Report",module,Magento_Reports
+"Product Reviews Report","Product Reviews Report",module,Magento_Reports
+"Product Reviews","Product Reviews",module,Magento_Reports
+Details,Details,module,Magento_Reports
+Sales,Sales,module,Magento_Reports
+"Best Sellers Report","Best Sellers Report",module,Magento_Reports
+Coupons,Coupons,module,Magento_Reports
+"Coupons Report","Coupons Report",module,Magento_Reports
+"Invoice Report","Invoice Report",module,Magento_Reports
+"Refunds Report","Refunds Report",module,Magento_Reports
+"Sales Report","Sales Report",module,Magento_Reports
+"Shipping Report","Shipping Report",module,Magento_Reports
+"Tax Report","Tax Report",module,Magento_Reports
+"Shopping Cart","Shopping Cart",module,Magento_Reports
+"Abandoned Carts","Abandoned Carts",module,Magento_Reports
+"Customer Shopping Carts","Customer Shopping Carts",module,Magento_Reports
+"Products in Carts","Products in Carts",module,Magento_Reports
+Statistics,Statistics,module,Magento_Reports
+"No report code is specified.","No report code is specified.",module,Magento_Reports
+"You refreshed lifetime statistics.","You refreshed lifetime statistics.",module,Magento_Reports
+"We can\'t refresh lifetime statistics.","We can\'t refresh lifetime statistics.",module,Magento_Reports
+"Recent statistics have been updated.","Recent statistics have been updated.",module,Magento_Reports
+"We can\'t refresh recent statistics.","We can\'t refresh recent statistics.",module,Magento_Reports
+"The product type filter specified is incorrect.","The product type filter specified is incorrect.",module,Magento_Reports
+"Order Taxes Report Grouped by Tax Rates","Order Taxes Report Grouped by Tax Rates",module,Magento_Reports
+"Total Invoiced VS Paid Report","Total Invoiced VS Paid Report",module,Magento_Reports
+"Promotion Coupons Usage Report","Promotion Coupons Usage Report",module,Magento_Reports
+Bestsellers,Bestsellers,module,Magento_Reports
+"Most Viewed Products Report","Most Viewed Products Report",module,Magento_Reports
+"An error occurred while showing the product views report. Please review the log and try again.","An error occurred while showing the product views report. Please review the log and try again.",module,Magento_Reports
+Error,Error,module,Magento_Reports
+"Show By","Show By",module,Magento_Reports
+"Select Date","Select Date",module,Magento_Reports
+"Customers that have Wish List: %1","Customers that have Wish List: %1",module,Magento_Reports
+"Number of Wish Lists: %1","Number of Wish Lists: %1",module,Magento_Reports
+"Number of items bought from a Wish List: %1","Number of items bought from a Wish List: %1",module,Magento_Reports
+"Number of times Wish Lists have been shared (emailed): %1","Number of times Wish Lists have been shared (emailed): %1",module,Magento_Reports
+"Number of Wish List referrals: %1","Number of Wish List referrals: %1",module,Magento_Reports
+"Number of Wish List conversions: %1","Number of Wish List conversions: %1",module,Magento_Reports
+"Show Report For:","Show Report For:",module,Magento_Reports
+"All Websites","All Websites",module,Magento_Reports
+"Recently Viewed","Recently Viewed",module,Magento_Reports
+"Add to Cart","Add to Cart",module,Magento_Reports
+"In stock","In stock",module,Magento_Reports
+"Out of stock","Out of stock",module,Magento_Reports
+"Add to Wish List","Add to Wish List",module,Magento_Reports
+"Add to Compare","Add to Compare",module,Magento_Reports
+"Recently Compared","Recently Compared",module,Magento_Reports
+"Learn More","Learn More",module,Magento_Reports
+"Recently Viewed/Compared Products","Recently Viewed/Compared Products",module,Magento_Reports
+"Show for Current","Show for Current",module,Magento_Reports
+"Default Recently Viewed Products Count","Default Recently Viewed Products Count",module,Magento_Reports
+"Default Recently Compared Products Count","Default Recently Compared Products Count",module,Magento_Reports
+Dashboard,Dashboard,module,Magento_Reports
+"Year-To-Date Starts","Year-To-Date Starts",module,Magento_Reports
+"Current Month Starts","Current Month Starts",module,Magento_Reports
+"Select day of the month.","Select day of the month.",module,Magento_Reports
+"Recently Viewed Products","Recently Viewed Products",module,Magento_Reports
+"List of Products Recently Viewed by Visitor","List of Products Recently Viewed by Visitor",module,Magento_Reports
+"Number of Products to display","Number of Products to display",module,Magento_Reports
+"Viewed Products Grid Template","Viewed Products Grid Template",module,Magento_Reports
+"Viewed Products List Template","Viewed Products List Template",module,Magento_Reports
+"Viewed Products Images and Names Template","Viewed Products Images and Names Template",module,Magento_Reports
+"Viewed Products Names Only Template","Viewed Products Names Only Template",module,Magento_Reports
+"Viewed Products Images Only Template","Viewed Products Images Only Template",module,Magento_Reports
+"Recently Compared Products","Recently Compared Products",module,Magento_Reports
+"List of Products Recently Compared and Removed from the Compare List by Visitor","List of Products Recently Compared and Removed from the Compare List by Visitor",module,Magento_Reports
+"Compared Products Grid Template","Compared Products Grid Template",module,Magento_Reports
+"Compared Products List Template","Compared Products List Template",module,Magento_Reports
+"Compared Products Images and Names Template","Compared Products Images and Names Template",module,Magento_Reports
+"Compared Product Names Only Template","Compared Product Names Only Template",module,Magento_Reports
+"Compared Product Images Only Template","Compared Product Images Only Template",module,Magento_Reports
+Average,Average,module,Magento_Reports
+"Stock Quantity","Stock Quantity",module,Magento_Reports
+"Ordered Quantity","Ordered Quantity",module,Magento_Reports
+"For accurate reporting, be sure to refresh lifetime statistics whenever you change the time zone.","For accurate reporting, be sure to refresh lifetime statistics whenever you change the time zone.",module,Magento_Reports
+Guest,Guest,module,Magento_Reports
+Action,Action,module,Magento_Reports
+"Average (Approved)","Average (Approved)",module,Magento_Reports
+"Last Review","Last Review",module,Magento_Reports
+"Order Created","Order Created",module,Magento_Reports
+"Order Updated","Order Updated",module,Magento_Reports
+"The Order Updated report is created in real time and does not require a refresh.","The Order Updated report is created in real time and does not require a refresh.",module,Magento_Reports
+"Last Invoice Created Date","Last Invoice Created Date",module,Magento_Reports
+"Last Credit Memo Created Date","Last Credit Memo Created Date",module,Magento_Reports
+"First Invoice Created Date","First Invoice Created Date",module,Magento_Reports
+"Refresh Lifetime Statistics","Refresh Lifetime Statistics",module,Magento_Reports
+"Are you sure you want to refresh lifetime statistics right now? This operation may slow down your customers' shopping experience.","Are you sure you want to refresh lifetime statistics right now? This operation may slow down your customers' shopping experience.",module,Magento_Reports
+"Refresh Statistics for the Last Day","Refresh Statistics for the Last Day",module,Magento_Reports
+"Are you sure you want to refresh statistics for the last day?","Are you sure you want to refresh statistics for the last day?",module,Magento_Reports
+Report,Report,module,Magento_Reports
+Description,Description,module,Magento_Reports
+undefined,undefined,module,Magento_Reports

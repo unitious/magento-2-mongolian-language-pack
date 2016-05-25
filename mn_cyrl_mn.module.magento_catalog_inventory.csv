@@ -1,0 +1,61 @@
+"ALL GROUPS","ALL GROUPS",module,Magento_CatalogInventory
+"Customer Group","Customer Group",module,Magento_CatalogInventory
+"Minimum Qty","Minimum Qty",module,Magento_CatalogInventory
+"Add Minimum Qty","Add Minimum Qty",module,Magento_CatalogInventory
+"We can\'t rebuild the index for an undefined product.","We can\'t rebuild the index for an undefined product.",module,Magento_CatalogInventory
+"Could not rebuild index for empty products array","Could not rebuild index for empty products array",module,Magento_CatalogInventory
+"The stock item for Product is not valid.","The stock item for Product is not valid.",module,Magento_CatalogInventory
+"This product is out of stock.","This product is out of stock.",module,Magento_CatalogInventory
+"Some of the products are out of stock.","Some of the products are out of stock.",module,Magento_CatalogInventory
+"The stock item for Product in option is not valid.","The stock item for Product in option is not valid.",module,Magento_CatalogInventory
+"Undefined product type","Undefined product type",module,Magento_CatalogInventory
+"%1 is not a correct comparison method.","%1 is not a correct comparison method.",module,Magento_CatalogInventory
+"No Backorders","No Backorders",module,Magento_CatalogInventory
+"Allow Qty Below 0","Allow Qty Below 0",module,Magento_CatalogInventory
+"Allow Qty Below 0 and Notify Customer","Allow Qty Below 0 and Notify Customer",module,Magento_CatalogInventory
+"In Stock","In Stock",module,Magento_CatalogInventory
+"Out of Stock","Out of Stock",module,Magento_CatalogInventory
+"Stock Item with id ""%1"" does not exist.","Stock Item with id ""%1"" does not exist.",module,Magento_CatalogInventory
+"Stock with id ""%1"" does not exist.","Stock with id ""%1"" does not exist.",module,Magento_CatalogInventory
+"Not all of your products are available in the requested quantity.","Not all of your products are available in the requested quantity.",module,Magento_CatalogInventory
+"Product with SKU ""%1"" does not exist","Product with SKU ""%1"" does not exist",module,Magento_CatalogInventory
+"The fewest you may purchase is %1.","The fewest you may purchase is %1.",module,Magento_CatalogInventory
+"Please correct the quantity for some products.","Please correct the quantity for some products.",module,Magento_CatalogInventory
+"The most you may purchase is %1.","The most you may purchase is %1.",module,Magento_CatalogInventory
+"We don\'t have as many ""%1"" as you requested.","We don\'t have as many ""%1"" as you requested.",module,Magento_CatalogInventory
+"We don\'t have as many ""%1"" as you requested, but we\'ll back order the remaining %2.","We don\'t have as many ""%1"" as you requested, but we\'ll back order the remaining %2.",module,Magento_CatalogInventory
+"We don\'t have ""%1"" in the requested quantity, so we\'ll back order the remaining %2.","We don\'t have ""%1"" in the requested quantity, so we\'ll back order the remaining %2.",module,Magento_CatalogInventory
+"You can buy %1 only in quantities of %2 at a time.","You can buy %1 only in quantities of %2 at a time.",module,Magento_CatalogInventory
+"You can buy this product only in quantities of %1 at a time.","You can buy this product only in quantities of %1 at a time.",module,Magento_CatalogInventory
+"Decimal qty increments is not allowed.","Decimal qty increments is not allowed.",module,Magento_CatalogInventory
+"%1 is available to buy in increments of %2","%1 is available to buy in increments of %2",module,Magento_CatalogInventory
+"Only %1 left","Only %1 left",module,Magento_CatalogInventory
+"Product availability","Product availability",module,Magento_CatalogInventory
+"Product Name","Product Name",module,Magento_CatalogInventory
+Qty,Qty,module,Magento_CatalogInventory
+Inventory,Inventory,module,Magento_CatalogInventory
+"Stock Options","Stock Options",module,Magento_CatalogInventory
+"Decrease Stock When Order is Placed","Decrease Stock When Order is Placed",module,Magento_CatalogInventory
+"Set Items' Status to be In Stock When Order is Cancelled","Set Items' Status to be In Stock When Order is Cancelled",module,Magento_CatalogInventory
+"Display Out of Stock Products","Display Out of Stock Products",module,Magento_CatalogInventory
+"Products will still be shown by direct product URLs.","Products will still be shown by direct product URLs.",module,Magento_CatalogInventory
+"Only X left Threshold","Only X left Threshold",module,Magento_CatalogInventory
+"Display products availability in stock on Storefront.","Display products availability in stock on Storefront.",module,Magento_CatalogInventory
+"Product Stock Options","Product Stock Options",module,Magento_CatalogInventory
+"
+                    Please note that these settings apply to individual items in the cart, not to the entire cart.
+                ","
+                    Please note that these settings apply to individual items in the cart, not to the entire cart.
+                ",module,Magento_CatalogInventory
+"Manage Stock","Manage Stock",module,Magento_CatalogInventory
+Backorders,Backorders,module,Magento_CatalogInventory
+"Maximum Qty Allowed in Shopping Cart","Maximum Qty Allowed in Shopping Cart",module,Magento_CatalogInventory
+"Out-of-Stock Threshold","Out-of-Stock Threshold",module,Magento_CatalogInventory
+"Minimum Qty Allowed in Shopping Cart","Minimum Qty Allowed in Shopping Cart",module,Magento_CatalogInventory
+"Notify for Quantity Below","Notify for Quantity Below",module,Magento_CatalogInventory
+"Automatically Return Credit Memo Item to Stock","Automatically Return Credit Memo Item to Stock",module,Magento_CatalogInventory
+"Enable Qty Increments","Enable Qty Increments",module,Magento_CatalogInventory
+"Qty Increments","Qty Increments",module,Magento_CatalogInventory
+Stock,Stock,module,Magento_CatalogInventory
+"Index stock","Index stock",module,Magento_CatalogInventory
+Quantity,Quantity,module,Magento_CatalogInventory

@@ -1,0 +1,78 @@
+"System Backup","System Backup",module,Magento_Backup
+"Database and Media Backup","Database and Media Backup",module,Magento_Backup
+"Database Backup","Database Backup",module,Magento_Backup
+"The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.",module,Magento_Backup
+"You need more permissions to activate maintenance mode right now.","You need more permissions to activate maintenance mode right now.",module,Magento_Backup
+"To create the backup, please deselect ""Put store into maintenance mode"" or update your permissions.","To create the backup, please deselect ""Put store into maintenance mode"" or update your permissions.",module,Magento_Backup
+"Something went wrong while putting your store into maintenance mode.","Something went wrong while putting your store into maintenance mode.",module,Magento_Backup
+"You need more free space to create a backup.","You need more free space to create a backup.",module,Magento_Backup
+"You need more permissions to create a backup.","You need more permissions to create a backup.",module,Magento_Backup
+"We can\'t create the backup right now.","We can\'t create the backup right now.",module,Magento_Backup
+Backups,Backups,module,Magento_Backup
+System,System,module,Magento_Backup
+Tools,Tools,module,Magento_Backup
+Backup,Backup,module,Magento_Backup
+"We can\'t delete one or more backups.","We can\'t delete one or more backups.",module,Magento_Backup
+failed,failed,module,Magento_Backup
+successful,successful,module,Magento_Backup
+"You deleted the selected backup(s).","You deleted the selected backup(s).",module,Magento_Backup
+"Can\'t load snapshot archive","Can\'t load snapshot archive",module,Magento_Backup
+"Please correct the password.","Please correct the password.",module,Magento_Backup
+"To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.","To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.",module,Magento_Backup
+"We can\'t find the backup file.","We can\'t find the backup file.",module,Magento_Backup
+"We can\'t connect to the FTP right now.","We can\'t connect to the FTP right now.",module,Magento_Backup
+"Failed to validate FTP.","Failed to validate FTP.",module,Magento_Backup
+"You need more permissions to perform a rollback.","You need more permissions to perform a rollback.",module,Magento_Backup
+"Failed to rollback.","Failed to rollback.",module,Magento_Backup
+Database,Database,module,Magento_Backup
+"Database and Media","Database and Media",module,Magento_Backup
+"System (excluding Media)","System (excluding Media)",module,Magento_Backup
+"You created the system backup.","You created the system backup.",module,Magento_Backup
+"You created the system backup (excluding media).","You created the system backup (excluding media).",module,Magento_Backup
+"You created the database and media backup.","You created the database and media backup.",module,Magento_Backup
+"You created the database backup.","You created the database backup.",module,Magento_Backup
+"Please correct the order of creation for a new backup.","Please correct the order of creation for a new backup.",module,Magento_Backup
+"The backup file does not exist.","The backup file does not exist.",module,Magento_Backup
+"The backup file path was not specified.","The backup file path was not specified.",module,Magento_Backup
+"The backup file ""%1"" does not exist.","The backup file ""%1"" does not exist.",module,Magento_Backup
+"Sorry, but we cannot read from or write to backup file ""%1"".","Sorry, but we cannot read from or write to backup file ""%1"".",module,Magento_Backup
+"The backup file handler was unspecified.","The backup file handler was unspecified.",module,Magento_Backup
+"Something went wrong while writing to the backup file ""%1"".","Something went wrong while writing to the backup file ""%1"".",module,Magento_Backup
+"We can\'t save the Cron expression.","We can\'t save the Cron expression.",module,Magento_Backup
+"You will lose any data created since the backup was made, including admin users, customers and orders.","You will lose any data created since the backup was made, including admin users, customers and orders.",module,Magento_Backup
+"Are you sure you want to continue?","Are you sure you want to continue?",module,Magento_Backup
+"This may take a few moments.","This may take a few moments.",module,Magento_Backup
+"Be sure your store is in maintenance mode during backup.","Be sure your store is in maintenance mode during backup.",module,Magento_Backup
+"Backup Name","Backup Name",module,Magento_Backup
+"Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.","Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.",module,Magento_Backup
+"Maintenance mode","Maintenance mode",module,Magento_Backup
+"Please put your store into maintenance mode during backup.","Please put your store into maintenance mode during backup.",module,Magento_Backup
+Exclude,Exclude,module,Magento_Backup
+"Exclude media folder from backup","Exclude media folder from backup",module,Magento_Backup
+"Please enter the password to confirm rollback.","Please enter the password to confirm rollback.",module,Magento_Backup
+"This action cannot be undone.","This action cannot be undone.",module,Magento_Backup
+"User Password","User Password",module,Magento_Backup
+"Please put your store into maintenance mode during rollback processing.","Please put your store into maintenance mode during rollback processing.",module,Magento_Backup
+FTP,FTP,module,Magento_Backup
+"Use FTP Connection","Use FTP Connection",module,Magento_Backup
+"FTP credentials","FTP credentials",module,Magento_Backup
+"FTP Host","FTP Host",module,Magento_Backup
+"FTP Login","FTP Login",module,Magento_Backup
+"FTP Password","FTP Password",module,Magento_Backup
+"Magento root directory","Magento root directory",module,Magento_Backup
+"Create Backup","Create Backup",module,Magento_Backup
+"Scheduled Backup Settings","Scheduled Backup Settings",module,Magento_Backup
+"Enable Scheduled Backup","Enable Scheduled Backup",module,Magento_Backup
+"Backup Type","Backup Type",module,Magento_Backup
+"Start Time","Start Time",module,Magento_Backup
+Frequency,Frequency,module,Magento_Backup
+"Maintenance Mode","Maintenance Mode",module,Magento_Backup
+Delete,Delete,module,Magento_Backup
+"Are you sure you want to delete the selected backup(s)?","Are you sure you want to delete the selected backup(s)?",module,Magento_Backup
+Time,Time,module,Magento_Backup
+Name,Name,module,Magento_Backup
+Size(bytes),Size(bytes),module,Magento_Backup
+Type,Type,module,Magento_Backup
+Download,Download,module,Magento_Backup
+Action,Action,module,Magento_Backup
+Rollback,Rollback,module,Magento_Backup

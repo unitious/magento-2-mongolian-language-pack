@@ -1,0 +1,39 @@
+"Terms and Conditions","Terms and Conditions",module,Magento_CheckoutAgreements
+"Add New Condition","Add New Condition",module,Magento_CheckoutAgreements
+"Save Condition","Save Condition",module,Magento_CheckoutAgreements
+"Delete Condition","Delete Condition",module,Magento_CheckoutAgreements
+"Edit Terms and Conditions","Edit Terms and Conditions",module,Magento_CheckoutAgreements
+"New Terms and Conditions","New Terms and Conditions",module,Magento_CheckoutAgreements
+"Terms and Conditions Information","Terms and Conditions Information",module,Magento_CheckoutAgreements
+"Condition Name","Condition Name",module,Magento_CheckoutAgreements
+Status,Status,module,Magento_CheckoutAgreements
+Enabled,Enabled,module,Magento_CheckoutAgreements
+Disabled,Disabled,module,Magento_CheckoutAgreements
+"Show Content as","Show Content as",module,Magento_CheckoutAgreements
+Text,Text,module,Magento_CheckoutAgreements
+HTML,HTML,module,Magento_CheckoutAgreements
+Applied,Applied,module,Magento_CheckoutAgreements
+"Store View","Store View",module,Magento_CheckoutAgreements
+"Checkbox Text","Checkbox Text",module,Magento_CheckoutAgreements
+Content,Content,module,Magento_CheckoutAgreements
+"Content Height (css)","Content Height (css)",module,Magento_CheckoutAgreements
+"Content Height","Content Height",module,Magento_CheckoutAgreements
+ID,ID,module,Magento_CheckoutAgreements
+Condition,Condition,module,Magento_CheckoutAgreements
+Sales,Sales,module,Magento_CheckoutAgreements
+"Checkout Conditions","Checkout Conditions",module,Magento_CheckoutAgreements
+"Checkout Terms and Conditions","Checkout Terms and Conditions",module,Magento_CheckoutAgreements
+"This condition no longer exists.","This condition no longer exists.",module,Magento_CheckoutAgreements
+"You deleted the condition.","You deleted the condition.",module,Magento_CheckoutAgreements
+"Something went wrong  while deleting this condition.","Something went wrong  while deleting this condition.",module,Magento_CheckoutAgreements
+"Edit Condition","Edit Condition",module,Magento_CheckoutAgreements
+"New Condition","New Condition",module,Magento_CheckoutAgreements
+"You saved the condition.","You saved the condition.",module,Magento_CheckoutAgreements
+"Something went wrong while saving this condition.","Something went wrong while saving this condition.",module,Magento_CheckoutAgreements
+Automatically,Automatically,module,Magento_CheckoutAgreements
+Manually,Manually,module,Magento_CheckoutAgreements
+"Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order.",module,Magento_CheckoutAgreements
+"Unable to save checkout agreement %1","Unable to save checkout agreement %1",module,Magento_CheckoutAgreements
+"Unable to remove checkout agreement %1","Unable to remove checkout agreement %1",module,Magento_CheckoutAgreements
+"Checkout agreement with specified ID ""%1"" not found.","Checkout agreement with specified ID ""%1"" not found.",module,Magento_CheckoutAgreements
+"Enable Terms and Conditions","Enable Terms and Conditions",module,Magento_CheckoutAgreements

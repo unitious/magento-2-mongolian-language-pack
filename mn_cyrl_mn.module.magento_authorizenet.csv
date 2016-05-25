@@ -1,0 +1,65 @@
+"You created the order.","You created the order.",module,Magento_Authorizenet
+"Order saving error: %1","Order saving error: %1",module,Magento_Authorizenet
+"Please choose a payment method.","Please choose a payment method.",module,Magento_Authorizenet
+"We can\'t process your order right now. Please try again later.","We can\'t process your order right now. Please try again later.",module,Magento_Authorizenet
+"Cannot place order.","Cannot place order.",module,Magento_Authorizenet
+"Credit Card: xxxx-%1","Credit Card: xxxx-%1",module,Magento_Authorizenet
+"amount %1","amount %1",module,Magento_Authorizenet
+failed.,failed.,module,Magento_Authorizenet
+successful.,successful.,module,Magento_Authorizenet
+"Authorize.Net Transaction ID %1.","Authorize.Net Transaction ID %1.",module,Magento_Authorizenet
+authorize,authorize,module,Magento_Authorizenet
+"authorize and capture","authorize and capture",module,Magento_Authorizenet
+capture,capture,module,Magento_Authorizenet
+refund,refund,module,Magento_Authorizenet
+void,void,module,Magento_Authorizenet
+"Gateway error: %1","Gateway error: %1",module,Magento_Authorizenet
+"Something went wrong in the payment gateway.","Something went wrong in the payment gateway.",module,Magento_Authorizenet
+"Invalid amount for capture.","Invalid amount for capture.",module,Magento_Authorizenet
+"Payment capturing error.","Payment capturing error.",module,Magento_Authorizenet
+"Invalid transaction ID.","Invalid transaction ID.",module,Magento_Authorizenet
+"Payment voiding error.","Payment voiding error.",module,Magento_Authorizenet
+"Invalid amount for refund.","Invalid amount for refund.",module,Magento_Authorizenet
+"Payment refunding error.","Payment refunding error.",module,Magento_Authorizenet
+"The transaction was declined because the response hash validation failed.","The transaction was declined because the response hash validation failed.",module,Magento_Authorizenet
+"This payment didn\'t work out because we can\'t find this order.","This payment didn\'t work out because we can\'t find this order.",module,Magento_Authorizenet
+"There was a payment authorization error.","There was a payment authorization error.",module,Magento_Authorizenet
+"Please enter a transaction ID to authorize this payment.","Please enter a transaction ID to authorize this payment.",module,Magento_Authorizenet
+"Something went wrong: the paid amount doesn\'t match the order amount. Please correct this and try again.","Something went wrong: the paid amount doesn\'t match the order amount. Please correct this and try again.",module,Magento_Authorizenet
+"Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","Transaction %1 has been approved. Amount %2. Transaction status is ""%3""",module,Magento_Authorizenet
+"Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.",module,Magento_Authorizenet
+"Authorize Only","Authorize Only",module,Magento_Authorizenet
+"Authorize and Capture","Authorize and Capture",module,Magento_Authorizenet
+"Unable to get transaction details. Try again later.","Unable to get transaction details. Try again later.",module,Magento_Authorizenet
+"Credit Card Type","Credit Card Type",module,Magento_Authorizenet
+"Credit Card Number","Credit Card Number",module,Magento_Authorizenet
+"Expiration Date","Expiration Date",module,Magento_Authorizenet
+"Card Verification Number","Card Verification Number",module,Magento_Authorizenet
+"Fraud Detection ","Fraud Detection ",module,Magento_Authorizenet
+"FDS Filter Action","FDS Filter Action",module,Magento_Authorizenet
+"AVS Response","AVS Response",module,Magento_Authorizenet
+"Card Code Response","Card Code Response",module,Magento_Authorizenet
+"CAVV Response","CAVV Response",module,Magento_Authorizenet
+"Fraud Filters","Fraud Filters",module,Magento_Authorizenet
+"Authorize.net Direct Post","Authorize.net Direct Post",module,Magento_Authorizenet
+Enabled,Enabled,module,Magento_Authorizenet
+"Payment Action","Payment Action",module,Magento_Authorizenet
+Title,Title,module,Magento_Authorizenet
+"API Login ID","API Login ID",module,Magento_Authorizenet
+"Transaction Key","Transaction Key",module,Magento_Authorizenet
+"Merchant MD5","Merchant MD5",module,Magento_Authorizenet
+"New Order Status","New Order Status",module,Magento_Authorizenet
+"Test Mode","Test Mode",module,Magento_Authorizenet
+"Gateway URL","Gateway URL",module,Magento_Authorizenet
+"Transaction Details URL","Transaction Details URL",module,Magento_Authorizenet
+"Accepted Currency","Accepted Currency",module,Magento_Authorizenet
+Debug,Debug,module,Magento_Authorizenet
+"Email Customer","Email Customer",module,Magento_Authorizenet
+"Merchant's Email","Merchant's Email",module,Magento_Authorizenet
+"Credit Card Types","Credit Card Types",module,Magento_Authorizenet
+"Credit Card Verification","Credit Card Verification",module,Magento_Authorizenet
+"Payment from Applicable Countries","Payment from Applicable Countries",module,Magento_Authorizenet
+"Payment from Specific Countries","Payment from Specific Countries",module,Magento_Authorizenet
+"Minimum Order Total","Minimum Order Total",module,Magento_Authorizenet
+"Maximum Order Total","Maximum Order Total",module,Magento_Authorizenet
+"Sort Order","Sort Order",module,Magento_Authorizenet

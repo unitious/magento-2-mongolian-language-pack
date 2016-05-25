@@ -1,0 +1,22 @@
+"Grouped Products","Grouped Products",module,Magento_GroupedProduct
+"Please specify the quantity of product(s).","Please specify the quantity of product(s).",module,Magento_GroupedProduct
+"Cannot process the item.","Cannot process the item.",module,Magento_GroupedProduct
+"Associated Products","Associated Products",module,Magento_GroupedProduct
+Availability:,Availability:,module,Magento_GroupedProduct
+"Out of stock","Out of stock",module,Magento_GroupedProduct
+ID,ID,module,Magento_GroupedProduct
+SKU,SKU,module,Magento_GroupedProduct
+"Product Name","Product Name",module,Magento_GroupedProduct
+Price,Price,module,Magento_GroupedProduct
+Qty,Qty,module,Magento_GroupedProduct
+"No options of this product are available.","No options of this product are available.",module,Magento_GroupedProduct
+"There are no grouped products.","There are no grouped products.",module,Magento_GroupedProduct
+Name,Name,module,Magento_GroupedProduct
+"Default Qty","Default Qty",module,Magento_GroupedProduct
+"Starting at","Starting at",module,Magento_GroupedProduct
+Availability,Availability,module,Magento_GroupedProduct
+"In stock","In stock",module,Magento_GroupedProduct
+"Grouped product items","Grouped product items",module,Magento_GroupedProduct
+"Add Products to Group","Add Products to Group",module,Magento_GroupedProduct
+"Add Selected Products","Add Selected Products",module,Magento_GroupedProduct
+"Grouped Product Image","Grouped Product Image",module,Magento_GroupedProduct

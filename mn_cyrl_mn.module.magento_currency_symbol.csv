@@ -1,0 +1,17 @@
+"Save Currency Rates","Save Currency Rates",module,Magento_CurrencySymbol
+Reset,Reset,module,Magento_CurrencySymbol
+Import,Import,module,Magento_CurrencySymbol
+"Manage Currency Rates","Manage Currency Rates",module,Magento_CurrencySymbol
+"Import Service","Import Service",module,Magento_CurrencySymbol
+"Save Currency Symbols","Save Currency Symbols",module,Magento_CurrencySymbol
+"Currency Symbols","Currency Symbols",module,Magento_CurrencySymbol
+"Use Standard","Use Standard",module,Magento_CurrencySymbol
+"Please specify a correct Import Service.","Please specify a correct Import Service.",module,Magento_CurrencySymbol
+"We can\'t initialize the import model.","We can\'t initialize the import model.",module,Magento_CurrencySymbol
+"Click ""Save"" to apply the rates we found.","Click ""Save"" to apply the rates we found.",module,Magento_CurrencySymbol
+"Currency Rates","Currency Rates",module,Magento_CurrencySymbol
+"Please correct the input data for %1 => %2 rate","Please correct the input data for %1 => %2 rate",module,Magento_CurrencySymbol
+"All valid rates have been saved.","All valid rates have been saved.",module,Magento_CurrencySymbol
+System,System,module,Magento_CurrencySymbol
+"You applied the custom currency symbols.","You applied the custom currency symbols.",module,Magento_CurrencySymbol
+"Old rate:","Old rate:",module,Magento_CurrencySymbol

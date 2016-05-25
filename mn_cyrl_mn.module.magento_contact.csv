@@ -1,0 +1,23 @@
+"Page not found.","Page not found.",module,Magento_Contact
+"Thanks for contacting us with your comments and questions. We\'ll respond to you very soon.","Thanks for contacting us with your comments and questions. We\'ll respond to you very soon.",module,Magento_Contact
+"We can\'t process your request right now. Sorry, that\'s all we know.","We can\'t process your request right now. Sorry, that\'s all we know.",module,Magento_Contact
+"* Required Fields","* Required Fields",module,Magento_Contact
+"Write Us","Write Us",module,Magento_Contact
+"Jot us a note and we’ll get back to you as quickly as possible.","Jot us a note and we’ll get back to you as quickly as possible.",module,Magento_Contact
+Name,Name,module,Magento_Contact
+Email,Email,module,Magento_Contact
+"Phone Number","Phone Number",module,Magento_Contact
+"What’s on your mind?","What’s on your mind?",module,Magento_Contact
+Submit,Submit,module,Magento_Contact
+"Name: %name","Name: %name",module,Magento_Contact
+"Email: %email","Email: %email",module,Magento_Contact
+"Phone Number: %telephone","Phone Number: %telephone",module,Magento_Contact
+"Comment: %comment","Comment: %comment",module,Magento_Contact
+Contacts,Contacts,module,Magento_Contact
+"Contact Us","Contact Us",module,Magento_Contact
+"Enable Contact Us","Enable Contact Us",module,Magento_Contact
+"Email Options","Email Options",module,Magento_Contact
+"Send Emails To","Send Emails To",module,Magento_Contact
+"Email Sender","Email Sender",module,Magento_Contact
+"Email Template","Email Template",module,Magento_Contact
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Contact

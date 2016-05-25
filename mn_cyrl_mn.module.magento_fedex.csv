@@ -1,0 +1,74 @@
+"Europe First Priority","Europe First Priority",module,Magento_Fedex
+"1 Day Freight","1 Day Freight",module,Magento_Fedex
+"2 Day Freight","2 Day Freight",module,Magento_Fedex
+"2 Day","2 Day",module,Magento_Fedex
+"2 Day AM","2 Day AM",module,Magento_Fedex
+"3 Day Freight","3 Day Freight",module,Magento_Fedex
+"Express Saver","Express Saver",module,Magento_Fedex
+Ground,Ground,module,Magento_Fedex
+"First Overnight","First Overnight",module,Magento_Fedex
+"Home Delivery","Home Delivery",module,Magento_Fedex
+"International Economy","International Economy",module,Magento_Fedex
+"Intl Economy Freight","Intl Economy Freight",module,Magento_Fedex
+"International First","International First",module,Magento_Fedex
+"International Ground","International Ground",module,Magento_Fedex
+"International Priority","International Priority",module,Magento_Fedex
+"Intl Priority Freight","Intl Priority Freight",module,Magento_Fedex
+"Priority Overnight","Priority Overnight",module,Magento_Fedex
+"Smart Post","Smart Post",module,Magento_Fedex
+"Standard Overnight","Standard Overnight",module,Magento_Fedex
+Freight,Freight,module,Magento_Fedex
+"National Freight","National Freight",module,Magento_Fedex
+"Regular Pickup","Regular Pickup",module,Magento_Fedex
+"Request Courier","Request Courier",module,Magento_Fedex
+"Drop Box","Drop Box",module,Magento_Fedex
+"Business Service Center","Business Service Center",module,Magento_Fedex
+Station,Station,module,Magento_Fedex
+"FedEx Envelope","FedEx Envelope",module,Magento_Fedex
+"FedEx Pak","FedEx Pak",module,Magento_Fedex
+"FedEx Box","FedEx Box",module,Magento_Fedex
+"FedEx Tube","FedEx Tube",module,Magento_Fedex
+"FedEx 10kg Box","FedEx 10kg Box",module,Magento_Fedex
+"FedEx 25kg Box","FedEx 25kg Box",module,Magento_Fedex
+"Your Packaging","Your Packaging",module,Magento_Fedex
+"Not Required","Not Required",module,Magento_Fedex
+Adult,Adult,module,Magento_Fedex
+Direct,Direct,module,Magento_Fedex
+Indirect,Indirect,module,Magento_Fedex
+Pounds,Pounds,module,Magento_Fedex
+Kilograms,Kilograms,module,Magento_Fedex
+"For some reason we can\'t retrieve tracking info right now.","For some reason we can\'t retrieve tracking info right now.",module,Magento_Fedex
+status,status,module,Magento_Fedex
+"Empty response","Empty response",module,Magento_Fedex
+None,None,module,Magento_Fedex
+FedEx,FedEx,module,Magento_Fedex
+"Enabled for Checkout","Enabled for Checkout",module,Magento_Fedex
+Title,Title,module,Magento_Fedex
+"Account ID","Account ID",module,Magento_Fedex
+"Please make sure to use only digits here. No dashes are allowed.","Please make sure to use only digits here. No dashes are allowed.",module,Magento_Fedex
+"Meter Number","Meter Number",module,Magento_Fedex
+Key,Key,module,Magento_Fedex
+Password,Password,module,Magento_Fedex
+"Sandbox Mode","Sandbox Mode",module,Magento_Fedex
+"Web-Services URL (Production)","Web-Services URL (Production)",module,Magento_Fedex
+"Web-Services URL (Sandbox)","Web-Services URL (Sandbox)",module,Magento_Fedex
+"Packages Request Type","Packages Request Type",module,Magento_Fedex
+Packaging,Packaging,module,Magento_Fedex
+Dropoff,Dropoff,module,Magento_Fedex
+"Weight Unit","Weight Unit",module,Magento_Fedex
+"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)",module,Magento_Fedex
+"Calculate Handling Fee","Calculate Handling Fee",module,Magento_Fedex
+"Handling Applied","Handling Applied",module,Magento_Fedex
+"Handling Fee","Handling Fee",module,Magento_Fedex
+"Residential Delivery","Residential Delivery",module,Magento_Fedex
+"Allowed Methods","Allowed Methods",module,Magento_Fedex
+"Hub ID","Hub ID",module,Magento_Fedex
+"The field is applicable if the Smart Post method is selected.","The field is applicable if the Smart Post method is selected.",module,Magento_Fedex
+"Free Method","Free Method",module,Magento_Fedex
+"Free Shipping Amount Threshold","Free Shipping Amount Threshold",module,Magento_Fedex
+"Displayed Error Message","Displayed Error Message",module,Magento_Fedex
+"Ship to Applicable Countries","Ship to Applicable Countries",module,Magento_Fedex
+"Ship to Specific Countries","Ship to Specific Countries",module,Magento_Fedex
+Debug,Debug,module,Magento_Fedex
+"Show Method if Not Applicable","Show Method if Not Applicable",module,Magento_Fedex
+"Sort Order","Sort Order",module,Magento_Fedex

@@ -1,0 +1,25 @@
+"Swatch Helper: not valid parameter for product instantiation","Swatch Helper: not valid parameter for product instantiation",module,Magento_Swatches
+"Admin is a required field in the each row","Admin is a required field in the each row",module,Magento_Swatches
+"Update Product Preview Image","Update Product Preview Image",module,Magento_Swatches
+"Filtering by this attribute will update the product image on catalog page","Filtering by this attribute will update the product image on catalog page",module,Magento_Swatches
+"Use Product Image for Swatch if Possible","Use Product Image for Swatch if Possible",module,Magento_Swatches
+"Allows use fallback logic for replacing swatch image with product swatch or base image","Allows use fallback logic for replacing swatch image with product swatch or base image",module,Magento_Swatches
+"Visual Swatch","Visual Swatch",module,Magento_Swatches
+"Text Swatch","Text Swatch",module,Magento_Swatches
+"Manage Swatch (values of your attribute)","Manage Swatch (values of your attribute)",module,Magento_Swatches
+"Is Default","Is Default",module,Magento_Swatches
+"Add Swatch","Add Swatch",module,Magento_Swatches
+"Sort Option","Sort Option",module,Magento_Swatches
+Delete,Delete,module,Magento_Swatches
+Swatch,Swatch,module,Magento_Swatches
+"Step 2: Attribute Values","Step 2: Attribute Values",module,Magento_Swatches
+"Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.","Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.",module,Magento_Swatches
+"Sort Variations","Sort Variations",module,Magento_Swatches
+Options,Options,module,Magento_Swatches
+"Select All","Select All",module,Magento_Swatches
+"Deselect All","Deselect All",module,Magento_Swatches
+"Remove Attribute","Remove Attribute",module,Magento_Swatches
+"Save Option","Save Option",module,Magento_Swatches
+"Remove Option","Remove Option",module,Magento_Swatches
+"Create New Value","Create New Value",module,Magento_Swatches
+"Swatches per Product","Swatches per Product",module,Magento_Swatches

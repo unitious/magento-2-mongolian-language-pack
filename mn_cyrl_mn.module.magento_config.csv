@@ -1,0 +1,89 @@
+"Default Config","Default Config",module,Magento_Config
+"Save Config","Save Config",module,Magento_Config
+[GLOBAL],[GLOBAL],module,Magento_Config
+[WEBSITE],[WEBSITE],module,Magento_Config
+"[STORE VIEW]","[STORE VIEW]",module,Magento_Config
+"Use Default","Use Default",module,Magento_Config
+"Use Website","Use Website",module,Magento_Config
+Add,Add,module,Magento_Config
+"Delete File","Delete File",module,Magento_Config
+"Search String","Search String",module,Magento_Config
+"Design Theme","Design Theme",module,Magento_Config
+"Add \Exception","Add \Exception",module,Magento_Config
+"-- No Theme --","-- No Theme --",module,Magento_Config
+Enable,Enable,module,Magento_Config
+Disable,Disable,module,Magento_Config
+Configuration,Configuration,module,Magento_Config
+System,System,module,Magento_Config
+"You saved the configuration.","You saved the configuration.",module,Magento_Config
+"Something went wrong while saving this configuration:","Something went wrong while saving this configuration:",module,Magento_Config
+"Page not found.","Page not found.",module,Magento_Config
+"Please specify the admin custom URL.","Please specify the admin custom URL.",module,Magento_Config
+"Invalid %1. %2","Invalid %1. %2",module,Magento_Config
+"Value must be a URL or one of placeholders: %1","Value must be a URL or one of placeholders: %1",module,Magento_Config
+"Specify a URL or path that starts with placeholder(s): %1, and ends with ""/"".","Specify a URL or path that starts with placeholder(s): %1, and ends with ""/"".",module,Magento_Config
+"%1 An empty value is allowed as well.","%1 An empty value is allowed as well.",module,Magento_Config
+"Specify a fully qualified URL.","Specify a fully qualified URL.",module,Magento_Config
+"Selected allowed currency ""%1"" is not available in installed currencies.","Selected allowed currency ""%1"" is not available in installed currencies.",module,Magento_Config
+"Default display currency ""%1"" is not available in allowed currencies.","Default display currency ""%1"" is not available in allowed currencies.",module,Magento_Config
+"Sorry, we haven\'t installed the base currency you selected.","Sorry, we haven\'t installed the base currency you selected.",module,Magento_Config
+"We can\'t save the Cron expression.","We can\'t save the Cron expression.",module,Magento_Config
+"Sorry, we haven\'t installed the default display currency you selected.","Sorry, we haven\'t installed the default display currency you selected.",module,Magento_Config
+"Sorry, the default display currency you selected is not available in allowed currencies.","Sorry, the default display currency you selected is not available in allowed currencies.",module,Magento_Config
+"Please correct the email address: ""%1"".","Please correct the email address: ""%1"".",module,Magento_Config
+"The sender name ""%1"" is not valid. Please use only visible characters and spaces.","The sender name ""%1"" is not valid. Please use only visible characters and spaces.",module,Magento_Config
+"Maximum sender name length is 255. Please correct your settings.","Maximum sender name length is 255. Please correct your settings.",module,Magento_Config
+"The file you\'re uploading exceeds the server size limit of %1 kilobytes.","The file you\'re uploading exceeds the server size limit of %1 kilobytes.",module,Magento_Config
+"The base directory to upload file is not specified.","The base directory to upload file is not specified.",module,Magento_Config
+"The specified image adapter cannot be used because of: %1","The specified image adapter cannot be used because of: %1",module,Magento_Config
+"Default scope","Default scope",module,Magento_Config
+"Base currency","Base currency",module,Magento_Config
+"Display default currency","Display default currency",module,Magento_Config
+"website(%1) scope","website(%1) scope",module,Magento_Config
+"store(%1) scope","store(%1) scope",module,Magento_Config
+"Currency ""%1"" is used as %2 in %3.","Currency ""%1"" is used as %2 in %3.",module,Magento_Config
+"Please correct the timezone.","Please correct the timezone.",module,Magento_Config
+"The file ""%1"" does not exist","The file ""%1"" does not exist",module,Magento_Config
+"Always (during development)","Always (during development)",module,Magento_Config
+"Only Once (version upgrade)","Only Once (version upgrade)",module,Magento_Config
+"Never (production)","Never (production)",module,Magento_Config
+Bcc,Bcc,module,Magento_Config
+"Separate Email","Separate Email",module,Magento_Config
+"%1 (Default)","%1 (Default)",module,Magento_Config
+title,title,module,Magento_Config
+No,No,module,Magento_Config
+Optional,Optional,module,Magento_Config
+Required,Required,module,Magento_Config
+Website,Website,module,Magento_Config
+Store,Store,module,Magento_Config
+"Store View","Store View",module,Magento_Config
+"HTTP (unsecure)","HTTP (unsecure)",module,Magento_Config
+"HTTPS (SSL)","HTTPS (SSL)",module,Magento_Config
+"Yes (302 Found)","Yes (302 Found)",module,Magento_Config
+"Yes (301 Moved Permanently)","Yes (301 Moved Permanently)",module,Magento_Config
+Yes,Yes,module,Magento_Config
+Specified,Specified,module,Magento_Config
+"Config form fieldset clone model required to be able to clone fields","Config form fieldset clone model required to be able to clone fields",module,Magento_Config
+"Invalid XML in file %1:\n%2","Invalid XML in file %1:\n%2",module,Magento_Config
+.,.,module,Magento_Config
+some_label,some_label,module,Magento_Config
+some_comment,some_comment,module,Magento_Config
+"some prefix","some prefix",module,Magento_Config
+"element label","element label",module,Magento_Config
+"element hint","element hint",module,Magento_Config
+"element comment","element comment",module,Magento_Config
+"element tooltip","element tooltip",module,Magento_Config
+test,test,module,Magento_Config
+test2,test2,module,Magento_Config
+"Add after","Add after",module,Magento_Config
+Delete,Delete,module,Magento_Config
+"Current Configuration Scope:","Current Configuration Scope:",module,Magento_Config
+Stores,Stores,module,Magento_Config
+"Group Label","Group Label",module,Magento_Config
+"Some Label","Some Label",module,Magento_Config
+"Tab Label","Tab Label",module,Magento_Config
+"Field 2","Field 2",module,Magento_Config
+"Field 3","Field 3",module,Magento_Config
+"Field 3.1","Field 3.1",module,Magento_Config
+"Field 3.1.1","Field 3.1.1",module,Magento_Config
+"Field 4","Field 4",module,Magento_Config
