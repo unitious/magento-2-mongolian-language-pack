@@ -1,47 +1,47 @@
-"You created the order.","You created the order.",module,Magento_Authorizenet
-"Order saving error: %1","Order saving error: %1",module,Magento_Authorizenet
-"Please choose a payment method.","Please choose a payment method.",module,Magento_Authorizenet
-"We can\'t process your order right now. Please try again later.","We can\'t process your order right now. Please try again later.",module,Magento_Authorizenet
-"Cannot place order.","Cannot place order.",module,Magento_Authorizenet
-"Credit Card: xxxx-%1","Credit Card: xxxx-%1",module,Magento_Authorizenet
-"amount %1","amount %1",module,Magento_Authorizenet
-failed.,failed.,module,Magento_Authorizenet
-successful.,successful.,module,Magento_Authorizenet
-"Authorize.Net Transaction ID %1.","Authorize.Net Transaction ID %1.",module,Magento_Authorizenet
-authorize,authorize,module,Magento_Authorizenet
-"authorize and capture","authorize and capture",module,Magento_Authorizenet
-capture,capture,module,Magento_Authorizenet
-refund,refund,module,Magento_Authorizenet
-void,void,module,Magento_Authorizenet
-"Gateway error: %1","Gateway error: %1",module,Magento_Authorizenet
-"Something went wrong in the payment gateway.","Something went wrong in the payment gateway.",module,Magento_Authorizenet
-"Invalid amount for capture.","Invalid amount for capture.",module,Magento_Authorizenet
-"Payment capturing error.","Payment capturing error.",module,Magento_Authorizenet
-"Invalid transaction ID.","Invalid transaction ID.",module,Magento_Authorizenet
-"Payment voiding error.","Payment voiding error.",module,Magento_Authorizenet
-"Invalid amount for refund.","Invalid amount for refund.",module,Magento_Authorizenet
-"Payment refunding error.","Payment refunding error.",module,Magento_Authorizenet
-"The transaction was declined because the response hash validation failed.","The transaction was declined because the response hash validation failed.",module,Magento_Authorizenet
-"This payment didn\'t work out because we can\'t find this order.","This payment didn\'t work out because we can\'t find this order.",module,Magento_Authorizenet
-"There was a payment authorization error.","There was a payment authorization error.",module,Magento_Authorizenet
-"Please enter a transaction ID to authorize this payment.","Please enter a transaction ID to authorize this payment.",module,Magento_Authorizenet
-"Something went wrong: the paid amount doesn\'t match the order amount. Please correct this and try again.","Something went wrong: the paid amount doesn\'t match the order amount. Please correct this and try again.",module,Magento_Authorizenet
-"Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","Transaction %1 has been approved. Amount %2. Transaction status is ""%3""",module,Magento_Authorizenet
-"Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.",module,Magento_Authorizenet
-"Authorize Only","Authorize Only",module,Magento_Authorizenet
-"Authorize and Capture","Authorize and Capture",module,Magento_Authorizenet
-"Unable to get transaction details. Try again later.","Unable to get transaction details. Try again later.",module,Magento_Authorizenet
-"Credit Card Type","Credit Card Type",module,Magento_Authorizenet
-"Credit Card Number","Credit Card Number",module,Magento_Authorizenet
-"Expiration Date","Expiration Date",module,Magento_Authorizenet
-"Card Verification Number","Card Verification Number",module,Magento_Authorizenet
-"Fraud Detection ","Fraud Detection ",module,Magento_Authorizenet
-"FDS Filter Action","FDS Filter Action",module,Magento_Authorizenet
-"AVS Response","AVS Response",module,Magento_Authorizenet
-"Card Code Response","Card Code Response",module,Magento_Authorizenet
-"CAVV Response","CAVV Response",module,Magento_Authorizenet
-"Fraud Filters","Fraud Filters",module,Magento_Authorizenet
-"Authorize.net Direct Post","Authorize.net Direct Post",module,Magento_Authorizenet
+"You created the order.","Та захиалга үүсгэлээ.",module,Magento_Authorizenet
+"Order saving error: %1","Захиалга хадгалалтын алдаа: %1",module,Magento_Authorizenet
+"Please choose a payment method.","Төлбөрийн хэлбэр сонгоно уу.",module,Magento_Authorizenet
+"We can\'t process your order right now. Please try again later.",
+"Бид таны захиалгыг гүйцэтгэж чадсангүй. Та дараа дахин оролдоно уу.",module,Magento_Authorizenet
+"Cannot place order.","Захиалгыг хийж болохгүй байна.",module,Magento_Authorizenet
+"Credit Card: xxxx-%1","Кредит карт: xxxx-%1",module,Magento_Authorizenet
+"amount %1","дүн %1",module,Magento_Authorizenet
+failed.,амжилтгүй болсон.,module,Magento_Authorizenet
+successful.,амжилттай.,module,Magento_Authorizenet
+"Authorize.Net Transaction ID %1.","Authorize.Net гүйлгээний ID %1.",module,Magento_Authorizenet
+authorize,эрх олгох,module,Magento_Authorizenet
+"authorize and capture","эрх олгох ба бичих",module,Magento_Authorizenet
+capture,бичих,module,Magento_Authorizenet
+refund,буцаалт,module,Magento_Authorizenet
+void,цуцлалт,module,Magento_Authorizenet
+"Gateway error: %1","гарцын алдаа: %1",module,Magento_Authorizenet
+"Something went wrong in the payment gateway.","Төлбөрийн гарц дээр ямар нэг юм буруу байлаа.",module,Magento_Authorizenet
+"Invalid amount for capture.","Бичилтэнд зориулагдсан дүн хүчингүй.",module,Magento_Authorizenet
+"Payment capturing error.","Төлбөр бичилтийн алдаа.",module,Magento_Authorizenet
+"Invalid transaction ID.","Гүйлгээний ID хүчингүй.",module,Magento_Authorizenet
+"Payment voiding error.","Төлбөр цуцлалтын алдаа.",module,Magento_Authorizenet
+"Invalid amount for refund.","Буцаан олголтын дүн хүчингүй.",module,Magento_Authorizenet
+"Payment refunding error.","Төлбөр буцаан олголтын алдаа.",module,Magento_Authorizenet
+"The transaction was declined because the response hash validation failed.","Хариуны код шалгалт алдаатай учир гүйлгээ цуцлагдлаа.",module,Magento_Authorizenet
+"This payment didn\'t work out because we can\'t find this order.","Энэ захиалгыг олоогүй учраас төлбөр боловсруулагдсангүй.",module,Magento_Authorizenet
+"There was a payment authorization error.","Төлбөрийн зөвшөөрөл дээр алдаа гарлаа.",module,Magento_Authorizenet
+"Please enter a transaction ID to authorize this payment.","Төлбөрийг зөвшөөрөхийн тулд гүйлгээний дугаар оруулна уу.",module,Magento_Authorizenet
+"Something went wrong: the paid amount doesn\'t match the order amount. Please correct this and try again.","Ямар нэг зүйл буруу: Төлсөн дүн захиалгын дүнтэй тохирохгүй байна. Зассаныхаа дараа дахин оролдоно уу.",module,Magento_Authorizenet
+"Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","Гүйлгээ %1 зөвшөөрөгдсөн. Дүн %2. Гүйлгээний төлөв ""%3""",module,Magento_Authorizenet
+"Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","Гүйлгээ %1 цуцлагдсан. Гүйлгээний төлөв ""%2"". Дүн %3.",module,Magento_Authorizenet
+"Authorize Only","Зөвхөн зөвшөөрөх",module,Magento_Authorizenet
+"Authorize and Capture","Зөвшөөрөх ба бичих",module,Magento_Authorizenet
+"Unable to get transaction details. Try again later.","Гүйлгээний дэлгэрэнгүйг авах боломжгүй. Дараа дахин оролдоно уу.",module,Magento_Authorizenet
+"Credit Card Type","Кредит картны төрөл",module,Magento_Authorizenet
+"Credit Card Number","Кредит картны дугаар",module,Magento_Authorizenet
+"Expiration Date","Дуусах огноо",module,Magento_Authorizenet
+"Card Verification Number","Карт баталгаажуулах дугаар",module,Magento_Authorizenet
+"Fraud Detection ","Луйврын илрүүлэлт",module,Magento_Authorizenet
+"FDS Filter Action","FDS шүүлтүүр үйлдэл",module,Magento_Authorizenet
+"AVS Response","AVS хариу",module,Magento_Authorizenet
+"Card Code Response","Карт кодны хариу",module,Magento_Authorizenet
+"CAVV Response","CAVV хариу",module,Magento_Authorizenet
+"Fraud Filters","луйврын шүүлтүүр",module,Magento_Authorizenet
 Enabled,Enabled,module,Magento_Authorizenet
 "Payment Action","Payment Action",module,Magento_Authorizenet
 Title,Title,module,Magento_Authorizenet
@@ -63,3 +63,7 @@ Debug,Debug,module,Magento_Authorizenet
 "Minimum Order Total","Minimum Order Total",module,Magento_Authorizenet
 "Maximum Order Total","Maximum Order Total",module,Magento_Authorizenet
 "Sort Order","Sort Order",module,Magento_Authorizenet
+
+
+
+

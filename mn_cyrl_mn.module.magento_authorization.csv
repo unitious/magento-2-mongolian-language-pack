@@ -1,2 +1,2 @@
-"We can\'t find the role for the user you wanted.","We can\'t find the role for the user you wanted.",module,Magento_Authorization
-"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.",module,Magento_Authorization
+"We can\'t find the role for the user you wanted.","Таны хүссэн хэрэглэгчийн роль олдсонгүй",module,Magento_Authorization
+"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Зөвшөөрөгдсөн ресурсуудыг хөрвүүлж байхад алдаа гарлаа. Эксепшн лог файлаас дэлгэрэнгүй үзнэ үү.",module,Magento_Authorization

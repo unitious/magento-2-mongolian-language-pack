@@ -1,49 +1,52 @@
-"Read Details","Read Details",module,Magento_AdminNotification
-"Mark as Read","Mark as Read",module,Magento_AdminNotification
-"Are you sure?","Are you sure?",module,Magento_AdminNotification
-Remove,Remove,module,Magento_AdminNotification
-"Messages Inbox","Messages Inbox",module,Magento_AdminNotification
-"You have %1 new system messages","You have %1 new system messages",module,Magento_AdminNotification
-"You have %1 new system message","You have %1 new system message",module,Magento_AdminNotification
-"Incoming Message","Incoming Message",module,Magento_AdminNotification
-close,close,module,Magento_AdminNotification
-Notifications,Notifications,module,Magento_AdminNotification
-"The message has been marked as Read.","The message has been marked as Read.",module,Magento_AdminNotification
-"We couldn't mark the notification as Read because of an error.","We couldn't mark the notification as Read because of an error.",module,Magento_AdminNotification
-"Please select messages.","Please select messages.",module,Magento_AdminNotification
-"A total of %1 record(s) have been marked as Read.","A total of %1 record(s) have been marked as Read.",module,Magento_AdminNotification
-"Total of %1 record(s) have been removed.","Total of %1 record(s) have been removed.",module,Magento_AdminNotification
-"We couldn't remove the messages because of an error.","We couldn't remove the messages because of an error.",module,Magento_AdminNotification
-"The message has been removed.","The message has been removed.",module,Magento_AdminNotification
-"1 Hour","1 Hour",module,Magento_AdminNotification
-"2 Hours","2 Hours",module,Magento_AdminNotification
-"6 Hours","6 Hours",module,Magento_AdminNotification
-"12 Hours","12 Hours",module,Magento_AdminNotification
-"24 Hours","24 Hours",module,Magento_AdminNotification
-critical,critical,module,Magento_AdminNotification
-major,major,module,Magento_AdminNotification
-minor,minor,module,Magento_AdminNotification
-notice,notice,module,Magento_AdminNotification
-"Wrong message type","Wrong message type",module,Magento_AdminNotification
-"Wrong notification ID specified.","Wrong notification ID specified.",module,Magento_AdminNotification
-"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.",module,Magento_AdminNotification
-"One or more of the Cache Types are invalidated: %1. ","One or more of the Cache Types are invalidated: %1. ",module,Magento_AdminNotification
-"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Please go to <a href=""%1"">Cache Management</a> and refresh cache types.",module,Magento_AdminNotification
-"We were unable to synchronize one or more media files. Please refer to the log file for details.","We were unable to synchronize one or more media files. Please refer to the log file for details.",module,Magento_AdminNotification
-"Synchronization of media storages has been completed.","Synchronization of media storages has been completed.",module,Magento_AdminNotification
-"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.",module,Magento_AdminNotification
-"Close popup","Close popup",module,Magento_AdminNotification
-Close,Close,module,Magento_AdminNotification
-"System Messages:","System Messages:",module,Magento_AdminNotification
-"Critical System Messages","Critical System Messages",module,Magento_AdminNotification
-"Major System Messages","Major System Messages",module,Magento_AdminNotification
-"System messages","System messages",module,Magento_AdminNotification
-"See All (","See All (",module,Magento_AdminNotification
-" unread)"," unread)",module,Magento_AdminNotification
-"Use HTTPS to Get Feed","Use HTTPS to Get Feed",module,Magento_AdminNotification
-"Update Frequency","Update Frequency",module,Magento_AdminNotification
-"Last Update","Last Update",module,Magento_AdminNotification
-Severity,Severity,module,Magento_AdminNotification
-"Date Added","Date Added",module,Magento_AdminNotification
-Message,Message,module,Magento_AdminNotification
-Actions,Actions,module,Magento_AdminNotification
+"Read Details","Дэлгэрэнгүй унших",module,Magento_AdminNotification
+"Mark as Read","Уншсанаар тэмдэглэх",module,Magento_AdminNotification
+"Are you sure?","Та итгэлтэй байна уу?",module,Magento_AdminNotification
+Remove,Арилгах,module,Magento_AdminNotification
+"Messages Inbox","Зурвасын хайрцаг",module,Magento_AdminNotification
+"You have %1 new system messages","Танд %1 ширхэг системийн шинэ зурвасууд байна",module,Magento_AdminNotification
+"You have %1 new system message","Танд %1 ширхэг системийн шинэ зурвас байна",module,Magento_AdminNotification
+"Incoming Message","Орж ирж буй зурвасууд",module,Magento_AdminNotification
+close,хаах,module,Magento_AdminNotification
+Notifications,Сонордуулга,module,Magento_AdminNotification
+"The message has been marked as Read.","Энэ зурвас уншигдсан гэж тэмдэглэгдсэн байна.",module,Magento_AdminNotification
+"We couldn't mark the notification as Read because of an error.","Алдаа гарсны улмаас зурвасыг уншигдсанаар тэмдэглэж чадсангүй.",module,Magento_AdminNotification
+"Please select messages.","Зурвас сонгоно уу.",module,Magento_AdminNotification
+"A total of %1 record(s) have been marked as Read.","Нийт %1 бичлэг(үүд) уншигдасан гэж тэмдэглэгджээ.",module,Magento_AdminNotification
+"Total of %1 record(s) have been removed.","Нийт %1 бичлэг(үүд) арилгагдлаа.",module,Magento_AdminNotification
+"We couldn't remove the messages because of an error.","Алдааны улмаас зурвасуудыг арилгаж чадсангүй.",module,Magento_AdminNotification
+"The message has been removed.","Зурвасууд арилгагдлаа.",module,Magento_AdminNotification
+"1 Hour","1 цаг",module,Magento_AdminNotification
+"2 Hours","2 цаг",module,Magento_AdminNotification
+"6 Hours","6 цаг",module,Magento_AdminNotification
+"12 Hours","12 цаг",module,Magento_AdminNotification
+"24 Hours","24 цаг",module,Magento_AdminNotification
+critical,аюултай,module,Magento_AdminNotification
+major,мажор,module,Magento_AdminNotification
+minor,минор,module,Magento_AdminNotification
+notice,мэдэгдэл,module,Magento_AdminNotification
+"Wrong message type","Буруу зурвасын төрөл",module,Magento_AdminNotification
+"Wrong notification ID specified.","Буруу сонордуулгын ID заагдсан.",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} live орчинд Base Unsecure URL / Base Secure URL -аар ашиглахыг санал болгоогүй. Энэхүү <a href=""%1"">тохиргооны</a> утгыг өөрчилөхийг зөвлөж байна.",module,Magento_AdminNotification
+"One or more of the Cache Types are invalidated: %1. ","Зарим нэг/бүх кэшүүд хүчингүй болсон байна: %1. ",module,Magento_AdminNotification
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","<a href=""%1"">Kэш менежемент</a>-рүү орж кэшийг дахин шинэчилнэ үү.",module,Magento_AdminNotification
+"We were unable to synchronize one or more media files. Please refer to the log file for details.","Зарим медиа файлуудыг синхронжуулагдсангүй. Илүү дэлгэрэнгүйг лог файлруу орж лавлаарай.",module,Magento_AdminNotification
+"Synchronization of media storages has been completed.","Медиа агуулахын синхронжуулалт дууслаа.",module,Magento_AdminNotification
+"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.",
+"Таны вэб сервер чухал файлуудыг гаднаас шууд ашиглаж болохоор буруу тохируулагдсан байна. Системийн администратортоо мэдэгдэнэ үү.",module,Magento_AdminNotification
+"Close popup","Онгойсан цонх хаах",module,Magento_AdminNotification
+Close,Хаах,module,Magento_AdminNotification
+"System Messages:","Системийн зурвасууд:",module,Magento_AdminNotification
+"Critical System Messages","Аюултай систем зурвасууд",module,Magento_AdminNotification
+"Major System Messages","Мажор системийн зурвасууд",module,Magento_AdminNotification
+"System messages","Системийн зурвасууд",module,Magento_AdminNotification
+"See All (","Бүгдийг харах (",module,Magento_AdminNotification
+" unread)"," уншаагүй)",module,Magento_AdminNotification
+"Use HTTPS to Get Feed","фийд авахын тулд HTTPS хэрэглэ",module,Magento_AdminNotification
+"Update Frequency","Шинэчлэх давтамж",module,Magento_AdminNotification
+"Last Update","Сүүлчийн шинэчилэлт",module,Magento_AdminNotification
+Severity,Хүндрэл,module,Magento_AdminNotification
+"Date Added","Нэмэгдсэн өдөр",module,Magento_AdminNotification
+Message,Зурвас,module,Magento_AdminNotification
+Actions,Үйлдлүүд,module,Magento_AdminNotification
+
+

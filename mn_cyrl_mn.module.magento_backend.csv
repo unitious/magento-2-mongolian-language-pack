@@ -1,122 +1,122 @@
-"Invalid Form Key. Please refresh the page.","Invalid Form Key. Please refresh the page.",module,Magento_Backend
-"You entered an invalid Secret Key. Please refresh the page.","You entered an invalid Secret Key. Please refresh the page.",module,Magento_Backend
-"Cache Storage Management","Cache Storage Management",module,Magento_Backend
-"Flush Magento Cache","Flush Magento Cache",module,Magento_Backend
-"The cache storage may contain additional data. Are you sure that you want to flush it?","The cache storage may contain additional data. Are you sure that you want to flush it?",module,Magento_Backend
-"Flush Cache Storage","Flush Cache Storage",module,Magento_Backend
-Invalidated,Invalidated,module,Magento_Backend
-Orders,Orders,module,Magento_Backend
-Amounts,Amounts,module,Magento_Backend
-Bestsellers,Bestsellers,module,Magento_Backend
-"Most Viewed Products","Most Viewed Products",module,Magento_Backend
-"New Customers","New Customers",module,Magento_Backend
-Customers,Customers,module,Magento_Backend
-Customer,Customer,module,Magento_Backend
-Guest,Guest,module,Magento_Backend
-Items,Items,module,Magento_Backend
-Total,Total,module,Magento_Backend
-"Lifetime Sales","Lifetime Sales",module,Magento_Backend
-"Average Order","Average Order",module,Magento_Backend
-Average,Average,module,Magento_Backend
-Product,Product,module,Magento_Backend
-Price,Price,module,Magento_Backend
-Quantity,Quantity,module,Magento_Backend
-Views,Views,module,Magento_Backend
-Revenue,Revenue,module,Magento_Backend
-Tax,Tax,module,Magento_Backend
-Shipping,Shipping,module,Magento_Backend
-"Images (.gif, .jpg, .png)","Images (.gif, .jpg, .png)",module,Magento_Backend
-"Media (.avi, .flv, .swf)","Media (.avi, .flv, .swf)",module,Magento_Backend
-"All Files","All Files",module,Magento_Backend
-"Reset to Default","Reset to Default",module,Magento_Backend
-"All Store Views","All Store Views",module,Magento_Backend
-"What is this?","What is this?",module,Magento_Backend
-"Save Account","Save Account",module,Magento_Backend
-"My Account","My Account",module,Magento_Backend
-"Account Information","Account Information",module,Magento_Backend
-"User Name","User Name",module,Magento_Backend
-"First Name","First Name",module,Magento_Backend
-"Last Name","Last Name",module,Magento_Backend
-Email,Email,module,Magento_Backend
-"User Email","User Email",module,Magento_Backend
-"New Password","New Password",module,Magento_Backend
-"Password Confirmation","Password Confirmation",module,Magento_Backend
-"Interface Locale","Interface Locale",module,Magento_Backend
-"Current User Identity Verification","Current User Identity Verification",module,Magento_Backend
-"Your Password","Your Password",module,Magento_Backend
-"Save Cache Settings","Save Cache Settings",module,Magento_Backend
-"Catalog Rewrites","Catalog Rewrites",module,Magento_Backend
-Refresh,Refresh,module,Magento_Backend
-"Images Cache","Images Cache",module,Magento_Backend
-Clear,Clear,module,Magento_Backend
-"Search Index","Search Index",module,Magento_Backend
-Rebuild,Rebuild,module,Magento_Backend
-"Inventory Stock Status","Inventory Stock Status",module,Magento_Backend
-"Rebuild Catalog Index","Rebuild Catalog Index",module,Magento_Backend
-"Rebuild Flat Catalog Category","Rebuild Flat Catalog Category",module,Magento_Backend
-"Rebuild Flat Catalog Product","Rebuild Flat Catalog Product",module,Magento_Backend
-"Cache Control","Cache Control",module,Magento_Backend
-"All Cache","All Cache",module,Magento_Backend
-"No change","No change",module,Magento_Backend
-Disable,Disable,module,Magento_Backend
-Enable,Enable,module,Magento_Backend
-"Add Design Change","Add Design Change",module,Magento_Backend
-Back,Back,module,Magento_Backend
-Delete,Delete,module,Magento_Backend
-"Are you sure?","Are you sure?",module,Magento_Backend
-Save,Save,module,Magento_Backend
-"Edit Design Change","Edit Design Change",module,Magento_Backend
-"New Store Design Change","New Store Design Change",module,Magento_Backend
-"General Settings","General Settings",module,Magento_Backend
-Store,Store,module,Magento_Backend
-"-- Please Select --","-- Please Select --",module,Magento_Backend
-"Custom Design","Custom Design",module,Magento_Backend
-"Date From","Date From",module,Magento_Backend
-"Date To","Date To",module,Magento_Backend
-"Design Change","Design Change",module,Magento_Backend
-General,General,module,Magento_Backend
-Cancel,Cancel,module,Magento_Backend
-"Delete %1 '%2'","Delete %1 '%2'",module,Magento_Backend
-"Delete %1","Delete %1",module,Magento_Backend
-"Block Information","Block Information",module,Magento_Backend
-"Backup Options","Backup Options",module,Magento_Backend
-"Create DB Backup","Create DB Backup",module,Magento_Backend
-Yes,Yes,module,Magento_Backend
-No,No,module,Magento_Backend
-"Delete Store","Delete Store",module,Magento_Backend
-"Delete Web Site","Delete Web Site",module,Magento_Backend
-"Save Web Site","Save Web Site",module,Magento_Backend
-"Save Store","Save Store",module,Magento_Backend
-"Save Store View","Save Store View",module,Magento_Backend
-"Delete Store View","Delete Store View",module,Magento_Backend
-"Edit Web Site","Edit Web Site",module,Magento_Backend
-"New Web Site","New Web Site",module,Magento_Backend
-"Edit Store","Edit Store",module,Magento_Backend
-"New Store","New Store",module,Magento_Backend
-"Edit Store View","Edit Store View",module,Magento_Backend
-"New Store View","New Store View",module,Magento_Backend
-"Store Information","Store Information",module,Magento_Backend
-"Web Site","Web Site",module,Magento_Backend
-Name,Name,module,Magento_Backend
-"Root Category","Root Category",module,Magento_Backend
-"Default Store View","Default Store View",module,Magento_Backend
-"Store View Information","Store View Information",module,Magento_Backend
-Code,Code,module,Magento_Backend
-Status,Status,module,Magento_Backend
-Disabled,Disabled,module,Magento_Backend
-Enabled,Enabled,module,Magento_Backend
-"Sort Order","Sort Order",module,Magento_Backend
-"Web Site Information","Web Site Information",module,Magento_Backend
-"Default Store","Default Store",module,Magento_Backend
-"Set as Default","Set as Default",module,Magento_Backend
-Stores,Stores,module,Magento_Backend
-"Create Website","Create Website",module,Magento_Backend
-"Create Store","Create Store",module,Magento_Backend
-"Create Store View","Create Store View",module,Magento_Backend
-Home,Home,module,Magento_Backend
-Reset,Reset,module,Magento_Backend
-"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Backend
-"Add New Image","Add New Image",module,Magento_Backend
+"Invalid Form Key. Please refresh the page.","Формын түлхүүр хүчингүй. Хуудсыг шинээр дуудна уу.",module,Magento_Backend
+"You entered an invalid Secret Key. Please refresh the page.","Та буруу нууц түлхүүр оруулсан байна. Хуудсыг шинээр дуудна уу.",module,Magento_Backend
+"Cache Storage Management","Кеш агууламж менежемент",module,Magento_Backend
+"Flush Magento Cache","Магенто кеш хоослох",module,Magento_Backend
+"The cache storage may contain additional data. Are you sure that you want to flush it?","Кеш агууламж илүү мэдээлэл агуулж байж магадгүй. Хоослоно гэдэгтээ итгэлтэй байна уу?",module,Magento_Backend
+"Flush Cache Storage","Кеш агууламж хоослох",module,Magento_Backend
+Invalidated,Хүчингүй болгосон,module,Magento_Backend
+Orders,Захиалгууд,module,Magento_Backend
+Amounts,Дүнгүүд,module,Magento_Backend
+Bestsellers,Хамгийн сайн зарагдсан,module,Magento_Backend
+"Most Viewed Products","Хамгийн их харагдсан бүтээгдэхүүн",module,Magento_Backend
+"New Customers","Шинэ хэрэглэгч",module,Magento_Backend
+Customers,Хэрэглэгчид,module,Magento_Backend
+Customer,Хэрэглэгч,module,Magento_Backend
+Guest,Зочин,module,Magento_Backend
+Items,Артикль,module,Magento_Backend
+Total,Нийт дүн,module,Magento_Backend
+"Lifetime Sales","Нийт зарагдалт",module,Magento_Backend
+"Average Order","Дундаж захиалга",module,Magento_Backend
+Average,Дундаж,module,Magento_Backend
+Product,Бүтээгдэхүүн,module,Magento_Backend
+Price,Үнэ,module,Magento_Backend
+Quantity,Тоо хэмжээ,module,Magento_Backend
+Views,Харагдаж,module,Magento_Backend
+Revenue,Орлого,module,Magento_Backend
+Tax,Татвар,module,Magento_Backend
+Shipping,Хүргэлт,module,Magento_Backend
+"Images (.gif, .jpg, .png)","Зургууд (.gif, .jpg, .png)",module,Magento_Backend
+"Media (.avi, .flv, .swf)","Медиа (.avi, .flv, .swf)",module,Magento_Backend
+"All Files","Бүх файлууд",module,Magento_Backend
+"Reset to Default","Стандарт тохиргоо руу буцаах",module,Magento_Backend
+"All Store Views","Бүх дэлгүүрийн харагдац",module,Magento_Backend
+"What is this?","Энэ юу вэ?",module,Magento_Backend
+"Save Account","Дансыг хадгалах",module,Magento_Backend
+"My Account","Миний данс",module,Magento_Backend
+"Account Information","Дансны мэдээлэл",module,Magento_Backend
+"User Name","Хэрэглэгчийн нэр",module,Magento_Backend
+"First Name","Нэр",module,Magento_Backend
+"Last Name","Овог",module,Magento_Backend
+Email,Э-мэйл,module,Magento_Backend
+"User Email","Хэрэглэгчийн э-мэйл",module,Magento_Backend
+"New Password","Шинэ нууц үг",module,Magento_Backend
+"Password Confirmation","Нууц үг баталгаажуулах",module,Magento_Backend
+"Interface Locale","Интерфейс хэлний орчин",module,Magento_Backend
+"Current User Identity Verification","Идэвхитэй хэрэглэгчийн баримтын шалгалт",module,Magento_Backend
+"Your Password","Таны нууц үг",module,Magento_Backend
+"Save Cache Settings","Кеш тохиргоог хадгалах",module,Magento_Backend
+"Catalog Rewrites","Каталог дарж бичих",module,Magento_Backend
+Refresh,Шинэчилэх,module,Magento_Backend
+"Images Cache","Зургуудын кеш",module,Magento_Backend
+Clear,Цэвэрлэх,module,Magento_Backend
+"Search Index","Хайлтын индекс",module,Magento_Backend
+Rebuild,Дахин боловсруулах,module,Magento_Backend
+"Inventory Stock Status","Агуулга дахь нөөц",module,Magento_Backend
+"Rebuild Catalog Index","Каталог индексийг дахин боловсруулах",module,Magento_Backend
+"Rebuild Flat Catalog Category","Флат Каталог Категорийг дахин боловсруулах",module,Magento_Backend
+"Rebuild Flat Catalog Product","Флат Каталог Бүтээгдэхүүнийг дахин боловсруулах",module,Magento_Backend
+"Cache Control","Кеш хяналт",module,Magento_Backend
+"All Cache","Бүх кеш",module,Magento_Backend
+"No change","Өөрчлөлтгүй",module,Magento_Backend
+Disable,Түгжих,module,Magento_Backend
+Enable,Идэвхижүүлэх,module,Magento_Backend
+"Add Design Change","Дизайны өөрчлөлт нэмэх",module,Magento_Backend
+Back,Буцах,module,Magento_Backend
+Delete,Устгах,module,Magento_Backend
+"Are you sure?","Та итгэлтэй байна уу?",module,Magento_Backend
+Save,Хадгалах,module,Magento_Backend
+"Edit Design Change","Дизайны өөрчлөлтийг засварлах",module,Magento_Backend
+"New Store Design Change","Шинэ дэлгүүрийн дизайныг засварлах Change",module,Magento_Backend
+"General Settings","Ерөнхий тохируулга",module,Magento_Backend
+Store,Дэлгүүр,module,Magento_Backend
+"-- Please Select --","-- Сонгоно уу --",module,Magento_Backend
+"Custom Design","Хэрэглэгч тодорхойлсон дизайн",module,Magento_Backend
+"Date From","Өдрөөс",module,Magento_Backend
+"Date To","Өдөр хүртэл",module,Magento_Backend
+"Design Change","Дизайн өөрчилөлт",module,Magento_Backend
+General,Ерөнхий,module,Magento_Backend
+Cancel,Болих,module,Magento_Backend
+"Delete %1 '%2'","Устгах %1 '%2'",module,Magento_Backend
+"Delete %1","Устгах %1",module,Magento_Backend
+"Block Information","Блок мэдээлэл",module,Magento_Backend
+"Backup Options","Нөөцийн сонголтууд",module,Magento_Backend
+"Create DB Backup","Өгөгдлийн сангын нөөц үүсгэх",module,Magento_Backend
+Yes,Тийм,module,Magento_Backend
+No,Үгүй,module,Magento_Backend
+"Delete Store","Дэлгүүр устгах",module,Magento_Backend
+"Delete Web Site","Вэбсайт устгах",module,Magento_Backend
+"Save Web Site","Вэбсайт хадгалах",module,Magento_Backend
+"Save Store","Дэлгүүр хадгалах",module,Magento_Backend
+"Save Store View","Дэлгүүрийн харагдац хадгалах",module,Magento_Backend
+"Delete Store View","Дэлгүүрийн харагдац устгах",module,Magento_Backend
+"Edit Web Site","Вэбсайт засварлах",module,Magento_Backend
+"New Web Site","Шинэ вэбсайт",module,Magento_Backend
+"Edit Store","Дэлгүүр засварлах",module,Magento_Backend
+"New Store","Шинэ дэлгүүр",module,Magento_Backend
+"Edit Store View","Дэлгүүрийн харагдац өөрчилөх",module,Magento_Backend
+"New Store View","Шинэ дэлгүүрийн харагдац",module,Magento_Backend
+"Store Information","Дэлгүүрийн мэдээлэл",module,Magento_Backend
+"Web Site","Вэбсайт",module,Magento_Backend
+Name,Нэр,module,Magento_Backend
+"Root Category","Эх категори",module,Magento_Backend
+"Default Store View","Стандарт дэлгүүрийн харагдац",module,Magento_Backend
+"Store View Information","Дэлгүүрийн харагдацын мэдээлэл",module,Magento_Backend
+Code,Код,module,Magento_Backend
+Status,Төлөв,module,Magento_Backend
+Disabled,Идэвхигүй,module,Magento_Backend
+Enabled,Идэвхитэй,module,Magento_Backend
+"Sort Order","Эрэмбэлэх",module,Magento_Backend
+"Web Site Information","Вэбсайт мэдээлэл",module,Magento_Backend
+"Default Store","Стандарт дэлгүүр",module,Magento_Backend
+"Set as Default","Стандарт болгох",module,Magento_Backend
+Stores,Дэлгүүрүүд,module,Magento_Backend
+"Create Website","Вэбсайт үүсгэх",module,Magento_Backend
+"Create Store","Дэлгүүр үүсгэх",module,Magento_Backend
+"Create Store View","Дэлгүүрийн харагдац үүсгэх",module,Magento_Backend
+Home,Эхлэл,module,Magento_Backend
+Reset,Буцааж суулгах,module,Magento_Backend
+"Are you sure you want to do this?","Үүнийг хийхдээ та итгэлтэй байна уу?",module,Magento_Backend
+"Add New Image","Шинэ зураг нэмэх",module,Magento_Backend
 "Export block for grid %1 is not defined","Export block for grid %1 is not defined",module,Magento_Backend
 "Reset Filter","Reset Filter",module,Magento_Backend
 Search,Search,module,Magento_Backend
@@ -432,3 +432,7 @@ Description,Description,module,Magento_Backend
 Tags,Tags,module,Magento_Backend
 "<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>",module,Magento_Backend
 "Community Edition","Community Edition",module,Magento_Backend
+
+
+
+
