@@ -67,7 +67,7 @@ php bin/magento setup:static-content:deploy mn_Cyrl_MN
 |Magento_Catalog_Search| |
 |Magento_Catalog_Url_Rewrite| |
 |Magento_Catalog_Widget| |
-|Magento_Catalog| |
+|Magento_Catalog|Орчуулагдаж байна|
 |Magento_Checkout_Agreements| |
 |Magento_Checkout| |
 |Magento_Cms| |
