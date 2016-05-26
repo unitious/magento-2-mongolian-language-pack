@@ -1,29 +1,29 @@
-"Credit Memos","Credit Memos",module,Magento_Sales
-Orders,Orders,module,Magento_Sales
-Invoices,Invoices,module,Magento_Sales
-"We can\'t get the order instance right now.","We can\'t get the order instance right now.",module,Magento_Sales
-"Create New Order","Create New Order",module,Magento_Sales
-"Save Order Address","Save Order Address",module,Magento_Sales
-Shipping,Shipping,module,Magento_Sales
-Billing,Billing,module,Magento_Sales
-"Edit Order %1 %2 Address","Edit Order %1 %2 Address",module,Magento_Sales
-"Order Address Information","Order Address Information",module,Magento_Sales
-"Please correct the parent block for this block.","Please correct the parent block for this block.",module,Magento_Sales
-"Submit Comment","Submit Comment",module,Magento_Sales
-"Submit Order","Submit Order",module,Magento_Sales
-"Are you sure you want to cancel this order?","Are you sure you want to cancel this order?",module,Magento_Sales
-Cancel,Cancel,module,Magento_Sales
-"Billing Address","Billing Address",module,Magento_Sales
-"Payment Method","Payment Method",module,Magento_Sales
-"Order Comment","Order Comment",module,Magento_Sales
-Coupons,Coupons,module,Magento_Sales
-"Please select a customer","Please select a customer",module,Magento_Sales
-"Create New Customer","Create New Customer",module,Magento_Sales
-"Account Information","Account Information",module,Magento_Sales
-From,From,module,Magento_Sales
-To,To,module,Magento_Sales
-Message,Message,module,Magento_Sales
-"Edit Order #%1","Edit Order #%1",module,Magento_Sales
+"Credit Memos","Эрхийн бичиг",module,Magento_Sales
+Orders,Захиалга,module,Magento_Sales
+Invoices,Нэхэмжлэлүүд,module,Magento_Sales
+"We can\'t get the order instance right now.","Захиалгын хүсэлтийг яг одоо авч болохгүй байна.",module,Magento_Sales
+"Create New Order","Шинэ захиалга үүсгэх",module,Magento_Sales
+"Save Order Address","Захиалгын хаяг хадгалах",module,Magento_Sales
+Shipping,Хүргэлт,module,Magento_Sales
+Billing,Төлбөр,module,Magento_Sales
+"Edit Order %1 %2 Address","Захиалга %1 %2 хаяг өөрчилөх",module,Magento_Sales
+"Order Address Information","Захиалгын хаягийн мэдээлэл",module,Magento_Sales
+"Please correct the parent block for this block.","Энэ блокт зориулж эцэг блокыг өөрчилнө үү.",module,Magento_Sales
+"Submit Comment","Тайлбар оруулах",module,Magento_Sales
+"Submit Order","Захиалга хийх",module,Magento_Sales
+"Are you sure you want to cancel this order?","Энэ захиалгыг цуцалж байгаадаа та итгэлтэй байна уу?",module,Magento_Sales
+Cancel,Болих,module,Magento_Sales
+"Billing Address","Төлбөрийн хаяг",module,Magento_Sales
+"Payment Method","Төлбөрийн арга",module,Magento_Sales
+"Order Comment","Захиалгын тайлбар",module,Magento_Sales
+Coupons,Купон,module,Magento_Sales
+"Please select a customer","Хэрэглэгчийг сонгоно уу",module,Magento_Sales
+"Create New Customer","Шинэ хэрэглэгч үүсгэх",module,Magento_Sales
+"Account Information","Дансны мэдээлэл",module,Magento_Sales
+From,-Аас4,module,Magento_Sales
+To,Хүртэл,module,Magento_Sales
+Message,Зурвас,module,Magento_Sales
+"Edit Order #%1","Захиалга #%1 өөрчилөх",module,Magento_Sales
 "Create New Order for %1 in %2","Create New Order for %1 in %2",module,Magento_Sales
 "Create New Order for New Customer in %1","Create New Order for New Customer in %1",module,Magento_Sales
 "Create New Order for %1","Create New Order for %1",module,Magento_Sales
