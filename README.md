@@ -116,7 +116,7 @@ php bin/magento setup:static-content:deploy mn_Cyrl_MN
 |Magento_Review| |
 |Magento_Rss| |
 |Magento_Rule| |
-|Magento_Sales_Rule| |
+|Magento_Sales_Rule|Орчуулагдаж байна|
 |Magento_Sales_Sequence| |
 |Magento_Sales| |
 |Magento_Search| |
