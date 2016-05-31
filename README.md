@@ -116,9 +116,9 @@ php bin/magento setup:static-content:deploy mn_Cyrl_MN
 |Magento_Review| |
 |Magento_Rss| |
 |Magento_Rule| |
-|Magento_Sales_Rule|Орчуулагдаж байна|
+|Magento_Sales_Rule||
 |Magento_Sales_Sequence| |
-|Magento_Sales| |
+|Magento_Sales|100%|
 |Magento_Search| |
 |Magento_Send_Friend| |
 |Magento_Shipping| |
@@ -139,18 +139,18 @@ php bin/magento setup:static-content:deploy mn_Cyrl_MN
 |Magento_Weee| |
 |Magento_Widget| |
 |Magento_Wishlist| |
-|lib/web/mage/adminhtml/backup.js| |
-|lib/web/mage/adminhtml/wysiwyg/widget.js| |
-|lib/web/mage/backend/suggest.js| |
-|lib/web/mage/decorate.js| |
-|lib/web/mage/dropdown.js| |
-|lib/web/mage/loader.js| |
-|lib/web/mage/loaderold.js| |
-|lib/web/mage/menu.js| |
-|lib/web/mage/translate-inline-vde.js| |
-|lib/web/mage/translate-inline.js| |
-|lib/web/mage/validation.js| |
-|lib/web/mage/validation/validation.js| |
+|lib/web/mage/adminhtml/backup.js|100%|
+|lib/web/mage/adminhtml/wysiwyg/widget.js|100%|
+|lib/web/mage/backend/suggest.js|100%|
+|lib/web/mage/decorate.js|100%|
+|lib/web/mage/dropdown.js|100%|
+|lib/web/mage/loader.js|100%|
+|lib/web/mage/loaderold.js|100%|
+|lib/web/mage/menu.js|100%|
+|lib/web/mage/translate-inline-vde.js|100%|
+|lib/web/mage/translate-inline.js|100%|
+|lib/web/mage/validation.js|100%|
+|lib/web/mage/validation/validation.js|100%|
 |Magento_Google_Analytics| |
 |Magento_Webapi_Security| |
 |frontend/magento/blank| |
