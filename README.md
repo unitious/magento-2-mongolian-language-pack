@@ -96,7 +96,7 @@ php bin/magento setup:static-content:deploy mn_Cyrl_MN
 |Magento_Import_Export| |
 |Magento_Indexer| |
 |Magento_Integration| |
-|Magento_Layered_Navigation| |
+|Magento_Layered_Navigation|100%|
 |Magento_Marketplace| |
 |Magento_Media_Storage| |
 |Magento_Msrp| |
