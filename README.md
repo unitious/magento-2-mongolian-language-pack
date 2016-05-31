@@ -153,5 +153,5 @@ php bin/magento setup:static-content:deploy mn_Cyrl_MN
 |lib/web/mage/validation/validation.js|100%|
 |Magento_Google_Analytics| |
 |Magento_Webapi_Security| |
-|frontend/magento/blank| |
-|frontend/magento/luma| |
+|frontend/magento/blank|100%|
+|frontend/magento/luma|100%|
