@@ -41,28 +41,28 @@ void,цуцлалт,module,Magento_Authorizenet
 "AVS Response","AVS хариу",module,Magento_Authorizenet
 "Card Code Response","Карт кодны хариу",module,Magento_Authorizenet
 "CAVV Response","CAVV хариу",module,Magento_Authorizenet
-"Fraud Filters","луйврын шүүлтүүр",module,Magento_Authorizenet
-Enabled,Enabled,module,Magento_Authorizenet
-"Payment Action","Payment Action",module,Magento_Authorizenet
-Title,Title,module,Magento_Authorizenet
-"API Login ID","API Login ID",module,Magento_Authorizenet
-"Transaction Key","Transaction Key",module,Magento_Authorizenet
-"Merchant MD5","Merchant MD5",module,Magento_Authorizenet
-"New Order Status","New Order Status",module,Magento_Authorizenet
-"Test Mode","Test Mode",module,Magento_Authorizenet
-"Gateway URL","Gateway URL",module,Magento_Authorizenet
-"Transaction Details URL","Transaction Details URL",module,Magento_Authorizenet
-"Accepted Currency","Accepted Currency",module,Magento_Authorizenet
-Debug,Debug,module,Magento_Authorizenet
-"Email Customer","Email Customer",module,Magento_Authorizenet
-"Merchant's Email","Merchant's Email",module,Magento_Authorizenet
-"Credit Card Types","Credit Card Types",module,Magento_Authorizenet
-"Credit Card Verification","Credit Card Verification",module,Magento_Authorizenet
-"Payment from Applicable Countries","Payment from Applicable Countries",module,Magento_Authorizenet
-"Payment from Specific Countries","Payment from Specific Countries",module,Magento_Authorizenet
-"Minimum Order Total","Minimum Order Total",module,Magento_Authorizenet
-"Maximum Order Total","Maximum Order Total",module,Magento_Authorizenet
-"Sort Order","Sort Order",module,Magento_Authorizenet
+"Fraud Filters","Залилан шүүлтүүр",module,Magento_Authorizenet
+Enabled,Идэвхитэй,module,Magento_Authorizenet
+"Payment Action","Төлөлтийн үйлдэл",module,Magento_Authorizenet
+Title,Гарчиг,module,Magento_Authorizenet
+"API Login ID","API нэвтрэх ID",module,Magento_Authorizenet
+"Transaction Key","Гүйлгээний түлхүүр",module,Magento_Authorizenet
+"Merchant MD5","Худалдааны MD5",module,Magento_Authorizenet
+"New Order Status","Шинэ захиалгын статус",module,Magento_Authorizenet
+"Test Mode","Тест горим",module,Magento_Authorizenet
+"Gateway URL","Гарцын URL",module,Magento_Authorizenet
+"Transaction Details URL","Гүйлгээний дэлгэрэнгүй URL",module,Magento_Authorizenet
+"Accepted Currency","Зөвшөөрөгдсөн мөнгөн тэмдэгт",module,Magento_Authorizenet
+Debug,Дебаг,module,Magento_Authorizenet
+"Email Customer","Хэрэглэгчийн эмэйл",module,Magento_Authorizenet
+"Merchant's Email","Худалдааны эмэйл",module,Magento_Authorizenet
+"Credit Card Types","Кредит картны төрөл",module,Magento_Authorizenet
+"Credit Card Verification","Кредит картны баталгаажуулалт",module,Magento_Authorizenet
+"Payment from Applicable Countries","Таарсан улсуудаас төлөлт",module,Magento_Authorizenet
+"Payment from Specific Countries","Тодорхой улсуудаас төлөлт",module,Magento_Authorizenet
+"Minimum Order Total","Захиалгын хамгийн бага дүн",module,Magento_Authorizenet
+"Maximum Order Total","Захиалгын хамгийн их дүн",module,Magento_Authorizenet
+"Sort Order","Эрэмбэлэх",module,Magento_Authorizenet
 
 
 

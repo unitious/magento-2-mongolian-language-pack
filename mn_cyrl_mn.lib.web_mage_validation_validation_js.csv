@@ -1,4 +1,4 @@
-"Please enter a date between %min and %max.","Please enter a date between %min and %max.",lib,lib/web/mage/validation/validation.js
-"Please enter a valid year (1900-%1).","Please enter a valid year (1900-%1).",lib,lib/web/mage/validation/validation.js
-"Please enter a valid day (1-%1).","Please enter a valid day (1-%1).",lib,lib/web/mage/validation/validation.js
-"Please enter a date from the past.","Please enter a date from the past.",lib,lib/web/mage/validation/validation.js
+"Please enter a date between %min and %max.","%min болон %max хооронд огноо оруулна уу.",lib,lib/web/mage/validation/validation.js
+"Please enter a valid year (1900-%1).","Зөв жил (1900-%1) оруулна уу.",lib,lib/web/mage/validation/validation.js
+"Please enter a valid day (1-%1).","Зөв өдөр (1-%1) оруулна уу.",lib,lib/web/mage/validation/validation.js
+"Please enter a date from the past.","Өнгөрсөн цагаас өдөр сонгоно уу.",lib,lib/web/mage/validation/validation.js
