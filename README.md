@@ -65,41 +65,41 @@ php bin/magento setup:static-content:deploy mn_Cyrl_MN
 |Magento_Catalog_Inventory| |
 |Magento_Catalog_Rule| |
 |Magento_Catalog_Search| |
-|Magento_Catalog_Url_Rewrite| |
+|Magento_Catalog_Url_Rewrite|100% |
 |Magento_Catalog_Widget| |
 |Magento_Catalog|Орчуулагдаж байна|
 |Magento_Checkout_Agreements| |
-|Magento_Checkout| |
-|Magento_Cms| |
+|Magento_Checkout|100% |
+|Magento_Cms|100% |
 |Magento_Config| |
 |Magento_Configurable_Product| |
 |Magento_Contact| |
-|Magento_Cookie| |
+|Magento_Cookie|100% |
 |Magento_Cron| |
-|Magento_Currency_Symbol| |
+|Magento_Currency_Symbol|100% |
 |Magento_Customer_Import_Export| |
 |Magento_Customer| |
 |Magento_Deploy| |
-|Magento_Developer| |
+|Magento_Developer|100% |
 |Magento_Dhl| |
 |Magento_Directory| |
-|Magento_Downloadable_Import_Export| |
+|Magento_Downloadable_Import_Export|100% |
 |Magento_Downloadable| |
 |Magento_Eav| |
-|Magento_Email| |
-|Magento_Encryption_Key| |
+|Magento_Email|100% |
+|Magento_Encryption_Key|100% |
 |Magento_Fedex| |
 |Magento_Gift_Message| |
 |Magento_Google_Adwords| |
-|Magento_Google_Optimizer| |
-|Magento_Grouped_Product| |
+|Magento_Google_Optimizer|100% |
+|Magento_Grouped_Product|100% |
 |Magento_Import_Export| |
 |Magento_Indexer| |
 |Magento_Integration| |
-|Magento_Layered_Navigation| |
+|Magento_Layered_Navigation|100%|
 |Magento_Marketplace| |
 |Magento_Media_Storage| |
-|Magento_Msrp| |
+|Magento_Msrp|100% |
 |Magento_Multishipping| |
 |Magento_New_Relic_Reporting| |
 |Magento_Newsletter| |
@@ -114,8 +114,8 @@ php bin/magento setup:static-content:deploy mn_Cyrl_MN
 |Magento_Quote| |
 |Magento_Reports| |
 |Magento_Review| |
-|Magento_Rss| |
-|Magento_Rule| |
+|Magento_Rss|100% |
+|Magento_Rule|100% |
 |Magento_Sales_Rule||
 |Magento_Sales_Sequence| |
 |Magento_Sales|100%|
@@ -125,16 +125,16 @@ php bin/magento setup:static-content:deploy mn_Cyrl_MN
 |Magento_Sitemap| |
 |Magento_Store| |
 |Magento_Swatches| |
-|Magento_Tax_Import_Export| |
+|Magento_Tax_Import_Export|100% |
 |Magento_Tax| |
 |Magento_Theme| |
-|Magento_Translation| |
+|Magento_Translation|100%|
 |Magento_Ui| |
 |Magento_Ups| |
 |Magento_Url_Rewrite| |
 |Magento_User| |
 |Magento_Usps| |
-|Magento_Variable| |
+|Magento_Variable|100%|
 |Magento_Webapi| |
 |Magento_Weee| |
 |Magento_Widget| |
