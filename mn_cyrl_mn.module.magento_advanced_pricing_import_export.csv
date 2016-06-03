@@ -2,4 +2,3 @@
 "Entity type model \'%1\' is not found","__Entity type model \'%1\' олдсонгүй",module,Magento_AdvancedPricingImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","__Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
 "There are no product types available for export","Бүтээгдэхүүний ямар ч төрөл экспортлогдох боломжгүй байна.",module,Magento_AdvancedPricingImportExport
-
