@@ -1,21 +1,21 @@
-"Custom Variables","Custom Variables",module,Magento_Variable
-"Add New Variable","Add New Variable",module,Magento_Variable
-"Save and Continue Edit","Save and Continue Edit",module,Magento_Variable
-"Custom Variable ""%1""","Custom Variable ""%1""",module,Magento_Variable
-"New Custom Variable","New Custom Variable",module,Magento_Variable
-Variable,Variable,module,Magento_Variable
-"Variable Code","Variable Code",module,Magento_Variable
-"Variable Name","Variable Name",module,Magento_Variable
-"Use Default Variable Values","Use Default Variable Values",module,Magento_Variable
-No,No,module,Magento_Variable
-Yes,Yes,module,Magento_Variable
-"Variable HTML Value","Variable HTML Value",module,Magento_Variable
-"Variable Plain Value","Variable Plain Value",module,Magento_Variable
-"You deleted the custom variable.","You deleted the custom variable.",module,Magento_Variable
-"You saved the custom variable.","You saved the custom variable.",module,Magento_Variable
-"Variable Code must be unique.","Variable Code must be unique.",module,Magento_Variable
-"Validation has failed.","Validation has failed.",module,Magento_Variable
+"Custom Variables","Хэрэглэгчийн хувьсагч",module,Magento_Variable
+"Add New Variable","Шинэ хувьсагч нэмэх",module,Magento_Variable
+"Save and Continue Edit","Хадгалах болон Өөрчлөлтийг үргэлжлүүлэх",module,Magento_Variable
+"Custom Variable ""%1""","Хэрэглэгчийн хувьсагч ""%1""",module,Magento_Variable
+"New Custom Variable","Шинэ хэрэглэгчийн хувьсагч",module,Magento_Variable
+Variable,Хувьсагч,module,Magento_Variable
+"Variable Code","Хувьсагчийн код",module,Magento_Variable
+"Variable Name","Хувьсагчийн нэр",module,Magento_Variable
+"Use Default Variable Values","Хувьсагчийн стандарт утгуудыг хэрэглэх",module,Magento_Variable
+No,Үгүй,module,Magento_Variable
+Yes,Тийм,module,Magento_Variable
+"Variable HTML Value","Хувьсагч HTML утга",module,Magento_Variable
+"Variable Plain Value","Хувьсагч Энгийн утга",module,Magento_Variable
+"You deleted the custom variable.","Та хэрэглэгчийн хувьсагчийг устгасан.",module,Magento_Variable
+"You saved the custom variable.","Та хэрэглэгчийн хувьсагчийг хадгалсан.",module,Magento_Variable
+"Variable Code must be цор ганц байх ёстой.","Хувьсагчийн код .",module,Magento_Variable
+"Validation has failed.","Баталгаа бүтсэнгүй.",module,Magento_Variable
 %1,%1,module,Magento_Variable
-"Insert Variable...","Insert Variable...",module,Magento_Variable
-"Variable ID","Variable ID",module,Magento_Variable
-Name,Name,module,Magento_Variable
+"Insert Variable...","Хувьсагч оруулна уу...",module,Magento_Variable
+"Variable ID","Хувьсагч ID",module,Magento_Variable
+Name,Нэр,module,Magento_Variable

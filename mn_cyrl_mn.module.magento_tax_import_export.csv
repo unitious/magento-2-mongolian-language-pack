@@ -1,19 +1,19 @@
-Code,Code,module,Magento_TaxImportExport
-Country,Country,module,Magento_TaxImportExport
-State,State,module,Magento_TaxImportExport
-"Zip/Post Code","Zip/Post Code",module,Magento_TaxImportExport
-Rate,Rate,module,Magento_TaxImportExport
-"Zip/Post is Range","Zip/Post is Range",module,Magento_TaxImportExport
-"Range From","Range From",module,Magento_TaxImportExport
-"Range To","Range To",module,Magento_TaxImportExport
-"Tax Zones and Rates","Tax Zones and Rates",module,Magento_TaxImportExport
-"Import and Export Tax Rates","Import and Export Tax Rates",module,Magento_TaxImportExport
-"The tax rate has been imported.","The tax rate has been imported.",module,Magento_TaxImportExport
-"Invalid file upload attempt","Invalid file upload attempt",module,Magento_TaxImportExport
-"Invalid file upload attempt.","Invalid file upload attempt.",module,Magento_TaxImportExport
-"Invalid file format.","Invalid file format.",module,Magento_TaxImportExport
+Code,Код,module,Magento_TaxImportExport
+Country,Улс,module,Magento_TaxImportExport
+State,Аймаг/Дүүрэг,module,Magento_TaxImportExport
+"Zip/Post Code","Шуудангийн индекс код",module,Magento_TaxImportExport
+Rate,Хэмжээ,module,Magento_TaxImportExport
+"Zip/Post is Range","Шуудангийн индекс бол холын зай",module,Magento_TaxImportExport
+"Range From","Зай хаанаас",module,Magento_TaxImportExport
+"Range To","Зай хаашаа",module,Magento_TaxImportExport
+"Tax Zones and Rates","Татвар бүс болон хэмжээ",module,Magento_TaxImportExport
+"Import and Export Tax Rates","Импорт болон экспорт төтварын хэмжээ",module,Magento_TaxImportExport
+"The tax rate has been imported.","Татварын хэмжээ импортлогдсон.",module,Magento_TaxImportExport
+"Invalid file upload attempt","Хүчингүй файл оруулсан байна",module,Magento_TaxImportExport
+"Invalid file upload attempt.","Хүчингүй файл оруулсан байна.",module,Magento_TaxImportExport
+"Invalid file format.","Хүчингүй файлын формат.",module,Magento_TaxImportExport
 "One of the countries has invalid code.","One of the countries has invalid code.",module,Magento_TaxImportExport
-"Import Tax Rates","Import Tax Rates",module,Magento_TaxImportExport
-"Export Tax Rates","Export Tax Rates",module,Magento_TaxImportExport
+"Import Tax Rates","Татварын хэмжээнүүдийг импортлох",module,Magento_TaxImportExport
+"Export Tax Rates","Татварын хэмжээнүүдийг экспортлох",module,Magento_TaxImportExport
 CSV,CSV,module,Magento_TaxImportExport
 "Excel XML","Excel XML",module,Magento_TaxImportExport

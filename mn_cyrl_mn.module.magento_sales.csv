@@ -199,8 +199,8 @@ Sales,Худалдаа,module,Magento_Sales
 """%1"" coupon code was not applied. Do not apply discount is selected for item(s)","""%1"" купон код орсонгүй. Сонгосон артиклуудад хямдрал үйлчилэхгүй",module,Magento_Sales
 """%1"" coupon code is not valid.","""%1"" купон код хүчингүй.",module,Magento_Sales
 "The coupon code has been accepted.","Купон код зөвшөөрөгдлөө.",module,Magento_Sales
-"Quote item id is not received.","Саналын артиклийн ID ирээгүй байна.",module,Magento_Sales
-"Quote item is not loaded.","Саналын артикль ачаалагдахгүй байна.",module,Magento_Sales
+"Quote item id is not received.","Квотын артиклийн ID ирээгүй байна.",module,Magento_Sales
+"Quote item is not loaded.","Квот артикль ачаалагдахгүй байна.",module,Magento_Sales
 "New Order","Шинэ захиалга",module,Magento_Sales
 "You created the order.","Та захиалга үүсгэлээ.",module,Magento_Sales
 "Order saving error: %1","Захиалга хадгалахад гарсан алдаа: %1",module,Magento_Sales
@@ -492,7 +492,7 @@ Subtotal:,Завсрын дүн:,module,Magento_Sales
 "Move to Wish List","Хүсэлтийн жагсаалт руу зөөх",module,Magento_Sales
 "Subscribe to Newsletter","Зар мэдээг захиалах",module,Magento_Sales
 "Click to change shipping method","Хүргэлтийн аргыг өөрчлөхийн тулд дарна уу",module,Magento_Sales
-"Sorry, no quotes are available for this order.","Уучлаарай, энэ захиалгад зориулсан санал байхгүй байна.",module,Magento_Sales
+"Sorry, no quotes are available for this order.","Уучлаарай, энэ захиалгад зориулсан квот байхгүй байна.",module,Magento_Sales
 "Get shipping methods and rates","Хүргэлтийн арга болон үнийг авах",module,Magento_Sales
 "You don\'t need to select a shipping method.","Та хүргэлтийн аргыг сонгох хэрэггүй.",module,Magento_Sales
 "Customer\'s Activities","Хэрэглэгчийн идэвхүүд",module,Magento_Sales

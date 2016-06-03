@@ -1,96 +1,96 @@
-"Add New Template","Add New Template",module,Magento_Email
-"Transactional Emails","Transactional Emails",module,Magento_Email
-Back,Back,module,Magento_Email
-Reset,Reset,module,Magento_Email
-"Delete Template","Delete Template",module,Magento_Email
-"Convert to Plain Text","Convert to Plain Text",module,Magento_Email
-"Return Html Version","Return Html Version",module,Magento_Email
-"Preview Template","Preview Template",module,Magento_Email
-"Save Template","Save Template",module,Magento_Email
-"Load Template","Load Template",module,Magento_Email
-"Edit Email Template","Edit Email Template",module,Magento_Email
-"New Email Template","New Email Template",module,Magento_Email
-"Default Config","Default Config",module,Magento_Email
-"Template Information","Template Information",module,Magento_Email
-"Currently Used For","Currently Used For",module,Magento_Email
-"Template Name","Template Name",module,Magento_Email
-"Template Subject","Template Subject",module,Magento_Email
-"Insert Variable...","Insert Variable...",module,Magento_Email
-"Template Content","Template Content",module,Magento_Email
-"Template Styles","Template Styles",module,Magento_Email
-Preview,Preview,module,Magento_Email
-Unknown,Unknown,module,Magento_Email
-"You deleted the email template.","You deleted the email template.",module,Magento_Email
-"The email template is currently being used.","The email template is currently being used.",module,Magento_Email
-"We can\'t delete email template data right now. Please review log and try again.","We can\'t delete email template data right now. Please review log and try again.",module,Magento_Email
-"We can\'t find an email template to delete.","We can\'t find an email template to delete.",module,Magento_Email
-"Edit Template","Edit Template",module,Magento_Email
-"Edit System Template","Edit System Template",module,Magento_Email
-"New Template","New Template",module,Magento_Email
-"New System Template","New System Template",module,Magento_Email
-"Email Templates","Email Templates",module,Magento_Email
-"Email Preview","Email Preview",module,Magento_Email
-"An error occurred. The email template can not be opened for preview.","An error occurred. The email template can not be opened for preview.",module,Magento_Email
-"This email template no longer exists.","This email template no longer exists.",module,Magento_Email
-"You saved the email template.","You saved the email template.",module,Magento_Email
-"Area is already set","Area is already set",module,Magento_Email
-"Design config must have area and store.","Design config must have area and store.",module,Magento_Email
-"Base Unsecure URL","Base Unsecure URL",module,Magento_Email
-"Base Secure URL","Base Secure URL",module,Magento_Email
-"General Contact Name","General Contact Name",module,Magento_Email
-"General Contact Email","General Contact Email",module,Magento_Email
-"Sales Representative Contact Name","Sales Representative Contact Name",module,Magento_Email
-"Sales Representative Contact Email","Sales Representative Contact Email",module,Magento_Email
-"Custom1 Contact Name","Custom1 Contact Name",module,Magento_Email
-"Custom1 Contact Email","Custom1 Contact Email",module,Magento_Email
-"Custom2 Contact Name","Custom2 Contact Name",module,Magento_Email
-"Custom2 Contact Email","Custom2 Contact Email",module,Magento_Email
-"Store Name","Store Name",module,Magento_Email
-"Store Phone Number","Store Phone Number",module,Magento_Email
-"Store Hours","Store Hours",module,Magento_Email
-Country,Country,module,Magento_Email
-Region/State,Region/State,module,Magento_Email
-"Zip/Postal Code","Zip/Postal Code",module,Magento_Email
-City,City,module,Magento_Email
-"Street Address 1","Street Address 1",module,Magento_Email
-"Street Address 2","Street Address 2",module,Magento_Email
-"Store Contact Information","Store Contact Information",module,Magento_Email
+"Add New Template","Шинэ темплэйт нэмэх",module,Magento_Email
+"Transactional Emails","Гүйлгээний эмэйл",module,Magento_Email
+Back,Буцах,module,Magento_Email
+Reset,Шинэчлэх,module,Magento_Email
+"Delete Template","Темплэйт устгах",module,Magento_Email
+"Convert to Plain Text","Энгийн текст рүү хөрвүүлэх",module,Magento_Email
+"Return Html Version","Html хувилбарт буцах",module,Magento_Email
+"Preview Template","Темплэйт урьдчилан харах",module,Magento_Email
+"Save Template","Темплэйт хадгалах",module,Magento_Email
+"Load Template","Темплэйт ачаалах",module,Magento_Email
+"Edit Email Template","Эмэйл Темплэйт засах",module,Magento_Email
+"New Email Template","Шинэ Эмэйл Темплэйт",module,Magento_Email
+"Default Config","Стандарт тохиргоо",module,Magento_Email
+"Template Information","Темплэйт мэдээлэл",module,Magento_Email
+"Currently Used For","Одоогоор хэрэглэгдэж байгаа",module,Magento_Email
+"Template Name","Темплэйт нэр",module,Magento_Email
+"Template Subject","Темплэйт гарчиг",module,Magento_Email
+"Insert Variable...","Хувьсагч оруулах...",module,Magento_Email
+"Template Content","Темплэйт агуулга",module,Magento_Email
+"Template Styles","Темплэйт хэв маяг",module,Magento_Email
+Preview,"Урьдчилан харах",module,Magento_Email
+Unknown,Танигдаагүй,module,Magento_Email
+"You deleted the email template.","Та эмэйл темплэйт устгасан.",module,Magento_Email
+"The email template is currently being used.","Энэ эмэйл темплэйт одоогоор хэрэглэгдэж байна.",module,Magento_Email
+"We can\'t delete email template data right now. Please review log and try again.","Эмэйл темплэйтийг яг одоогоор устгаж чадахгүй. Алдааны мэдээллийг хянаад дахин оролдоно уу.",module,Magento_Email
+"We can\'t find an email template to delete.","Устгах эмэйл темплэйтийг олохгүй байна.",module,Magento_Email
+"Edit Template","Темплэйт өөрчилөх",module,Magento_Email
+"Edit System Template","Систем темплэйт өөрчилөх",module,Magento_Email
+"New Template","Шинэ темплэйт",module,Magento_Email
+"New System Template","Шинэ систем темплэйт",module,Magento_Email
+"Email Templates","Эмэйл темплэйт",module,Magento_Email
+"Email Preview","Эмэйл урьдчилан харах",module,Magento_Email
+"An error occurred. The email template can not be opened for preview.","Алдаа гарлаа. Энэ эмэйл темплэйт урьдчилан харахаар нээгдэж болохгүй байна.",module,Magento_Email
+"This email template no longer exists.","Энэ эмэйл темплэйт байхгүй болсон байна.",module,Magento_Email
+"You saved the email template.","Та эмэйл темплэйтийг хадгаллаа.",module,Magento_Email
+"Area is already set","Хамрах хүрээ аль хэдийн суулгагдсан",module,Magento_Email
+"Design config must have area and store.","Дизайны тохиргоо хамрах хүрээ болон дэлгүүртэй байх ёстой.",module,Magento_Email
+"Base Unsecure URL","Баталгаагүй үндсэн URL",module,Magento_Email
+"Base Secure URL","Баталгаатай үндсэн URL",module,Magento_Email
+"General Contact Name","Ерөнхий холбоо барих нэр",module,Magento_Email
+"General Contact Email","Ерөнхий холбоо барих эмэйл",module,Magento_Email
+"Sales Representative Contact Name","Худалдааны төлөөлөгчийн холбоо барих нэр",module,Magento_Email
+"Sales Representative Contact Email","Худалдааны төлөөлөгчийн холбоо барих эмэйл",module,Magento_Email
+"Custom1 Contact Name","Хэрэглэгч1 холбоо барих нэр",module,Magento_Email
+"Custom1 Contact Email","Хэрэглэгч1 холбоо барих эмэйл",module,Magento_Email
+"Custom2 Contact Name","Хэрэглэгч2 холбоо барих нэр",module,Magento_Email
+"Custom2 Contact Email","Хэрэглэгч2 холбоо барих эмэйл",module,Magento_Email
+"Store Name","Дэлгүүрийн нэр",module,Magento_Email
+"Store Phone Number","Дэлгүүрийн утасны дугаар",module,Magento_Email
+"Store Hours","Дэлгүүрийн цагууд",module,Magento_Email
+Country,Улс,module,Magento_Email
+Region/State,Аймаг/Дүүрэг,module,Magento_Email
+"Zip/Postal Code","Шуудангийн индекс код",module,Magento_Email
+City,Хот,module,Magento_Email
+"Street Address 1","Гудамжны хаяг 1",module,Magento_Email
+"Street Address 2","Гудамжны хаяг 2",module,Magento_Email
+"Store Contact Information","Дэлгүүрийн холбоо барих мэдээлэл",module,Magento_Email
 %1,%1,module,Magento_Email
-"Template Variables","Template Variables",module,Magento_Email
-"Please enter a template name.","Please enter a template name.",module,Magento_Email
-"Duplicate Of Template Name","Duplicate Of Template Name",module,Magento_Email
-"Invalid transactional email code: %1","Invalid transactional email code: %1",module,Magento_Email
-"Requested invalid store ""%1""","Requested invalid store ""%1""",module,Magento_Email
-"""file"" parameter must be specified","""file"" parameter must be specified",module,Magento_Email
-"Contents of %s could not be loaded or is empty","Contents of %s could not be loaded or is empty",module,Magento_Email
-"""file"" parameter must be specified and must not be empty","""file"" parameter must be specified and must not be empty",module,Magento_Email
-"Design params must be set before calling this method","Design params must be set before calling this method",module,Magento_Email
+"Template Variables","Темплэйт хувьсагчууд",module,Magento_Email
+"Please enter a template name.","Темплэйт нэрийг оруулна уу.",module,Magento_Email
+"Duplicate Of Template Name","Темплэйт нэр давхардсан байна",module,Magento_Email
+"Invalid transactional email code: %1","Хүчингүй гүйлгээний эмэйлийн код: %1",module,Magento_Email
+"Requested invalid store ""%1""","Дуудагдсан хүчингүй дэлгүүр ""%1""",module,Magento_Email
+"""file"" parameter must be specified","""file"" параметр тогтоогдсон байх ёстой",module,Magento_Email
+"Contents of %s could not be loaded or is empty","%s агуулга холбогдохгүй эсвэл хоосон байна",module,Magento_Email
+"""file"" parameter must be specified and must not be empty","""file"" параметр тогтоогдсон байх ба хоосон байж болохгүй",module,Magento_Email
+"Design params must be set before calling this method","Энэ үйлдлийг дуудахаас өмнө дизайны параметрүүд өгөгдсөн байх ёстой",module,Magento_Email
 "<pre> %1 </pre>","<pre> %1 </pre>",module,Magento_Email
-"CSS inlining error:","CSS inlining error:",module,Magento_Email
-"Error filtering template: %s","Error filtering template: %s",module,Magento_Email
-"We're sorry, an error has occurred while generating this email.","We're sorry, an error has occurred while generating this email.",module,Magento_Email
-"Invalid sender data","Invalid sender data",module,Magento_Email
-Title,Title,module,Magento_Email
-"Load default template","Load default template",module,Magento_Email
-Template,Template,module,Magento_Email
-"Are you sure you want to strip tags?","Are you sure you want to strip tags?",module,Magento_Email
-"Are you sure you want to delete this template?","Are you sure you want to delete this template?",module,Magento_Email
-"The template did not load. Please review the log for details.","The template did not load. Please review the log for details.",module,Magento_Email
-"Thank you, %store_name","Thank you, %store_name",module,Magento_Email
-Emails,Emails,module,Magento_Email
-"Logo Image","Logo Image",module,Magento_Email
-"Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in width/height fields below.","Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in width/height fields below.",module,Magento_Email
-"Logo Image Alt","Logo Image Alt",module,Magento_Email
-"Logo Width","Logo Width",module,Magento_Email
-"Only necessary if image has been uploaded above. Enter number of pixels, without appending ""px"".","Only necessary if image has been uploaded above. Enter number of pixels, without appending ""px"".",module,Magento_Email
-"Logo Height","Logo Height",module,Magento_Email
-"Header Template","Header Template",module,Magento_Email
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Email
-"Footer Template","Footer Template",module,Magento_Email
-"No Templates Found","No Templates Found",module,Magento_Email
+"CSS inlining error:","CSS дотоод алдаа:",module,Magento_Email
+"Error filtering template: %s","Темплэйт шүүлтийн алдаа: %s",module,Magento_Email
+"We're sorry, an error has occurred while generating this email.","Уучлаарай, энэ эмэйлийг үүсгэж байхад алдаа гарлаа..",module,Magento_Email
+"Invalid sender data","Хүчингүй илгээгчийн өгөгдөл",module,Magento_Email
+Title,Гарчиг,module,Magento_Email
+"Load default template","Стандарт темплэйтийг ачаалах",module,Magento_Email
+Template,Темплэйт,module,Magento_Email
+"Are you sure you want to strip tags?","Таг-уудыг хасахдаа итгэлтэй байна уу?",module,Magento_Email
+"Are you sure you want to delete this template?","Энэ темплэйтийг устгахдаа та итгэлтэй байна уу?",module,Magento_Email
+"The template did not load. Please review the log for details.","Энэ темплэйт ачаалагдсангүй. Дэлгэрэнгүйг алдааны мэдээллээс хянана уу.",module,Magento_Email
+"Thank you, %store_name","Баярлалаа, %store_name",module,Magento_Email
+Emails,Эмэйлүүд,module,Magento_Email
+"Logo Image","Лого зураг",module,Magento_Email
+"Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in width/height fields below.","Зөвшөөрөгдсөн файлын төрлүүд: jpg, jpeg, gif, png. Логог өндөр нягтралтай дэлгэцэнд зориулж тааруулахдаа энгийн хэмжээг 3 дахин авах ба 1x хэмжээсүүдийг өргөн/өндөр талбаруудад доор тогтоож өгнө үү.",module,Magento_Email
+"Logo Image Alt","Лого зургийн алтернатив текст",module,Magento_Email
+"Logo Width","Лого өргөн",module,Magento_Email
+"Only necessary if image has been uploaded above. Enter number of pixels, without appending ""px"".","Дээр зураг оруулсан тохиолдолд зөвхөн шаардлагатай. Нягтралын тоог ""px""-гүйгээр оруул.",module,Magento_Email
+"Logo Height","Лого өндөр",module,Magento_Email
+"Header Template","Толгойн темплэйт",module,Magento_Email
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Эмэйл темплэйт ""Стандарт"" сонголт сонгогдсон үед загвар буцаж унах дээр суурилж хэрэглэгдэнэ.",module,Magento_Email
+"Footer Template","Хөлийн хэсгийн темплэйт",module,Magento_Email
+"No Templates Found","Ямар нэг темплэйт олдсонгүй",module,Magento_Email
 ID,ID,module,Magento_Email
-Added,Added,module,Magento_Email
-Updated,Updated,module,Magento_Email
-Subject,Subject,module,Magento_Email
-"Template Type","Template Type",module,Magento_Email
-Action,Action,module,Magento_Email
+Added,Нэмэгдсэн,module,Magento_Email
+Updated,Шинэчлэгдсэн,module,Magento_Email
+Subject,Гарчиг,module,Magento_Email
+"Template Type","Темплэйт төрөл",module,Magento_Email
+Action,Үйлдэл,module,Magento_Email

@@ -1,13 +1,13 @@
-"Invalid domain name: %1","Invalid domain name: %1",module,Magento_Cookie
-"Invalid cookie lifetime: %1","Invalid cookie lifetime: %1",module,Magento_Cookie
-"Invalid cookie path","Invalid cookie path",module,Magento_Cookie
-"We use cookies to make your experience better.","We use cookies to make your experience better.",module,Magento_Cookie
-"To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.",module,Magento_Cookie
-"<a href=""%1"">Learn more</a>.","<a href=""%1"">Learn more</a>.",module,Magento_Cookie
-"Allow Cookies","Allow Cookies",module,Magento_Cookie
-"Default Cookie Settings","Default Cookie Settings",module,Magento_Cookie
-"Cookie Lifetime","Cookie Lifetime",module,Magento_Cookie
-"Cookie Path","Cookie Path",module,Magento_Cookie
-"Cookie Domain","Cookie Domain",module,Magento_Cookie
-"Use HTTP Only","Use HTTP Only",module,Magento_Cookie
-"Cookie Restriction Mode","Cookie Restriction Mode",module,Magento_Cookie
+"Invalid domain name: %1","Хүчингүй домэйн нэр: %1",module,Magento_Cookie
+"Invalid cookie lifetime: %1","Хүчингүй күүки наслалт: %1",module,Magento_Cookie
+"Invalid cookie path","Хүчингүй күүки зам",module,Magento_Cookie
+"We use cookies to make your experience better.","Танд илүү сайн туршлага хийхэд зориулж күүки хэрэглэдэг.",module,Magento_Cookie
+"To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","Шинэ хэрэглэгчийн өгөгдөлийн дүрмийн дагуу күүки ашиглахдаа таны зөвшөөрлийг авч байна.",module,Magento_Cookie
+"<a href=""%1"">Learn more</a>.","<a href=""%1"">Илүү мэдэж авах</a>.",module,Magento_Cookie
+"Allow Cookies","Күүки зөвшөөрөх",module,Magento_Cookie
+"Default Cookie Settings","Стандарт Күүки тохируулга",module,Magento_Cookie
+"Cookie Lifetime","Күүки наслалт",module,Magento_Cookie
+"Cookie Path","Күүки зам",module,Magento_Cookie
+"Cookie Domain","Күүки домэйн",module,Magento_Cookie
+"Use HTTP Only","Зөвхөн HTTP хэрэглэх",module,Magento_Cookie
+"Cookie Restriction Mode","Күүки хязгаарлах горим",module,Magento_Cookie

@@ -1,7 +1,7 @@
-"Product View Optimization","Product View Optimization",module,Magento_GoogleOptimizer
-"Page View Optimization","Page View Optimization",module,Magento_GoogleOptimizer
-"Google Analytics Content Experiments Code","Google Analytics Content Experiments Code",module,Magento_GoogleOptimizer
-"Experiment Code","Experiment Code",module,Magento_GoogleOptimizer
-"Experiment code should be added to the original page only.","Experiment code should be added to the original page only.",module,Magento_GoogleOptimizer
-"Category View Optimization","Category View Optimization",module,Magento_GoogleOptimizer
-"Enable Content Experiments","Enable Content Experiments",module,Magento_GoogleOptimizer
+"Product View Optimization","Бүтээгдэхүүний харагдац оновчтой болгох",module,Magento_GoogleOptimizer
+"Page View Optimization","Хуудас харагдац оновчтой болгох",module,Magento_GoogleOptimizer
+"Google Analytics Content Experiments Code","Гүүгл анализын агуулга туршилтын код",module,Magento_GoogleOptimizer
+"Experiment Code","Туршилтын код",module,Magento_GoogleOptimizer
+"Experiment code should be added to the original page only.","Туршилтын код зөвхөн оригналь хуудаст нэмэгдэнэ.",module,Magento_GoogleOptimizer
+"Category View Optimization","Категори харагдац оновчтой болгох",module,Magento_GoogleOptimizer
+"Enable Content Experiments","Агуулга туршилтыг идэвхижүүлэх",module,Magento_GoogleOptimizer
