@@ -138,7 +138,7 @@ php bin/magento setup:static-content:deploy mn_Cyrl_MN
 |Magento_Webapi| |
 |Magento_Weee| |
 |Magento_Widget| |
-|Magento_Wishlist| |
+|Magento_Wishlist|Орчуулж байгаа |
 |lib/web/mage/adminhtml/backup.js|100%|
 |lib/web/mage/adminhtml/wysiwyg/widget.js|100%|
 |lib/web/mage/backend/suggest.js|100%|
