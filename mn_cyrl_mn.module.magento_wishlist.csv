@@ -105,11 +105,11 @@ Enabled,Идэвхжсэн,module,Magento_Wishlist
 "No Items Found","Ямар ч артикль олдсонгүй",module,Magento_Wishlist
 "Product Name","Бүтээгдэхүүний нэр",module,Magento_Wishlist
 "User Description","Хэрэглэгчийн тодорхойлолт",module,Magento_Wishlist
-Quantity,Тоо ширхэг,module,Magento_Wishlist
+Quantity,"Тоо ширхэг",module,Magento_Wishlist
 "Add Locale","Газар нэмэх",module,Magento_Wishlist
 "Add Date","Өдөр нэмэх",module,Magento_Wishlist
 "Days in Wish List","Хүслийн жагсаалт дахь өдрүүд",module,Magento_Wishlist
 Action,Үйлдэл,module,Magento_Wishlist
-Configure,Тохиргоо хийх,module,Magento_Wishlist
+Configure,"Тохиргоо хийх",module,Magento_Wishlist
 Delete,Устгах,module,Magento_Wishlist
 "Product Details and Comment","Бүтээгдэхүүний дэлгэрэнгүй болон сэтгэгдэл",module,Magento_Wishlist
