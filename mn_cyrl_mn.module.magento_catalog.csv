@@ -1,661 +1,661 @@
-Root,Root,module,Magento_Catalog
-"Save Category","Save Category",module,Magento_Catalog
-"Delete Category","Delete Category",module,Magento_Catalog
-Reset,Reset,module,Magento_Catalog
-"New Subcategory","New Subcategory",module,Magento_Catalog
-"New Root Category","New Root Category",module,Magento_Catalog
-"Set Root Category for Store","Set Root Category for Store",module,Magento_Catalog
-"Use Config Settings","Use Config Settings",module,Magento_Catalog
-"Use All Available Attributes","Use All Available Attributes",module,Magento_Catalog
-"Custom Design","Custom Design",module,Magento_Catalog
+Root,Үндэс,module,Magento_Catalog
+"Save Category","Категори хадгалах",module,Magento_Catalog
+"Delete Category","Категори устгах",module,Magento_Catalog
+Reset,Шинэчлэх,module,Magento_Catalog
+"New Subcategory","Шинэ категори",module,Magento_Catalog
+"New Root Category","Шинэ үндэс категори",module,Magento_Catalog
+"Set Root Category for Store","Дэлгүүрийн үндэс категори тогтоох",module,Magento_Catalog
+"Use Config Settings","Config тохиргоонуудыг хэрэглэх",module,Magento_Catalog
+"Use All Available Attributes","Бүх боломжтой аттрибутуудыг хэрэглэх",module,Magento_Catalog
+"Custom Design","Хэрэглэгч тодорхойлсон дизайн",module,Magento_Catalog
 ID,ID,module,Magento_Catalog
-Name,Name,module,Magento_Catalog
-SKU,SKU,module,Magento_Catalog
-Price,Price,module,Magento_Catalog
-Position,Position,module,Magento_Catalog
-"Category Data","Category Data",module,Magento_Catalog
-"Category Products","Category Products",module,Magento_Catalog
-"Add Subcategory","Add Subcategory",module,Magento_Catalog
-"Add Root Category","Add Root Category",module,Magento_Catalog
-Day,Day,module,Magento_Catalog
-Month,Month,module,Magento_Catalog
-Year,Year,module,Magento_Catalog
-"<label class=""label""><span>from</span></label>","<label class=""label""><span>from</span></label>",module,Magento_Catalog
-"<label class=""label""><span>to</span></label>","<label class=""label""><span>to</span></label>",module,Magento_Catalog
-[GLOBAL],[GLOBAL],module,Magento_Catalog
-[WEBSITE],[WEBSITE],module,Magento_Catalog
-"[STORE VIEW]","[STORE VIEW]",module,Magento_Catalog
-"WYSIWYG Editor","WYSIWYG Editor",module,Magento_Catalog
-"Add Product","Add Product",module,Magento_Catalog
-label,label,module,Magento_Catalog
-"Product Attributes","Product Attributes",module,Magento_Catalog
-"Add New Attribute","Add New Attribute",module,Magento_Catalog
-"Save in New Attribute Set","Save in New Attribute Set",module,Magento_Catalog
-"Enter Name for New Attribute Set","Enter Name for New Attribute Set",module,Magento_Catalog
-"Save and Continue Edit","Save and Continue Edit",module,Magento_Catalog
-"Save Attribute","Save Attribute",module,Magento_Catalog
-"Delete Attribute","Delete Attribute",module,Magento_Catalog
-"Edit Product Attribute ""%1""","Edit Product Attribute ""%1""",module,Magento_Catalog
-"New Product Attribute","New Product Attribute",module,Magento_Catalog
-"Advanced Attribute Properties","Advanced Attribute Properties",module,Magento_Catalog
-"Attribute Code","Attribute Code",module,Magento_Catalog
-"This is used internally. Make sure you don\'t use spaces or more than %1 symbols.","This is used internally. Make sure you don\'t use spaces or more than %1 symbols.",module,Magento_Catalog
-"Default Value","Default Value",module,Magento_Catalog
-"Unique Value","Unique Value",module,Magento_Catalog
-"Unique Value (not shared with other products)","Unique Value (not shared with other products)",module,Magento_Catalog
-"Not shared with other products","Not shared with other products",module,Magento_Catalog
-"Input Validation for Store Owner","Input Validation for Store Owner",module,Magento_Catalog
-"Add to Column Options","Add to Column Options",module,Magento_Catalog
-"Select ""Yes"" to add this attribute to the list of column options in the product grid.","Select ""Yes"" to add this attribute to the list of column options in the product grid.",module,Magento_Catalog
-"Use in Filter Options","Use in Filter Options",module,Magento_Catalog
-"Select ""Yes"" to add this attribute to the list of filter options in the product grid.","Select ""Yes"" to add this attribute to the list of filter options in the product grid.",module,Magento_Catalog
-"Store View","Store View",module,Magento_Catalog
-Website,Website,module,Magento_Catalog
-Global,Global,module,Magento_Catalog
-Scope,Scope,module,Magento_Catalog
-"Declare attribute value saving scope","Declare attribute value saving scope",module,Magento_Catalog
-"Storefront Properties","Storefront Properties",module,Magento_Catalog
-"Use in Search","Use in Search",module,Magento_Catalog
-"Visible in Advanced Search","Visible in Advanced Search",module,Magento_Catalog
-"Comparable on Storefront","Comparable on Storefront",module,Magento_Catalog
-"Use for Promo Rule Conditions","Use for Promo Rule Conditions",module,Magento_Catalog
-"Enable WYSIWYG","Enable WYSIWYG",module,Magento_Catalog
-"Allow HTML Tags on Storefront","Allow HTML Tags on Storefront",module,Magento_Catalog
-"Visible on Catalog Pages on Storefront","Visible on Catalog Pages on Storefront",module,Magento_Catalog
-"Used in Product Listing","Used in Product Listing",module,Magento_Catalog
-"Depends on design theme","Depends on design theme",module,Magento_Catalog
-"Used for Sorting in Product Listing","Used for Sorting in Product Listing",module,Magento_Catalog
-"Media Image","Media Image",module,Magento_Catalog
-Gallery,Gallery,module,Magento_Catalog
-"System Properties","System Properties",module,Magento_Catalog
-No,No,module,Magento_Catalog
-Yes,Yes,module,Magento_Catalog
-"Data Type for Saving in Database","Data Type for Saving in Database",module,Magento_Catalog
-Text,Text,module,Magento_Catalog
+Name,Нэр,module,Magento_Catalog
+SKU,"Бүтээгдэхүүний код",module,Magento_Catalog
+Price,Үнэ,module,Magento_Catalog
+Position,Байрлал,module,Magento_Catalog
+"Category Data","Категорийн өгөгдөл",module,Magento_Catalog
+"Category Products","Категорийн бүтээгдэхүүнүүд",module,Magento_Catalog
+"Add Subcategory","Дэд категори нэмэх",module,Magento_Catalog
+"Add Root Category","Үндэс категори нэмэх",module,Magento_Catalog
+Day,Өдөр,module,Magento_Catalog
+Month,Сар,module,Magento_Catalog
+Year,Жил,module,Magento_Catalog
+"<label class=""label""><span>from</span></label>","<label class=""label""><span>хэзээнээс</span></label>",module,Magento_Catalog
+"<label class=""label""><span>to</span></label>","<label class=""label""><span>хүртэл</span></label>",module,Magento_Catalog
+[GLOBAL],[ГЛОБАЛ],module,Magento_Catalog
+[WEBSITE],[ВЭБСАЙТ],module,Magento_Catalog
+"[STORE VIEW]","[ДЭЛГҮҮРИЙН ХАРАГДАЦ]",module,Magento_Catalog
+"WYSIWYG Editor","WYSIWYG едитор",module,Magento_Catalog
+"Add Product","Бүтээгдэхүүн нэмэх",module,Magento_Catalog
+label,шошго,module,Magento_Catalog
+"Product Attributes","Бүтээгдэхүүний аттрибутууд",module,Magento_Catalog
+"Add New Attribute","Шинэ аттрибут нэмэх",module,Magento_Catalog
+"Save in New Attribute Set","Шинэ аттрибут бүрдэлд нэмэх",module,Magento_Catalog
+"Enter Name for New Attribute Set","Шинэ аттрибут бүрдэлд нэр оруулна уу",module,Magento_Catalog
+"Save and Continue Edit","Хадгалах ба Өөрчилөлтийг үргэлжлүүлэх",module,Magento_Catalog
+"Save Attribute","Аттрибут хадгалах",module,Magento_Catalog
+"Delete Attribute","Аттрибут устгах",module,Magento_Catalog
+"Edit Product Attribute ""%1""","Бүтээгдэхүүний аттрибут ""%1"" өөрчилөх",module,Magento_Catalog
+"New Product Attribute","Бүтээгдэхүүний шинэ аттрибут",module,Magento_Catalog
+"Advanced Attribute Properties","Аттрибутын нэмэлт үзүүлэлтүүд",module,Magento_Catalog
+"Attribute Code","Аттрибут код",module,Magento_Catalog
+"This is used internally. Make sure you don\'t use spaces or more than %1 symbols.","Энэ дотоод хэрэглээнийх. Зай эсвэл %1-с илүү тэмдэгт хэрэглээгзй гэдэгтэй итгэлтэй байна уу .",module,Magento_Catalog
+"Default Value","Стандарт утга",module,Magento_Catalog
+"Unique Value","Ганц утга",module,Magento_Catalog
+"Unique Value (not shared with other products)","Ганц утга (бусад бүтээгдэхүүнүүдтэй хуваалцахгүй)",module,Magento_Catalog
+"Not shared with other products","Бусад бүтээгдэхүүнүүдтэй хуваалцахгүй",module,Magento_Catalog
+"Input Validation for Store Owner","Дэлгүүр эзэмшигчид зориулсан оролтын шалгалт",module,Magento_Catalog
+"Add to Column Options","Баганын сонголтууд руу нэмэх",module,Magento_Catalog
+"Select ""Yes"" to add this attribute to the list of column options in the product grid.","Энэ аттрибутыг бүтээгдэхүүний хүснэгт дэхь баганын сонголтын жагсаалт руу нэмэхийн тулд ""Тийм"" сонгоно уу.",module,Magento_Catalog
+"Use in Filter Options","Шүүлтүүр сонголтонд хэрэглэх",module,Magento_Catalog
+"Select ""Yes"" to add this attribute to the list of filter options in the product grid.","Энэ аттрибутыг бүтээгдэхүүний хүснэгт дэхь шүүлтүүр сонголтын жагсаалт руу нэмэхийн тулд ""Yes"" сонгоно уу.",module,Magento_Catalog
+"Store View","Дэлгүүрийн харагдац",module,Magento_Catalog
+Website,Вэбсайт,module,Magento_Catalog
+Global,Глобал,module,Magento_Catalog
+Scope,"Хамрах хүрээ",module,Magento_Catalog
+"Declare attribute value saving scope","Аттрибут утгын хамрах хүрээг зарла",module,Magento_Catalog
+"Storefront Properties","Дэлгүүрийн үзүүлэлтүүд",module,Magento_Catalog
+"Use in Search","Хайлтанд хэрэглэх",module,Magento_Catalog
+"Visible in Advanced Search","Ахицтай хайлтанд хэрэглэх",module,Magento_Catalog
+"Comparable on Storefront","Дэлгүүрт харьцуулагдах боломжтой",module,Magento_Catalog
+"Use for Promo Rule Conditions","Сурталчилгааны дүрмийн нөхцөлүүдэд хэрэглэх",module,Magento_Catalog
+"Enable WYSIWYG","WYSIWYG идэвхижүүлэх",module,Magento_Catalog
+"Allow HTML Tags on Storefront","HTML тагууд дэлгүүртээ зөвшөөрөх",module,Magento_Catalog
+"Visible on Catalog Pages on Storefront","Дэлгүүрийн каталог хуудаснууд дээр харагдуулах",module,Magento_Catalog
+"Used in Product Listing","Бүтээгдэхүүний жагсаалтанд ашиглах",module,Magento_Catalog
+"Depends on design theme","Загварын сэдэвээс хамааралтай",module,Magento_Catalog
+"Used for Sorting in Product Listing","Бүтээгдэхүүний жагсаалт дээр эрэмбэлэхэд хэрэглэгдсэн",module,Magento_Catalog
+"Media Image","медиа зураг",module,Magento_Catalog
+Gallery,Галерей,module,Magento_Catalog
+"System Properties","Системийн үзүүлэлтүүд",module,Magento_Catalog
+No,Үгүй,module,Magento_Catalog
+Yes,Тийм,module,Magento_Catalog
+"Data Type for Saving in Database","Өгөгдлийн санд хадгалахад зориулсан өгөгдлийн төрөл",module,Magento_Catalog
+Text,Текст,module,Magento_Catalog
 Varchar,Varchar,module,Magento_Catalog
-Static,Static,module,Magento_Catalog
-Datetime,Datetime,module,Magento_Catalog
-Decimal,Decimal,module,Magento_Catalog
-Integer,Integer,module,Magento_Catalog
-"Globally Editable","Globally Editable",module,Magento_Catalog
-"Attribute Information","Attribute Information",module,Magento_Catalog
-Properties,Properties,module,Magento_Catalog
-"Manage Labels","Manage Labels",module,Magento_Catalog
-Visible,Visible,module,Magento_Catalog
-"Web Site","Web Site",module,Magento_Catalog
-Searchable,Searchable,module,Magento_Catalog
-Comparable,Comparable,module,Magento_Catalog
-"Delete Selected Group","Delete Selected Group",module,Magento_Catalog
-"Add New","Add New",module,Magento_Catalog
-Back,Back,module,Magento_Catalog
-Delete,Delete,module,Magento_Catalog
-"You are about to delete all products in this attribute set. Are you sure you want to do that?","You are about to delete all products in this attribute set. Are you sure you want to do that?",module,Magento_Catalog
-Save,Save,module,Magento_Catalog
-"New Set Name","New Set Name",module,Magento_Catalog
-"Edit Attribute Set '%1'","Edit Attribute Set '%1'",module,Magento_Catalog
-Empty,Empty,module,Magento_Catalog
-"Add Attribute","Add Attribute",module,Magento_Catalog
-"Add New Group","Add New Group",module,Magento_Catalog
-"Add Group","Add Group",module,Magento_Catalog
-"Edit Attribute Set Name","Edit Attribute Set Name",module,Magento_Catalog
-"For internal use","For internal use",module,Magento_Catalog
-"Based On","Based On",module,Magento_Catalog
-"Add New Attribute Set","Add New Attribute Set",module,Magento_Catalog
-"Add Attribute Set","Add Attribute Set",module,Magento_Catalog
-"Attribute Sets","Attribute Sets",module,Magento_Catalog
-"Close Window","Close Window",module,Magento_Catalog
-"New Product","New Product",module,Magento_Catalog
-"Save & Edit","Save & Edit",module,Magento_Catalog
-"Save & New","Save & New",module,Magento_Catalog
-"Save & Duplicate","Save & Duplicate",module,Magento_Catalog
-"Save & Close","Save & Close",module,Magento_Catalog
-Attributes,Attributes,module,Magento_Catalog
-Change,Change,module,Magento_Catalog
-"Advanced Inventory","Advanced Inventory",module,Magento_Catalog
-Websites,Websites,module,Magento_Catalog
-"Products Information","Products Information",module,Magento_Catalog
-"Category Name","Category Name",module,Magento_Catalog
-"Parent Category","Parent Category",module,Magento_Catalog
-"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.","If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.",module,Magento_Catalog
-"We saved the price alert subscription.","We saved the price alert subscription.",module,Magento_Catalog
-"We saved the stock notification.","We saved the stock notification.",module,Magento_Catalog
-"There are no customers for this alert.","There are no customers for this alert.",module,Magento_Catalog
-"First Name","First Name",module,Magento_Catalog
-"Last Name","Last Name",module,Magento_Catalog
-Email,Email,module,Magento_Catalog
-"Subscribe Date","Subscribe Date",module,Magento_Catalog
-"Last Notified","Last Notified",module,Magento_Catalog
-"Send Count","Send Count",module,Magento_Catalog
-"New Attribute","New Attribute",module,Magento_Catalog
-Type,Type,module,Magento_Catalog
-"Attribute Set","Attribute Set",module,Magento_Catalog
-Status,Status,module,Magento_Catalog
-Visibility,Visibility,module,Magento_Catalog
-"Add New Option","Add New Option",module,Magento_Catalog
-"Import Options","Import Options",module,Magento_Catalog
-"Use Default","Use Default",module,Magento_Catalog
-Import,Import,module,Magento_Catalog
-"Add New Row","Add New Row",module,Magento_Catalog
-"Delete Row","Delete Row",module,Magento_Catalog
-"Tier Pricing","Tier Pricing",module,Magento_Catalog
-"Default Price","Default Price",module,Magento_Catalog
-"All Websites","All Websites",module,Magento_Catalog
-"ALL GROUPS","ALL GROUPS",module,Magento_Catalog
-"Add Price","Add Price",module,Magento_Catalog
-"Default Values","Default Values",module,Magento_Catalog
-"Related Products","Related Products",module,Magento_Catalog
-Up-sells,Up-sells,module,Magento_Catalog
-Cross-sells,Cross-sells,module,Magento_Catalog
-"Size for %1","Size for %1",module,Magento_Catalog
-"Watermark File for %1","Watermark File for %1",module,Magento_Catalog
-"Position of Watermark for %1","Position of Watermark for %1",module,Magento_Catalog
-"Name in %1","Name in %1",module,Magento_Catalog
-Quantity,Quantity,module,Magento_Catalog
-Edit,Edit,module,Magento_Catalog
-"Are you sure?","Are you sure?",module,Magento_Catalog
-"Change Status","Change Status",module,Magento_Catalog
-"Update Attributes","Update Attributes",module,Magento_Catalog
-"Images and Videos","Images and Videos",module,Magento_Catalog
-"Click here or drag and drop to add images.","Click here or drag and drop to add images.",module,Magento_Catalog
-"Delete image","Delete image",module,Magento_Catalog
-"Make Base","Make Base",module,Magento_Catalog
-Hidden,Hidden,module,Magento_Catalog
-"start typing to search category","start typing to search category",module,Magento_Catalog
-"New Category","New Category",module,Magento_Catalog
-"Images (.gif, .jpg, .png)","Images (.gif, .jpg, .png)",module,Magento_Catalog
-"Add New Images","Add New Images",module,Magento_Catalog
-"Inc. Tax","Inc. Tax",module,Magento_Catalog
-"Does this have a weight?","Does this have a weight?",module,Magento_Catalog
-Product,Product,module,Magento_Catalog
-"Notify Low Stock RSS","Notify Low Stock RSS",module,Magento_Catalog
-"Low Stock Products","Low Stock Products",module,Magento_Catalog
-"%1 has reached a quantity of %2.","%1 has reached a quantity of %2.",module,Magento_Catalog
-Home,Home,module,Magento_Catalog
-"Go to Home Page","Go to Home Page",module,Magento_Catalog
-"Subscribe to RSS Feed","Subscribe to RSS Feed",module,Magento_Catalog
-"Products Comparison List","Products Comparison List",module,Magento_Catalog
+Static,Статик,module,Magento_Catalog
+Datetime,Өдөрцаг,module,Magento_Catalog
+Decimal,Бутархай,module,Magento_Catalog
+Integer,Бүхэл,module,Magento_Catalog
+"Globally Editable","глобал өөрчилөгдөх боломжтой",module,Magento_Catalog
+"Attribute Information","Аттрибутын мэдээлэл",module,Magento_Catalog
+Properties,Үзүүлэлтүүд,module,Magento_Catalog
+"Manage Labels","Шошгууд удирдах",module,Magento_Catalog
+Visible,"Харагдах боломжтой",module,Magento_Catalog
+"Web Site","Вэбсайт",module,Magento_Catalog
+Searchable,"Хайх боломжтой",module,Magento_Catalog
+Comparable,"Харьцуулах боломжтой",module,Magento_Catalog
+"Delete Selected Group","Сонгосон бүлгийг устгах",module,Magento_Catalog
+"Add New","Шинэ нэмэх",module,Magento_Catalog
+Back,Буцах,module,Magento_Catalog
+Delete,Устгах,module,Magento_Catalog
+"You are about to delete all products in this attribute set. Are you sure you want to do that?","Та энэ аттрибут бүрдэл доторх бүх бүтээгдэхүүнүүдийг устгах гэж байна. Та хийхийг үнэхээр хүсч байна уу?",module,Magento_Catalog
+Save,Хадгалах,module,Magento_Catalog
+"New Set Name","Шинэ цуглуулгын нэр",module,Magento_Catalog
+"Edit Attribute Set '%1'","Аттрибут бүрдэл '%1' устгах",module,Magento_Catalog
+Empty,Хоослох,module,Magento_Catalog
+"Add Attribute","Аттрибут нэмэх",module,Magento_Catalog
+"Add New Group","Шинэ бүлэг нэмэх",module,Magento_Catalog
+"Add Group","Бүлэг нэмэх",module,Magento_Catalog
+"Edit Attribute Set Name","Аттрибут бүрдэл нэрийг өөрчилөх",module,Magento_Catalog
+"Дотор хэрэглэх","",module,Magento_Catalog
+"Based On","дээр суурилагдсан",module,Magento_Catalog
+"Add New Attribute Set","Шинэ аттрибут бүрдэл нэмэх",module,Magento_Catalog
+"Add Attribute Set","Аттрибут бүрдэл нэмэх",module,Magento_Catalog
+"Attribute Sets","Аттрибуут цуглуулгууд",module,Magento_Catalog
+"Close Window","Цонх хаах",module,Magento_Catalog
+"New Product","Шинэ бүтээгдэхүүн",module,Magento_Catalog
+"Save & Edit","Хадгалах & Өөрчилөх",module,Magento_Catalog
+"Save & New","Хадгалах & Шинэ үүсгэх",module,Magento_Catalog
+"Save & Duplicate","Хадгалах & Хувилах",module,Magento_Catalog
+"Save & Close","Хадгалах & Хаах",module,Magento_Catalog
+Attributes,Аттрибутууд,module,Magento_Catalog
+Change,Өөрчилөх,module,Magento_Catalog
+"Advanced Inventory","Дэвшилтэт бүртгэл",module,Magento_Catalog
+Websites,Вэбсайтууд,module,Magento_Catalog
+"Products Information","Бүтээгдэхүүнүүдийн мэдээлэл",module,Magento_Catalog
+"Category Name","Категорийн нэр",module,Magento_Catalog
+"Parent Category","Эх категори",module,Magento_Catalog
+"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.","Энд үүсгэсэн эх категориуд байхгүй байна. Стандарт эх категорийг хэрэглэнэ үү. Үүнийг та хэзээ ч хамаагүй <a href=""%1"" target=""_blank"">Бүтээгдэхүүнүүд > Категориуд</a> гэж ороод холбоосыг өөрчилж болно.",module,Magento_Catalog
+"We saved the price alert subscription.","Үнийн сэрүүлэг захиулгыг хадгалсан.",module,Magento_Catalog
+"We saved the stock notification.","Нөөцийн сонордуулгыг хадгалсан.",module,Magento_Catalog
+"There are no customers for this alert.","Энэ сэрүүлэгт зориулсан хэрэглэгчид байхгүй байна.",module,Magento_Catalog
+"First Name","Нэр",module,Magento_Catalog
+"Last Name","Овог",module,Magento_Catalog
+Email,Эмэйл,module,Magento_Catalog
+"Subscribe Date","Өдрийг захиалах",module,Magento_Catalog
+"Last Notified","Сүүлд сонордуулсан",module,Magento_Catalog
+"Send Count","Тоо илгээх",module,Magento_Catalog
+"New Attribute","Шинэ аттрибут",module,Magento_Catalog
+Type,Төрөл,module,Magento_Catalog
+"Attribute Set","Аттрибут бүрдэл",module,Magento_Catalog
+Status,Статус,module,Magento_Catalog
+Visibility,Харагдац,module,Magento_Catalog
+"Add New Option","Шинэ сонголт нэмэх",module,Magento_Catalog
+"Import Options","Сонголтууд импортлох",module,Magento_Catalog
+"Use Default","Стандарт хэрэглэх",module,Magento_Catalog
+Import,Импортлох,module,Magento_Catalog
+"Add New Row","Шинэ мөр нэмэх",module,Magento_Catalog
+"Delete Row","Мөр устгах",module,Magento_Catalog
+"Tier Pricing","Шаталсан үнэ",module,Magento_Catalog
+"Default Price","Стандарт үнэ",module,Magento_Catalog
+"All Websites","Бүх вэбсайтууд",module,Magento_Catalog
+"ALL GROUPS","Бүх бүлгүүд",module,Magento_Catalog
+"Add Price","Үнэ нэмэх",module,Magento_Catalog
+"Default Values","Стандарт утгууд",module,Magento_Catalog
+"Related Products","Холбоотой бүтээгдэхүүнүүд",module,Magento_Catalog
+Up-sells,Ап-худалдаа,module,Magento_Catalog
+Cross-sells,Крос-худалдаа,module,Magento_Catalog
+"Size for %1","%1 зориулсан хэмжээ",module,Magento_Catalog
+"Watermark File for %1","%1 зориулсан усан тэмдгийн файл",module,Magento_Catalog
+"Position of Watermark for %1","%1 зориулсан усан тэмдгийн байрлал",module,Magento_Catalog
+"Name in %1","%1 дэхь нэр",module,Magento_Catalog
+Quantity,Тоо,module,Magento_Catalog
+Edit,Өөрчилөх,module,Magento_Catalog
+"Are you sure?","Та үнэхээр итгэлтэй байна уу?",module,Magento_Catalog
+"Change Status","Статус өөрчилөх",module,Magento_Catalog
+"Update Attributes","Аттрибутуудыг шинэчлэх",module,Magento_Catalog
+"Images and Videos","Зургууд болон Видеонууд",module,Magento_Catalog
+"Click here or drag and drop to add images.","Зураг нэмэхийн тулд энд дар эсвэл драг&дроп хэрэглэ.",module,Magento_Catalog
+"Delete image","Зураг устгах",module,Magento_Catalog
+"Make Base","Суурь болгох",module,Magento_Catalog
+Hidden,Далдлагдсан,module,Magento_Catalog
+"start typing to search category","Категори хайхын тулд бичиж эхэлнэ үү",module,Magento_Catalog
+"New Category","Шинэ категори",module,Magento_Catalog
+"Images (.gif, .jpg, .png)","Зургууд (.gif, .jpg, .png)",module,Magento_Catalog
+"Add New Images","Шинэ зургууд нэмэх",module,Magento_Catalog
+"Inc. Tax","Татвар орсон",module,Magento_Catalog
+"Does this have a weight?","Энэ жинтэй юу?",module,Magento_Catalog
+Product,Бүтээгдэхүүн,module,Magento_Catalog
+"Notify Low Stock RSS","Бага нөөц RSS сонордуулга",module,Magento_Catalog
+"Low Stock Products","Бага нөөцтэй бүтээгдэхүүнүүд",module,Magento_Catalog
+"%1 has reached a quantity of %2.","%1 бол %2 тоонд хүрсэн байна.",module,Magento_Catalog
+Home,Эхлэл,module,Magento_Catalog
+"Go to Home Page","Эхлэл хуудас руу явах",module,Magento_Catalog
+"Subscribe to RSS Feed","RSS фийд захиалах",module,Magento_Catalog
+"Products Comparison List","Бүтээгдэхүүнүүдийн харьцуулалтын жагсаалт",module,Magento_Catalog
 N/A,N/A,module,Magento_Catalog
 AM,AM,module,Magento_Catalog
 PM,PM,module,Magento_Catalog
-"-- Please Select --","-- Please Select --",module,Magento_Catalog
-None,None,module,Magento_Catalog
-"New Products from %1","New Products from %1",module,Magento_Catalog
-"New Products","New Products",module,Magento_Catalog
-"%1 - Special Products","%1 - Special Products",module,Magento_Catalog
-"Click for price","Click for price",module,Magento_Catalog
-"Special Expires On: %1","Special Expires On: %1",module,Magento_Catalog
-"Price: %1","Price: %1",module,Magento_Catalog
-"Special Price: %1","Special Price: %1",module,Magento_Catalog
-"Special Products","Special Products",module,Magento_Catalog
-"You deleted the category.","You deleted the category.",module,Magento_Catalog
-"Something went wrong while trying to delete the category.","Something went wrong while trying to delete the category.",module,Magento_Catalog
-Categories,Categories,module,Magento_Catalog
-"Manage Catalog Categories","Manage Catalog Categories",module,Magento_Catalog
-"Manage Categories","Manage Categories",module,Magento_Catalog
-"Category is not available for requested store.","Category is not available for requested store.",module,Magento_Catalog
-"There was a category move error.","There was a category move error.",module,Magento_Catalog
-"There was a category move error. %1","There was a category move error. %1",module,Magento_Catalog
-"You moved the category","You moved the category",module,Magento_Catalog
-"Attribute ""%1"" is required.","Attribute ""%1"" is required.",module,Magento_Catalog
-"Something went wrong while saving the category.","Something went wrong while saving the category.",module,Magento_Catalog
-"You saved the category.","You saved the category.",module,Magento_Catalog
-"Please select products for attributes update.","Please select products for attributes update.",module,Magento_Catalog
-"Please make sure to define SKU values for all processed products.","Please make sure to define SKU values for all processed products.",module,Magento_Catalog
-"A total of %1 record(s) were updated.","A total of %1 record(s) were updated.",module,Magento_Catalog
-"Something went wrong while updating the product(s) attributes.","Something went wrong while updating the product(s) attributes.",module,Magento_Catalog
-Catalog,Catalog,module,Magento_Catalog
-"Manage Product Attributes","Manage Product Attributes",module,Magento_Catalog
-"We can\'t delete the attribute.","We can\'t delete the attribute.",module,Magento_Catalog
-"You deleted the product attribute.","You deleted the product attribute.",module,Magento_Catalog
-"We can\'t find an attribute to delete.","We can\'t find an attribute to delete.",module,Magento_Catalog
-"This attribute no longer exists.","This attribute no longer exists.",module,Magento_Catalog
-"This attribute cannot be edited.","This attribute cannot be edited.",module,Magento_Catalog
-"Edit Product Attribute","Edit Product Attribute",module,Magento_Catalog
-"An attribute set named \'%1\' already exists.","An attribute set named \'%1\' already exists.",module,Magento_Catalog
-"Something went wrong while saving the attribute.","Something went wrong while saving the attribute.",module,Magento_Catalog
-"Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.",module,Magento_Catalog
-"We can\'t update the attribute.","We can\'t update the attribute.",module,Magento_Catalog
-"You saved the product attribute.","You saved the product attribute.",module,Magento_Catalog
-"An attribute with this code already exists.","An attribute with this code already exists.",module,Magento_Catalog
-"An attribute with the same code (%1) already exists.","An attribute with the same code (%1) already exists.",module,Magento_Catalog
-"You duplicated the product.","You duplicated the product.",module,Magento_Catalog
-"This product no longer exists.","This product no longer exists.",module,Magento_Catalog
-Products,Products,module,Magento_Catalog
-"A group with the same name already exists.","A group with the same name already exists.",module,Magento_Catalog
-"Something went wrong while saving this group.","Something went wrong while saving this group.",module,Magento_Catalog
-"A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted.",module,Magento_Catalog
-"A total of %1 record(s) have been updated.","A total of %1 record(s) have been updated.",module,Magento_Catalog
-"Something went wrong while updating the product(s) status.","Something went wrong while updating the product(s) status.",module,Magento_Catalog
-"Unable to save product","Unable to save product",module,Magento_Catalog
-"You saved the product.","You saved the product.",module,Magento_Catalog
-"SKU for product %1 has been changed to %2.","SKU for product %1 has been changed to %2.",module,Magento_Catalog
-"The image cannot be removed as it has been assigned to the other image role","The image cannot be removed as it has been assigned to the other image role",module,Magento_Catalog
-"New Attribute Set","New Attribute Set",module,Magento_Catalog
-"The attribute set has been removed.","The attribute set has been removed.",module,Magento_Catalog
-"We can\'t delete this set right now.","We can\'t delete this set right now.",module,Magento_Catalog
-"New Set","New Set",module,Magento_Catalog
-"Manage Product Sets","Manage Product Sets",module,Magento_Catalog
-"Manage Attribute Sets","Manage Attribute Sets",module,Magento_Catalog
-"This attribute set no longer exists.","This attribute set no longer exists.",module,Magento_Catalog
-"You saved the attribute set.","You saved the attribute set.",module,Magento_Catalog
-"Something went wrong while saving the attribute set.","Something went wrong while saving the attribute set.",module,Magento_Catalog
-"You added product %1 to the comparison list.","You added product %1 to the comparison list.",module,Magento_Catalog
-"You cleared the comparison list.","You cleared the comparison list.",module,Magento_Catalog
-"Something went wrong  clearing the comparison list.","Something went wrong  clearing the comparison list.",module,Magento_Catalog
-"You removed product %1 from the comparison list.","You removed product %1 from the comparison list.",module,Magento_Catalog
-"1 item","1 item",module,Magento_Catalog
-"%1 items","%1 items",module,Magento_Catalog
-"Invalid attribute %1","Invalid attribute %1",module,Magento_Catalog
-Grid,Grid,module,Magento_Catalog
-List,List,module,Magento_Catalog
-All,All,module,Magento_Catalog
-"Product is not loaded","Product is not loaded",module,Magento_Catalog
-"Bad controller interface for showing product","Bad controller interface for showing product",module,Magento_Catalog
-"Make sure the To Date is later than or the same as the From Date.","Make sure the To Date is later than or the same as the From Date.",module,Magento_Catalog
+"-- Please Select --","-- Сонгоно уу --",module,Magento_Catalog
+None,Юучгүй,module,Magento_Catalog
+"New Products from %1","%1-с шинэ бүтээгдэхүүнүүд",module,Magento_Catalog
+"New Products","Шинэ бүтээгдэхүүнүүд",module,Magento_Catalog
+"%1 - Special Products","%1 - тусгай бүтээгдэхүүнүүд",module,Magento_Catalog
+"Click for price","Үнийн тулд дар",module,Magento_Catalog
+"Special Expires On: %1","Тусгай хэзээ дуусах: %1",module,Magento_Catalog
+"Price: %1","Үнэ: %1",module,Magento_Catalog
+"Special Price: %1","Тусгай үнэ: %1",module,Magento_Catalog
+"Special Products","Тусгай бүтээгдэхүүнүүд",module,Magento_Catalog
+"You deleted the category.","Та категори устгасан.",module,Magento_Catalog
+"Something went wrong while trying to delete the category.","Категори устгаж байх үед ямар нэг алдаа гарлаа.",module,Magento_Catalog
+Categories,Категориуд,module,Magento_Catalog
+"Manage Catalog Categories","Каталог категориуд удирдах",module,Magento_Catalog
+"Manage Categories","Категориуд удирдах",module,Magento_Catalog
+"Category is not available for requested store.","Шаардсан дэлгүүрт зориулсан категори боломжгүй байна.",module,Magento_Catalog
+"There was a category move error.","Категори шилжүүлэхэд алдаа гарлаа.",module,Magento_Catalog
+"There was a category move error. %1","Категори шилжүүлэхэд алдаа гарлаа. %1",module,Magento_Catalog
+"You moved the category","Та категори шилжүүлсан",module,Magento_Catalog
+"Attribute ""%1"" is required.","Аттрибут ""%1"" шаардлагатай.",module,Magento_Catalog
+"Something went wrong while saving the category.","Категори хадгалж байхад ямар нэг зүйл буруу байлаа.",module,Magento_Catalog
+"You saved the category.","Та категори хадгаллаа.",module,Magento_Catalog
+"Please select products for attributes update.","Аттрибут шинэчлэхийн тулд бүтээгдэхүүнүүд сонгоно уу.",module,Magento_Catalog
+"Please make sure to define SKU values for all processed products.","Бүх ажиллаж байгаа бүтээгдэхүүнүүдэд зориулж Бүтээгдэхүүний-Код утгыг оруулсан эсэхээ шалгана уу.",module,Magento_Catalog
+"A total of %1 record(s) were updated.","Нийт %1 бичлэг(үүд) өөрчлөгдсөн.",module,Magento_Catalog
+"Something went wrong while updating the product(s) attributes.","Бүтээгдэхүүн(үүд) аттрибутуудыг шинэчлэх явцад ямар нэг зүйл буруу байлаа.",module,Magento_Catalog
+Catalog,Каталог,module,Magento_Catalog
+"Manage Product Attributes","Бүтээгдэхүүнүүдийн аттрибутууд удирдах",module,Magento_Catalog
+"We can\'t delete the attribute.","Аттрибутыг устгаж чадахгүй байна.",module,Magento_Catalog
+"You deleted the product attribute.","Та бүтээгдэхүүний аттрибутыг хадгалсан.",module,Magento_Catalog
+"We can\'t find an attribute to delete.","Устгах аттрибутыг олж чадахгүй байна.",module,Magento_Catalog
+"This attribute no longer exists.","Энэ аттрибут байхгүй болсон байна.",module,Magento_Catalog
+"This attribute cannot be edited.","Энэ аттрибутыг өөрчилж чадахгүй.",module,Magento_Catalog
+"Edit Product Attribute","Бүтээгдэхүүн аттрибут өөрчилөх",module,Magento_Catalog
+"An attribute set named \'%1\' already exists.","\'%1\' нэртэй аттрибутын бүрдэл аль хэдийн байна.",module,Magento_Catalog
+"Something went wrong while saving the attribute.","Аттрибутыг хадгалах явцад ямар нэг зүйл буруу байлаа.",module,Magento_Catalog
+"Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Аттрибут код ""%1"" хүчингүй байна. Энэ талбарт зөвхөн үсэг, Тоо эсвэл доогуур зураас(_) хэрэглэх бөгөөд, эхний тэмдэгт үсэг байх ёстой.",module,Magento_Catalog
+"We can\'t update the attribute.","Аттрибутыг шинэчилж чадахгүй.",module,Magento_Catalog
+"You saved the product attribute.","Та бүтээгдэхүүний аттрибут хадгаллаа.",module,Magento_Catalog
+"An attribute with this code already exists.","Энэ кодтой аттрибут аль хэдийн байна.",module,Magento_Catalog
+"An attribute with the same code (%1) already exists.","Ижилхэн (%1) кодтой аттрибут аль хэдийн байна.",module,Magento_Catalog
+"You duplicated the product.","Та бүтээгдэхүүнийг хувилсан байна.",module,Magento_Catalog
+"This product no longer exists.","Энэ бүтээгдэхүүн байхгүй байна.",module,Magento_Catalog
+Products,Бүтээгдэхүүнүүд,module,Magento_Catalog
+"A group with the same name already exists.","Ижилхэн нэртэй бүлэг аль хэдийн байна.",module,Magento_Catalog
+"Something went wrong while saving this group.","Энэ бүлгийг хадгалж байхад ямар нэг зүйл буруу байлаа.",module,Magento_Catalog
+"A total of %1 record(s) have been deleted.","Нийт %1 бичлэг(үүд) устгагдсан байна.",module,Magento_Catalog
+"A total of %1 record(s) have been updated.","Нийт %1 бичлэг(үүд) шинэчлэгдсэн байна.",module,Magento_Catalog
+"Something went wrong while updating the product(s) status.","Бүтээгдэхүүн(үүд) статус шинэчэлж байхад ямар нэг зүйл буруу байлаа.",module,Magento_Catalog
+"Unable to save product","Бүтээгдэхүүн хадгалах боломжгүй",module,Magento_Catalog
+"You saved the product.","Та бүтээгдэхүүн хадгалсан.",module,Magento_Catalog
+"SKU for product %1 has been changed to %2.","Бүтээгдэхүүн %1 бүтээгдэхүүний код %2 руу өөрчлөгдсөн байна.",module,Magento_Catalog
+"The image cannot be removed as it has been assigned to the other image role","Өөр зургийн ройлд холбогдсон тул энэ зураг хасагдаж чадахгүй",module,Magento_Catalog
+"New Attribute Set","Шинэ аттрибутын бүрдэл",module,Magento_Catalog
+"The attribute set has been removed.","Энэ аттрибут бүрдэл хасагдсан байна.",module,Magento_Catalog
+"We can\'t delete this set right now.","Энэ цуглуулгыг яг одоо устгаж чадахгүй байна.",module,Magento_Catalog
+"New Set","Шинэ бүрдэл",module,Magento_Catalog
+"Manage Product Sets","Бүтээгдэхүүний цуглуулгыг удирдах",module,Magento_Catalog
+"Manage Attribute Sets","Аттрибут цуглуулгыг удирдах",module,Magento_Catalog
+"This attribute set no longer exists.","Энэ аттрибут бүрдэл байхгүй болсон байна.",module,Magento_Catalog
+"You saved the attribute set.","Та аттрибут цуглуулгыг хадгалсан.",module,Magento_Catalog
+"Something went wrong while saving the attribute set.","Аттрибут цуглуулгыг хадгалж байхад ямар нэг зүйл буруу байсан.",module,Magento_Catalog
+"You added product %1 to the comparison list.","Та бүтээгдэхүүн %1 харьцуулалтын жагсаалт руу нэмсэн.",module,Magento_Catalog
+"You cleared the comparison list.","Та харьцуулалтын жагсаалтыг цэвэрлэсэн.",module,Magento_Catalog
+"Something went wrong  clearing the comparison list.","Харьцуулалт жагсаалтыг хоослож байхад ямар нэг зүйл буруу байсан.",module,Magento_Catalog
+"You removed product %1 from the comparison list.","Та бүтээгдэхүүн %1 харьцуулалтын жагсаалтаас хассан.",module,Magento_Catalog
+"1 item","1 артикль",module,Magento_Catalog
+"%1 items","%1 артиклиуд",module,Magento_Catalog
+"Invalid attribute %1","Хүчингүй аттрибут %1",module,Magento_Catalog
+Grid,Сараалж,module,Magento_Catalog
+List,Жагсаалт,module,Magento_Catalog
+All,Бүгд,module,Magento_Catalog
+"Product is not loaded","Бүтээгдэхүүн ачаалагдаагүй байна",module,Magento_Catalog
+"Bad controller interface for showing product","Бүтээгдэхүүн харуулахад зориулсан буруу контроллер интерфэйс",module,Magento_Catalog
+"Make sure the To Date is later than or the same as the From Date.","Та Хүртэл-өдөр хэзээнээс-өдөртэй адилхан эсвэл дараа байна гэж итгэлтэй байна уу.",module,Magento_Catalog
 "Sorry, but we can\'t find the new parent category you selected.","Sorry, but we can\'t find the new parent category you selected.",module,Magento_Catalog
-"Sorry, but we can\'t find the new category you selected.","Sorry, but we can\'t find the new category you selected.",module,Magento_Catalog
-"We can\'t move the category because the parent category name matches the child category name.","We can\'t move the category because the parent category name matches the child category name.",module,Magento_Catalog
-"Can\'t delete root category.","Can\'t delete root category.",module,Magento_Catalog
-"The value of attribute ""%1"" must be unique.","The value of attribute ""%1"" must be unique.",module,Magento_Catalog
-"Default Product Listing Sort by does not exist in Available Product Listing Sort By.","Default Product Listing Sort by does not exist in Available Product Listing Sort By.",module,Magento_Catalog
-"No layout updates","No layout updates",module,Magento_Catalog
-"Products only","Products only",module,Magento_Catalog
-"Static block only","Static block only",module,Magento_Catalog
-"Static block and products","Static block and products",module,Magento_Catalog
-"Please select a static block.","Please select a static block.",module,Magento_Catalog
+"Sorry, but we can\'t find the new category you selected.","Уучлаарай, Таны сонгосон шинэ категорийг олж чадахгүй байна.",module,Magento_Catalog
+"We can\'t move the category because the parent category name matches the child category name.","Категорийг зөөж чадсангүй, учир нь эх категорийн нэр хүүхэд категорийн нэртэй таарч байна.",module,Magento_Catalog
+"Can\'t delete root category.","Үндсэн категорийг устгаж чадахгүй.",module,Magento_Catalog
+"The value of attribute ""%1"" must be unique.","Аттрибутын утга ""%1"" цор ганц байх ёстой.",module,Magento_Catalog
+"Default Product Listing Sort by does not exist in Available Product Listing Sort By.","Бүтээгдэхүүний жагсаалтын стандарт эрэмблэгч боломжтой байгаа бүтээгдэхүүний жагсаалтын эрэмбэлэгч дотор байхгүй байна.",module,Magento_Catalog
+"No layout updates","Лэйаут өөрчлөлтүүд байхгүй",module,Magento_Catalog
+"Products only","Зөвхөн бүтээгдэхүүнүүд",module,Magento_Catalog
+"Static block only","Зөвхөн статик блок",module,Magento_Catalog
+"Static block and products","Статик блок болон бүтээгдэхүүнүүд",module,Magento_Catalog
+"Please select a static block.","Статик блок сонгоно уу.",module,Magento_Catalog
 frontend_label,frontend_label,module,Magento_Catalog
-"Could not save product ""%1"" with position %2 to category %3","Could not save product ""%1"" with position %2 to category %3",module,Magento_Catalog
-"Category does not contain specified product","Category does not contain specified product",module,Magento_Catalog
-"Could not save product ""%product"" with position %position to category %category","Could not save product ""%product"" with position %position to category %category",module,Magento_Catalog
-"Operation do not allow to move a parent category to any of children category","Operation do not allow to move a parent category to any of children category",module,Magento_Catalog
-"Could not move category","Could not move category",module,Magento_Catalog
-"Could not save category: %1","Could not save category: %1",module,Magento_Catalog
-"Cannot delete category with id %1","Cannot delete category with id %1",module,Magento_Catalog
-"-- Please Select a Category --","-- Please Select a Category --",module,Magento_Catalog
-"Grid Only","Grid Only",module,Magento_Catalog
-"List Only","List Only",module,Magento_Catalog
-"Grid (default) / List","Grid (default) / List",module,Magento_Catalog
-"List (default) / Grid","List (default) / Grid",module,Magento_Catalog
-"Automatic (equalize price ranges)","Automatic (equalize price ranges)",module,Magento_Catalog
-"Automatic (equalize product counts)","Automatic (equalize product counts)",module,Magento_Catalog
-Manual,Manual,module,Magento_Catalog
-Fixed,Fixed,module,Magento_Catalog
-Percent,Percent,module,Magento_Catalog
-"-- Please select --","-- Please select --",module,Magento_Catalog
-"Product Thumbnail Itself","Product Thumbnail Itself",module,Magento_Catalog
-"Parent Product Thumbnail","Parent Product Thumbnail",module,Magento_Catalog
-"12h AM/PM","12h AM/PM",module,Magento_Catalog
-24h,24h,module,Magento_Catalog
-Stretch,Stretch,module,Magento_Catalog
-Tile,Tile,module,Magento_Catalog
-Top/Left,Top/Left,module,Magento_Catalog
-Top/Right,Top/Right,module,Magento_Catalog
-Bottom/Left,Bottom/Left,module,Magento_Catalog
-Bottom/Right,Bottom/Right,module,Magento_Catalog
-Center,Center,module,Magento_Catalog
-"%1 doesn\'t extends \Magento\Framework\Model\AbstractModel","%1 doesn\'t extends \Magento\Framework\Model\AbstractModel",module,Magento_Catalog
-"Unknown EAV indexer type ""%1"".","Unknown EAV indexer type ""%1"".",module,Magento_Catalog
-"We can\'t rebuild the index for an undefined product.","We can\'t rebuild the index for an undefined product.",module,Magento_Catalog
-"Bad value was supplied.","Bad value was supplied.",module,Magento_Catalog
-"The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes.Currently there are %1$d of them.Please reduce the number of filterable/sortable attributes in order to use this module","The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes.Currently there are %1$d of them.Please reduce the number of filterable/sortable attributes in order to use this module",module,Magento_Catalog
-"Unsupported product type ""%1"".","Unsupported product type ""%1"".",module,Magento_Catalog
-"Please correct the category.","Please correct the category.",module,Magento_Catalog
-"Must be category model instance or its id.","Must be category model instance or its id.",module,Magento_Catalog
-"The attribute model is not defined.","The attribute model is not defined.",module,Magento_Catalog
-Category,Category,module,Magento_Catalog
+"Could not save product ""%1"" with position %2 to category %3","%2 байрлалтай бүтээгдэхүүн ""%1"" категори %3 руу хадгалж болохгүй байна",module,Magento_Catalog
+"Category does not contain specified product","Категори тусгай бүтээгдэхүүн агуулахгүй байна",module,Magento_Catalog
+"Could not save product ""%product"" with position %position to category %category","%position байрлалтай бүтээгдэхүүн ""%product"" категори %category" -руу хадгалж чадахгүй,module,Magento_Catalog
+"Operation do not allow to move a parent category to any of children category","Эх категорийг ямар ч хүүхэд категорируу шилжүүлэхийг үйлдэл зөвшөөрөхгүй байна",module,Magento_Catalog
+"Could not move category","Категорийг зөөж чадахгүй",module,Magento_Catalog
+"Could not save category: %1","Категорийг хадгалж чадахгүй: %1",module,Magento_Catalog
+"Cannot delete category with id %1","%1 дугаартай категорийг устгаж чадахгүй",module,Magento_Catalog
+"-- Please Select a Category --","-- Категори сонгоно уу --",module,Magento_Catalog
+"Grid Only","Зөвхөн сараалж",module,Magento_Catalog
+"List Only","Зөвхөн жагсаалт",module,Magento_Catalog
+"Grid (default) / List","Сараалж (стандарт) / Жагсаалт",module,Magento_Catalog
+"List (default) / Grid","Жагсаалт (стандарт) / Сараалж",module,Magento_Catalog
+"Automatic (equalize price ranges)","Автомат (үнийн ангиудыг ижилсүүлэх)",module,Magento_Catalog
+"Automatic (equalize product counts)","Автомат (бүтээгдэхүүний тоог ижилсүүлэх)",module,Magento_Catalog
+Manual,Гараар,module,Magento_Catalog
+Fixed,Тогтоогдсон,module,Magento_Catalog
+Percent,Хувь,module,Magento_Catalog
+"-- Please select --","-- Сонгоно уу --",module,Magento_Catalog
+"Product Thumbnail Itself","Бүтээгдэхүүний товчлол",module,Magento_Catalog
+"Parent Product Thumbnail","Эх бүтээгдэхүүний товчлол",module,Magento_Catalog
+"12h AM/PM","12цаг AM/PM",module,Magento_Catalog
+24h,24цаг,module,Magento_Catalog
+Stretch,Тэлэх,module,Magento_Catalog
+Tile,Дөрвөлж,module,Magento_Catalog
+Top/Left,Дээр/Зүүн,module,Magento_Catalog
+Top/Right,Дээр/Баруун,module,Magento_Catalog
+Bottom/Left,Доор/Зүүн,module,Magento_Catalog
+Bottom/Right,Доор/Баруун,module,Magento_Catalog
+Center,Төв,module,Magento_Catalog
+"%1 doesn\'t extends \Magento\Framework\Model\AbstractModel","%1 \Magento\Framework\Model\AbstractModel-оос уламжлаагүй байна",module,Magento_Catalog
+"Unknown EAV indexer type ""%1"".","Танигдахгүй EAV индексийн төрөл ""%1"".",module,Magento_Catalog
+"We can\'t rebuild the index for an undefined product.","Зарлагдаагүй бүтээгдэхүүнд зориулж индексийг дахин үүсгэж чадахагүй.",module,Magento_Catalog
+"Bad value was supplied.","Буруу утга дамжуулагдсан.",module,Magento_Catalog
+"The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes.Currently there are %1$d of them.Please reduce the number of filterable/sortable attributes in order to use this module","Хавтгай каталог модуль шүүлтүүрдэгдэх ба/эсвэл эрэмбэлэгдэх аттрибутуудын %2$d хязгаартай. Одоогын байдлаар эдгээрээс %1$d байна. Модулийг хэрэглэхийн тулд шүүлтүүрдэгдэх/эрэмблэгдэх аттрибутуудын тоог цөөлнө үү",module,Magento_Catalog
+"Unsupported product type ""%1"".","Дэмжигдэхгүй бүтээгдэхүүний төрөл ""%1"".",module,Magento_Catalog
+"Please correct the category.","Категорийг зөв болгоно уу.",module,Magento_Catalog
+"Must be category model instance or its id.","Категори моделийн инстанц эсвэл id байх ёстой.",module,Magento_Catalog
+"The attribute model is not defined.","Аттрибут модель зарлагдаагүй байна.",module,Magento_Catalog
+Category,Категори,module,Magento_Catalog
 "%1 - %2","%1 - %2",module,Magento_Catalog
-"%1 was not found in algorithms","%1 was not found in algorithms",module,Magento_Catalog
-"%1 doesn\'t extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","%1 doesn\'t extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface",module,Magento_Catalog
-"%1 doesn\'t extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 doesn\'t extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter",module,Magento_Catalog
-"The filter must be an object. Please set the correct filter.","The filter must be an object. Please set the correct filter.",module,Magento_Catalog
-"Clear Price","Clear Price",module,Magento_Catalog
-"%1 and above","%1 and above",module,Magento_Catalog
-"The filters must be an array.","The filters must be an array.",module,Magento_Catalog
-"The image does not exist.","The image does not exist.",module,Magento_Catalog
-"Please correct the image file type.","Please correct the image file type.",module,Magento_Catalog
-"We couldn\'t move this file: %1.","We couldn\'t move this file: %1.",module,Magento_Catalog
-"Group price must be a number greater than 0.","Group price must be a number greater than 0.",module,Magento_Catalog
-"We couldn\'t copy file %1. Please delete media with non-existing images and try again.","We couldn\'t copy file %1. Please delete media with non-existing images and try again.",module,Magento_Catalog
-"Media Gallery converter should be an instance of EntryConverterInterface.","Media Gallery converter should be an instance of EntryConverterInterface.",module,Magento_Catalog
-"There is no MediaGalleryEntryConverter for given type","There is no MediaGalleryEntryConverter for given type",module,Magento_Catalog
-"Please enter a number 0 or greater in this field.","Please enter a number 0 or greater in this field.",module,Magento_Catalog
-"The value of attribute ""%1"" must be set","The value of attribute ""%1"" must be set",module,Magento_Catalog
-"SKU length should be %1 characters maximum.","SKU length should be %1 characters maximum.",module,Magento_Catalog
-"Please enter a valid number in this field.","Please enter a valid number in this field.",module,Magento_Catalog
-"We found a duplicate website, tier price, customer group and quantity.","We found a duplicate website, tier price, customer group and quantity.",module,Magento_Catalog
-"Invalid option id %1","Invalid option id %1",module,Magento_Catalog
-"Can not create attribute set based on non product attribute set.","Can not create attribute set based on non product attribute set.",module,Magento_Catalog
-"Can not create attribute set based on not existing attribute set","Can not create attribute set based on not existing attribute set",module,Magento_Catalog
-"Provided Attribute set non product Attribute set.","Provided Attribute set non product Attribute set.",module,Magento_Catalog
-"Use config","Use config",module,Magento_Catalog
-Enabled,Enabled,module,Magento_Catalog
-Disabled,Disabled,module,Magento_Catalog
-"Attribute Set already exists.","Attribute Set already exists.",module,Magento_Catalog
-"Requested product does not support images.","Requested product does not support images.",module,Magento_Catalog
-"The image content is not valid.","The image content is not valid.",module,Magento_Catalog
-"Cannot save product.","Cannot save product.",module,Magento_Catalog
-"Failed to save new media gallery entry.","Failed to save new media gallery entry.",module,Magento_Catalog
-"There is no image with provided ID.","There is no image with provided ID.",module,Magento_Catalog
-"Such product doesn\'t exist","Such product doesn\'t exist",module,Magento_Catalog
-"Such image doesn\'t exist","Such image doesn\'t exist",module,Magento_Catalog
-"We can\'t find the image file.","We can\'t find the image file.",module,Magento_Catalog
-"productFactory is already set","productFactory is already set",module,Magento_Catalog
-"The option type to get group instance is incorrect.","The option type to get group instance is incorrect.",module,Magento_Catalog
-"Select type options required values rows.","Select type options required values rows.",module,Magento_Catalog
-"Could not save product option","Could not save product option",module,Magento_Catalog
-"Could not remove custom option","Could not remove custom option",module,Magento_Catalog
-"Please specify date required option(s).","Please specify date required option(s).",module,Magento_Catalog
-"Please specify time required option(s).","Please specify time required option(s).",module,Magento_Catalog
-"Please specify product\'s required option(s).","Please specify product\'s required option(s).",module,Magento_Catalog
-"The option instance type in options group is incorrect.","The option instance type in options group is incorrect.",module,Magento_Catalog
-"The product instance type in options group is incorrect.","The product instance type in options group is incorrect.",module,Magento_Catalog
-"The configuration item option instance in options group is incorrect.","The configuration item option instance in options group is incorrect.",module,Magento_Catalog
-"The configuration item instance in options group is incorrect.","The configuration item instance in options group is incorrect.",module,Magento_Catalog
-"The BuyRequest instance in options group is incorrect.","The BuyRequest instance in options group is incorrect.",module,Magento_Catalog
-"We can\'t add the product to the cart because of an option validation issue.","We can\'t add the product to the cart because of an option validation issue.",module,Magento_Catalog
-"%1 doesn\'t extends \Magento\Catalog\Model\Product\Option\Type\DefaultType","%1 doesn\'t extends \Magento\Catalog\Model\Product\Option\Type\DefaultType",module,Magento_Catalog
+"%1 was not found in algorithms","%1 алгоритм дээр олдсонгүй",module,Magento_Catalog
+"%1 doesn\'t extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","%1 нь \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface -с  уламжлаагүй байна",module,Magento_Catalog
+"%1 doesn\'t extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 нь \Magento\Catalog\Model\Layer\Filter\AbstractFilter -с уламжлаагүй байна",module,Magento_Catalog
+"The filter must be an object. Please set the correct filter.","Шүүлтүүр нь ямар нэг объект байх ёстой. Зөв шүүлтүүрийг сонгоно уу.",module,Magento_Catalog
+"Clear Price","Үнэ хоослох",module,Magento_Catalog
+"%1 and above","%1 ба өмнөх",module,Magento_Catalog
+"The filters must be an array.","Шүүлтүүр массив байх ёстой.",module,Magento_Catalog
+"The image does not exist.","Зураг байхгүй байна.",module,Magento_Catalog
+"Please correct the image file type.","Зургийн файлын төрлийг зөв болгоно уу.",module,Magento_Catalog
+"We couldn\'t move this file: %1.","Энэ файлыг зөөж чадахгүй байна: %1.",module,Magento_Catalog
+"Group price must be a number greater than 0.","Бүлгийн үнэ 0-с их байх ёстой.",module,Magento_Catalog
+"We couldn\'t copy file %1. Please delete media with non-existing images and try again.","Энэ файл %1 хуулж чадахгүй байна. Зураг нь байхгүй медиаг устгаад дахин оролдоно уу.",module,Magento_Catalog
+"Media Gallery converter should be an instance of EntryConverterInterface.","Медиа галлерей хөрвүүлэгч EntryConverterInterface-н инстанц байх хэрэгтэй.",module,Magento_Catalog
+"There is no MediaGalleryEntryConverter for given type","Өгөгдсөн төрөлд зориулсан MediaGalleryEntryConverter байхгүй байна",module,Magento_Catalog
+"Please enter a number 0 or greater in this field.","Энэ талбарт 0 эсвэл түүнээс их тоо оруулна уу.",module,Magento_Catalog
+"The value of attribute ""%1"" must be set","""%1"" аттрибутын утга оруулагдсан байх ёстой",module,Magento_Catalog
+"SKU length should be %1 characters maximum.","Бүтээгдэхүүний код хамгийн ихдээ %1 тэмдэгт байна.",module,Magento_Catalog
+"Please enter a valid number in this field.","Энэ талбарт зөв тоо оруулна уу.",module,Magento_Catalog
+"We found a duplicate website, tier price, customer group and quantity.","Давхардсан вэбсайт, шаталсан үнэ, хэрэглэгчийн бүлэг болон тоо ширхэг оллоо.",module,Magento_Catalog
+"Invalid option id %1","Сонголтын хүчингүй id %1",module,Magento_Catalog
+"Can not create attribute set based on non product attribute set.","Бүтээгдэхүүний биш аттрибут бүрдэлд суурилсан аттрибутын цуглуулгыг үүсгэж чадахгүй .",module,Magento_Catalog
+"Can not create attribute set based on not existing attribute set","Байхгүй аттрибут бүрдэлд суурилсан аттрибут бүрдэл үүсгэж чадахгүй",module,Magento_Catalog
+"Provided Attribute set non product Attribute set.","Заагдсан аттрибут бүрдэл бол бүтээгдэхүүний биш аттрибут бүрдэл.",module,Magento_Catalog
+"Use config","Тохиргоо хэрэглэх",module,Magento_Catalog
+Enabled,Идэвхжсэн,module,Magento_Catalog
+Disabled,Хаагдсан,module,Magento_Catalog
+"Attribute Set already exists.","Аттрибут бүрдэл аль хэдийн байна.",module,Magento_Catalog
+"Requested product does not support images.","Шаардсан бүтээгдэхүүн зургууд дэмжихгүй байна.",module,Magento_Catalog
+"The image content is not valid.","Зургийн агуулга зөв биш байна.",module,Magento_Catalog
+"Cannot save product.","Бүтээгдэхүүнийг хадгалж чадахгүй.",module,Magento_Catalog
+"Failed to save new media gallery entry.","Шинэ зургийн галлерей оролтыг хадгалахад алдаа гарлаа.",module,Magento_Catalog
+"There is no image with provided ID.","Өгөгдсөн ID-тай зураг байхгүй.",module,Magento_Catalog
+"Such product doesn\'t exist","Ийм бүтээгдэхүүн байхгүй байна",module,Magento_Catalog
+"Such image doesn\'t exist","Ийм зураг байхгүй байна",module,Magento_Catalog
+"We can\'t find the image file.","Зургийн файлыг олж чадахгүй байна.",module,Magento_Catalog
+"productFactory is already set","productFactory аль хэдийн суулгагдсан",module,Magento_Catalog
+"The option type to get group instance is incorrect.","Бүлгийн инстанцыг авахын тулд сонголтын төрөл буруу байна.",module,Magento_Catalog
+"Select type options required values rows.","Сонгосон сонголтын төрөл мөрийн утгууд шаардаж байна.",module,Magento_Catalog
+"Could not save product option","Бүтээгдэхүүний сонголтыг хадгалж чадахгүй байна",module,Magento_Catalog
+"Could not remove custom option","Хэрэглэгч тодорхойлсон сонголтыг хасаж чадахгүй байна",module,Magento_Catalog
+"Please specify date required option(s).","Шаардлагатай сонголт(ууд)-д өдрийг тогтооно уу.",module,Magento_Catalog
+"Please specify time required option(s).","Шаардлагатай сонголт(ууд)-д цагийг тогтооно уу.",module,Magento_Catalog
+"Please specify product\'s required option(s).","Бүтээгдэхүүний шаардлагатай сонголт(ууд)-ыг тогтооно уу.",module,Magento_Catalog
+"The option instance type in options group is incorrect.","Сонголтын бүлгийн сонголтын инстанцын төрөл буруу.",module,Magento_Catalog
+"The product instance type in options group is incorrect.","Сонголтын бүлгийн бүтээгдэхүүний инстанц буруу.",module,Magento_Catalog
+"The configuration item option instance in options group is incorrect.","Сонголтуудын бүлэг дэхь тохируулга нэгж сонголтын инстанц буруу.",module,Magento_Catalog
+"The configuration item instance in options group is incorrect.","Сонголтуудын бүлэг дэхь тохируулга нэгжийн инстанц буруу.",module,Magento_Catalog
+"The BuyRequest instance in options group is incorrect.","Сонголтын бүлэг дэхь BuyRequest инстанц буруу.",module,Magento_Catalog
+"We can\'t add the product to the cart because of an option validation issue.","Сонголтын шалгалтанд асуудал гарсан учраас бүтээгдэхүүнийг сагс руу нэмж чадахгүй.",module,Magento_Catalog
+"%1 doesn\'t extends \Magento\Catalog\Model\Product\Option\Type\DefaultType","%1 нь \Magento\Catalog\Model\Product\Option\Type\DefaultType -с уламжлаагүй байна",module,Magento_Catalog
 "The file options format is not valid.","The file options format is not valid.",module,Magento_Catalog
 px.,px.,module,Magento_Catalog
-"The file '%1' for '%2' has an invalid extension.","The file '%1' for '%2' has an invalid extension.",module,Magento_Catalog
-"The maximum allowed image size for '%1' is %2x%3 px.","The maximum allowed image size for '%1' is %2x%3 px.",module,Magento_Catalog
-"The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.","The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.",module,Magento_Catalog
-"The file '%1' is empty. Please choose another one","The file '%1' is empty. Please choose another one",module,Magento_Catalog
-"The file '%1' is invalid. Please choose another one","The file '%1' is invalid. Please choose another one",module,Magento_Catalog
-"File \'%1\' is not an image.","File \'%1\' is not an image.",module,Magento_Catalog
-"Validation failed. Required options were not filled or the file was not uploaded.","Validation failed. Required options were not filled or the file was not uploaded.",module,Magento_Catalog
-"The file you uploaded is larger than %1 Megabytes allowed by server","The file you uploaded is larger than %1 Megabytes allowed by server",module,Magento_Catalog
-"Option required.","Option required.",module,Magento_Catalog
-"The file is empty. Please choose another one","The file is empty. Please choose another one",module,Magento_Catalog
-"Some of the selected item options are not currently available.","Some of the selected item options are not currently available.",module,Magento_Catalog
-"The text is too long.","The text is too long.",module,Magento_Catalog
-"This product doesn\'t have tier price","This product doesn\'t have tier price",module,Magento_Catalog
-"Product hasn\'t group price with such data: customerGroupId = \'%1\', website = %2, qty = %3","Product hasn\'t group price with such data: customerGroupId = \'%1\', website = %2, qty = %3",module,Magento_Catalog
-"Invalid data provided for tier_price","Invalid data provided for tier_price",module,Magento_Catalog
-"Please provide valid data","Please provide valid data",module,Magento_Catalog
-"Values of following attributes are invalid: %1","Values of following attributes are invalid: %1",module,Magento_Catalog
-"Could not save group price","Could not save group price",module,Magento_Catalog
-"We can\'t create writeable directory ""%1"".","We can\'t create writeable directory ""%1"".",module,Magento_Catalog
-"The file upload failed.","The file upload failed.",module,Magento_Catalog
-"The product has required options.","The product has required options.",module,Magento_Catalog
-"Something went wrong while processing the request.","Something went wrong while processing the request.",module,Magento_Catalog
-"%1 doesn\'t extends \Magento\Catalog\Model\Product\Type\AbstractType","%1 doesn\'t extends \Magento\Catalog\Model\Product\Type\AbstractType",module,Magento_Catalog
-"%1 doesn\'t extends \Magento\Catalog\Model\Product\Type\Price","%1 doesn\'t extends \Magento\Catalog\Model\Product\Type\Price",module,Magento_Catalog
-"Not Visible Individually","Not Visible Individually",module,Magento_Catalog
-Search,Search,module,Magento_Catalog
-"Catalog, Search","Catalog, Search",module,Magento_Catalog
-"Something went wrong while removing products from the websites.","Something went wrong while removing products from the websites.",module,Magento_Catalog
-"Something went wrong while adding products to websites.","Something went wrong while adding products to websites.",module,Magento_Catalog
-"Group with id ""%1"" does not exist.","Group with id ""%1"" does not exist.",module,Magento_Catalog
-"Attribute group that contains system attributes can not be deleted","Attribute group that contains system attributes can not be deleted",module,Magento_Catalog
-"Collection provider is not registered","Collection provider is not registered",module,Magento_Catalog
-"Unknown link type: %1","Unknown link type: %1",module,Magento_Catalog
-"Provided link type ""%1"" does not exist","Provided link type ""%1"" does not exist",module,Magento_Catalog
-"Invalid data provided for linked products","Invalid data provided for linked products",module,Magento_Catalog
-"Product with SKU %1 is not linked to product with SKU %2","Product with SKU %1 is not linked to product with SKU %2",module,Magento_Catalog
-"Product %1 doesn\'t have linked %2 as %3","Product %1 doesn\'t have linked %2 as %3",module,Magento_Catalog
-"Requested product doesn\'t exist","Requested product doesn\'t exist",module,Magento_Catalog
-"Product option with id %1 does not exist","Product option with id %1 does not exist",module,Magento_Catalog
-"Product with SKU ""%1"" does not exist","Product with SKU ""%1"" does not exist",module,Magento_Catalog
-"Invalid product data: %1","Invalid product data: %1",module,Magento_Catalog
-"Unable to remove product %1","Unable to remove product %1",module,Magento_Catalog
-"There are not websites for assign to product","There are not websites for assign to product",module,Magento_Catalog
-"Could not assign product ""%1"" to websites ""%2""","Could not assign product ""%1"" to websites ""%2""",module,Magento_Catalog
-"Could not save product ""%1"" with websites %2","Could not save product ""%1"" with websites %2",module,Magento_Catalog
-"Attribute \'%1\' is locked. %2","Attribute \'%1\' is locked. %2",module,Magento_Catalog
-"Do not change the scope. %1","Do not change the scope. %1",module,Magento_Catalog
-"A product type is not defined for the indexer.","A product type is not defined for the indexer.",module,Magento_Catalog
-"%1 doesn\'t extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice","%1 doesn\'t extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice",module,Magento_Catalog
-"Multiple Select","Multiple Select",module,Magento_Catalog
-Dropdown,Dropdown,module,Magento_Catalog
-"%1 doesn\'t extend \Magento\Framework\Filter\Template","%1 doesn\'t extend \Magento\Framework\Filter\Template",module,Magento_Catalog
-"As low as","As low as",module,Magento_Catalog
-message,message,module,Magento_Catalog
+"The file '%1' for '%2' has an invalid extension.","'%2' зориулсан файл '%1' буруу өргөтгөлтэй байна.",module,Magento_Catalog
+"The maximum allowed image size for '%1' is %2x%3 px.","'%1' зориулсан хамгийн том зургийн хэмжээ бол %2x%3 px.",module,Magento_Catalog
+"The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.","Таны байршуулсан файл '%1' серверийн зөвшөөрсөн хэмжээ %2 мегабайтаас том байна.",module,Magento_Catalog
+"The file '%1' is empty. Please choose another one","Файл '%1' хоосон байна. Өөрийг сонгоно уу",module,Magento_Catalog
+"The file '%1' is invalid. Please choose another one","Файл '%1' буруу байна. Өөрийг сонгоно уу",module,Magento_Catalog
+"File \'%1\' is not an image.","Файл \'%1\' бол зураг биш байна.",module,Magento_Catalog
+"Validation failed. Required options were not filled or the file was not uploaded.","Шалгалт алдаатай. Шаардлагагтай сонголтууд бөглөгдөөгүй эсвэл файл тавигдаагүй байна.",module,Magento_Catalog
+"The file you uploaded is larger than %1 Megabytes allowed by server","Таны оруулсан файл серверийн зөвшөөрөх хэмжээ %1 мегабайтаас том байна",module,Magento_Catalog
+"Option required.","Соголт шаардлагатай.",module,Magento_Catalog
+"The file is empty. Please choose another one","Энэ файл хоосон. Өөрийг сонгоно уу",module,Magento_Catalog
+"Some of the selected item options are not currently available.","Сонгосон артиклийн сонголтуудын зарим нь одоохондоо боломжгүй.",module,Magento_Catalog
+"The text is too long.","Энэ Текст хэтэрхий урт байна.",module,Magento_Catalog
+"This product doesn\'t have tier price","Энэ бүтээгдэхүүн шаталсан үнэгүй байна",module,Magento_Catalog
+"Product hasn\'t group price with such data: customerGroupId = \'%1\', website = %2, qty = %3","Бүтээгдэхүүн ийм өгөгдөлтэй бүлэг үнэгүй байна: customerGroupId = \'%1\', website = %2, qty = %3",module,Magento_Catalog
+"Invalid data provided for tier_price","tier_price -д буруу өгөгдөл олгогдсон байна",module,Magento_Catalog
+"Please provide valid data","Зөв өгөгдөл олгоно уу",module,Magento_Catalog
+"Values of following attributes are invalid: %1","Дараахь аттрибутуудын утгууд буруу: %1",module,Magento_Catalog
+"Could not save group price","Бүлгийн үнийг хадгалж чадахгүй байна",module,Magento_Catalog
+"We can\'t create writeable directory ""%1"".","Бичих болохоор директор ""%1"" үүсгэж чадахгүй.",module,Magento_Catalog
+"The file upload failed.","Файл оруулахад алдаа гарсан.",module,Magento_Catalog
+"The product has required options.","Бүтээгдэхүүн шаардлагатай сонголтуудтай.",module,Magento_Catalog
+"Something went wrong while processing the request.","Хүсэлтийг боловсруулж байх явцад ямар нэг зүйл буруу байсан.",module,Magento_Catalog
+"%1 doesn\'t extends \Magento\Catalog\Model\Product\Type\AbstractType","%1 нь \Magento\Catalog\Model\Product\Type\AbstractType -с уламжлаагүй",module,Magento_Catalog
+"%1 doesn\'t extends \Magento\Catalog\Model\Product\Type\Price","%1 нь \Magento\Catalog\Model\Product\Type\Price -с уламжлаагүй",module,Magento_Catalog
+"Not Visible Individually","Тусгайлан харах боломжгүй",module,Magento_Catalog
+Search,Хайлт,module,Magento_Catalog
+"Catalog, Search","Каталог, Хайлт",module,Magento_Catalog
+"Something went wrong while removing products from the websites.","Вэбсайтаас бүтээгдэхүүнийг хасах явцад ямар нэг зүйл буруу байлаа.",module,Magento_Catalog
+"Something went wrong while adding products to websites.","Вэбсайтруу бүтээгдэхүүн нэмж байх явцад ямар нэг зүйл буруу байлаа.",module,Magento_Catalog
+"Group with id ""%1"" does not exist.","""%1"" id-тай бүлэг байхгүй.",module,Magento_Catalog
+"Attribute group that contains system attributes can not be deleted","Систем аттрибут агуулсан аттрибут бүлэг устгагдаж чадахгүй",module,Magento_Catalog
+"Collection provider is not registered","Цуглуулга нийлүүлэгч бүртгэгдээгүй байна",module,Magento_Catalog
+"Unknown link type: %1","Зарлагдаагүй холбоосын төрөл: %1",module,Magento_Catalog
+"Provided link type ""%1"" does not exist","Нийлүүлэгдсэн холбоосын төрөл ""%1"" байхгүй байна",module,Magento_Catalog
+"Invalid data provided for linked products","Холбогдсон бүтээгдэхүүнүүдэд буруу өгөгдөл нийлүүлэгдсэн",module,Magento_Catalog
+"Product with SKU %1 is not linked to product with SKU %2","%1 Бүтээгдэхүүний-Кодтой бүтээгдэхүүн %2 Бүтээгдэхүүний-Кодтой бүтээгдэхүүн рүү холбогдоогүй байна",module,Magento_Catalog
+"Product %1 doesn\'t have linked %2 as %3","Бүтээгдэхүүн %1 бол %3 шиг %2 -той холбогдоогүй байна ",module,Magento_Catalog
+"Requested product doesn\'t exist","Хүссэн бүтээгдэхүүн байхгүй байна",module,Magento_Catalog
+"Product option with id %1 does not exist","%1 id-тай бүтээгдэхүүний сонголт байхгүй",module,Magento_Catalog
+"Product with SKU ""%1"" does not exist","""%1"" Бүтээгдэхүүний-Кодтой бүтээгдэхүүн байхгүй",module,Magento_Catalog
+"Invalid product data: %1","Бүтээгдэхүүний буруу өгөгдөл: %1",module,Magento_Catalog
+"Unable to remove product %1","%1 бүтээгдэхүүнийг хасах боломжгүй",module,Magento_Catalog
+"There are not websites for assign to product","Бүтээгдэхүүн рүү заах вэбсайт алга",module,Magento_Catalog
+"Could not assign product ""%1"" to websites ""%2""","""%1"" бүтээгдэхүүнийг ""%2"" вэбсайтруу зааж чадахгүй",module,Magento_Catalog
+"Could not save product ""%1"" with websites %2","""%1"" бүтээгдэхүүнийг %2" вэбсайтруу хадгалж чадахгүй,module,Magento_Catalog
+"Attribute \'%1\' is locked. %2","Аттрибут \'%1\' цоожлогдсон. %2",module,Magento_Catalog
+"Do not change the scope. %1","Хүрээг өөрчилж болохгүй. %1",module,Magento_Catalog
+"A product type is not defined for the indexer.","Нэг бүтээгдэхүүний төрөл индексжүүлэгчид зориулж зарлагдаагүй байна.",module,Magento_Catalog
+"%1 doesn\'t extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice","%1 нь \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice -с уламжлаагүй байна",module,Magento_Catalog
+"Multiple Select","Олон сонголт",module,Magento_Catalog
+Dropdown,Дропдаун,module,Magento_Catalog
+"%1 doesn\'t extend \Magento\Framework\Filter\Template","%1 нь \Magento\Framework\Filter\Template -с уламжлаагүй",module,Magento_Catalog
+"As low as","Болж өгөх бага",module,Magento_Catalog
+message,зурвас,module,Magento_Catalog
 fl,fl,module,Magento_Catalog
 123,123,module,Magento_Catalog
-Select...,Select...,module,Magento_Catalog
-"Are you sure you want to delete this category?","Are you sure you want to delete this category?",module,Magento_Catalog
+Select...,Сонголт...,module,Magento_Catalog
+"Are you sure you want to delete this category?","Энэ категорийг устгахдаа та итгэлтэй байна уу?",module,Magento_Catalog
 "ID: %1","ID: %1",module,Magento_Catalog
-"Set root category for this store in the <a href=""%1"">configuration</a>.","Set root category for this store in the <a href=""%1"">configuration</a>.",module,Magento_Catalog
-"This operation can take a long time","This operation can take a long time",module,Magento_Catalog
-"Collapse All","Collapse All",module,Magento_Catalog
-"Expand All","Expand All",module,Magento_Catalog
-"Please confirm site switching. All data that hasn\'t been saved will be lost.","Please confirm site switching. All data that hasn\'t been saved will be lost.",module,Magento_Catalog
-"Use Default Value","Use Default Value",module,Magento_Catalog
-"Manage Titles (Size, Color, etc.)","Manage Titles (Size, Color, etc.)",module,Magento_Catalog
-"Manage Options (values of your attribute)","Manage Options (values of your attribute)",module,Magento_Catalog
-"Is Default","Is Default",module,Magento_Catalog
-"Add Option","Add Option",module,Magento_Catalog
-"Sort Option","Sort Option",module,Magento_Catalog
-Groups,Groups,module,Magento_Catalog
-"Double click on a group to rename it.","Double click on a group to rename it.",module,Magento_Catalog
-"Unassigned Attributes","Unassigned Attributes",module,Magento_Catalog
-"A name is required.","A name is required.",module,Magento_Catalog
-"This group contains system attributes. Please move system attributes to another group and try again.","This group contains system attributes. Please move system attributes to another group and try again.",module,Magento_Catalog
-"Please enter a new group name.","Please enter a new group name.",module,Magento_Catalog
-"An attribute group named ""/name/"" already exists"".","An attribute group named ""/name/"" already exists"".",module,Magento_Catalog
+"Set root category for this store in the <a href=""%1"">configuration</a>.","Энэ дэлгүүрийн эх категорийг энэ <a href=""%1"">тохируулга</a> дотор өөрчилнө үү.",module,Magento_Catalog
+"This operation can take a long time","Энэ үйлдэл удаан үргэлжилэ магадгүй",module,Magento_Catalog
+"Collapse All","Бүгдийг хаах",module,Magento_Catalog
+"Expand All","Бүгдийг нээх",module,Magento_Catalog
+"Please confirm site switching. All data that hasn\'t been saved will be lost.","Хуудас солилтыг батална уу. Хадгалагдаагүй байгаа бүх өгөгдлүүд алдагдах болно.",module,Magento_Catalog
+"Use Default Value","Стандарт утгыг хэрэглэх",module,Magento_Catalog
+"Manage Titles (Size, Color, etc.)","Гарчгуудыг удирдах (Хэмжээ, Өнгө, etc.)",module,Magento_Catalog
+"Manage Options (values of your attribute)","Сонголтуудыг удирдах (таны аттрибутын утгууд)",module,Magento_Catalog
+"Is Default","бол Стандарт",module,Magento_Catalog
+"Add Option","Сонголт нэмэх",module,Magento_Catalog
+"Sort Option","Сонголт эрэмбэлэх",module,Magento_Catalog
+Groups,Бүлгүүд,module,Magento_Catalog
+"Double click on a group to rename it.","Бүлгийн нэрийг өөрчлөхийн тулд дээр  нь товшино уу.",module,Magento_Catalog
+"Unassigned Attributes","Холбогдоогүй аттрибут",module,Magento_Catalog
+"A name is required.","Нэрийг оруулах шаардлагатай.",module,Magento_Catalog
+"This group contains system attributes. Please move system attributes to another group and try again.","Энэ бүлэг системийн аттрибут агуулсан байна. Системийн аттрибутуудыг өөр бүлэг рүү шилжүүлээд дахин оролдоно уу.",module,Magento_Catalog
+"Please enter a new group name.","Шинэ бүлгийн нэр оруулна уу.",module,Magento_Catalog
+"An attribute group named ""/name/"" already exists"".","Аттрибут бүлгийн нэр ""/name/"" аль хэзээний үүссэн байна"".",module,Magento_Catalog
 "Sorry, we\'re unable to complete this request.","Sorry, we\'re unable to complete this request.",module,Magento_Catalog
-"You can\'t remove attributes from this attribute set.","You can\'t remove attributes from this attribute set.",module,Magento_Catalog
-"Custom Options","Custom Options",module,Magento_Catalog
-"This is a required option.","This is a required option.",module,Magento_Catalog
-"The field isn\'t complete.","The field isn\'t complete.",module,Magento_Catalog
-"Compatible file extensions to upload","Compatible file extensions to upload",module,Magento_Catalog
-"Maximum image width","Maximum image width",module,Magento_Catalog
-"Maximum image height","Maximum image height",module,Magento_Catalog
-"Maximum number of characters:","Maximum number of characters:",module,Magento_Catalog
-"start typing to search template","start typing to search template",module,Magento_Catalog
-"Product online","Product online",module,Magento_Catalog
-"Product offline","Product offline",module,Magento_Catalog
-"Product online status","Product online status",module,Magento_Catalog
-"Manage Stock","Manage Stock",module,Magento_Catalog
-Qty,Qty,module,Magento_Catalog
-"Out-of-Stock Threshold","Out-of-Stock Threshold",module,Magento_Catalog
-"Minimum Qty Allowed in Shopping Cart","Minimum Qty Allowed in Shopping Cart",module,Magento_Catalog
-"Maximum Qty Allowed in Shopping Cart","Maximum Qty Allowed in Shopping Cart",module,Magento_Catalog
-"Qty Uses Decimals","Qty Uses Decimals",module,Magento_Catalog
-Backorders,Backorders,module,Magento_Catalog
-"Notify for Quantity Below","Notify for Quantity Below",module,Magento_Catalog
-"Enable Qty Increments","Enable Qty Increments",module,Magento_Catalog
-"Qty Increments","Qty Increments",module,Magento_Catalog
-"Stock Availability","Stock Availability",module,Magento_Catalog
-"In Stock","In Stock",module,Magento_Catalog
-"Out of Stock","Out of Stock",module,Magento_Catalog
-"Add Product To Websites","Add Product To Websites",module,Magento_Catalog
-"Remove Product From Websites","Remove Product From Websites",module,Magento_Catalog
-"To hide an item in catalog or search results, set the status to ""Disabled"".","To hide an item in catalog or search results, set the status to ""Disabled"".",module,Magento_Catalog
-"We can\'t save custom-defined options for bundles with dynamic pricing.","We can\'t save custom-defined options for bundles with dynamic pricing.",module,Magento_Catalog
-"Delete Custom Option","Delete Custom Option",module,Magento_Catalog
-"Sort Custom Options","Sort Custom Options",module,Magento_Catalog
-"Option Title","Option Title",module,Magento_Catalog
-"Input Type","Input Type",module,Magento_Catalog
-Required,Required,module,Magento_Catalog
-"Price Type","Price Type",module,Magento_Catalog
-"Compatible File Extensions","Compatible File Extensions",module,Magento_Catalog
-"Maximum Image Size","Maximum Image Size",module,Magento_Catalog
+"You can\'t remove attributes from this attribute set.","Энэ аттрибутын цуглуулгаас аттрибутуудыг шилжүүлж чадахгүй.",module,Magento_Catalog
+"Custom Options","Хэрэглэгч тодорхойлсон сонголтууд",module,Magento_Catalog
+"This is a required option.","Энэ бол шаардлагатай сонголт.",module,Magento_Catalog
+"The field isn\'t complete.","Талбар бүрэн биш байна.",module,Magento_Catalog
+"Compatible file extensions to upload","Оруулахад тохиромжтой файлын өргөтгөлүүд",module,Magento_Catalog
+"Maximum image width","Зургийн хамгийн их өргөн",module,Magento_Catalog
+"Maximum image height","Зургийн хамгийн их өндөр",module,Magento_Catalog
+"Maximum number of characters:","Тэмдэгтийн хамгийн их тоо:",module,Magento_Catalog
+"start typing to search template","Тэмплэйт хайхын тулд бичиж эхэлнэ үү",module,Magento_Catalog
+"Product online","Бүтээгдэхүүн онлайн",module,Magento_Catalog
+"Product offline","Бүтээгдэхүүн оффлайн",module,Magento_Catalog
+"Product online status","Бүтээгдэхүүн онлайн статус",module,Magento_Catalog
+"Manage Stock","Агуулах удирдах",module,Magento_Catalog
+Qty,Тоо,module,Magento_Catalog
+"Out-of-Stock Threshold","Агуулахад байхгүй хязгаар",module,Magento_Catalog
+"Minimum Qty Allowed in Shopping Cart","Сагсан дотор зөвшөөрөгдсөн хамгийн бага тоо",module,Magento_Catalog
+"Maximum Qty Allowed in Shopping Cart","Сагсан дотор зөвшөөрөгдсөн хамгийн их тоо",module,Magento_Catalog
+"Qty Uses Decimals","Таслалтай тоон хэмжээ",module,Magento_Catalog
+Backorders,"Төлөгдөөгүй дүн",module,Magento_Catalog
+"Notify for Quantity Below","Тоо ширхэгээс бага бол сонордуулах",module,Magento_Catalog
+"Enable Qty Increments","Тоо нэмэлтийг идэвхижүүлэх",module,Magento_Catalog
+"Qty Increments","Тоо нэмэлтүүд",module,Magento_Catalog
+"Stock Availability","Нөөц боломж",module,Magento_Catalog
+"In Stock","Нөөцтэй",module,Magento_Catalog
+"Out of Stock","Нөөц дууссан",module,Magento_Catalog
+"Add Product To Websites","Бүтээгдэхүүнийг вэбсайт руу нэмэх",module,Magento_Catalog
+"Remove Product From Websites","Бүтээгдэхүүнийг вэбсайтаас хасах",module,Magento_Catalog
+"To hide an item in catalog or search results, set the status to ""Disabled"".","Артиклийг каталог болон хайлтын үр дүнд нуухыг хүсвэл статусыг ""Disabled"" болго.",module,Magento_Catalog
+"We can\'t save custom-defined options for bundles with dynamic pricing.","Динамик үнэтэй иж бүрдэлд зориулсан хэрэглэгчээр тодорхойлогдсон сонголтуудыг хадгалж чадахгүй.",module,Magento_Catalog
+"Delete Custom Option","Хэрэглэгч тодорхойлсон сонголтыг устгах",module,Magento_Catalog
+"Sort Custom Options","Хэрэглэгч тодорхойлсон сонголтуудын эрэмбэлэх ",module,Magento_Catalog
+"Option Title","Сонголтын гарчиг",module,Magento_Catalog
+"Input Type","Оролтын төрөл",module,Magento_Catalog
+Required,Шаардлагатай,module,Magento_Catalog
+"Price Type","Үнийн төрөл",module,Magento_Catalog
+"Compatible File Extensions","Тохиромжтой файлын өргөтгөлүүд",module,Magento_Catalog
+"Maximum Image Size","Зургийн хамгийн их хэмжээ",module,Magento_Catalog
 "%1 <span>x</span> %2 <span>px.</span>","%1 <span>x</span> %2 <span>px.</span>",module,Magento_Catalog
-"Please leave blank if it is not an image.","Please leave blank if it is not an image.",module,Magento_Catalog
-Title,Title,module,Magento_Catalog
-"Sort Custom Option","Sort Custom Option",module,Magento_Catalog
-"Max Characters","Max Characters",module,Magento_Catalog
-"Customer Group","Customer Group",module,Magento_Catalog
-"Item Price","Item Price",module,Magento_Catalog
-Action,Action,module,Magento_Catalog
-"and above","and above",module,Magento_Catalog
-"Delete Tier","Delete Tier",module,Magento_Catalog
-"Product In Websites","Product In Websites",module,Magento_Catalog
-"(Copy data from: %1)","(Copy data from: %1)",module,Magento_Catalog
+"Please leave blank if it is not an image.","Зураг биш бол хоосон орхино уу.",module,Magento_Catalog
+Title,Гарчиг,module,Magento_Catalog
+"Sort Custom Option","Хэрэглэгч тодорхойлсон сонголт эрэмбэлэх",module,Magento_Catalog
+"Max Characters","Хамгийн их тэмдэгт",module,Magento_Catalog
+"Customer Group","Хэрэглэгчийн бүлэг",module,Magento_Catalog
+"Item Price","Артикль үнэ",module,Magento_Catalog
+Action,Үйлдэл,module,Magento_Catalog
+"and above","ба өмнөх",module,Magento_Catalog
+"Delete Tier","Шатлал устгах",module,Magento_Catalog
+"Product In Websites","Вэбсайт дэхь бүтээгдэхүүн",module,Magento_Catalog
+"(Copy data from: %1)","(Өгөгдөл хуулах хаанаас: %1)",module,Magento_Catalog
 "Alt Text","Alt Text",module,Magento_Catalog
-Role,Role,module,Magento_Catalog
-"Hide from Product Page","Hide from Product Page",module,Magento_Catalog
-"Close panel","Close panel",module,Magento_Catalog
-"Product Alerts","Product Alerts",module,Magento_Catalog
-"Allow Multiple Boxes for Shipping.","Allow Multiple Boxes for Shipping.",module,Magento_Catalog
-"start typing to search attribute","start typing to search attribute",module,Magento_Catalog
-"Basic Settings","Basic Settings",module,Magento_Catalog
-"Advanced Settings","Advanced Settings",module,Magento_Catalog
-"Changes have been made to this section that have not been saved.","Changes have been made to this section that have not been saved.",module,Magento_Catalog
-"This tab contains invalid data. Please resolve this before saving.","This tab contains invalid data. Please resolve this before saving.",module,Magento_Catalog
-Actions,Actions,module,Magento_Catalog
-"Mass Actions","Mass Actions",module,Magento_Catalog
-"Select All","Select All",module,Magento_Catalog
-"Unselect All","Unselect All",module,Magento_Catalog
-"Select Visible","Select Visible",module,Magento_Catalog
-"Unselect Visible","Unselect Visible",module,Magento_Catalog
-"Special Price","Special Price",module,Magento_Catalog
-"Regular Price","Regular Price",module,Magento_Catalog
-"Buy %1 for: ","Buy %1 for: ",module,Magento_Catalog
-"Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>",module,Magento_Catalog
+Role,Ройл,module,Magento_Catalog
+"Hide from Product Page","Бүтээгдэхүүний хуудаснаас далдлах",module,Magento_Catalog
+"Close panel","Панель хаах",module,Magento_Catalog
+"Product Alerts","Бүтээгдэхүүн анхааруулгууд",module,Magento_Catalog
+"Allow Multiple Boxes for Shipping.","Хүргэлтэнд олон хайрцаг зөвшөөрөх.",module,Magento_Catalog
+"start typing to search attribute","Аттрибут хайхын тулд бичиж эхэлнэ үү",module,Magento_Catalog
+"Basic Settings","Үндсэн тохиргоо",module,Magento_Catalog
+"Advanced Settings","Ахьсан тохиргоо",module,Magento_Catalog
+"Changes have been made to this section that have not been saved.","Энэ хэсэгт хийгдсэн өөрчлөлтүүд хадгалагдаагүй байна.",module,Magento_Catalog
+"This tab contains invalid data. Please resolve this before saving.","Энэ таб хүчингүй өгөгдөл агуулсан байна. Хадгалахын өмнө үүнийг шийднэ үү.",module,Magento_Catalog
+Actions,Үйлдлүүд,module,Magento_Catalog
+"Mass Actions","Бөөн үйлдлүүд",module,Magento_Catalog
+"Select All","Бүгдийг сонгох",module,Magento_Catalog
+"Unselect All","Бүгдийг сонголтыг болиулах",module,Magento_Catalog
+"Select Visible","Харагдаж байгааг сонгох",module,Magento_Catalog
+"Unselect Visible","Харагдаж байгаа сонголтыг болиулах",module,Magento_Catalog
+"Special Price","Тусгай үнэ",module,Magento_Catalog
+"Regular Price","Ердийн үнэ",module,Magento_Catalog
+"Buy %1 for: ","%1 худалдан авах: ",module,Magento_Catalog
+"Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","%1-г тус бүрт нь %2-р худалдан авах ба <strong class=""benefit"">хадгалах<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>",module,Magento_Catalog
 "Buy %1 for %2 each","Buy %1 for %2 each",module,Magento_Catalog
-"Shop By","Shop By",module,Magento_Catalog
-"Shopping Options","Shopping Options",module,Magento_Catalog
-"Compare Products","Compare Products",module,Magento_Catalog
-"Print This Page","Print This Page",module,Magento_Catalog
-"Remove Product","Remove Product",module,Magento_Catalog
-"Add to Cart","Add to Cart",module,Magento_Catalog
-"In stock","In stock",module,Magento_Catalog
-"Out of stock","Out of stock",module,Magento_Catalog
-"Add to Wish List","Add to Wish List",module,Magento_Catalog
-"You have no items to compare.","You have no items to compare.",module,Magento_Catalog
-"Remove This Item","Remove This Item",module,Magento_Catalog
-Compare,Compare,module,Magento_Catalog
-"Clear All","Clear All",module,Magento_Catalog
-Prev,Prev,module,Magento_Catalog
-Next,Next,module,Magento_Catalog
-"We can\'t find products matching the selection.","We can\'t find products matching the selection.",module,Magento_Catalog
-"Add to Compare","Add to Compare",module,Magento_Catalog
-"Learn More","Learn More",module,Magento_Catalog
-"We found other products you might like!","We found other products you might like!",module,Magento_Catalog
-"More Choices:","More Choices:",module,Magento_Catalog
-"Check items to add to the cart or","Check items to add to the cart or",module,Magento_Catalog
-"select all","select all",module,Magento_Catalog
-"Items %1-%2 of %3","Items %1-%2 of %3",module,Magento_Catalog
-"%1 Item","%1 Item",module,Magento_Catalog
-"%1 Items","%1 Items",module,Magento_Catalog
-Show,Show,module,Magento_Catalog
-"per page","per page",module,Magento_Catalog
-"Sort By","Sort By",module,Magento_Catalog
-"Set Ascending Direction","Set Ascending Direction",module,Magento_Catalog
-"Set Descending Direction","Set Descending Direction",module,Magento_Catalog
-"View as","View as",module,Magento_Catalog
-"More Information","More Information",module,Magento_Catalog
-Loading...,Loading...,module,Magento_Catalog
-"* Required Fields","* Required Fields",module,Magento_Catalog
-Availability,Availability,module,Magento_Catalog
-"Warning message","Warning message",module,Magento_Catalog
+"Shop By","Худалдан авах",module,Magento_Catalog
+"Shopping Options","Худалдааны сонголтууд",module,Magento_Catalog
+"Compare Products","Бүтээгдэхүүн харьцуулах",module,Magento_Catalog
+"Print This Page","Энэ хуудсыг хэвлэх",module,Magento_Catalog
+"Remove Product","Бүтээгдэхүүн хасах",module,Magento_Catalog
+"Add to Cart","Сагсанд нэмэх",module,Magento_Catalog
+"In stock","Нөөцтэй",module,Magento_Catalog
+"Out of stock","Нөөц дууссан",module,Magento_Catalog
+"Add to Wish List","Хүсэлтийн жагсаалт руу нэмэх",module,Magento_Catalog
+"You have no items to compare.","Таньд харьцуулах артиклиуд байхгүй байна.",module,Magento_Catalog
+"Remove This Item","Энэ артиклийг хасах",module,Magento_Catalog
+Compare,Харьцуулах,module,Magento_Catalog
+"Clear All","Бүгдийг цэвэрлэх",module,Magento_Catalog
+Prev,Өмнөх,module,Magento_Catalog
+Next,Дараах,module,Magento_Catalog
+"We can\'t find products matching the selection.","Сонголтонд тохирох бүтээгдэхүүнүүд олж чадахгүй байна.",module,Magento_Catalog
+"Add to Compare","Харьцуулахаар нэмэх",module,Magento_Catalog
+"Learn More","Илүү үзэх",module,Magento_Catalog
+"We found other products you might like!","Танд таалагдаж магадгүй өөр бүтээгдэхүүнүүд оллоо!",module,Magento_Catalog
+"More Choices:","Илүү сонголт:",module,Magento_Catalog
+"Check items to add to the cart or","Артиклиудыг сагсанд нэмэхээр сонгох эсвэл",module,Magento_Catalog
+"select all","бүгдийг сонгох",module,Magento_Catalog
+"Items %1-%2 of %3","%3-н %1-%2 артиклиуд",module,Magento_Catalog
+"%1 Item","%1 артикль",module,Magento_Catalog
+"%1 Items","%1 артиклиуд",module,Magento_Catalog
+Show,Харуулах,module,Magento_Catalog
+"per page","Хуудас бүрт",module,Magento_Catalog
+"Sort By","Эрэмбэлэх",module,Magento_Catalog
+"Set Ascending Direction","Өсөх чиглэлээр",module,Magento_Catalog
+"Set Descending Direction","Багасах чиглэлээр",module,Magento_Catalog
+"View as","Харагдац шиг",module,Magento_Catalog
+"More Information","Илүү мэдээлэл",module,Magento_Catalog
+Loading...,Ачаалж байна...,module,Magento_Catalog
+"* Required Fields","* Шаардлагатай нүднүүд",module,Magento_Catalog
+Availability,Боломж,module,Magento_Catalog
+"Warning message","Анхааруулга зурвас",module,Magento_Catalog
 Ok,Ok,module,Magento_Catalog
-Cancel,Cancel,module,Magento_Catalog
-Submit,Submit,module,Magento_Catalog
-"We don\'t recognize or support this file extension type.","We don\'t recognize or support this file extension type.",module,Magento_Catalog
+Cancel,Болих,module,Magento_Catalog
+Submit,Хийх,module,Magento_Catalog
+"We don\'t recognize or support this file extension type.","Энэ файлын өргөтгөлийн төрлийг танихгүй эсвэл дэмжихгүй байна.",module,Magento_Catalog
 "Configure Product","Configure Product",module,Magento_Catalog
 OK,OK,module,Magento_Catalog
-"Select type of option.","Select type of option.",module,Magento_Catalog
-"Please add rows to option.","Please add rows to option.",module,Magento_Catalog
-"New Option","New Option",module,Magento_Catalog
-"Select Product","Select Product",module,Magento_Catalog
-"Please select items.","Please select items.",module,Magento_Catalog
-"Choose existing category.","Choose existing category.",module,Magento_Catalog
-"Create Category","Create Category",module,Magento_Catalog
-"Image Detail","Image Detail",module,Magento_Catalog
-"unselect all","unselect all",module,Magento_Catalog
-Small,Small,module,Magento_Catalog
-Main,Main,module,Magento_Catalog
-Thumbnail,Thumbnail,module,Magento_Catalog
-"Custom image","Custom image",module,Magento_Catalog
-"Product Fields Auto-Generation","Product Fields Auto-Generation",module,Magento_Catalog
-"Mask for SKU","Mask for SKU",module,Magento_Catalog
-"Use {{name}} as Product Name placeholder","Use {{name}} as Product Name placeholder",module,Magento_Catalog
-"Mask for Meta Title","Mask for Meta Title",module,Magento_Catalog
-"Mask for Meta Keywords","Mask for Meta Keywords",module,Magento_Catalog
-"Use {{name}} as Product Name or {{sku}} as Product SKU placeholders","Use {{name}} as Product Name or {{sku}} as Product SKU placeholders",module,Magento_Catalog
-"Mask for Meta Description","Mask for Meta Description",module,Magento_Catalog
-"Use {{name}} and {{description}} as Product Name and Product Description placeholders","Use {{name}} and {{description}} as Product Name and Product Description placeholders",module,Magento_Catalog
-Storefront,Storefront,module,Magento_Catalog
-"List Mode","List Mode",module,Magento_Catalog
-"Products per Page on Grid Allowed Values","Products per Page on Grid Allowed Values",module,Magento_Catalog
-Comma-separated.,Comma-separated.,module,Magento_Catalog
-"Products per Page on Grid Default Value","Products per Page on Grid Default Value",module,Magento_Catalog
-"Must be in the allowed values list","Must be in the allowed values list",module,Magento_Catalog
-"Products per Page on List Allowed Values","Products per Page on List Allowed Values",module,Magento_Catalog
-"Products per Page on List Default Value","Products per Page on List Default Value",module,Magento_Catalog
-"Use Flat Catalog Category","Use Flat Catalog Category",module,Magento_Catalog
-"Use Flat Catalog Product","Use Flat Catalog Product",module,Magento_Catalog
-"Product Listing Sort by","Product Listing Sort by",module,Magento_Catalog
-"Allow All Products per Page","Allow All Products per Page",module,Magento_Catalog
-"Whether to show ""All"" option in the ""Show X Per Page"" dropdown","Whether to show ""All"" option in the ""Show X Per Page"" dropdown",module,Magento_Catalog
-"Allow Dynamic Media URLs in Products and Categories","Allow Dynamic Media URLs in Products and Categories",module,Magento_Catalog
-"E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.","E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.",module,Magento_Catalog
-"Product Image Placeholders","Product Image Placeholders",module,Magento_Catalog
-"Search Engine Optimization","Search Engine Optimization",module,Magento_Catalog
-"Page Title Separator","Page Title Separator",module,Magento_Catalog
-"Use Canonical Link Meta Tag For Categories","Use Canonical Link Meta Tag For Categories",module,Magento_Catalog
-"Use Canonical Link Meta Tag For Products","Use Canonical Link Meta Tag For Products",module,Magento_Catalog
-"Catalog Price Scope","Catalog Price Scope",module,Magento_Catalog
-"This defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"").","This defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"").",module,Magento_Catalog
-"Category Top Navigation","Category Top Navigation",module,Magento_Catalog
-"Maximal Depth","Maximal Depth",module,Magento_Catalog
-"Date & Time Custom Options","Date & Time Custom Options",module,Magento_Catalog
-"Use JavaScript Calendar","Use JavaScript Calendar",module,Magento_Catalog
-"Date Fields Order","Date Fields Order",module,Magento_Catalog
-"Time Format","Time Format",module,Magento_Catalog
-"Year Range","Year Range",module,Magento_Catalog
-"Please use a four-digit year format.","Please use a four-digit year format.",module,Magento_Catalog
-"Product Image Watermarks","Product Image Watermarks",module,Magento_Catalog
-"Watermark Default Size","Watermark Default Size",module,Magento_Catalog
-"Watermark Opacity, Percent","Watermark Opacity, Percent",module,Magento_Catalog
-Watermark,Watermark,module,Magento_Catalog
-"Watermark Position","Watermark Position",module,Magento_Catalog
-"Use Static URLs for Media Content in WYSIWYG for Catalog","Use Static URLs for Media Content in WYSIWYG for Catalog",module,Magento_Catalog
-"This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.",module,Magento_Catalog
-"Top Level Category","Top Level Category",module,Magento_Catalog
-"Product Flat Data","Product Flat Data",module,Magento_Catalog
-"Reorganize EAV product structure to flat structure","Reorganize EAV product structure to flat structure",module,Magento_Catalog
-"Category Flat Data","Category Flat Data",module,Magento_Catalog
-"Reorganize EAV category structure to flat structure","Reorganize EAV category structure to flat structure",module,Magento_Catalog
-"Indexed category/products association","Indexed category/products association",module,Magento_Catalog
-"Product Categories","Product Categories",module,Magento_Catalog
-"Indexed product/categories association","Indexed product/categories association",module,Magento_Catalog
-"Product Price","Product Price",module,Magento_Catalog
-"Index product prices","Index product prices",module,Magento_Catalog
-"Product EAV","Product EAV",module,Magento_Catalog
-"Index product EAV","Index product EAV",module,Magento_Catalog
-"Catalog New Products List","Catalog New Products List",module,Magento_Catalog
-"List of Products that are set as New","List of Products that are set as New",module,Magento_Catalog
-"Display Type","Display Type",module,Magento_Catalog
-"All products - recently added products, New products - products marked as new","All products - recently added products, New products - products marked as new",module,Magento_Catalog
-"All products","All products",module,Magento_Catalog
-"New products","New products",module,Magento_Catalog
-"Display Page Control","Display Page Control",module,Magento_Catalog
-"Number of Products per Page","Number of Products per Page",module,Magento_Catalog
-"Number of Products to Display","Number of Products to Display",module,Magento_Catalog
-Template,Template,module,Magento_Catalog
-"New Products Grid Template","New Products Grid Template",module,Magento_Catalog
-"New Products List Template","New Products List Template",module,Magento_Catalog
-"New Products Images and Names Template","New Products Images and Names Template",module,Magento_Catalog
-"New Products Names Only Template","New Products Names Only Template",module,Magento_Catalog
-"New Products Images Only Template","New Products Images Only Template",module,Magento_Catalog
-"Cache Lifetime (Seconds)","Cache Lifetime (Seconds)",module,Magento_Catalog
-"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.",module,Magento_Catalog
-"Catalog Product Link","Catalog Product Link",module,Magento_Catalog
-"Link to a Specified Product","Link to a Specified Product",module,Magento_Catalog
-"Select Product...","Select Product...",module,Magento_Catalog
-"Anchor Custom Text","Anchor Custom Text",module,Magento_Catalog
-"If empty, we'll use the product name here.","If empty, we'll use the product name here.",module,Magento_Catalog
-"Anchor Custom Title","Anchor Custom Title",module,Magento_Catalog
-"Product Link Block Template","Product Link Block Template",module,Magento_Catalog
-"Product Link Inline Template","Product Link Inline Template",module,Magento_Catalog
-"Catalog Category Link","Catalog Category Link",module,Magento_Catalog
-"Link to a Specified Category","Link to a Specified Category",module,Magento_Catalog
-"Select Category...","Select Category...",module,Magento_Catalog
-"If empty, we'll use the category name here.","If empty, we'll use the category name here.",module,Magento_Catalog
-"Category Link Block Template","Category Link Block Template",module,Magento_Catalog
-"Category Link Inline Template","Category Link Inline Template",module,Magento_Catalog
-Set,Set,module,Magento_Catalog
-"All Store Views","All Store Views",module,Magento_Catalog
-"Delete items","Delete items",module,Magento_Catalog
-"Delete selected items?","Delete selected items?",module,Magento_Catalog
-"Change status","Change status",module,Magento_Catalog
-Enable,Enable,module,Magento_Catalog
-Disable,Disable,module,Magento_Catalog
-"Update attributes","Update attributes",module,Magento_Catalog
-none,none,module,Magento_Catalog
-Overview,Overview,module,Magento_Catalog
-Details,Details,module,Magento_Catalog
+"Select type of option.","Сонголт төрлийг сонгох.",module,Magento_Catalog
+"Please add rows to option.","Сонголт мөр нэмэх.",module,Magento_Catalog
+"New Option","Шинэ сонголт",module,Magento_Catalog
+"Select Product","Бүтээгдэхүүн сонгох",module,Magento_Catalog
+"Please select items.","Артиклиудыг сонгоно уу.",module,Magento_Catalog
+"Choose existing category.","Байгаа категорийг сонго.",module,Magento_Catalog
+"Create Category","Категори үүсгэх",module,Magento_Catalog
+"Image Detail","Зургаг дэлгэрэнгүй",module,Magento_Catalog
+"unselect all","Бүх сонголтыг болиулах",module,Magento_Catalog
+Small,Жижиг,module,Magento_Catalog
+Main,Гол,module,Magento_Catalog
+Thumbnail,Хураангуй,module,Magento_Catalog
+"Custom image","Хэрэглэгчийн тодорхойлсон зураг",module,Magento_Catalog
+"Product Fields Auto-Generation","Бүтээгдэхүүн талбаруудын автомат үүсгэлт",module,Magento_Catalog
+"Mask for SKU","Бүтээгдэхүүний таних дугаарт зориулсан хэв",module,Magento_Catalog
+"Use {{name}} as Product Name placeholder","Бүтээгдэхүүний нэр зөвлөмжөөр {{name}} хэрэглэх",module,Magento_Catalog
+"Mask for Meta Title","Мета гарчигт зориулсан хэв",module,Magento_Catalog
+"Mask for Meta Keywords","Мета түлхүүр үгнүүдэд зориулсан хэв",module,Magento_Catalog
+"Use {{name}} as Product Name or {{sku}} as Product SKU placeholders","Бүтээгдэхүүний нэрээр {{name}} эсвэл бүтээгдэхүүний таних дугаараар {{sku}} зөвлөмж утгаар хэрэглэх",module,Magento_Catalog
+"Mask for Meta Description","Мета тодорхойлолтын хэв",module,Magento_Catalog
+"Use {{name}} and {{description}} as Product Name and Product Description placeholders","{{name}} болон {{description}} -г бүтээгдэхүүний нэр болон тодорхойлолтын зөвлөмж утгаар хэрэглэх",module,Magento_Catalog
+Storefront,"Дэлгүүрийн нүүр",module,Magento_Catalog
+"List Mode","Жагсаалт загвар",module,Magento_Catalog
+"Products per Page on Grid Allowed Values","бүтээгдэхүүний зөвшөөрөгдсөн утгууд хуудас бүрт сараалжаар",module,Magento_Catalog
+Comma-separated.,Таслалаар-тусгаарлагдсан.,module,Magento_Catalog
+"Products per Page on Grid Default Value","бүтээгдэхүүний стандарт утга хуудас бүрт сараалжаар",module,Magento_Catalog
+"Must be in the allowed values list","Зөвшөөрөгдсөн утгуудын жагсаалт дотор байх ёстой",module,Magento_Catalog
+"Products per Page on List Allowed Values","бүтээгдэхүүний зөвшөөрөгдсөн утгууд хуудас бүрт жагсаалтаар",module,Magento_Catalog
+"Products per Page on List Default Value","бүтээгдэхүүний стандарт утга хуудас бүрт жагсаалтаар",module,Magento_Catalog
+"Use Flat Catalog Category","Хавтгай каталог категори хэрэглэх",module,Magento_Catalog
+"Use Flat Catalog Product","Хавтгай каталог бүтээгдэхүүн хэрэглэх",module,Magento_Catalog
+"Product Listing Sort by","Бүтээгдэхүүний жагсаалт эрэмбэлэлт",module,Magento_Catalog
+"Allow All Products per Page","Хуудас бүрт бүх бүтээгдэхүүнийг зөвшөөрөх",module,Magento_Catalog
+"Whether to show ""All"" option in the ""Show X Per Page"" dropdown","""Бүгд"" сонголтыг ""Хуудас бүрт X харуулах"" дропдаунд харуулах",module,Magento_Catalog
+"Allow Dynamic Media URLs in Products and Categories","Бүтээгдэхүүн болон Категори дээр динамик медиа URL зөвшөөрөх",module,Magento_Catalog
+"E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.","{{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Динамик үйлдлүүдийг тооцоолох нь каталогын хурданд нөлөөлнө.",module,Magento_Catalog
+"Product Image Placeholders","Бүтээгдэхүүний зургын зай хадгалагчууд",module,Magento_Catalog
+"Search Engine Optimization","Хайлтын системийн сайжруулалт",module,Magento_Catalog
+"Page Title Separator","Хуудасны гарчигийн тусгаарлагч",module,Magento_Catalog
+"Use Canonical Link Meta Tag For Categories","Категориудад зориулж каноникал холбоос мета таг хэрэглэх",module,Magento_Catalog
+"Use Canonical Link Meta Tag For Products","Бүтээгдэхүүнүүдэд зориулж каноникал холбоос мета таг хэрэглэх",module,Magento_Catalog
+"Catalog Price Scope","Каталог үнийн хүрээ",module,Magento_Catalog
+"This defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"").","Энэ суурь мөнгөн тэмдэгтийн хүрээг тодорхойлно (""Мөнгөн тэмдэгт тохируулга"" > ""Мөнгөн тэмдэгт сонголтууд"" > ""Суур мөнгөн тэмдэгт"").",module,Magento_Catalog
+"Category Top Navigation","Категори Дээд Навигаци",module,Magento_Catalog
+"Maximal Depth","Хамгийн их гүн",module,Magento_Catalog
+"Date & Time Custom Options","Өдөр & Цаг хэрэглэгчийн тодорхойлсон сонголтууд",module,Magento_Catalog
+"Use JavaScript Calendar","Жаваскрипт календар хэрэглэх",module,Magento_Catalog
+"Date Fields Order","Өдрийн талбаруудын эрэмбэлэлт",module,Magento_Catalog
+"Time Format","Цаг формат",module,Magento_Catalog
+"Year Range","Жилийн хязгаар",module,Magento_Catalog
+"Please use a four-digit year format.","Жилд дөрвөн тоон формат хэрэглэнэ үү.",module,Magento_Catalog
+"Product Image Watermarks","Бүтээгдэхүүний зургийн усан тэмдэг",module,Magento_Catalog
+"Watermark Default Size","Усан тэмдэгийн стандарт хэмжээ",module,Magento_Catalog
+"Watermark Opacity, Percent","Усан тэмдэгийн нягтрал, хувь",module,Magento_Catalog
+Watermark,"Усан-тэмдэг",module,Magento_Catalog
+"Watermark Position","Усан тэмдгийн байрлал",module,Magento_Catalog
+"Use Static URLs for Media Content in WYSIWYG for Catalog","Каталогт зориулсан WYSIWYG дээрх медиа агуулгад зориулж статик URL хэрэглэх",module,Magento_Catalog
+"This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","Энэ зөвхөн каталогийн бүтээгдэхүүн болон категориудад нэмэгдэнэ. Медиа агуулга едитор дотор орохдоо статик URL болно. Медиа агуулга систем тохируулгын суурь URL өөрчлөгдхөд дагаж өөрчлөгдөхгүй.",module,Magento_Catalog
+"Top Level Category","Дээд түвшиний категори ",module,Magento_Catalog
+"Product Flat Data","Бүтээгдэхүүний хавтгай өгөгдөл",module,Magento_Catalog
+"Reorganize EAV product structure to flat structure","Бүтээгдэхүүний EAV бүтцийг хавтгай болгож зохион байгуулах",module,Magento_Catalog
+"Category Flat Data","Категорийн хавтгай өгөгдөл",module,Magento_Catalog
+"Reorganize EAV category structure to flat structure","Категорийн EAV бүтцийг хавтгай болгож зохион байгуулах",module,Magento_Catalog
+"Indexed category/products association","Индексжигдсэн категори/бүтээгдэхүүнүүдийн холбоос",module,Magento_Catalog
+"Product Categories","Бүтээгдэхүүний категориуд",module,Magento_Catalog
+"Indexed product/categories association","Индексжигдсэн бүтээгдэхүүн/категориудын холбоос",module,Magento_Catalog
+"Product Price","Бүтээгдэхүүний үнэ",module,Magento_Catalog
+"Index product prices","Бүтээгдэхүүний үнийг индекслэх",module,Magento_Catalog
+"Product EAV","Бүтээгдэхүүний EAV",module,Magento_Catalog
+"Index product EAV","Бүтээгдэхүүний EAV индексжүүлэх",module,Magento_Catalog
+"Catalog New Products List","Каталогийн шинэ бүтээгдэхүүнүүдийн жагсаалт",module,Magento_Catalog
+"List of Products that are set as New","Шинэ гэж тохируулагдсан бүтээгдэхүүнүүдийн жагсаалт",module,Magento_Catalog
+"Display Type","Төрлийг харуулах",module,Magento_Catalog
+"All products - recently added products, New products - products marked as new","Бүх бүтээгдэхүүнүүд - сая нэмэгдсэн бүтээгдэхүүнүүд, Шинэ бүтээгдэхүүнүүд - шинэ гэж тэмдэглэгдсэн бүтээгдэхүүнүүд",module,Magento_Catalog
+"All products","Бүх бүтээгдэхүүнүүд",module,Magento_Catalog
+"New products","Шинэ бүтээгдэхүүнүүд",module,Magento_Catalog
+"Display Page Control","Хуудасны удирдлага харуулах",module,Magento_Catalog
+"Number of Products per Page","Хуудас бүрийн бүтээгдэхүүний тоо",module,Magento_Catalog
+"Number of Products to Display","Харуулах бүтээгдэхүүний тоо",module,Magento_Catalog
+Template,Темплэйт,module,Magento_Catalog
+"New Products Grid Template","Шинэ бүтээгдэхүүний сараалж темплэйт",module,Magento_Catalog
+"New Products List Template","Шинэ бүтээгдэхүүний жагсаалт темплэйт",module,Magento_Catalog
+"New Products Images and Names Template","Шинэ бүтээгдэхүүний зургийн болон нэрний темплэйт",module,Magento_Catalog
+"New Products Names Only Template","Шинэ бүтээгдэхүүний зөвхөн нэрийн темплэйт",module,Magento_Catalog
+"New Products Images Only Template","Шинэ бүтээгдэхүүний зөвхөн зургийн темплэйт",module,Magento_Catalog
+"Cache Lifetime (Seconds)","Кэш амьдрах хугацаа (Секунд)",module,Magento_Catalog
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","Хэрэв өгөгдөөгүй бол 86400 стандартаар. Хурдан шинэчлэхийн тулд Блокын HTML гаралтын кэшийг хоосло.",module,Magento_Catalog
+"Catalog Product Link","Каталог бүтээгдэхүүний холбоос",module,Magento_Catalog
+"Link to a Specified Product","Тусгайлагдсан бүтээгдэхүүнрүү холбоос",module,Magento_Catalog
+"Select Product...","Бүтээгдэхүүн сонгох...",module,Magento_Catalog
+"Anchor Custom Text","Зангууны хэрэглэгч тодорхойлсон текст",module,Magento_Catalog
+"If empty, we'll use the product name here.","Хэрэв хоосон бол бүтээгдэхүүний нэр хэрэглэгдэнэ.",module,Magento_Catalog
+"Anchor Custom Title","Зангууны хэрэглэгч тодорхойлсон гарчиг",module,Magento_Catalog
+"Product Link Block Template","Бүтээгдэхүүн Холбоос Блок Темплэйт",module,Magento_Catalog
+"Product Link Inline Template","Бүтээгдэхүүн Холбоос Инлайн Темплэйт",module,Magento_Catalog
+"Catalog Category Link","Каталог категори Холбоос",module,Magento_Catalog
+"Link to a Specified Category","Тусгайлагдсан категорруу холбоос",module,Magento_Catalog
+"Select Category...","Категори сонгох...",module,Magento_Catalog
+"If empty, we'll use the category name here.","Хэрэв хоосон бол категорийн нэр хэрэглэгдэнэ.",module,Magento_Catalog
+"Category Link Block Template","Категори Холбоос Блок Темплэйт",module,Magento_Catalog
+"Category Link Inline Template","Категори Холбоос Инлайн Темплэйт",module,Magento_Catalog
+Set,Суулгах,module,Magento_Catalog
+"All Store Views","Бүт дэлгүүрийн харагдац",module,Magento_Catalog
+"Delete items","Артиклиуд устгах",module,Magento_Catalog
+"Delete selected items?","Сонгосон артиклиудыг устгах?",module,Magento_Catalog
+"Change status","Статус өөрчилөх",module,Magento_Catalog
+Enable,Идэвхижүүлэх,module,Magento_Catalog
+Disable,"Идэвхигүй болгох",module,Magento_Catalog
+"Update attributes","Аттрибутуудыг өөрчлөх",module,Magento_Catalog
+none,юмгүй,module,Magento_Catalog
+Overview,Хураангуй,module,Magento_Catalog
+Details,Дэлгэрэнгүй,module,Magento_Catalog
