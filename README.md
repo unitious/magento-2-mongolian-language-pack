@@ -73,7 +73,7 @@ php bin/magento setup:static-content:deploy mn_Cyrl_MN
 |Magento_Cms|100% |
 |Magento_Config| |
 |Magento_Configurable_Product| |
-|Magento_Contact| |
+|Magento_Contact|100% |
 |Magento_Cookie|100% |
 |Magento_Cron| |
 |Magento_Currency_Symbol|100% |
@@ -123,7 +123,7 @@ php bin/magento setup:static-content:deploy mn_Cyrl_MN
 |Magento_Send_Friend| |
 |Magento_Shipping| |
 |Magento_Sitemap| |
-|Magento_Store| |
+|Magento_Store|100%|
 |Magento_Swatches| |
 |Magento_Tax_Import_Export|100% |
 |Magento_Tax| |
