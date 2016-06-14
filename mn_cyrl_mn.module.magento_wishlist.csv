@@ -64,7 +64,7 @@ LocalizedException,НутагшуулсанОнцгойТохиолдол,module
 Qty,Тоо,module,Magento_Wishlist
 "Add to Cart","Сагсанд нэмэх",module,Magento_Wishlist
 Availability,Хүртээмж,module,Magento_Wishlist
-"In stock","Агуулахад буй",module,Magento_Wishlist
+"In stock","Агуулахад байгаа",module,Magento_Wishlist
 "Out of stock","Дууссан",module,Magento_Wishlist
 Edit,Засварлах,module,Magento_Wishlist
 "Remove Item","Артикль хасах",module,Magento_Wishlist

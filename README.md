@@ -111,15 +111,15 @@ php bin/magento setup:static-content:deploy mn_Cyrl_MN
 |Magento_Persistent| |
 |Magento_Product_Alert| |
 |Magento_Product_Video| |
-|Magento_Quote| |
+|Magento_Quote|100%|
 |Magento_Reports| |
-|Magento_Review| |
+|Magento_Review|100%|
 |Magento_Rss|100% |
 |Magento_Rule|100% |
 |Magento_Sales_Rule||
 |Magento_Sales_Sequence| |
 |Magento_Sales|100%|
-|Magento_Search| |
+|Magento_Search|100%|
 |Magento_Send_Friend| |
 |Magento_Shipping| |
 |Magento_Sitemap| |

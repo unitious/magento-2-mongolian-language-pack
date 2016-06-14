@@ -1,24 +1,24 @@
-"Search Term","Search Term",module,Magento_Search
-Results,Results,module,Magento_Search
-Uses,Uses,module,Magento_Search
-"Search Terms","Search Terms",module,Magento_Search
-Search,Search,module,Magento_Search
-"Add New Search Term","Add New Search Term",module,Magento_Search
-"Save Search","Save Search",module,Magento_Search
-"Delete Search","Delete Search",module,Magento_Search
-"Edit Search '%1'","Edit Search '%1'",module,Magento_Search
-"New Search","New Search",module,Magento_Search
-"Search Information","Search Information",module,Magento_Search
-"General Information","General Information",module,Magento_Search
-No,No,module,Magento_Search
-Yes,Yes,module,Magento_Search
-"Search Query","Search Query",module,Magento_Search
-Store,Store,module,Magento_Search
-"Number of results","Number of results",module,Magento_Search
-"Number of results (For the last time placed)","Number of results (For the last time placed)",module,Magento_Search
-"For the last time placed.","For the last time placed.",module,Magento_Search
-"Number of Uses","Number of Uses",module,Magento_Search
-"Synonym For","Synonym For",module,Magento_Search
+"Search Term","Хайх утга",module,Magento_Search
+Results,"Үр дүн",module,Magento_Search
+Uses,Хэрэглээ,module,Magento_Search
+"Search Terms","Хайлтын утгууд",module,Magento_Search
+Search,Хайлт,module,Magento_Search
+"Add New Search Term","Шинэ хайлтын утга нэмэх",module,Magento_Search
+"Save Search","Хайлт хадгалах",module,Magento_Search
+"Delete Search","Хайлт устгах",module,Magento_Search
+"Edit Search '%1'","Хайлт засварлах '%1'",module,Magento_Search
+"New Search","Шинэ хайлт",module,Magento_Search
+"Search Information","Хайлын мэдээлэл",module,Magento_Search
+"General Information","Ерөнхий мэдээлэл",module,Magento_Search
+No,Үгүй,module,Magento_Search
+Yes,Тийм,module,Magento_Search
+"Search Query","Хайлтын хүсэлт",module,Magento_Search
+Store,Дэлгүүр,module,Magento_Search
+"Number of results","Үр дүнгийн тоо",module,Magento_Search
+"Number of results (For the last time placed)","Үр дүнгийн тоо (хамгийн сүүлд орсон)",module,Magento_Search
+"For the last time placed.","Хамгийн сүүлд орсон.",module,Magento_Search
+"Number of Uses","Хэрэглэсэн тоо",module,Magento_Search
+"Synonym For","Адилхан утгатай",module,Magento_Search
 "Will make search for the query above return results for this search","Will make search for the query above return results for this search",module,Magento_Search
 "Redirect URL","Redirect URL",module,Magento_Search
 "ex. http://domain.com","ex. http://domain.com",module,Magento_Search
