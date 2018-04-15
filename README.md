@@ -27,7 +27,7 @@ Composer.json файлын "repositories" блок дотор нэмнэ:
 ```
     {
         "type": "vcs",
-        "url": "https://ulzii@bitbucket.org/ulziit/magento2_mongolian_localepack_mn_cyrl_mn.git"
+        "url": "https://github.com/munkhulzii/mage2-locale-mn-cyrl-mn.git"
     }
 ```   
  
