@@ -6,7 +6,7 @@
  */
 -->
 <language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
-    <code>mn_Cyrl_MN</code>
+    <code>mn_MN</code>
     <vendor>ulzii</vendor>
-    <package>mn_cyrl_mn</package>
+    <package>mn_mn</package>
 </language>
