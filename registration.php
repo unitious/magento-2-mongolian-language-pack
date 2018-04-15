@@ -5,6 +5,6 @@
  */
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::LANGUAGE,
-    'ulzii_mn_cyrl_mn',
+    'ulzii_mn_mn',
     __DIR__
 );
