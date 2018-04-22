@@ -27,14 +27,14 @@ Composer.json файлын "repositories" блок дотор нэмнэ:
 ```
     {
         "type": "vcs",
-        "url": "https://github.com/munkhulzii/mage2-locale-mn-cyrl-mn.git"
+        "url": "https://github.com/unitious/magento-2-mongolian-language-pack.git"
     }
 ```   
  
 мөн энэ мөрийг "require" блок дотор нэмнэ
 
 ``` 
-"ulzii/mage2-locale-mn-cyrl-mn": "dev-master"
+"unitious/magento-2-mongolian-language-pack": "dev-master"
 ```
 
 
@@ -47,6 +47,10 @@ php bin/magento setup:static-content:deploy mn_Cyrl_MN
 
 Үүний дараа магенто удирдлагын хэсэгт системийн хэлийг "Mongolian" сонгоод хадгална. Кэйчээ хоослохоо мартаж бас болохгүй шүү.
 
+### Алдаа. 
+
+Сүүлд гарсан хувилбар дээр монгол хэл кодны зөрчилдөөнөөс болж шууд ажиллахгүй байгааг анхаарна уу. Энд mn_Cyrl_MN болон mn_MN гэсэн хэлний кодын зөрчилдөөн гарсан бөгөөд тийм ч хялбар шийдэгдэх асуудал биш юм.
+Үүнд зориулж кор файлд шууд засвар хийх хэрэгтэй болсон бөгөөд удахгүй энд орно. 
 
 ### Орчуулагдсан компонент, модулиуд 
 
