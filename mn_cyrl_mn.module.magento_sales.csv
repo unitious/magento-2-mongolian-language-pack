@@ -261,8 +261,7 @@ Sales,Худалдаа
 "Something went wrong while assigning the order status.","Захиалгын статусыг холбож байхад ямар нэг зүйл буруу байлаа."
 "We can\'t find this order status.","Энэ захиалгын статусыг олч чадахгүй байна."
 "Create New Order Status","Шинэ захиалгын статус үүсгэх"
-"We found another order status with the same order status code.",
-"Ижилхэн захиалгын статус кодтой өөр захиалгын статус олдлоо."
+"We found another order status with the same order status code.","Ижилхэн захиалгын статус кодтой өөр захиалгын статус олдлоо."
 "You saved the order status.","Та захиалгын статусыг хадгаллаа."
 "We can\'t add the order status right now.","Захиалгын статусыг яг одоо нэмж чадахгүй."
 "You have unassigned the order status.","Захиалгын статусын холбоосыг салгасан."
@@ -634,7 +633,7 @@ Search,Хайх
 "Placed on <span class=""no-link"">%created_at</span>","Хийгдсэн <span class=""no-link"">%created_at</span>"
 "Once your package ships we will send an email with a link to track your order.","Таны илгээмж илгээгдэхэд бид таньд захиалгаа мөрдөх холбоос бүхий эмэйлийг явуулах болно."
 "Your shipping confirmation is below. Thank you again for your business.","Таны хүргэлтийн баталгаажуулалт доор байна. Худалдаа хийсэн таньд дахин баярлалаа."
-"Your Shipment #%shipment_id for Order #%order_id","Захиалга #%order_id-д зориулсан хүргэлт #%shipment_id "
+"Your Shipment #%shipment_id for Order #%order_id","Захиалга #%order_id-д зориулсан хүргэлт #%shipment_id"
 "Gift Options for ","Бэлэгний сонголтууд "
 "Add Products","Бүтээгдэхүүн нэмэх"
 "You have item changes","Та артикль өөрчилсөн"

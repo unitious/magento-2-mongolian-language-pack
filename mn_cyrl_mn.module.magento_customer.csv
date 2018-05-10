@@ -321,7 +321,7 @@ Country,Country
 "Use as my default billing address","Use as my default billing address"
 "Use as my default shipping address","Use as my default shipping address"
 "Save Address","Save Address"
-"Go back","Go back"
+"Go back","Буцах"
 "Please enter your email below and we will send you the confirmation link.","Please enter your email below and we will send you the confirmation link."
 Email,Email
 "Send confirmation link","Send confirmation link"
@@ -330,13 +330,14 @@ Email,Email
 "New Password","Шинэ нууц үг"
 "Confirm New Password","Шинэ нууц үг бататгах"
 Save,Save
-"Please enter your email address below to receive a password reset link.","Please enter your email address below to receive a password reset link."
+"Please enter your email address below to receive a password reset link.","Нууц үг сэргээх холбоос хүлээж авахын тулд хэрэглэгчийн эмэйлээ оруулна уу"
 Submit,Submit
 "Registered Customers","Бүртгэлтэй хэрэглэгчид"
 "If you have an account, sign in with your email address.","Хэрэв та өөрийн данстай бол эмэйл хаягаараа нэвтэрч орно уу."
 Password,Password
 Login,Login
 "Forgot Your Password?","Нууц үгээ мартсануу?"
+"Forgot Your Password","Нууц үгээ мартсан"
 "Subscription option","Subscription option"
 "General Subscription","General Subscription"
 "Sign Up for Newsletter","Зар мэдээлэлд бүртгэх"
@@ -480,3 +481,4 @@ Addresses,Addresses
 "Password forgotten","Нууц үг мартсан"
 "My Dashboard","Миний данс"
 "You are signed out.","Та өөрийн данснаасаа гарлаа."
+"Reset My Password","Нууц үгээ өөрчилөх"

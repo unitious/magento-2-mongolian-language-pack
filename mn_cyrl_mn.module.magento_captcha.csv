@@ -5,8 +5,8 @@ Always,Always
 "Incorrect CAPTCHA.","Incorrect CAPTCHA."
 "Please enter the letters from the image","Please enter the letters from the image"
 "<strong>Attention</strong>: Captcha is case sensitive.","<strong>Attention</strong>: Captcha is case sensitive."
-"Reload captcha","Reload captcha"
-"Please type the letters below","Please type the letters below"
+"Reload captcha","Тэмдэгтүүдийг дахин дуудах"
+"Please type the letters below","Дараах тэмдэгтүүдийг оруулна уу"
 CAPTCHA,CAPTCHA
 "Enable CAPTCHA in Admin","Enable CAPTCHA in Admin"
 Font,Font

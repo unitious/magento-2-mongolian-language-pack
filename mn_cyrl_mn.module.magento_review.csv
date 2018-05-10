@@ -92,8 +92,7 @@ Pending,Хүлээгдэж-буй
 "Please enter a nickname.","Нэрээ оруулна уу."
 "Please enter a review.","Үнэлгээн оруулна уу."
 "Rating isn't Available","Үнэлгээ боломжгүй байна"
-"Please specify a rating title for a store, or we\'ll just use the default value.",
-"Дэлгүүрт зориулж үнэлгээний гарчиг оруулна уу эсвэл стандарт утга хэрэглэгдэх болно."
+"Please specify a rating title for a store, or we\'ll just use the default value.","Дэлгүүрт зориулж үнэлгээний гарчиг оруулна уу эсвэл стандарт утга хэрэглэгдэх болно."
 "Assigned Options","Холбогдсон сонголтууд"
 "Option Title:","Сонголтын гарчиг:"
 "Product Name","Бүтээгдэхүүний нэр"
