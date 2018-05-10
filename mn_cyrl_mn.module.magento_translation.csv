@@ -1,5 +1,5 @@
-"Dictionary (Translation on Storefront side)","Толь бичиг (Дэлгүүрийн нүүрэн дэхь орчуулга)",module,Magento_Translation
-"Embedded (Translation on Admin side)","Оруулсан (Админ хэсгийн орчуулга)",module,Magento_Translation
-"Translation Strategy","Орчуулгын стратеги",module,Magento_Translation
-Translations,Орчуулгууд,module,Magento_Translation
-"Translation files.","Орчуулгын файлууд.",module,Magento_Translation
+"Dictionary (Translation on Storefront side)","Толь бичиг (Дэлгүүрийн нүүрэн дэхь орчуулга)"
+"Embedded (Translation on Admin side)","Оруулсан (Админ хэсгийн орчуулга)"
+"Translation Strategy","Орчуулгын стратеги"
+Translations,Орчуулгууд
+"Translation files.","Орчуулгын файлууд."

@@ -1,34 +1,34 @@
-Apply,Нэмэх,module,Magento_Rule
-"Please choose a valid discount amount.","Хүчинтэй хямдралын дүн сонгоно уу.",module,Magento_Rule
-"End Date must follow Start Date.","Дуусах өдөр эхлэх өдрөөс хойш байх ёстой.",module,Magento_Rule
-"Please specify a website.","Вэбсайтыг тогтооно уу.",module,Magento_Rule
-"Please specify Customer Groups.","Хэрэглэгчийн бүлгийг тогтоох.",module,Magento_Rule
-to,хааш,module,Magento_Rule
-by,аар,module,Magento_Rule
-"Please choose an action to add.","Нэмэхийн тулд үйлдэл сонгоно уу.",module,Magento_Rule
-"Perform following actions","Дараах үйлдлүүдийг гүйцэтгэ",module,Magento_Rule
-is,бол,module,Magento_Rule
-"is not","биш",module,Magento_Rule
-"equals or greater than","тэнцүү эсвэл их",module,Magento_Rule
-"equals or less than","тэнцүү эсвэл бага",module,Magento_Rule
-"greater than","их",module,Magento_Rule
-"less than","бага",module,Magento_Rule
-contains,агуулдаг,module,Magento_Rule
-"does not contain","агуулаагүй",module,Magento_Rule
-"is one of","нэг",module,Magento_Rule
-"is not one of","эдгээрийн нэг",module,Magento_Rule
-"Please choose a condition to add.","Нэмэх нөхцөлийг сонгоно уу.",module,Magento_Rule
-Add,Нэмэх,module,Magento_Rule
-Remove,Хасах,module,Magento_Rule
-ALL,БҮГД,module,Magento_Rule
-ANY,АЛЬ НЭГ,module,Magento_Rule
-TRUE,ҮНЭН,module,Magento_Rule
-FALSE,ХУДАЛ,module,Magento_Rule
-"If %1 of these conditions are %2:","Хэрэв %1 эдгээр нөхцөлүүдийн нэг бол %2:",module,Magento_Rule
-"Conditions хослуулах","Нөхцөлүүдийг ",module,Magento_Rule
-"Attribute Set","Аттрибут бүрдэл",module,Magento_Rule
-Category,Категори,module,Magento_Rule
-"Open Chooser","Сонгогч нээх",module,Magento_Rule
-"Unknown condition operator","Нөхцөлийн зарлагдаагүй оператор",module,Magento_Rule
-"There is no information about associated entity type ""%1"".","Холбогдсон энтити төрөл ""%1"" талаар мэдээлэл алга.",module,Magento_Rule
-"This won\'t take long . . .","Энэ удаан үргэлжлэхгүй . . .",module,Magento_Rule
+Apply,Нэмэх
+"Please choose a valid discount amount.","Хүчинтэй хямдралын дүн сонгоно уу."
+"End Date must follow Start Date.","Дуусах өдөр эхлэх өдрөөс хойш байх ёстой."
+"Please specify a website.","Вэбсайтыг тогтооно уу."
+"Please specify Customer Groups.","Хэрэглэгчийн бүлгийг тогтоох."
+to,хааш
+by,аар
+"Please choose an action to add.","Нэмэхийн тулд үйлдэл сонгоно уу."
+"Perform following actions","Дараах үйлдлүүдийг гүйцэтгэ"
+is,бол
+"is not","биш"
+"equals or greater than","тэнцүү эсвэл их"
+"equals or less than","тэнцүү эсвэл бага"
+"greater than","их"
+"less than","бага"
+contains,агуулдаг
+"does not contain","агуулаагүй"
+"is one of","нэг"
+"is not one of","эдгээрийн нэг"
+"Please choose a condition to add.","Нэмэх нөхцөлийг сонгоно уу."
+Add,Нэмэх
+Remove,Хасах
+ALL,БҮГД
+ANY,АЛЬ НЭГ
+TRUE,ҮНЭН
+FALSE,ХУДАЛ
+"If %1 of these conditions are %2:","Хэрэв %1 эдгээр нөхцөлүүдийн нэг бол %2:"
+"Conditions хослуулах","Нөхцөлүүдийг "
+"Attribute Set","Аттрибут бүрдэл"
+Category,Категори
+"Open Chooser","Сонгогч нээх"
+"Unknown condition operator","Нөхцөлийн зарлагдаагүй оператор"
+"There is no information about associated entity type ""%1"".","Холбогдсон энтити төрөл ""%1"" талаар мэдээлэл алга."
+"This won\'t take long . . .","Энэ удаан үргэлжлэхгүй . . ."

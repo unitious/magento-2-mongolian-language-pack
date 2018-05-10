@@ -1,7 +1,7 @@
-"Page not found.","Хуудас олдсонгүй.",module,Magento_Rss
-Feed,Фийд,module,Magento_Rss
-"Miscellaneous Feeds","Бусад фийдүүд",module,Magento_Rss
-"Get Feed","Фийд авах",module,Magento_Rss
-"RSS Feeds","RSS фийд",module,Magento_Rss
-"Rss Config","Rss тохиргоо",module,Magento_Rss
-"Enable RSS","RSS идэвхижүүлэх",module,Magento_Rss
+"Page not found.","Хуудас олдсонгүй."
+Feed,Фийд
+"Miscellaneous Feeds","Бусад фийдүүд"
+"Get Feed","Фийд авах"
+"RSS Feeds","RSS фийд"
+"Rss Config","Rss тохиргоо"
+"Enable RSS","RSS идэвхижүүлэх"

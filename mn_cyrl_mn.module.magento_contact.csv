@@ -1,24 +1,23 @@
-"Page not found.","Хуудас олдсонгүй.",module,Magento_Contact
-"Thanks for contacting us with your comments and questions. We\'ll respond to you very soon.","Таны асуулт болон тайлбар бичиж бидэнтэй холбогдож байгаад баяртай байна. Бид танд удахгүй хариулт өгөх болно.",module,Magento_Contact
-"We can\'t process your request right now. Sorry, that\'s all we know.","Таны хүсэлтийг яг одоо биелүүлж чадахгүй байна. Уучлаарай.",module,Magento_Contact
-"* Required Fields","* шаардлагатай талбарууд",module,Magento_Contact
-"Write Us","Бидэнд бичих",module,Magento_Contact
-"Jot us a note and we’ll get back to you as quickly as possible.","Та бидэнд тэмдэглэл бичнэ үү. Бид аль болох хурдан буцаж холбогдох болно.",module,Magento_Contact
-Name,Нэр,module,Magento_Contact
-Email,Эмэйл,module,Magento_Contact
-"Phone Number","Утасны дугаар",module,Magento_Contact
-"What’s on your mind?","Таны бодол юу вэ?",module,Magento_Contact
-Submit,Илгээх,module,Magento_Contact
-"Name: %name","Нэр: %name",module,Magento_Contact
-"Email: %email","Эмэйл: %email",module,Magento_Contact
-"Phone Number: %telephone","Утасны дугаар: %telephone",module,Magento_Contact
-"Comment: %comment","Тайлбар: %comment",module,Magento_Contact
-Contacts,Холбоо,module,Magento_Contact
-"Contact Us","Бидэнтэй холбогдоно уу",module,Magento_Contact
-"Enable Contact Us","Бидэнтэй холбогдоно уу идэвхижүүлэх",module,Magento_Contact
-"Email Options","Эмэйл сонголтууд",module,Magento_Contact
-"Send Emails To","Хааш нь илгээх эмэйл",module,Magento_Contact
-"Email Sender","Эмэйл илгээгч",module,Magento_Contact
-"Email Template","Эмэйл темплэйт",module,Magento_Contact
-"Email template chosen based on theme fallback when ""Default"" option is selected.",
-"Хэрэв ""Стандарт"" сонголттой бол эмэйл темплэйт теме буцаж унах зарчимаар сонгогдоно.",module,Magento_Contact
+"Page not found.","Хуудас олдсонгүй."
+"Thanks for contacting us with your comments and questions. We\'ll respond to you very soon.","Таны асуулт болон тайлбар бичиж бидэнтэй холбогдож байгаад баяртай байна. Бид танд удахгүй хариулт өгөх болно."
+"We can\'t process your request right now. Sorry, that\'s all we know.","Таны хүсэлтийг яг одоо биелүүлж чадахгүй байна. Уучлаарай."
+"* Required Fields","* шаардлагатай талбарууд"
+"Write Us","Бидэнд бичих"
+"Jot us a note and we’ll get back to you as quickly as possible.","Та бидэнд тэмдэглэл бичнэ үү. Бид аль болох хурдан буцаж холбогдох болно."
+Name,Нэр
+Email,Эмэйл
+"Phone Number","Утасны дугаар"
+"What’s on your mind?","Таны бодол юу вэ?"
+Submit,Илгээх
+"Name: %name","Нэр: %name"
+"Email: %email","Эмэйл: %email"
+"Phone Number: %telephone","Утасны дугаар: %telephone"
+"Comment: %comment","Тайлбар: %comment"
+Contacts,Холбоо
+"Contact Us","Бидэнтэй холбогдоно уу"
+"Enable Contact Us","Бидэнтэй холбогдоно уу идэвхижүүлэх"
+"Email Options","Эмэйл сонголтууд"
+"Send Emails To","Хааш нь илгээх эмэйл"
+"Email Sender","Эмэйл илгээгч"
+"Email Template","Эмэйл темплэйт"
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Хэрэв ""Стандарт"" сонголттой бол эмэйл темплэйт теме буцаж унах зарчимаар сонгогдоно."

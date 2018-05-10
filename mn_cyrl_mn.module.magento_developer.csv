@@ -1,9 +1,9 @@
-"Format for IDE '%1' is not supported","IDE-д зориулсан формат '%1' дэмжигдэхгүй",module,Magento_Developer
-"Client side less compilation","Клиент тал бага дамжуулалт",module,Magento_Developer
-"Server side less compilation","Сервер тал бага дамжуулалт",module,Magento_Developer
-"Front-end development workflow","Фронт талын хөгжүүлэлтийн үйл явц,module,Magento_Developer
-"Workflow type","Үйл явцын төрөл",module,Magento_Developer
-"Not available in production mode","Продакшн хэлбэрт боломжгүй",module,Magento_Developer
-"Developer Client Restrictions","Хөгжүүлэгч клиент хязгаарлалт",module,Magento_Developer
-"Allowed IPs (comma separated)","Зөвшөөрөгдсөн IP-ууд (таслалаар тусгаарлагдана)",module,Magento_Developer
-"Leave empty for access from any location.","Хаанаас ч хэрэглэж болох бол хоосон орхи.",module,Magento_Developer
+"Format for IDE '%1' is not supported","IDE-д зориулсан формат '%1' дэмжигдэхгүй"
+"Client side less compilation","Клиент тал бага дамжуулалт"
+"Server side less compilation","Сервер тал бага дамжуулалт"
+"Front-end development workflow","Фронт талын хөгжүүлэлтийн үйл явц
+"Workflow type","Үйл явцын төрөл"
+"Not available in production mode","Продакшн хэлбэрт боломжгүй"
+"Developer Client Restrictions","Хөгжүүлэгч клиент хязгаарлалт"
+"Allowed IPs (comma separated)","Зөвшөөрөгдсөн IP-ууд (таслалаар тусгаарлагдана)"
+"Leave empty for access from any location.","Хаанаас ч хэрэглэж болох бол хоосон орхи."

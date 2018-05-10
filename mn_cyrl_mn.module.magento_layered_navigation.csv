@@ -1,28 +1,28 @@
-"Filterable (with results)","Шүүж болох (үр дүнгүүдтэй)",module,Magento_LayeredNavigation
-"Filterable (no results)","Шүүж болох (үр дүнгүүдгүй)",module,Magento_LayeredNavigation
-No,Үгүй,module,Magento_LayeredNavigation
-"Use in Layered Navigation","Шүүгддэг навигацид хэрэглэх",module,Magento_LayeredNavigation
-"Can be used only with catalog input type Dropdown, Multiple Select and Price","Каталогийн оролтын төрөл дропдаун, олон сонголт болон үнэ зэрэгт хэрэглэгдэж болно",module,Magento_LayeredNavigation
-"Use in Search Results Layered Navigation","Шүүгддэг навигацийн хайлтын үр дүнд хэрэглэх",module,Magento_LayeredNavigation
-Position,Байрлал,module,Magento_LayeredNavigation
-"Position in Layered Navigation","Шүүгддэг навигаци дахь байрлал",module,Magento_LayeredNavigation
-"Position of attribute in layered navigation block","Шүүгддэг навигацийн блок дээрхи аттрибутын байрлал",module,Magento_LayeredNavigation
-item,артикль,module,Magento_LayeredNavigation
-items,артиклиуд,module,Magento_LayeredNavigation
-"Now Shopping by","Худалдан авах аар",module,Magento_LayeredNavigation
-Previous,Өмнөх,module,Magento_LayeredNavigation
-Remove,Арилгах,module,Magento_LayeredNavigation
-"Remove This Item","Энэ артиклийг хасах",module,Magento_LayeredNavigation
-"Shop By","Худалдан авах аар",module,Magento_LayeredNavigation
-"Clear All","Бүгдийг цэвэрлэх",module,Magento_LayeredNavigation
-"Shopping Options","Худалдааны сонголтууд",module,Magento_LayeredNavigation
-"Layered Navigation","Шүүгддэг навигаци",module,Magento_LayeredNavigation
-"Display Product Count","Бүтээгдэхүүний тоог харуулах",module,Magento_LayeredNavigation
-"Price Navigation Step Calculation","үнийн навигаци алхам тооцоолох",module,Magento_LayeredNavigation
-"Default Price Navigation Step","Стандарт үнийн навигаци алхам",module,Magento_LayeredNavigation
-"Maximum Number of Price Intervals","Үнийн интервалын хамгийн их тоо",module,Magento_LayeredNavigation
-"Maximum number of price intervals is 100","Үнийн интервалын хамгийн их тоо бол 100",module,Magento_LayeredNavigation
-"Display Price Interval as One Price","Үнийн интервалыг нэг үнэ шиг харагдуулах",module,Magento_LayeredNavigation
-"This setting will be applied when all prices in the specific price interval are equal.","Тусгай үнийн интервалын бүх үнэ ижил байвал энэ тохируулга нэмэгдэх болно.",module,Magento_LayeredNavigation
-"Interval Division Limit","Интервал хуваах хязгаар",module,Magento_LayeredNavigation
-"Please specify the number of products, that will not be divided into subintervals.","Дэд интервалд хуваагдахгүй бүтээгдэхүүнүүдийн дугаарыг тодорхойлно уу.",module,Magento_LayeredNavigation
+"Filterable (with results)","Шүүж болох (үр дүнгүүдтэй)"
+"Filterable (no results)","Шүүж болох (үр дүнгүүдгүй)"
+No,Үгүй
+"Use in Layered Navigation","Шүүгддэг навигацид хэрэглэх"
+"Can be used only with catalog input type Dropdown, Multiple Select and Price","Каталогийн оролтын төрөл дропдаун, олон сонголт болон үнэ зэрэгт хэрэглэгдэж болно"
+"Use in Search Results Layered Navigation","Шүүгддэг навигацийн хайлтын үр дүнд хэрэглэх"
+Position,Байрлал
+"Position in Layered Navigation","Шүүгддэг навигаци дахь байрлал"
+"Position of attribute in layered navigation block","Шүүгддэг навигацийн блок дээрхи аттрибутын байрлал"
+item,артикль
+items,артиклиуд
+"Now Shopping by","Худалдан авах аар"
+Previous,Өмнөх
+Remove,Арилгах
+"Remove This Item","Энэ артиклийг хасах"
+"Shop By","Худалдан авах аар"
+"Clear All","Бүгдийг цэвэрлэх"
+"Shopping Options","Худалдааны сонголтууд"
+"Layered Navigation","Шүүгддэг навигаци"
+"Display Product Count","Бүтээгдэхүүний тоог харуулах"
+"Price Navigation Step Calculation","үнийн навигаци алхам тооцоолох"
+"Default Price Navigation Step","Стандарт үнийн навигаци алхам"
+"Maximum Number of Price Intervals","Үнийн интервалын хамгийн их тоо"
+"Maximum number of price intervals is 100","Үнийн интервалын хамгийн их тоо бол 100"
+"Display Price Interval as One Price","Үнийн интервалыг нэг үнэ шиг харагдуулах"
+"This setting will be applied when all prices in the specific price interval are equal.","Тусгай үнийн интервалын бүх үнэ ижил байвал энэ тохируулга нэмэгдэх болно."
+"Interval Division Limit","Интервал хуваах хязгаар"
+"Please specify the number of products, that will not be divided into subintervals.","Дэд интервалд хуваагдахгүй бүтээгдэхүүнүүдийн дугаарыг тодорхойлно уу."

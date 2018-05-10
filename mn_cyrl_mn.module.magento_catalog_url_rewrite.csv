@@ -1,6 +1,6 @@
-"Create Permanent Redirect for old URL","Хуучин URL-д зориулж байнгын чиглүүлэгч үүсгэх",module,Magento_CatalogUrlRewrite
-"Category URL Suffix","Категори URL төгсгөл",module,Magento_CatalogUrlRewrite
-"You need to refresh the cache.","Кэш шинэчлэх хэрэгтэй.",module,Magento_CatalogUrlRewrite
-"Product URL Suffix","Бүтээгдэхүүний URL төгсгөл",module,Magento_CatalogUrlRewrite
-"Use Categories Path for Product URLs","Бүтээгдэхүүний URL-д категорийн замыг хэрэглэх",module,Magento_CatalogUrlRewrite
-"Create Permanent Redirect for URLs if URL Key Changed","Хэрэв URL түлхүүр өөрчлөгдвөл URL-д зориулж байнгын чиглүүлэгч үүсгэх",module,Magento_CatalogUrlRewrite
+"Create Permanent Redirect for old URL","Хуучин URL-д зориулж байнгын чиглүүлэгч үүсгэх"
+"Category URL Suffix","Категори URL төгсгөл"
+"You need to refresh the cache.","Кэш шинэчлэх хэрэгтэй."
+"Product URL Suffix","Бүтээгдэхүүний URL төгсгөл"
+"Use Categories Path for Product URLs","Бүтээгдэхүүний URL-д категорийн замыг хэрэглэх"
+"Create Permanent Redirect for URLs if URL Key Changed","Хэрэв URL түлхүүр өөрчлөгдвөл URL-д зориулж байнгын чиглүүлэгч үүсгэх"

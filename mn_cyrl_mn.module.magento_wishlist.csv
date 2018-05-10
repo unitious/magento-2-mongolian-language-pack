@@ -1,115 +1,115 @@
-"Wish List","Хүслийн жагсаалт",module,Magento_Wishlist
-"Wish List Sharing","Хүслийн жагсаалт хуваалцах",module,Magento_Wishlist
-"My Wish List","Миний хүслийн жагсаалт",module,Magento_Wishlist
-"%1's Wish List","%1-н хүслийн жагсаалт",module,Magento_Wishlist
-"Page not found.","Хуудас олдсонгүй.",module,Magento_Wishlist
-"We can\'t specify a product.","Бүтээгдэхүүнийг тодруулах боломжгүй байна.",module,Magento_Wishlist
-"We can\'t add the item to Wish List right now: %1.","Одоогоор дараах артиклуудыг хүслийн жагсаалтад нэмэх боломжгүй байна: %1.",module,Magento_Wishlist
-"We can\'t add the item to Wish List right now.","Одоогоор артиклийг хүслийн жагсаалтад нэмэх боломжгүй байна.",module,Magento_Wishlist
-"You added %1 to your shopping cart.","%1-г сагсанд нэмлээ.",module,Magento_Wishlist
-"This product(s) is out of stock.","Энэ бүтээгдэхүүн дууссан байна.",module,Magento_Wishlist
-"We can\'t add the item to the cart right now.","Одоогоор сагсанд артикль нэмэх боломжгүй байна.",module,Magento_Wishlist
-"We can\'t load the Wish List item right now.","Одоогоор хүслийн жагсаалт дахь артиклуудыг харуулах боломжгүй байна.",module,Magento_Wishlist
-"We can\'t configure the product right now.","Одоогоор бүтээгдэхүүнийг тохируулах боломжгүй байна.",module,Magento_Wishlist
-"The requested cart item doesn\'t exist.","Таны хүссэн артикль сагсанд байхгүй байна.",module,Magento_Wishlist
-"%1 has been moved to your wish list.","%1 таны хүслийн жагсаалтруу зөөгдлөө.",module,Magento_Wishlist
-"We can\'t move the item to the wish list.","Артиклуудыг хүслийн жагсаалтруу зөөх боломжгүй байна.",module,Magento_Wishlist
-"We can\'t delete the item from Wish List right now because of an error: %1.","Доорх алдааны улмаас артиклуудыг хүслийн жагсаалтаас устгах боломжгүй байна. Алдаа: %1.",module,Magento_Wishlist
-"We can\'t delete the item from the Wish List right now.","Одоогоор артиклийг хүслийн жагсаалтаас устгах боломжгүй байна.",module,Magento_Wishlist
-"Message length must not exceed %1 symbols","Зурвасын урт %1 тэмдэгтээс хэтрэхгүй байх ёстой.",module,Magento_Wishlist
-"Please enter an email address.","И-мэйл хаягаа оруулна уу.",module,Magento_Wishlist
-"This wish list can be shared %1 more times.","Энэ хүслийн жагсаалтыг %1 удаа хуваалцах боломжтой.",module,Magento_Wishlist
-"Please enter a valid email address.","Зөв и-мэйл хаяг оруулна уу.",module,Magento_Wishlist
-"Your wish list has been shared.","Та хүслийн жагсаалтаа хуваалцлаа.",module,Magento_Wishlist
-"We can\'t delete item from Wish List right now.","Одоогоор хүслийн жагсаалтаас артикль устгах боломжгүй байна.",module,Magento_Wishlist
-"Can\'t save description %1","%1 тайлбарыг хадгалах боломжгүй байна.",module,Magento_Wishlist
-"Can\'t update wish list","Хүслийн жагсаалтыг шинэчилэх боломжгүй байна.",module,Magento_Wishlist
-"%1 has been updated in your Wish List.","%1 хүслийн жагсаалтад шинэчилэгдлээ.",module,Magento_Wishlist
-"We can\'t update your Wish List right now.","Одоогоор хүслийн жагсаалтыг шинэчилэх боломжгүй байна.",module,Magento_Wishlist
-"The requested Wish List doesn\'t exist.","Хүссэн хүслийн жагсаалт байхгүй байна.",module,Magento_Wishlist
-"We can\'t create the Wish List right now.","Одоогоор хүслийн жагсаалт үүсгэх боломжгүй байна.",module,Magento_Wishlist
-"%1 items","%1 артикль",module,Magento_Wishlist
-"1 item","1 артикль",module,Magento_Wishlist
-Comment,Сэтгэгдэл,module,Magento_Wishlist
-"Display number of items in wish list","Хүслийн жагсаалт дахь артиклуудын тоог харах",module,Magento_Wishlist
-"Display item quantities","Артиклийн тоо, ширхэгийг харах",module,Magento_Wishlist
-"An item option with code %1 already exists.","Артиклийн %1 кодтой сонголт аль хэдийн байна.",module,Magento_Wishlist
-"We can\'t specify a wish list.","Хүслийн жагсаалтыг тодруулах боломжгүй байна.",module,Magento_Wishlist
-"Cannot specify product.","Бүтээгдэхүүнийг тодорхойлж чадахгүй байна.",module,Magento_Wishlist
-"Product is not salable.","Худалдаалагдахгүй бүтээгдэхүүн.",module,Magento_Wishlist
-"Invalid item option format.","Артиклийн сонголтын буруу хэлбэр.",module,Magento_Wishlist
-"%1 for ""%2"".","%2-д ""%1"".",module,Magento_Wishlist
-"We can\'t add this item to your shopping cart right now.","Одоогоор энэ артиклийг таны сагсанд нэмэх боломжгүй байна.",module,Magento_Wishlist
-"We couldn\'t add the following product(s) to the shopping cart: %1.","Одоогоор дараах бүтээгдэхүүнүүдийг сагсанд нэмэх боломжгүй байна: %1.",module,Magento_Wishlist
-"We can\'t update the Wish List right now.","Одоогоор хүслийн жагсаалтыг шинэчилэх боломжгүй байна.",module,Magento_Wishlist
-"%1 product(s) have been added to shopping cart: %2.","%1 бүтээгдэхүүн таны сагсанд нэмэгдлээ: %2.",module,Magento_Wishlist
-Comment:,Сэтгэгдэл:,module,Magento_Wishlist
-"We cannot retrieve the Wish List.","Хүслийн жагсаалтын сэргээх боломжгүй байна.",module,Magento_Wishlist
-"%1\'s Wishlist","%1-н хүслийн жагсаалт",module,Magento_Wishlist
-"We can\'t specify a wish list item.","Хүслийн жагсаалт дахь артиклийг тодруулах боломжгүй байна.",module,Magento_Wishlist
-"The product does not exist.","Бүтээгдэхүүн байхгүй байна.",module,Magento_Wishlist
-"Test Phrase","Туршилтын өгүүлэл",module,Magento_Wishlist
-message,зурвас,module,Magento_Wishlist
-Message,Зурвас,module,Magento_Wishlist
-error-message,алдааны-зурвас,module,Magento_Wishlist
-LocalizedException,НутагшуулсанОнцгойТохиолдол,module,Magento_Wishlist
-"Product Exception.","Бүтээгдэхүүний онцгой тохиолдол.",module,Magento_Wishlist
-"Localized Exception.","Нутагшуулсан онцгой тохиолдол.",module,Magento_Wishlist
-"Are you sure you want to remove this item?","Та энэ артиклийг хасахдаа итгэлтэй байна уу?",module,Magento_Wishlist
-"Share Wish List","Хүслийн жагсаалт хуваалцах",module,Magento_Wishlist
-"Add All to Cart","Бүгдийг сагсанд нэмэх",module,Magento_Wishlist
-"Update Wish List","Хүслийн жагсаалтыг шинэчилэх",module,Magento_Wishlist
-"Move to Wishlist","Хүслийн жагсаалтруу зөөх",module,Magento_Wishlist
-"View Product","Бүтээгдэхүүн харах",module,Magento_Wishlist
-Qty,Тоо,module,Magento_Wishlist
-"Add to Cart","Сагсанд нэмэх",module,Magento_Wishlist
-Availability,Хүртээмж,module,Magento_Wishlist
-"In stock","Агуулахад байгаа",module,Magento_Wishlist
-"Out of stock","Дууссан",module,Magento_Wishlist
-Edit,Засварлах,module,Magento_Wishlist
-"Remove Item","Артикль хасах",module,Magento_Wishlist
-"Remove item","Артикль хасах",module,Magento_Wishlist
-"Add to Compare","Харьцуулалтад нэмэх",module,Magento_Wishlist
-"This Wish List has no Items","Хүслийн жагсаалтад ямар ч артикль байхгүй байна.",module,Magento_Wishlist
-"See Details","Дэлгэрэнгүй үзэх",module,Magento_Wishlist
-"Options Details","Сонголтуудын дэлгэрэнгүй",module,Magento_Wishlist
-"RSS link to %1's wishlist","%1-н хүслийн жагсаалтын RSS холбоос",module,Magento_Wishlist
-"RSS Feed","RSS тэжээл",module,Magento_Wishlist
-Product,Бүтээгдэхүүн,module,Magento_Wishlist
-"Add to Wish List","Хүслийн жагсаалтад нэмэх",module,Magento_Wishlist
-Back,Буцах,module,Magento_Wishlist
-"Wish List is empty now.","Хүслийн жагсаалт хоослогдлоо.",module,Magento_Wishlist
-"* Required Fields","* Бөглөх шаардлагатай талбарууд",module,Magento_Wishlist
-"Sharing Information","Хуваалцах мэдээлэл",module,Magento_Wishlist
-"Email addresses, separated by commas","И-мэйл хаягууд, таслалаар тусгаарлагдана.",module,Magento_Wishlist
-"Check here to link an RSS feed to your Wish List.","Үүнийг зөвлөснөөр таны хүслийн жагсаалтыг RSS тэжээлд холбоно.",module,Magento_Wishlist
-"Last Added Items","Сүүлд нэмэгдсэн артиклууд",module,Magento_Wishlist
-"Remove This Item","Артиклийг хасах",module,Magento_Wishlist
-"Go to Wish List","Хүслийн жагсаалтруу шилжих",module,Magento_Wishlist
-"You have no items in your wish list.","Таны хүслийн жагсаалтад артикль байхгүй байна.",module,Magento_Wishlist
-"Are you sure you want to remove this product from your Wish List?","Та энэ бүтээгдэхүүнийг хүслийн жагсаалтаасаа хасахдаа итгэлтэй байна уу?",module,Magento_Wishlist
-"%customer_name wants to share this Wish List from %store_name with you:","%customer_name нь %store_name-н дараах хүслийн жагсаалтыг тантай хуваалцахыг хүсэж байна:",module,Magento_Wishlist
-"Message from %customer_name:","%customer_name-с ирсэн зурвас:",module,Magento_Wishlist
-"View all Wish List items","Бүх хүслийн жагсаалтын артиклуудыг харах",module,Magento_Wishlist
-"Share Options","Хуваалцах сонголт",module,Magento_Wishlist
-"Email Sender","И-мэйл илгээгч",module,Magento_Wishlist
-"Email Template","И-мэйл загвар",module,Magento_Wishlist
-"Email template chosen based on theme fallback when ""Default"" option is selected.","""Default"" сонголт сонгогдсон тохиолдолд загвар эргэж өөрчлөгдөхөөс хамааран И-мэйлийн загвар нь сонгогдоно.",module,Magento_Wishlist
-"Max Emails Allowed to be Sent","Илгээх боломжтой хамгийн их и-мэйлийг зөвшөөрсөн.",module,Magento_Wishlist
-"Email Text Length Limit","И-мэйл бичвэрийн уртын хязгаар",module,Magento_Wishlist
-"General Options","Ерөнхий сонголтууд",module,Magento_Wishlist
-Enabled,Идэвхжсэн,module,Magento_Wishlist
-"My Wish List Link","Миний хүслийн жагсаалтын холбоос",module,Magento_Wishlist
-"Display Wish List Summary","Хүслийн жагсаалтын хураангуйг харах",module,Magento_Wishlist
-"Enable RSS","RSS-г идэвхжүүлэх",module,Magento_Wishlist
-"No Items Found","Ямар ч артикль олдсонгүй",module,Magento_Wishlist
-"Product Name","Бүтээгдэхүүний нэр",module,Magento_Wishlist
-"User Description","Хэрэглэгчийн тодорхойлолт",module,Magento_Wishlist
-Quantity,Тоо ширхэг,module,Magento_Wishlist
-"Add Locale","Газар нэмэх",module,Magento_Wishlist
-"Add Date","Өдөр нэмэх",module,Magento_Wishlist
-"Days in Wish List","Хүслийн жагсаалт дахь өдрүүд",module,Magento_Wishlist
-Action,Үйлдэл,module,Magento_Wishlist
-Configure,Тохиргоо хийх,module,Magento_Wishlist
-Delete,Устгах,module,Magento_Wishlist
-"Product Details and Comment","Бүтээгдэхүүний дэлгэрэнгүй болон сэтгэгдэл",module,Magento_Wishlist
+"Wish List","Хүслийн жагсаалт"
+"Wish List Sharing","Хүслийн жагсаалт хуваалцах"
+"My Wish List","Миний хүслийн жагсаалт"
+"%1's Wish List","%1-н хүслийн жагсаалт"
+"Page not found.","Хуудас олдсонгүй."
+"We can\'t specify a product.","Бүтээгдэхүүнийг тодруулах боломжгүй байна."
+"We can\'t add the item to Wish List right now: %1.","Одоогоор дараах артиклуудыг хүслийн жагсаалтад нэмэх боломжгүй байна: %1."
+"We can\'t add the item to Wish List right now.","Одоогоор артиклийг хүслийн жагсаалтад нэмэх боломжгүй байна."
+"You added %1 to your shopping cart.","%1-г сагсанд нэмлээ."
+"This product(s) is out of stock.","Энэ бүтээгдэхүүн дууссан байна."
+"We can\'t add the item to the cart right now.","Одоогоор сагсанд артикль нэмэх боломжгүй байна."
+"We can\'t load the Wish List item right now.","Одоогоор хүслийн жагсаалт дахь артиклуудыг харуулах боломжгүй байна."
+"We can\'t configure the product right now.","Одоогоор бүтээгдэхүүнийг тохируулах боломжгүй байна."
+"The requested cart item doesn\'t exist.","Таны хүссэн артикль сагсанд байхгүй байна."
+"%1 has been moved to your wish list.","%1 таны хүслийн жагсаалтруу зөөгдлөө."
+"We can\'t move the item to the wish list.","Артиклуудыг хүслийн жагсаалтруу зөөх боломжгүй байна."
+"We can\'t delete the item from Wish List right now because of an error: %1.","Доорх алдааны улмаас артиклуудыг хүслийн жагсаалтаас устгах боломжгүй байна. Алдаа: %1."
+"We can\'t delete the item from the Wish List right now.","Одоогоор артиклийг хүслийн жагсаалтаас устгах боломжгүй байна."
+"Message length must not exceed %1 symbols","Зурвасын урт %1 тэмдэгтээс хэтрэхгүй байх ёстой."
+"Please enter an email address.","И-мэйл хаягаа оруулна уу."
+"This wish list can be shared %1 more times.","Энэ хүслийн жагсаалтыг %1 удаа хуваалцах боломжтой."
+"Please enter a valid email address.","Зөв и-мэйл хаяг оруулна уу."
+"Your wish list has been shared.","Та хүслийн жагсаалтаа хуваалцлаа."
+"We can\'t delete item from Wish List right now.","Одоогоор хүслийн жагсаалтаас артикль устгах боломжгүй байна."
+"Can\'t save description %1","%1 тайлбарыг хадгалах боломжгүй байна."
+"Can\'t update wish list","Хүслийн жагсаалтыг шинэчилэх боломжгүй байна."
+"%1 has been updated in your Wish List.","%1 хүслийн жагсаалтад шинэчилэгдлээ."
+"We can\'t update your Wish List right now.","Одоогоор хүслийн жагсаалтыг шинэчилэх боломжгүй байна."
+"The requested Wish List doesn\'t exist.","Хүссэн хүслийн жагсаалт байхгүй байна."
+"We can\'t create the Wish List right now.","Одоогоор хүслийн жагсаалт үүсгэх боломжгүй байна."
+"%1 items","%1 артикль"
+"1 item","1 артикль"
+Comment,Сэтгэгдэл
+"Display number of items in wish list","Хүслийн жагсаалт дахь артиклуудын тоог харах"
+"Display item quantities","Артиклийн тоо, ширхэгийг харах"
+"An item option with code %1 already exists.","Артиклийн %1 кодтой сонголт аль хэдийн байна."
+"We can\'t specify a wish list.","Хүслийн жагсаалтыг тодруулах боломжгүй байна."
+"Cannot specify product.","Бүтээгдэхүүнийг тодорхойлж чадахгүй байна."
+"Product is not salable.","Худалдаалагдахгүй бүтээгдэхүүн."
+"Invalid item option format.","Артиклийн сонголтын буруу хэлбэр."
+"%1 for ""%2"".","%2-д ""%1""."
+"We can\'t add this item to your shopping cart right now.","Одоогоор энэ артиклийг таны сагсанд нэмэх боломжгүй байна."
+"We couldn\'t add the following product(s) to the shopping cart: %1.","Одоогоор дараах бүтээгдэхүүнүүдийг сагсанд нэмэх боломжгүй байна: %1."
+"We can\'t update the Wish List right now.","Одоогоор хүслийн жагсаалтыг шинэчилэх боломжгүй байна."
+"%1 product(s) have been added to shopping cart: %2.","%1 бүтээгдэхүүн таны сагсанд нэмэгдлээ: %2."
+Comment:,Сэтгэгдэл:
+"We cannot retrieve the Wish List.","Хүслийн жагсаалтын сэргээх боломжгүй байна."
+"%1\'s Wishlist","%1-н хүслийн жагсаалт"
+"We can\'t specify a wish list item.","Хүслийн жагсаалт дахь артиклийг тодруулах боломжгүй байна."
+"The product does not exist.","Бүтээгдэхүүн байхгүй байна."
+"Test Phrase","Туршилтын өгүүлэл"
+message,зурвас
+Message,Зурвас
+error-message,алдааны-зурвас
+LocalizedException,НутагшуулсанОнцгойТохиолдол
+"Product Exception.","Бүтээгдэхүүний онцгой тохиолдол."
+"Localized Exception.","Нутагшуулсан онцгой тохиолдол."
+"Are you sure you want to remove this item?","Та энэ артиклийг хасахдаа итгэлтэй байна уу?"
+"Share Wish List","Хүслийн жагсаалт хуваалцах"
+"Add All to Cart","Бүгдийг сагсанд нэмэх"
+"Update Wish List","Хүслийн жагсаалтыг шинэчилэх"
+"Move to Wishlist","Хүслийн жагсаалтруу зөөх"
+"View Product","Бүтээгдэхүүн харах"
+Qty,Тоо
+"Add to Cart","Сагсанд нэмэх"
+Availability,Хүртээмж
+"In stock","Агуулахад байгаа"
+"Out of stock","Дууссан"
+Edit,Засварлах
+"Remove Item","Артикль хасах"
+"Remove item","Артикль хасах"
+"Add to Compare","Харьцуулалтад нэмэх"
+"This Wish List has no Items","Хүслийн жагсаалтад ямар ч артикль байхгүй байна."
+"See Details","Дэлгэрэнгүй үзэх"
+"Options Details","Сонголтуудын дэлгэрэнгүй"
+"RSS link to %1's wishlist","%1-н хүслийн жагсаалтын RSS холбоос"
+"RSS Feed","RSS тэжээл"
+Product,Бүтээгдэхүүн
+"Add to Wish List","Хүслийн жагсаалтад нэмэх"
+Back,Буцах
+"Wish List is empty now.","Хүслийн жагсаалт хоослогдлоо."
+"* Required Fields","* Бөглөх шаардлагатай талбарууд"
+"Sharing Information","Хуваалцах мэдээлэл"
+"Email addresses, separated by commas","И-мэйл хаягууд, таслалаар тусгаарлагдана."
+"Check here to link an RSS feed to your Wish List.","Үүнийг зөвлөснөөр таны хүслийн жагсаалтыг RSS тэжээлд холбоно."
+"Last Added Items","Сүүлд нэмэгдсэн артиклууд"
+"Remove This Item","Артиклийг хасах"
+"Go to Wish List","Хүслийн жагсаалтруу шилжих"
+"You have no items in your wish list.","Таны хүслийн жагсаалтад артикль байхгүй байна."
+"Are you sure you want to remove this product from your Wish List?","Та энэ бүтээгдэхүүнийг хүслийн жагсаалтаасаа хасахдаа итгэлтэй байна уу?"
+"%customer_name wants to share this Wish List from %store_name with you:","%customer_name нь %store_name-н дараах хүслийн жагсаалтыг тантай хуваалцахыг хүсэж байна:"
+"Message from %customer_name:","%customer_name-с ирсэн зурвас:"
+"View all Wish List items","Бүх хүслийн жагсаалтын артиклуудыг харах"
+"Share Options","Хуваалцах сонголт"
+"Email Sender","И-мэйл илгээгч"
+"Email Template","И-мэйл загвар"
+"Email template chosen based on theme fallback when ""Default"" option is selected.","""Default"" сонголт сонгогдсон тохиолдолд загвар эргэж өөрчлөгдөхөөс хамааран И-мэйлийн загвар нь сонгогдоно."
+"Max Emails Allowed to be Sent","Илгээх боломжтой хамгийн их и-мэйлийг зөвшөөрсөн."
+"Email Text Length Limit","И-мэйл бичвэрийн уртын хязгаар"
+"General Options","Ерөнхий сонголтууд"
+Enabled,Идэвхжсэн
+"My Wish List Link","Миний хүслийн жагсаалтын холбоос"
+"Display Wish List Summary","Хүслийн жагсаалтын хураангуйг харах"
+"Enable RSS","RSS-г идэвхжүүлэх"
+"No Items Found","Ямар ч артикль олдсонгүй"
+"Product Name","Бүтээгдэхүүний нэр"
+"User Description","Хэрэглэгчийн тодорхойлолт"
+Quantity,Тоо ширхэг
+"Add Locale","Газар нэмэх"
+"Add Date","Өдөр нэмэх"
+"Days in Wish List","Хүслийн жагсаалт дахь өдрүүд"
+Action,Үйлдэл
+Configure,Тохиргоо хийх
+Delete,Устгах
+"Product Details and Comment","Бүтээгдэхүүний дэлгэрэнгүй болон сэтгэгдэл"

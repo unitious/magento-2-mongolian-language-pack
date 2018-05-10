@@ -1,18 +1,18 @@
-"To see product price, add this item to your cart. You can always remove it later.","Үнийг харахын тулд энэ артиклийг сагсанд хийнэ үү. Та дараа нь дуртай үедээ хасч болно.",module,Magento_Msrp
-"See price before order confirmation.","Захиалга батлахын өмнө үнийг харах.",module,Magento_Msrp
-"On Gesture","Дохион дээр",module,Magento_Msrp
-"In Cart","Сагсанд",module,Magento_Msrp
-"Before Order Confirmation","Захиалга батлахын өмнө",module,Magento_Msrp
-"Use config","Тохиргоо хэрэглэх",module,Magento_Msrp
-"Click for price","Үнийн тулд дарна уу",module,Magento_Msrp
-"What's this?","Энэ юу вэ?",module,Magento_Msrp
-"Order total will be displayed before you submit the order","Захиалгын нийт дүн таныг захиалга оруулахаас өмнө харагдана",module,Magento_Msrp
-"You will see the order total before you submit the order.","Та захиалга хийхийнхээ өмнө захиалгын нийт дүнг харах болно.",module,Magento_Msrp
-Price,Үнэ,module,Magento_Msrp
-"Actual Price","Одоогийн үнэ",module,Magento_Msrp
-"Add to Cart","Сагсанд нэмэх",module,Magento_Msrp
-"Minimum Advertised Price","Хамгийн бага сурталчилсан үнэ",module,Magento_Msrp
-"Enable MAP","MAP идэвхижүүлэх",module,Magento_Msrp
-"Display Actual Price","Одоогийн үнийг харуулах",module,Magento_Msrp
-"Default Popup Text Message","Стандарт гарч харагдах текст зурвас",module,Magento_Msrp
-"Default ""What's This"" Text Message","Стандарт ""Энэ юу вэ"" текст зурвас",module,Magento_Msrp
+"To see product price, add this item to your cart. You can always remove it later.","Үнийг харахын тулд энэ артиклийг сагсанд хийнэ үү. Та дараа нь дуртай үедээ хасч болно."
+"See price before order confirmation.","Захиалга батлахын өмнө үнийг харах."
+"On Gesture","Дохион дээр"
+"In Cart","Сагсанд"
+"Before Order Confirmation","Захиалга батлахын өмнө"
+"Use config","Тохиргоо хэрэглэх"
+"Click for price","Үнийн тулд дарна уу"
+"What's this?","Энэ юу вэ?"
+"Order total will be displayed before you submit the order","Захиалгын нийт дүн таныг захиалга оруулахаас өмнө харагдана"
+"You will see the order total before you submit the order.","Та захиалга хийхийнхээ өмнө захиалгын нийт дүнг харах болно."
+Price,Үнэ
+"Actual Price","Одоогийн үнэ"
+"Add to Cart","Сагсанд нэмэх"
+"Minimum Advertised Price","Хамгийн бага сурталчилсан үнэ"
+"Enable MAP","MAP идэвхижүүлэх"
+"Display Actual Price","Одоогийн үнийг харуулах"
+"Default Popup Text Message","Стандарт гарч харагдах текст зурвас"
+"Default ""What's This"" Text Message","Стандарт ""Энэ юу вэ"" текст зурвас"

@@ -1,65 +1,64 @@
-"You created the order.","Та захиалга үүсгэлээ.",module,Magento_Authorizenet
-"Order saving error: %1","Захиалга хадгалалтын алдаа: %1",module,Magento_Authorizenet
-"Please choose a payment method.","Төлбөрийн хэлбэр сонгоно уу.",module,Magento_Authorizenet
-"We can\'t process your order right now. Please try again later.",
-"Бид таны захиалгыг гүйцэтгэж чадсангүй. Та дараа дахин оролдоно уу.",module,Magento_Authorizenet
-"Cannot place order.","Захиалгыг хийж болохгүй байна.",module,Magento_Authorizenet
-"Credit Card: xxxx-%1","Кредит карт: xxxx-%1",module,Magento_Authorizenet
-"amount %1","дүн %1",module,Magento_Authorizenet
-failed.,амжилтгүй болсон.,module,Magento_Authorizenet
-successful.,амжилттай.,module,Magento_Authorizenet
-"Authorize.Net Transaction ID %1.","Authorize.Net гүйлгээний ID %1.",module,Magento_Authorizenet
-authorize,эрх олгох,module,Magento_Authorizenet
-"authorize and capture","эрх олгох ба бичих",module,Magento_Authorizenet
-capture,бичих,module,Magento_Authorizenet
-refund,буцаалт,module,Magento_Authorizenet
-void,цуцлалт,module,Magento_Authorizenet
-"Gateway error: %1","гарцын алдаа: %1",module,Magento_Authorizenet
-"Something went wrong in the payment gateway.","Төлбөрийн гарц дээр ямар нэг юм буруу байлаа.",module,Magento_Authorizenet
-"Invalid amount for capture.","Бичилтэнд зориулагдсан дүн хүчингүй.",module,Magento_Authorizenet
-"Payment capturing error.","Төлбөр бичилтийн алдаа.",module,Magento_Authorizenet
-"Invalid transaction ID.","Гүйлгээний ID хүчингүй.",module,Magento_Authorizenet
-"Payment voiding error.","Төлбөр цуцлалтын алдаа.",module,Magento_Authorizenet
-"Invalid amount for refund.","Буцаан олголтын дүн хүчингүй.",module,Magento_Authorizenet
-"Payment refunding error.","Төлбөр буцаан олголтын алдаа.",module,Magento_Authorizenet
-"The transaction was declined because the response hash validation failed.","Хариуны код шалгалт алдаатай учир гүйлгээ цуцлагдлаа.",module,Magento_Authorizenet
-"This payment didn\'t work out because we can\'t find this order.","Энэ захиалгыг олоогүй учраас төлбөр боловсруулагдсангүй.",module,Magento_Authorizenet
-"There was a payment authorization error.","Төлбөрийн зөвшөөрөл дээр алдаа гарлаа.",module,Magento_Authorizenet
-"Please enter a transaction ID to authorize this payment.","Төлбөрийг зөвшөөрөхийн тулд гүйлгээний дугаар оруулна уу.",module,Magento_Authorizenet
-"Something went wrong: the paid amount doesn\'t match the order amount. Please correct this and try again.","Ямар нэг зүйл буруу: Төлсөн дүн захиалгын дүнтэй тохирохгүй байна. Зассаныхаа дараа дахин оролдоно уу.",module,Magento_Authorizenet
-"Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","Гүйлгээ %1 зөвшөөрөгдсөн. Дүн %2. Гүйлгээний төлөв ""%3""",module,Magento_Authorizenet
-"Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","Гүйлгээ %1 цуцлагдсан. Гүйлгээний төлөв ""%2"". Дүн %3.",module,Magento_Authorizenet
-"Authorize Only","Зөвхөн зөвшөөрөх",module,Magento_Authorizenet
-"Authorize and Capture","Зөвшөөрөх ба бичих",module,Magento_Authorizenet
-"Unable to get transaction details. Try again later.","Гүйлгээний дэлгэрэнгүйг авах боломжгүй. Дараа дахин оролдоно уу.",module,Magento_Authorizenet
-"Credit Card Type","Кредит картны төрөл",module,Magento_Authorizenet
-"Credit Card Number","Кредит картны дугаар",module,Magento_Authorizenet
-"Expiration Date","Дуусах огноо",module,Magento_Authorizenet
-"Card Verification Number","Карт баталгаажуулах дугаар",module,Magento_Authorizenet
-"Fraud Detection ","Луйврын илрүүлэлт",module,Magento_Authorizenet
-"FDS Filter Action","FDS шүүлтүүр үйлдэл",module,Magento_Authorizenet
-"AVS Response","AVS хариу",module,Magento_Authorizenet
-"Card Code Response","Карт кодны хариу",module,Magento_Authorizenet
-"CAVV Response","CAVV хариу",module,Magento_Authorizenet
-"Fraud Filters","Залилан шүүлтүүр",module,Magento_Authorizenet
-Enabled,Идэвхитэй,module,Magento_Authorizenet
-"Payment Action","Төлөлтийн үйлдэл",module,Magento_Authorizenet
-Title,Гарчиг,module,Magento_Authorizenet
-"API Login ID","API нэвтрэх ID",module,Magento_Authorizenet
-"Transaction Key","Гүйлгээний түлхүүр",module,Magento_Authorizenet
-"Merchant MD5","Худалдааны MD5",module,Magento_Authorizenet
-"New Order Status","Шинэ захиалгын статус",module,Magento_Authorizenet
-"Test Mode","Тест горим",module,Magento_Authorizenet
-"Gateway URL","Гарцын URL",module,Magento_Authorizenet
-"Transaction Details URL","Гүйлгээний дэлгэрэнгүй URL",module,Magento_Authorizenet
-"Accepted Currency","Зөвшөөрөгдсөн мөнгөн тэмдэгт",module,Magento_Authorizenet
-Debug,Дебаг,module,Magento_Authorizenet
-"Email Customer","Хэрэглэгчийн эмэйл",module,Magento_Authorizenet
-"Merchant's Email","Худалдааны эмэйл",module,Magento_Authorizenet
-"Credit Card Types","Кредит картны төрөл",module,Magento_Authorizenet
-"Credit Card Verification","Кредит картны баталгаажуулалт",module,Magento_Authorizenet
-"Payment from Applicable Countries","Таарсан улсуудаас төлөлт",module,Magento_Authorizenet
-"Payment from Specific Countries","Тодорхой улсуудаас төлөлт",module,Magento_Authorizenet
-"Minimum Order Total","Захиалгын хамгийн бага дүн",module,Magento_Authorizenet
-"Maximum Order Total","Захиалгын хамгийн их дүн",module,Magento_Authorizenet
-"Sort Order","Эрэмбэлэх",module,Magento_Authorizenet
+"You created the order.","Та захиалга үүсгэлээ."
+"Order saving error: %1","Захиалга хадгалалтын алдаа: %1"
+"Please choose a payment method.","Төлбөрийн хэлбэр сонгоно уу."
+"We can\'t process your order right now. Please try again later.","Бид таны захиалгыг гүйцэтгэж чадсангүй. Та дараа дахин оролдоно уу."
+"Cannot place order.","Захиалгыг хийж болохгүй байна."
+"Credit Card: xxxx-%1","Кредит карт: xxxx-%1"
+"amount %1","дүн %1"
+failed.,амжилтгүй болсон.
+successful.,амжилттай.
+"Authorize.Net Transaction ID %1.","Authorize.Net гүйлгээний ID %1."
+authorize,эрх олгох
+"authorize and capture","эрх олгох ба бичих"
+capture,бичих
+refund,буцаалт
+void,цуцлалт
+"Gateway error: %1","гарцын алдаа: %1"
+"Something went wrong in the payment gateway.","Төлбөрийн гарц дээр ямар нэг юм буруу байлаа."
+"Invalid amount for capture.","Бичилтэнд зориулагдсан дүн хүчингүй."
+"Payment capturing error.","Төлбөр бичилтийн алдаа."
+"Invalid transaction ID.","Гүйлгээний ID хүчингүй."
+"Payment voiding error.","Төлбөр цуцлалтын алдаа."
+"Invalid amount for refund.","Буцаан олголтын дүн хүчингүй."
+"Payment refunding error.","Төлбөр буцаан олголтын алдаа."
+"The transaction was declined because the response hash validation failed.","Хариуны код шалгалт алдаатай учир гүйлгээ цуцлагдлаа."
+"This payment didn\'t work out because we can\'t find this order.","Энэ захиалгыг олоогүй учраас төлбөр боловсруулагдсангүй."
+"There was a payment authorization error.","Төлбөрийн зөвшөөрөл дээр алдаа гарлаа."
+"Please enter a transaction ID to authorize this payment.","Төлбөрийг зөвшөөрөхийн тулд гүйлгээний дугаар оруулна уу."
+"Something went wrong: the paid amount doesn\'t match the order amount. Please correct this and try again.","Ямар нэг зүйл буруу: Төлсөн дүн захиалгын дүнтэй тохирохгүй байна. Зассаныхаа дараа дахин оролдоно уу."
+"Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","Гүйлгээ %1 зөвшөөрөгдсөн. Дүн %2. Гүйлгээний төлөв ""%3"""
+"Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","Гүйлгээ %1 цуцлагдсан. Гүйлгээний төлөв ""%2"". Дүн %3."
+"Authorize Only","Зөвхөн зөвшөөрөх"
+"Authorize and Capture","Зөвшөөрөх ба бичих"
+"Unable to get transaction details. Try again later.","Гүйлгээний дэлгэрэнгүйг авах боломжгүй. Дараа дахин оролдоно уу."
+"Credit Card Type","Кредит картны төрөл"
+"Credit Card Number","Кредит картны дугаар"
+"Expiration Date","Дуусах огноо"
+"Card Verification Number","Карт баталгаажуулах дугаар"
+"Fraud Detection ","Луйврын илрүүлэлт"
+"FDS Filter Action","FDS шүүлтүүр үйлдэл"
+"AVS Response","AVS хариу"
+"Card Code Response","Карт кодны хариу"
+"CAVV Response","CAVV хариу"
+"Fraud Filters","Залилан шүүлтүүр"
+Enabled,Идэвхитэй
+"Payment Action","Төлөлтийн үйлдэл"
+Title,Гарчиг
+"API Login ID","API нэвтрэх ID"
+"Transaction Key","Гүйлгээний түлхүүр"
+"Merchant MD5","Худалдааны MD5"
+"New Order Status","Шинэ захиалгын статус"
+"Test Mode","Тест горим"
+"Gateway URL","Гарцын URL"
+"Transaction Details URL","Гүйлгээний дэлгэрэнгүй URL"
+"Accepted Currency","Зөвшөөрөгдсөн мөнгөн тэмдэгт"
+Debug,Дебаг
+"Email Customer","Хэрэглэгчийн эмэйл"
+"Merchant's Email","Худалдааны эмэйл"
+"Credit Card Types","Кредит картны төрөл"
+"Credit Card Verification","Кредит картны баталгаажуулалт"
+"Payment from Applicable Countries","Таарсан улсуудаас төлөлт"
+"Payment from Specific Countries","Тодорхой улсуудаас төлөлт"
+"Minimum Order Total","Захиалгын хамгийн бага дүн"
+"Maximum Order Total","Захиалгын хамгийн их дүн"
+"Sort Order","Эрэмбэлэх"

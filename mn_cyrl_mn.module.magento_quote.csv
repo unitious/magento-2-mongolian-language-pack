@@ -1,55 +1,55 @@
-"Unable to save address. Please, check input data.","Хаягийг хадгалах боломжгүй. Оруулсан өгөгдлийг шалгана уу.",module,Magento_Quote
-"Cart %1 doesn\'t contain products","%1 сагсанд бүтээгдэхүүн байхгүй байна",module,Magento_Quote
-"Could not apply coupon code","Купон кодыг нэмж болохгүй байна",module,Magento_Quote
-"Coupon code is not valid","Купон код хүчингүй",module,Magento_Quote
-"Could not delete coupon code","Купон кодыг устгаж чадахгүй",module,Magento_Quote
-"Shipping address is not set","Хүргэх хаяг оруулаагүй байна",module,Magento_Quote
-"The requested Payment Method is not available.","Хүссэн төлбөрийн арга боломжгүй байна.",module,Magento_Quote
-"We found an invalid request for adding product to quote.","Бүтээгдэхүүнийг квот руу нэмэхэд зориулсан алдаатай хүсэлт оллоо.",module,Magento_Quote
-"This is the wrong quote item id to update configuration.","Тохируулга өөрчлөхөд буруу квот артикль id байна.",module,Magento_Quote
-"This shipping method is not available. To use this shipping method, please contact us.","Энэ хүргэлтийн арга боломжгүй байна. Үүнийг ашиглахыг хүсвэл бидэнтэй холбоо барина уу.",module,Magento_Quote
-"The address model is not defined.","Энэ хаягийн модель зарлагдаагүй байна.",module,Magento_Quote
+"Unable to save address. Please, check input data.","Хаягийг хадгалах боломжгүй. Оруулсан өгөгдлийг шалгана уу."
+"Cart %1 doesn\'t contain products","%1 сагсанд бүтээгдэхүүн байхгүй байна"
+"Could not apply coupon code","Купон кодыг нэмж болохгүй байна"
+"Coupon code is not valid","Купон код хүчингүй"
+"Could not delete coupon code","Купон кодыг устгаж чадахгүй"
+"Shipping address is not set","Хүргэх хаяг оруулаагүй байна"
+"The requested Payment Method is not available.","Хүссэн төлбөрийн арга боломжгүй байна."
+"We found an invalid request for adding product to quote.","Бүтээгдэхүүнийг квот руу нэмэхэд зориулсан алдаатай хүсэлт оллоо."
+"This is the wrong quote item id to update configuration.","Тохируулга өөрчлөхөд буруу квот артикль id байна."
+"This shipping method is not available. To use this shipping method, please contact us.","Энэ хүргэлтийн арга боломжгүй байна. Үүнийг ашиглахыг хүсвэл бидэнтэй холбоо барина уу."
+"The address model is not defined.","Энэ хаягийн модель зарлагдаагүй байна."
 "The address total model should be extended from
                     \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","Хаягийн нийт дүн модель
-                    \Magento\Quote\Model\Quote\Address\Total\AbstractTotal -с уламжлана.",module,Magento_Quote
-"Grand Total","Нийт дүн",module,Magento_Quote
-"Shipping & Handling (%1)","Хүргэлт & Боловсруулалт (%1)",module,Magento_Quote
-"Shipping & Handling","Хүргэлт & Боловсруулалт",module,Magento_Quote
-Shipping,Хүргэл,module,Magento_Quote
-Subtotal,"Хэсгийн дүн",module,Magento_Quote
-"We found an invalid item option format.","Артиклийн сонголтын хүчингүй формат олдлоо.",module,Magento_Quote
-"An item option with code %1 already exists.","%1 кодтой артиклийн сонголт аль хэдийн байна.",module,Magento_Quote
-"Item qty declaration error","Артикль тоо зарлалтын алдаа",module,Magento_Quote
-"Some of the products below do not have all the required options.","Дараах бүтээгдэхүүнүүдийн зарим нь бүх шаардлагатай сонголуудыг агуулаагүй байна.",module,Magento_Quote
-"Something went wrong during the item options declaration.","Артиклийн сонголтын зарлалтын явцад ямар нэг зүйл буруу байсан.",module,Magento_Quote
-"We found an item options declaration error.","Артикль сонголтын зарлалтын алдаа оллоо.",module,Magento_Quote
-"Some of the selected options are not currently available.","Сонгогдсон сонголтуудаас зарим нь одоохондоо боломжгүй байна.",module,Magento_Quote
-"Selected option(s) or their combination is not currently available.","Сонгогдсон сонголт(ууд) эсвэл тэдгээрийн хослуулалт одоогоор боломжгүй.",module,Magento_Quote
-"Some item options or their combination are not currently available.","Зарим артикль сонголтууд эсвэл хослуулалт одоохондоо боломжгүй байна.",module,Magento_Quote
-"Cart %1 doesn\'t contain item  %2","Сагс %1 %2 артикль агуулаагүй байна",module,Magento_Quote
-"Could not save quote","Квотыг хадгалж чадахгүй",module,Magento_Quote
-"Could not remove item from quote","Квотоос артикль хасаж чадахгүй",module,Magento_Quote
-"The qty value is required to update quote item.","Квот артиклийг өөрчлөхийн тулд тоо ширхэг утга шаардлагатай.",module,Magento_Quote
-"Invalid customer id %1","Хэрэглэгчийн буруу id %1",module,Magento_Quote
-"Invalid address id %1","Хаягийн буруу id %1",module,Magento_Quote
-"Cannot create quote","Квот үүсгэж чадахгүй",module,Magento_Quote
-"Cannot assign customer to the given cart. The cart belongs to different store.","Хэрэглэгчийг өгөгдсөн сагс руу холбож чадахгүй. Өөр дэлгүүр дээр үүсгэгдсэн сагс байна.",module,Magento_Quote
-"Cannot assign customer to the given cart. The cart is not anonymous.","Хэрэглэгчийг өгөгдсөн сагс руу холбож чадахгүй. Сагс эзэнгүй биш байна.",module,Magento_Quote
-"Cannot assign customer to the given cart. Customer already has active cart.","Хэрэглэгчийг өгөгдсөн сагс руу холбож чадахгүй. Хэрэглэгч аль хэдийн идэвхитэй сагстай байна.",module,Magento_Quote
-"Cannot place order.","Захиалгыг тавьж чадахгүй.",module,Magento_Quote
-"This item price or quantity is not valid for checkout.","Энэ артиклийн үнэ эсвэл тоо ширхэг чекаутын хувьд буруу байна.",module,Magento_Quote
-"Please check the shipping address information. %1","Хүргэлтийн хаягийн мэдээллийг шалгана уу. %1",module,Magento_Quote
-"Please specify a shipping method.","Хүргэлтийн аргыг тодорхойлно уу.",module,Magento_Quote
-"Please check the billing address information. %1","Тооцооны хаягийн мэдээллийг шалгана уу. %1",module,Magento_Quote
-"Please select a valid payment method.","Зөв төлбөрийн арга сонгоно уу.",module,Magento_Quote
-"Store Credit","Дэлгүүрийн эрхийн бичиг",module,Magento_Quote
-Discount,Хямдрал,module,Magento_Quote
-Tax,Татвар,module,Magento_Quote
-"Cart contains virtual product(s) only. Shipping address is not applicable.","Сагс зөвхөн виртуал бүтээгдэхүүн(үүд) агуулж байна. Хүргэлтийн хаягийг нэмж болохгүй байна.",module,Magento_Quote
-"Shipping address not set.","Хүргэлтийн хаяг оруулаагүй байна.",module,Magento_Quote
-"Shipping method is not applicable for empty cart","Хүргэлтийн хаяг хоосон сагсанд зориулж оруулж болохгүй",module,Magento_Quote
-"Cart contains virtual product(s) only. Shipping method is not applicable.","Сагс зөвхөн виртуал бүтээгдэхүүн(үүд) агуулж байна. Хүргэлтийн арга оруулж болохгүй.",module,Magento_Quote
-"Carrier with such method not found: %1, %2","Ийм аргатай хүргэгч олдсонгүй: %1, %2",module,Magento_Quote
-"Cannot set shipping method. %1","Хүргэлтийн аргыг суулгаж чадахгүй. %1",module,Magento_Quote
-error123,алдаа123,module,Magento_Quote
-error345,алдаа345,module,Magento_Quote
+                    \Magento\Quote\Model\Quote\Address\Total\AbstractTotal -с уламжлана."
+"Grand Total","Нийт дүн"
+"Shipping & Handling (%1)","Хүргэлт & Боловсруулалт (%1)"
+"Shipping & Handling","Хүргэлт & Боловсруулалт"
+Shipping,Хүргэл
+Subtotal,"Хэсгийн дүн"
+"We found an invalid item option format.","Артиклийн сонголтын хүчингүй формат олдлоо."
+"An item option with code %1 already exists.","%1 кодтой артиклийн сонголт аль хэдийн байна."
+"Item qty declaration error","Артикль тоо зарлалтын алдаа"
+"Some of the products below do not have all the required options.","Дараах бүтээгдэхүүнүүдийн зарим нь бүх шаардлагатай сонголуудыг агуулаагүй байна."
+"Something went wrong during the item options declaration.","Артиклийн сонголтын зарлалтын явцад ямар нэг зүйл буруу байсан."
+"We found an item options declaration error.","Артикль сонголтын зарлалтын алдаа оллоо."
+"Some of the selected options are not currently available.","Сонгогдсон сонголтуудаас зарим нь одоохондоо боломжгүй байна."
+"Selected option(s) or their combination is not currently available.","Сонгогдсон сонголт(ууд) эсвэл тэдгээрийн хослуулалт одоогоор боломжгүй."
+"Some item options or their combination are not currently available.","Зарим артикль сонголтууд эсвэл хослуулалт одоохондоо боломжгүй байна."
+"Cart %1 doesn\'t contain item  %2","Сагс %1 %2 артикль агуулаагүй байна"
+"Could not save quote","Квотыг хадгалж чадахгүй"
+"Could not remove item from quote","Квотоос артикль хасаж чадахгүй"
+"The qty value is required to update quote item.","Квот артиклийг өөрчлөхийн тулд тоо ширхэг утга шаардлагатай."
+"Invalid customer id %1","Хэрэглэгчийн буруу id %1"
+"Invalid address id %1","Хаягийн буруу id %1"
+"Cannot create quote","Квот үүсгэж чадахгүй"
+"Cannot assign customer to the given cart. The cart belongs to different store.","Хэрэглэгчийг өгөгдсөн сагс руу холбож чадахгүй. Өөр дэлгүүр дээр үүсгэгдсэн сагс байна."
+"Cannot assign customer to the given cart. The cart is not anonymous.","Хэрэглэгчийг өгөгдсөн сагс руу холбож чадахгүй. Сагс эзэнгүй биш байна."
+"Cannot assign customer to the given cart. Customer already has active cart.","Хэрэглэгчийг өгөгдсөн сагс руу холбож чадахгүй. Хэрэглэгч аль хэдийн идэвхитэй сагстай байна."
+"Cannot place order.","Захиалгыг хийх боломжгүй."
+"This item price or quantity is not valid for checkout.","Энэ артиклийн үнэ эсвэл тоо ширхэг чекаутын хувьд буруу байна."
+"Please check the shipping address information. %1","Хүргэлтийн хаягийн мэдээллийг шалгана уу. %1"
+"Please specify a shipping method.","Хүргэлтийн аргыг тодорхойлно уу."
+"Please check the billing address information. %1","Тооцооны хаягийн мэдээллийг шалгана уу. %1"
+"Please select a valid payment method.","Зөв төлбөрийн арга сонгоно уу."
+"Store Credit","Дэлгүүрийн эрхийн бичиг"
+Discount,Хямдрал
+Tax,Татвар
+"Cart contains virtual product(s) only. Shipping address is not applicable.","Сагс зөвхөн виртуал бүтээгдэхүүн(үүд) агуулж байна. Хүргэлтийн хаягийг нэмж болохгүй байна."
+"Shipping address not set.","Хүргэлтийн хаяг оруулаагүй байна."
+"Shipping method is not applicable for empty cart","Хүргэлтийн хаяг хоосон сагсанд зориулж оруулж болохгүй"
+"Cart contains virtual product(s) only. Shipping method is not applicable.","Сагс зөвхөн виртуал бүтээгдэхүүн(үүд) агуулж байна. Хүргэлтийн арга оруулж болохгүй."
+"Carrier with such method not found: %1, %2","Ийм аргатай хүргэгч олдсонгүй: %1, %2"
+"Cannot set shipping method. %1","Хүргэлтийн аргыг суулгаж чадахгүй. %1"
+error123,алдаа123
+error345,алдаа345
