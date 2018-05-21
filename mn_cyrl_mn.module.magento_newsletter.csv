@@ -1,26 +1,27 @@
-"Delete Selected Problems","Delete Selected Problems"
-"Unsubscribe Selected","Unsubscribe Selected"
-Back,Back
-Reset,Reset
-"Preview Template","Preview Template"
-"Save Newsletter","Save Newsletter"
-"Save and Resume","Save and Resume"
+"Delete Selected Problems","Сонгогдсон асуудлыг устгах"
+"Unsubscribe Selected","Сонгогдсоныг бүртгэлээс цуцлах"
+Back,Буцах
+Reset,Шинэчлэх
+"Preview Template","Загвар харах"
+"Save Newsletter","Мэдээллийн самбар хадгалах"
+"Save and Resume","Хадгалаад үргэлжлүүлэх"
 "View Newsletter","View Newsletter"
 "Edit Newsletter","Edit Newsletter"
 "Queue Information","Queue Information"
 "Queue Date Start","Queue Date Start"
 "Subscribers From","Subscribers From"
+"Subscribe","Бүртгүүлэх"
 Subject,Subject
-"Sender Name","Sender Name"
-"Sender Email","Sender Email"
-Message,Message
+"Sender Name","Илгээгчийн нэр"
+"Sender Email","Илгээгчийн эмэйл"
+Message,Зурвас
 "Newsletter Styles","Newsletter Styles"
 Start,Start
 Pause,Pause
 "Do you really want to cancel the queue?","Do you really want to cancel the queue?"
-Cancel,Cancel
-Resume,Resume
-Preview,Preview
+Cancel,Цуцлах
+Resume,Үргэлжлүүлэх
+Preview,Харах
 "Add New Template","Add New Template"
 "Newsletter Templates","Newsletter Templates"
 "Convert to Plain Text","Convert to Plain Text"
@@ -101,10 +102,10 @@ Paused,Paused
 "Sign Up for Our Newsletter:","Sign Up for Our Newsletter:"
 "Enter your email address","Enter your email address"
 Subscribe,Subscribe
-"Thank you for subscribing to our newsletter.","Thank you for subscribing to our newsletter."
+"Thank you for subscribing to our newsletter.","Манай мэдээллийн самбарт бүртгүүлсэнд баярлалаа."
 "To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:"
-"You have been successfully subscribed to our newsletter.","You have been successfully subscribed to our newsletter."
-"You have been unsubscribed from the newsletter.","You have been unsubscribed from the newsletter."
+"You have been successfully subscribed to our newsletter.","Та манай мэдээллийн самбарт амжилттай бүртгүүллээ."
+"You have been unsubscribed from the newsletter.","Та манай мэдээллийн самбараас хасагдлаа."
 "Subscription Options","Subscription Options"
 "Allow Guest Subscription","Allow Guest Subscription"
 "Need to Confirm","Need to Confirm"
