@@ -27,14 +27,14 @@ Composer.json файлын "repositories" блок дотор нэмнэ:
 ```
     {
         "type": "vcs",
-        "url": "https://ulzii@bitbucket.org/ulziit/magento2_mongolian_localepack_mn_cyrl_mn.git"
+        "url": "https://github.com/unitious/magento-2-mongolian-language-pack.git"
     }
 ```   
  
 мөн энэ мөрийг "require" блок дотор нэмнэ
 
 ``` 
-"ulzii/mage2-locale-mn-cyrl-mn": "dev-master"
+"unitious/magento-2-mongolian-language-pack": "dev-master"
 ```
 
 
@@ -47,6 +47,10 @@ php bin/magento setup:static-content:deploy mn_Cyrl_MN
 
 Үүний дараа магенто удирдлагын хэсэгт системийн хэлийг "Mongolian" сонгоод хадгална. Кэйчээ хоослохоо мартаж бас болохгүй шүү.
 
+### Алдаа. 
+
+Сүүлд гарсан хувилбар дээр монгол хэл кодны зөрчилдөөнөөс болж шууд ажиллахгүй байгааг анхаарна уу. Энд mn_Cyrl_MN болон mn_MN гэсэн хэлний кодын зөрчилдөөн гарсан бөгөөд тийм ч хялбар шийдэгдэх асуудал биш юм.
+Үүнд зориулж кор файлд шууд засвар хийх хэрэгтэй болсон бөгөөд удахгүй энд орно. 
 
 ### Орчуулагдсан компонент, модулиуд 
 
@@ -67,13 +71,13 @@ php bin/magento setup:static-content:deploy mn_Cyrl_MN
 |Magento_Catalog_Search| |
 |Magento_Catalog_Url_Rewrite|100% |
 |Magento_Catalog_Widget| |
-|Magento_Catalog|Орчуулагдаж байна|
+|Magento_Catalog|100%|
 |Magento_Checkout_Agreements| |
 |Magento_Checkout|100% |
 |Magento_Cms|100% |
 |Magento_Config| |
 |Magento_Configurable_Product| |
-|Magento_Contact| |
+|Magento_Contact|100% |
 |Magento_Cookie|100% |
 |Magento_Cron| |
 |Magento_Currency_Symbol|100% |
@@ -111,19 +115,19 @@ php bin/magento setup:static-content:deploy mn_Cyrl_MN
 |Magento_Persistent| |
 |Magento_Product_Alert| |
 |Magento_Product_Video| |
-|Magento_Quote| |
+|Magento_Quote|100%|
 |Magento_Reports| |
-|Magento_Review| |
+|Magento_Review|100%|
 |Magento_Rss|100% |
 |Magento_Rule|100% |
 |Magento_Sales_Rule||
 |Magento_Sales_Sequence| |
 |Magento_Sales|100%|
-|Magento_Search| |
+|Magento_Search|100%|
 |Magento_Send_Friend| |
 |Magento_Shipping| |
 |Magento_Sitemap| |
-|Magento_Store| |
+|Magento_Store|100%|
 |Magento_Swatches| |
 |Magento_Tax_Import_Export|100% |
 |Magento_Tax| |
@@ -138,7 +142,7 @@ php bin/magento setup:static-content:deploy mn_Cyrl_MN
 |Magento_Webapi| |
 |Magento_Weee| |
 |Magento_Widget| |
-|Magento_Wishlist|Орчуулж байгаа |
+|Magento_Wishlist|100% Ganzorig|
 |lib/web/mage/adminhtml/backup.js|100%|
 |lib/web/mage/adminhtml/wysiwyg/widget.js|100%|
 |lib/web/mage/backend/suggest.js|100%|

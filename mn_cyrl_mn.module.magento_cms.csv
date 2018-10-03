@@ -1,148 +1,148 @@
-"Static Blocks","Статик блок",module,Magento_Cms
-"Add New Block","Шинэ блок нэмэх",module,Magento_Cms
-"Save Block","Блок хадгалах",module,Magento_Cms
-"Delete Block","Блок устгах",module,Magento_Cms
-"Save and Continue Edit","Хадгалах ба үргэлжлүүлэн өөрчилөх",module,Magento_Cms
-"Edit Block '%1'","Блок '%1' өөрчилөх",module,Magento_Cms
-"New Block","Шинэ блок",module,Magento_Cms
-"Block Information","Блок мэдээлэл",module,Magento_Cms
-"General Information","Ерөнхий мэдээлэл",module,Magento_Cms
-"Block Title","Блок гарчиг",module,Magento_Cms
-Identifier,Тодорхойлогч,module,Magento_Cms
-"Store View","Дэлгүүрийн харагдац",module,Magento_Cms
-Status,Статус,module,Magento_Cms
-Enabled,Идэвхитэй,module,Magento_Cms
-Disabled,Идэвхигүй,module,Magento_Cms
-Content,Агуулга,module,Magento_Cms
-ID,ID,module,Magento_Cms
-Title,Гарчиг,module,Magento_Cms
-"Manage Pages","Хуудсуудыг удирдах",module,Magento_Cms
-"Add New Page","Шинэ хуудас нэмэх",module,Magento_Cms
-"Save Page","Хуудас хадгалах",module,Magento_Cms
-"Delete Page","Хуудас устгах",module,Magento_Cms
-"Edit Page '%1'","Хуудас '%1' өөрчилөх",module,Magento_Cms
-"New Page","Шинэ хуудас",module,Magento_Cms
-"Content Heading","Агуулгын толгой",module,Magento_Cms
-"Page Layout","Хуудас зохиомж",module,Magento_Cms
-Layout,Зохиомж,module,Magento_Cms
-"Layout Update XML","Зохиомж өөрчилөх XML",module,Magento_Cms
-"Custom Design","Хэрэглэгчийн дизайн",module,Magento_Cms
-"Custom Design From","Хэрэглэгчийн дизайн хэзээнээс",module,Magento_Cms
-"Custom Design To","Хэрэглэгчийн дизайн хүртэл",module,Magento_Cms
-"-- Please Select --","-- Сонголт хийнэ үү --",module,Magento_Cms
-"Custom Theme","Хэрэглэгчийн загвар",module,Magento_Cms
-"Custom Layout","Хэрэглэгчийн зохиомж",module,Magento_Cms
-"Custom Layout Update XML","Хэрэглэгчийн зохиомж өөрчилөх XML",module,Magento_Cms
-Design,Дизайн,module,Magento_Cms
-"Page Information","Хуудасны мэдээлэл",module,Magento_Cms
-"Page Title","Хуудасны гарчиг",module,Magento_Cms
-"URL Key","URL түлхүүр",module,Magento_Cms
-"Relative to Web Site Base URL","Вэбсайтын үндсэн URL тай релатив",module,Magento_Cms
-"Page Status","Хуудасны статус",module,Magento_Cms
-"Meta Data","Мета өгөгдөл",module,Magento_Cms
-Keywords,Түлхүүр үгнүүд,module,Magento_Cms
-"Meta Keywords","Мета түлх үгнүүд",module,Magento_Cms
-Description,Тодорхойлолт,module,Magento_Cms
-"Meta Description","Мета тодорхойлолт",module,Magento_Cms
-Created,Үүсгэгдсэн,module,Magento_Cms
-Modified,Өөрчлөгдсөн,module,Magento_Cms
-Action,Үйлдэл,module,Magento_Cms
-Preview,"Урьдчилан харах",module,Magento_Cms
-"Media Storage","Медиа хадгалалт",module,Magento_Cms
-"Create Folder...","Хавтас нээх...",module,Magento_Cms
-"Delete Folder","Хавтас устгах",module,Magento_Cms
-"Delete File","Файл устгах",module,Magento_Cms
-"Insert File","Файл оруулах",module,Magento_Cms
-"New Folder Name:","Шинэ хавтасны нэр:",module,Magento_Cms
-"Are you sure you want to delete this folder?","Энэ хавтасыг устгахдаа та итгэлтэй байна уу?",module,Magento_Cms
-"Are you sure you want to delete this file?","Энэ файлыг устгахдаа та итгэлтэй байна уу?",module,Magento_Cms
-"Images (%1)","Зургууд (%1)",module,Magento_Cms
-"Storage Root","Хадгалалтын рүүт",module,Magento_Cms
-Home,Эхлэл,module,Magento_Cms
-"Go to Home Page","Нүүр хуудас руу очих",module,Magento_Cms
-CMS,CMS,module,Magento_Cms
-"You deleted the block.","Та блок устгасан байна.",module,Magento_Cms
-"We can\'t find a block to delete.","Устгах блок олсонгүй.",module,Magento_Cms
-"This block no longer exists.","Энэ блок байхгүй болсон байна.",module,Magento_Cms
-"Edit Block","Блок өөрчилөх",module,Magento_Cms
-Blocks,Блокууд,module,Magento_Cms
-"Please correct the data sent.","Илгээгдсэн өгөгдлийг зөв болгоно уу.",module,Magento_Cms
-"A total of %1 record(s) have been deleted.","Нийт %1 бичлэг(үүд) устгагдсан.",module,Magento_Cms
-"You saved the block.","Та блокыг хадгалсан.",module,Magento_Cms
-"The page has been deleted.","Хуудас устгагдсан.",module,Magento_Cms
-"We can\'t find a page to delete.","Устгах хуудас олдсонгүй.",module,Magento_Cms
-"This page no longer exists.","Энэ хуудас байхгүй байна.",module,Magento_Cms
-"Edit Page","Хуудас засах",module,Magento_Cms
-Pages,Хуудсууд,module,Magento_Cms
-"Something went wrong while saving the page.","Хуудсыг хадгалж байхад ямар нэг алдаа гарлаа.",module,Magento_Cms
-"A total of %1 record(s) have been disabled.","Нийт %1 бичлэг(үүд) устгагдлаа.",module,Magento_Cms
-"A total of %1 record(s) have been enabled.","Нийт %1 бичлэг(үүд) идэвхижүүлэгдлээ.",module,Magento_Cms
-"To apply changes you should fill in hidden required ""%1"" field","Өөрчилүүлтүүдийг нэмэхийн тулд шаардлагатай нууцлагдсан ""%1"" талбарыг бөглөнүү",module,Magento_Cms
-"You saved this page.","Энэ хуудсыг хадгалсан.",module,Magento_Cms
-"The directory %1 is not writable by server.","Хавтас %1 серверээр бичигдэж болохгүй байна.",module,Magento_Cms
-"Make sure that static block content does not reference the block itself.","Статик блокын агуулга блок руу өөрлүү нь зааж болохгүйг анхаараарай.",module,Magento_Cms
-"CMS Block with id ""%1"" does not exist.","""%1"" id-тай блок байхгүй байна.",module,Magento_Cms
-"Enabled by Default","Стандартдаа идэвхитэй",module,Magento_Cms
-"Disabled by Default","Стандартдаа идэвхигүй",module,Magento_Cms
-"Disabled Completely","Бүгд идэвхигүй",module,Magento_Cms
-"CMS Page with id ""%1"" does not exist.","""%1"" дугаартай CMS хуудас байхгүй байна.",module,Magento_Cms
-"A block identifier with the same properties already exists in the selected store.","Ижилхэн шин тэмдэгүүдтэй блокын нэр сонгогдсон дэлрүүрт аль хэдийн байна.",module,Magento_Cms
-"The page URL key contains capital letters or disallowed symbols.","Хуудасны URL түлхүүр том үсэг эсвэл зөвшөөрөгдөөгүй тэмдэгт агуулж байна.",module,Magento_Cms
-"The page URL key cannot be made of only numbers.","Хуудасны URL түлхүүр зөвхөн тооноос бүрдэж болохгүй.",module,Magento_Cms
-"Please rename the folder using only letters, numbers, underscores and dashes.","Хавтасны нэрийг үсэг, тоо, доогуур зураас болон зураас болгож өөрчилнө үү.",module,Magento_Cms
-"We found a directory with the same name. Please try another folder name.","Ижилхэн нэртэй директор олдлоо. Өөр нэр өгнө үү.",module,Magento_Cms
-"We cannot create a new directory.","Шинэ директор үүсгэж болохгүй байна.",module,Magento_Cms
-"We cannot delete directory %1.","Директор %1 -г устгаж болохгүй байна.",module,Magento_Cms
-"We can\'t upload the file right now.","Яг одоо файлыг оруулж болохгүй байна.",module,Magento_Cms
-"We can\'t delete root directory %1 right now.","Эх директор %1 яг одоо устгаж чадахгүй байна.",module,Magento_Cms
-"Directory %1 is not under storage root path.","Директор %1 хадгалалтын эх замд биш байна.",module,Magento_Cms
-LocalizedException,НутагшуулсанЭксепшн,module,Magento_Cms
-RuntimeException,АчаалалтЭксепшн,module,Magento_Cms
-Exception,Эксепшн,module,Magento_Cms
-"Could not create directory.","Директор үүсгэж чадахгүй байна.",module,Magento_Cms
-"All Store Views","Бүх дэлгүүрийн харагдац",module,Magento_Cms
-Edit,Өөрчилөх,module,Magento_Cms
-Delete,Устгах,module,Magento_Cms
-"Delete ${ $.$data.title }","Устга ${ $.$data.title }",module,Magento_Cms
-"Are you sure you wan\'t to delete a ${ $.$data.title } record?","${ $.$data.title } бичилтийг устгахдаа итгэлтэй байна уу?",module,Magento_Cms
-Details,Дэлгэрэнгүй,module,Magento_Cms
-"Delete ""${ $.$data.title }""","Устга ""${ $.$data.title }""",module,Magento_Cms
-"Are you sure you wan\'t to delete a ""${ $.$data.title }"" record?","""${ $.$data.title }"" бичилтийг устгахдаа итгэлтэй байна уу?",module,Magento_Cms
-px.,px.,module,Magento_Cms
-"No files found","Файл олдсонгүй",module,Magento_Cms
-"Browse Files...","Файлууд харах...",module,Magento_Cms
-"Collapse All","Бүгдийг эвхэх",module,Magento_Cms
-"Expand All","Бүгдийг дэлгэх",module,Magento_Cms
-"We could not detect a size.","Хэмжээ илрүүлж чадсангүй.",module,Magento_Cms
-"CMS Home Page","CMS эхлэл хуудас",module,Magento_Cms
-"CMS No Route Page","CMS зам байхгүй хуудас",module,Magento_Cms
-"CMS No Cookies Page","CMS күүки байхгүй хуудас",module,Magento_Cms
-"Show Breadcrumbs for CMS Pages","CMS хуудсуудад зориулсан брийдкрамбс харуулах",module,Magento_Cms
-"Browser Capabilities Detection","Хөтөчийн боломжуудыг илрүүлэх",module,Magento_Cms
-"Redirect to CMS-page if Cookies are Disabled","Хэрэв күүки идэвхигүй байвал CMS хуудас руу үсрэх",module,Magento_Cms
-"Show Notice if JavaScript is Disabled","Жаваскрипт хаагдсан байвал сонордуулга харуулах",module,Magento_Cms
-"Show Notice if Local Storage is Disabled","Локал агууламж хаалттай байвал сонордуулга харуулах",module,Magento_Cms
-"Content Management","Агуулга удирдах",module,Magento_Cms
-"WYSIWYG Options","WYSIWYG сонголтууд",module,Magento_Cms
-"Enable WYSIWYG Editor","WYSIWYG едитор идэвхижүүлэх",module,Magento_Cms
-"CMS Page Link","CMS хуудас холбоос",module,Magento_Cms
-"Link to a CMS Page","CMS хуудас руу холбоос",module,Magento_Cms
-"CMS Page","CMS хуудас",module,Magento_Cms
-"Select Page...","Хуудас сонгоно уу...",module,Magento_Cms
-"Anchor Custom Text","Анчор хэрэглэгчийн текст",module,Magento_Cms
-"If empty, the Page Title will be used","Хэрэв хоосон бол хуудасны гарчиг хэрэглэгдэнэ",module,Magento_Cms
-"Anchor Custom Title","Анчор хэрэглэгчийн гарчиг",module,Magento_Cms
-Template,Темплэйт,module,Magento_Cms
-"CMS Page Link Block Template","CMS хуудас блок темплэйт",module,Magento_Cms
-"CMS Page Link Inline Template","CMS хуудас холбоос доторх темплэйт",module,Magento_Cms
-"CMS Static Block","CMS статик блок",module,Magento_Cms
-"Contents of a Static Block","Статик блокуудын агуулгууд",module,Magento_Cms
-Block,Блок,module,Magento_Cms
-"Select Block...","Блок сонгох...",module,Magento_Cms
-"CMS Static Block Default Template","CMS статик блок стандарт темплэйт",module,Magento_Cms
-"Delete items","Зүйлүүдийг устгах",module,Magento_Cms
-"Are you sure you wan't to delete selected items?","Сонгосон зүйлүүдийг устгахдаа итгэлтэй байна уу?",module,Magento_Cms
-Disable,Хаах,module,Magento_Cms
-Enable,Нээх,module,Magento_Cms
-"Custom design from","Хэрэглэгчийн дизайн хаанаас",module,Magento_Cms
-"Custom design to","Хэрэглэгчийн дизайн хаашаа",module,Magento_Cms
+"Static Blocks","Статик блок"
+"Add New Block","Шинэ блок нэмэх"
+"Save Block","Блок хадгалах"
+"Delete Block","Блок устгах"
+"Save and Continue Edit","Хадгалах ба үргэлжлүүлэн өөрчилөх"
+"Edit Block '%1'","Блок '%1' өөрчилөх"
+"New Block","Шинэ блок"
+"Block Information","Блок мэдээлэл"
+"General Information","Ерөнхий мэдээлэл"
+"Block Title","Блок гарчиг"
+Identifier,Тодорхойлогч
+"Store View","Дэлгүүрийн харагдац"
+Status,Статус
+Enabled,Идэвхитэй
+Disabled,Идэвхигүй
+Content,Агуулга
+ID,ID
+Title,Гарчиг
+"Manage Pages","Хуудсуудыг удирдах"
+"Add New Page","Шинэ хуудас нэмэх"
+"Save Page","Хуудас хадгалах"
+"Delete Page","Хуудас устгах"
+"Edit Page '%1'","Хуудас '%1' өөрчилөх"
+"New Page","Шинэ хуудас"
+"Content Heading","Агуулгын толгой"
+"Page Layout","Хуудас зохиомж"
+Layout,Зохиомж
+"Layout Update XML","Зохиомж өөрчилөх XML"
+"Custom Design","Хэрэглэгчийн дизайн"
+"Custom Design From","Хэрэглэгчийн дизайн хэзээнээс"
+"Custom Design To","Хэрэглэгчийн дизайн хүртэл"
+"-- Please Select --","-- Сонголт хийнэ үү --"
+"Custom Theme","Хэрэглэгчийн загвар"
+"Custom Layout","Хэрэглэгчийн зохиомж"
+"Custom Layout Update XML","Хэрэглэгчийн зохиомж өөрчилөх XML"
+Design,Дизайн
+"Page Information","Хуудасны мэдээлэл"
+"Page Title","Хуудасны гарчиг"
+"URL Key","URL түлхүүр"
+"Relative to Web Site Base URL","Вэбсайтын үндсэн URL тай релатив"
+"Page Status","Хуудасны статус"
+"Meta Data","Мета өгөгдөл"
+Keywords,Түлхүүр үгнүүд
+"Meta Keywords","Мета түлх үгнүүд"
+Description,Тодорхойлолт
+"Meta Description","Мета тодорхойлолт"
+Created,Үүсгэгдсэн
+Modified,Өөрчлөгдсөн
+Action,Үйлдэл
+Preview,"Урьдчилан харах"
+"Media Storage","Медиа хадгалалт"
+"Create Folder...","Хавтас нээх..."
+"Delete Folder","Хавтас устгах"
+"Delete File","Файл устгах"
+"Insert File","Файл оруулах"
+"New Folder Name:","Шинэ хавтасны нэр:"
+"Are you sure you want to delete this folder?","Энэ хавтасыг устгахдаа та итгэлтэй байна уу?"
+"Are you sure you want to delete this file?","Энэ файлыг устгахдаа та итгэлтэй байна уу?"
+"Images (%1)","Зургууд (%1)"
+"Storage Root","Хадгалалтын рүүт"
+Home,Эхлэл
+"Go to Home Page","Нүүр хуудас руу очих"
+CMS,CMS
+"You deleted the block.","Та блок устгасан байна."
+"We can\'t find a block to delete.","Устгах блок олсонгүй."
+"This block no longer exists.","Энэ блок байхгүй болсон байна."
+"Edit Block","Блок өөрчилөх"
+Blocks,Блокууд
+"Please correct the data sent.","Илгээгдсэн өгөгдлийг зөв болгоно уу."
+"A total of %1 record(s) have been deleted.","Нийт %1 бичлэг(үүд) устгагдсан."
+"You saved the block.","Та блокыг хадгалсан."
+"The page has been deleted.","Хуудас устгагдсан."
+"We can\'t find a page to delete.","Устгах хуудас олдсонгүй."
+"This page no longer exists.","Энэ хуудас байхгүй байна."
+"Edit Page","Хуудас засах"
+Pages,Хуудсууд
+"Something went wrong while saving the page.","Хуудсыг хадгалж байхад ямар нэг алдаа гарлаа."
+"A total of %1 record(s) have been disabled.","Нийт %1 бичлэг(үүд) устгагдлаа."
+"A total of %1 record(s) have been enabled.","Нийт %1 бичлэг(үүд) идэвхижүүлэгдлээ."
+"To apply changes you should fill in hidden required ""%1"" field","Өөрчилүүлтүүдийг нэмэхийн тулд шаардлагатай нууцлагдсан ""%1"" талбарыг бөглөнүү"
+"You saved this page.","Энэ хуудсыг хадгалсан."
+"The directory %1 is not writable by server.","Хавтас %1 серверээр бичигдэж болохгүй байна."
+"Make sure that static block content does not reference the block itself.","Статик блокын агуулга блок руу өөрлүү нь зааж болохгүйг анхаараарай."
+"CMS Block with id ""%1"" does not exist.","""%1"" id-тай блок байхгүй байна."
+"Enabled by Default","Стандартдаа идэвхитэй"
+"Disabled by Default","Стандартдаа идэвхигүй"
+"Disabled Completely","Бүгд идэвхигүй"
+"CMS Page with id ""%1"" does not exist.","""%1"" дугаартай CMS хуудас байхгүй байна."
+"A block identifier with the same properties already exists in the selected store.","Ижилхэн шин тэмдэгүүдтэй блокын нэр сонгогдсон дэлрүүрт аль хэдийн байна."
+"The page URL key contains capital letters or disallowed symbols.","Хуудасны URL түлхүүр том үсэг эсвэл зөвшөөрөгдөөгүй тэмдэгт агуулж байна."
+"The page URL key cannot be made of only numbers.","Хуудасны URL түлхүүр зөвхөн тооноос бүрдэж болохгүй."
+"Please rename the folder using only letters, numbers, underscores and dashes.","Хавтасны нэрийг үсэг, тоо, доогуур зураас болон зураас болгож өөрчилнө үү."
+"We found a directory with the same name. Please try another folder name.","Ижилхэн нэртэй директор олдлоо. Өөр нэр өгнө үү."
+"We cannot create a new directory.","Шинэ директор үүсгэж болохгүй байна."
+"We cannot delete directory %1.","Директор %1 -г устгаж болохгүй байна."
+"We can\'t upload the file right now.","Яг одоо файлыг оруулж болохгүй байна."
+"We can\'t delete root directory %1 right now.","Эх директор %1 яг одоо устгаж чадахгүй байна."
+"Directory %1 is not under storage root path.","Директор %1 хадгалалтын эх замд биш байна."
+LocalizedException,НутагшуулсанЭксепшн
+RuntimeException,АчаалалтЭксепшн
+Exception,Эксепшн
+"Could not create directory.","Директор үүсгэж чадахгүй байна."
+"All Store Views","Бүх дэлгүүрийн харагдац"
+Edit,Өөрчилөх
+Delete,Устгах
+"Delete ${ $.$data.title }","Устга ${ $.$data.title }"
+"Are you sure you wan\'t to delete a ${ $.$data.title } record?","${ $.$data.title } бичилтийг устгахдаа итгэлтэй байна уу?"
+Details,Дэлгэрэнгүй
+"Delete ""${ $.$data.title }""","Устга ""${ $.$data.title }"""
+"Are you sure you wan\'t to delete a ""${ $.$data.title }"" record?","""${ $.$data.title }"" бичилтийг устгахдаа итгэлтэй байна уу?"
+px.,px.
+"No files found","Файл олдсонгүй"
+"Browse Files...","Файлууд харах..."
+"Collapse All","Бүгдийг эвхэх"
+"Expand All","Бүгдийг дэлгэх"
+"We could not detect a size.","Хэмжээ илрүүлж чадсангүй."
+"CMS Home Page","CMS эхлэл хуудас"
+"CMS No Route Page","CMS зам байхгүй хуудас"
+"CMS No Cookies Page","CMS күүки байхгүй хуудас"
+"Show Breadcrumbs for CMS Pages","CMS хуудсуудад зориулсан брийдкрамбс харуулах"
+"Browser Capabilities Detection","Хөтөчийн боломжуудыг илрүүлэх"
+"Redirect to CMS-page if Cookies are Disabled","Хэрэв күүки идэвхигүй байвал CMS хуудас руу үсрэх"
+"Show Notice if JavaScript is Disabled","Жаваскрипт хаагдсан байвал сонордуулга харуулах"
+"Show Notice if Local Storage is Disabled","Локал агууламж хаалттай байвал сонордуулга харуулах"
+"Content Management","Агуулга удирдах"
+"WYSIWYG Options","WYSIWYG сонголтууд"
+"Enable WYSIWYG Editor","WYSIWYG едитор идэвхижүүлэх"
+"CMS Page Link","CMS хуудас холбоос"
+"Link to a CMS Page","CMS хуудас руу холбоос"
+"CMS Page","CMS хуудас"
+"Select Page...","Хуудас сонгоно уу..."
+"Anchor Custom Text","Анчор хэрэглэгчийн текст"
+"If empty, the Page Title will be used","Хэрэв хоосон бол хуудасны гарчиг хэрэглэгдэнэ"
+"Anchor Custom Title","Анчор хэрэглэгчийн гарчиг"
+Template,Темплэйт
+"CMS Page Link Block Template","CMS хуудас блок темплэйт"
+"CMS Page Link Inline Template","CMS хуудас холбоос доторх темплэйт"
+"CMS Static Block","CMS статик блок"
+"Contents of a Static Block","Статик блокуудын агуулгууд"
+Block,Блок
+"Select Block...","Блок сонгох..."
+"CMS Static Block Default Template","CMS статик блок стандарт темплэйт"
+"Delete items","Зүйлүүдийг устгах"
+"Are you sure you wan't to delete selected items?","Сонгосон зүйлүүдийг устгахдаа итгэлтэй байна уу?"
+Disable,Хаах
+Enable,Нээх
+"Custom design from","Хэрэглэгчийн дизайн хаанаас"
+"Custom design to","Хэрэглэгчийн дизайн хаашаа"

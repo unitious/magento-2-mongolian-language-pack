@@ -1,3 +1,3 @@
-"File directory \'%1\' is not readable.","Файлын директор \'%1\' уншигдахгүй байна.",module,Magento_DownloadableImportExport
-"File directory \'%1\' is not writable.","Файлын директор \'%1\' бичигдэхгүй байна.",module,Magento_DownloadableImportExport
-Error,Алдаа,module,Magento_DownloadableImportExport
+"File directory \'%1\' is not readable.","Файлын директор \'%1\' уншигдахгүй байна."
+"File directory \'%1\' is not writable.","Файлын директор \'%1\' бичигдэхгүй байна."
+Error,Алдаа

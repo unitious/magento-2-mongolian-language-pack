@@ -1,763 +1,762 @@
-"Credit Memos","Эрхийн бичиг",module,Magento_Sales
-Orders,Захиалга,module,Magento_Sales
-Invoices,Нэхэмжлэлүүд,module,Magento_Sales
-"We can\'t get the order instance right now.","Захиалгын хүсэлтийг яг одоо авч болохгүй байна.",module,Magento_Sales
-"Create New Order","Шинэ захиалга үүсгэх",module,Magento_Sales
-"Save Order Address","Захиалгын хаяг хадгалах",module,Magento_Sales
-Shipping,Хүргэлт,module,Magento_Sales
-Billing,Төлбөр,module,Magento_Sales
-"Edit Order %1 %2 Address","Захиалга %1 %2 хаяг өөрчилөх",module,Magento_Sales
-"Order Address Information","Захиалгын хаягийн мэдээлэл",module,Magento_Sales
-"Please correct the parent block for this block.","Энэ блокт зориулж эцэг блокыг өөрчилнө үү.",module,Magento_Sales
-"Submit Comment","Тайлбар оруулах",module,Magento_Sales
-"Submit Order","Захиалга хийх",module,Magento_Sales
-"Are you sure you want to cancel this order?","Энэ захиалгыг цуцалж байгаадаа та итгэлтэй байна уу?",module,Magento_Sales
-Cancel,Болих,module,Magento_Sales
-"Billing Address","Төлбөрийн хаяг",module,Magento_Sales
-"Payment Method","Төлбөрийн арга",module,Magento_Sales
-"Order Comment","Захиалгын тайлбар",module,Magento_Sales
-Coupons,Купон,module,Magento_Sales
-"Please select a customer","Хэрэглэгчийг сонгоно уу",module,Magento_Sales
-"Create New Customer","Шинэ хэрэглэгч үүсгэх",module,Magento_Sales
-"Account Information","Дансны мэдээлэл",module,Magento_Sales
-From,-Аас4,module,Magento_Sales
-To,Хүртэл,module,Magento_Sales
-Message,Зурвас,module,Magento_Sales
-"Edit Order #%1","Захиалга #%1 өөрчилөх",module,Magento_Sales
-"Create New Order for %1 in %2","%1 зориулж  %2 дээр шинэ захиалга үүсгэх",module,Magento_Sales
-"Create New Order for New Customer in %1","Шинэ хэрэглэгчид зориулж шинэ захиалгыг %1 дээр үүсгэх",module,Magento_Sales
-"Create New Order for %1","%1 зориулж шинэ захиалга үүсгэх",module,Magento_Sales
-"Create New Order for New Customer","Шинэ хэрэглэгчид зориулж шинэ захиалга үүсгэх",module,Magento_Sales
-"Items Ordered","Захиалагдсан артиклууд",module,Magento_Sales
-"This product is disabled.","Энэ бүтээгдэхүүн идэвхижүүлэгдээгүй байна.",module,Magento_Sales
-"Buy %1 for price %2","%1-г %2 үнээр худалдан авах",module,Magento_Sales
-"Item ordered qty","Артиклийн захиалагдсан тоо",module,Magento_Sales
-"%1 with %2 discount each","%1-г %2 хямдрал тус бүрд нь",module,Magento_Sales
-"%1 for %2","%1-г %2-оор",module,Magento_Sales
-"* - Enter custom price including tax","* - Татвар шингэсэн үнийг оруул",module,Magento_Sales
-"* - Enter custom price excluding tax","* - Татвар шингээгүй үнийг оруул",module,Magento_Sales
-Configure,Тохируулга,module,Magento_Sales
-"This product does not have any configurable options","Энэ бүтээгдэхүүн тохируулагдах сонголтгүй байна",module,Magento_Sales
-"Newsletter Subscription","Захидал мэдээ захиалах",module,Magento_Sales
-"Please select products","Бүтээгдэхүүн сонгоно уу",module,Magento_Sales
-"Add Selected Product(s) to Order","Сонгосон бүтээгдэхүүнүүдийг захиалга руу нэмэх",module,Magento_Sales
-ID,ID,module,Magento_Sales
-Product,Бүтээгдэхүүн,module,Magento_Sales
-SKU,Барааны Код,module,Magento_Sales
-Price,Үнэ,module,Magento_Sales
-Select,Сонголт,module,Magento_Sales
-Quantity,Тоо,module,Magento_Sales
-"Shipping Address","Хүргэлтийн хаяг",module,Magento_Sales
-"Shipping Method","Хүргэлт хийх арга",module,Magento_Sales
-"Update Changes","Өөрчилөлтүүдийг хадгалах",module,Magento_Sales
-"Shopping Cart","Сагс",module,Magento_Sales
-"Are you sure you want to delete all items from shopping cart?","Сагсан доторх бүх барааг устгана гэдэгтээ итгэлтэй байна уу?",module,Magento_Sales
-"Clear Shopping Cart","Сагсыг хоослох",module,Magento_Sales
-"Products in Comparison List","Харьцуулах жагсаалт дотор байгаа бүтээгдэхүүнүүд",module,Magento_Sales
-"Recently Compared Products","Саяхан харьцуулагдсан бүтээгдэхүүнүүд",module,Magento_Sales
-"Recently Viewed Products","Саяхан харсан бүтээгдэхүүнүүд",module,Magento_Sales
-"Last Ordered Items","Сүүлд захиалагдсан артиклууд",module,Magento_Sales
-"Recently Viewed","Саяхан харагдсан",module,Magento_Sales
-"Wish List","Хүсэлтийн жагсаалт",module,Magento_Sales
-"Please select a store","Дэлгүүр сонгоно уу",module,Magento_Sales
-"Order Totals","Захиалгын нийт дүн",module,Magento_Sales
-"Shipping Incl. Tax (%1)","Хүргэлт (%1) НӨТ орсон",module,Magento_Sales
-"Shipping Excl. Tax (%1)","Хүргэлт (%1) НӨТ ороогүй",module,Magento_Sales
-"New Credit Memo for Invoice #%1","Нэхэмжлэл #%1 зориулж эрхийн бичиг үүсгэх",module,Magento_Sales
-"New Credit Memo for Order #%1","Захиалга #%1 зориулж эрхийн бичиг үүсгэх",module,Magento_Sales
-"Refund Shipping (Incl. Tax)","Хүргэлт буцаан олголт (НӨТ орсон)",module,Magento_Sales
-"Refund Shipping (Excl. Tax)","Хүргэлт буцаан олголт (НӨТ ороогүй)",module,Magento_Sales
-"Refund Shipping","Хүргэлт буцаан олголт",module,Magento_Sales
-"Update Qty\'s","Тоо ширхэг шинэчилэх",module,Magento_Sales
-Refund,Буцаан олголт,module,Magento_Sales
-"Refund Offline","Офлайн буцаан олголт",module,Magento_Sales
-"Paid Amount","Төлсөн дүн",module,Magento_Sales
-"Refund Amount","Буцаан олголтын дүн",module,Magento_Sales
-"Shipping Amount","Хүргэлтийн дүн",module,Magento_Sales
-"Shipping Refund","Хүргэлт буцаан олголт",module,Magento_Sales
-"Order Grand Total","Захиалгын нийт дүн",module,Magento_Sales
-"Adjustment Refund","Өөрчилөгдсөн буцаан олголт",module,Magento_Sales
-"Adjustment Fee","Өөрчилөлөгдсөн төлбөр",module,Magento_Sales
-"Send Email","эмэйл явуулах",module,Magento_Sales
-"Are you sure you want to send a credit memo email to customer?","Хэрэглэгч рүү эрхийн бичгийн талаар эмэйл явуулахдаа итгэлтэй байна уу?",module,Magento_Sales
-Void,Хоослолт,module,Magento_Sales
-Print,Хэвлэх,module,Magento_Sales
-"The credit memo email was sent.","Эрхийн бичгийн эмэйл явуулагдсан.",module,Magento_Sales
-"The credit memo email wasn\'t sent.","Эрхийн бичгийн талаарх эмэйл явуулагдаагүй.",module,Magento_Sales
-"Credit Memo #%1 | %3 | %2 (%4)","Эрхийн бичиг #%1 | %3 | %2 (%4)",module,Magento_Sales
-"Total Refund","Нийт буцаан олголт",module,Magento_Sales
-"New Invoice and Shipment for Order #%1"," Захиалга #%1 зориулж шинэ нэхэмжлэл болон хүргэлийн баримт",module,Magento_Sales
-"New Invoice for Order #%1","Захиалга #%1 зориулж шинэ нэхэмжлэл",module,Magento_Sales
-"Submit Invoice and Shipment","Нэхэмжлэл болон хүргэлт батлах",module,Magento_Sales
-"Submit Invoice","Нэхэмжлэл батлах",module,Magento_Sales
-"Are you sure you want to send an invoice email to customer?","Хэрэглэгч рүү нэхэмжлэлийн эмэйл явуулахдаа итгэлтэй байна уу?",module,Magento_Sales
-"Credit Memo","Эрхийн бичиг",module,Magento_Sales
-Capture,Бичилт,module,Magento_Sales
-"The invoice email was sent.","Нэхэмжлэлийн эмэйл явуулагдлаа.",module,Magento_Sales
-"The invoice email wasn\'t sent.","Нэхэмжлэлийн эмэйл явуулагдсангүй.",module,Magento_Sales
-"Invoice #%1 | %2 | %4 (%3)","Нэхэмжлэл #%1 | %2 | %4 (%3)",module,Magento_Sales
-"Invalid parent block for this block","Энэ блокт хүчингүй эцэг блок",module,Magento_Sales
-"Order Statuses","Захиалгын статус",module,Magento_Sales
-"Create New Status","Шинэ статус үүсгэх",module,Magento_Sales
-"Assign Status to State","Статусыг байдал руу холбох",module,Magento_Sales
-"Save Status Assignment","Статус холбоос хадгалах",module,Magento_Sales
-"Assign Order Status to State","Захиалгын статусыг байдалтай холбох",module,Magento_Sales
-"Assignment Information","Холбоосын мэдээлэл",module,Magento_Sales
-"Order Status","Захиалгын статус",module,Magento_Sales
-"Order State","Захиалгын байдал",module,Magento_Sales
-"Use Order Status As Default","Захиалгын статусыг стандартаар хэрэглэх",module,Magento_Sales
-"Visible On Storefront","Дэлгүүрийн нүүрэнд харагдуулах",module,Magento_Sales
-"Edit Order Status","Захиалгын статусыг өөрчилөх",module,Magento_Sales
-"Save Status","Статус хадгалах",module,Magento_Sales
-"New Order Status","Шинэ захиалгын статус",module,Magento_Sales
-"Order Status Information","Захиалгын статус мэдээлэл",module,Magento_Sales
-"Status Code","Статус код",module,Magento_Sales
-"Status Label","Статус шошго",module,Magento_Sales
-"Store View Specific Labels","Дэлгүүрийн харагдацад хамаатай шошгууд",module,Magento_Sales
-"Total Paid","Төлбөн нийт дүн",module,Magento_Sales
-"Total Refunded","Буцаан олголтын нийт дүн",module,Magento_Sales
-"Total Due","Бүх төлбөр б",module,Magento_Sales
-Edit,Өөрчилөх,module,Magento_Sales
-"Are you sure you want to send an order email to customer?","Захиалгын эмэйлийг хэрэглэгчрүү явуулахдаа итгэлтэй байна уу?",module,Magento_Sales
-"This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","Энд офлайн буцаан олголтыг үүсгэх гэж байна. Онлайн буцаан олголтыг үүсгэхийн тулд, нэхэмжлэлийг нээгээд эрхийн бичиг үүсгэнэ үү. Та цааш нь үргэлжлүүлэх үү?",module,Magento_Sales
-"Are you sure you want to void the payment?","Төлөлтийг хоослох гэж байгаадаа итгэлтэй байна уу?",module,Magento_Sales
-Hold,Саатуулах,module,Magento_Sales
-hold,саатуулах,module,Magento_Sales
-Unhold,Саатуулахыг болиулах,module,Magento_Sales
-unhold,Саатуулахыг болиулах,module,Magento_Sales
-"Are you sure you want to accept this payment?","Энэ төлөлтийг зөвшөөрч байгаадаа итгэлтэй байна уу?",module,Magento_Sales
-"Accept Payment","Төлөлтийг зөвшөөрөх",module,Magento_Sales
-"Are you sure you want to deny this payment?","Энэ төлөлтийг татгалзаж байгаадаа итгэлэй байна уу?",module,Magento_Sales
-"Deny Payment","Төлөлтийг татгалзах",module,Magento_Sales
-"Get Payment Update","Төлөлтийн өөрчилөлтийг авах",module,Magento_Sales
-"Invoice and Ship","Нэхэмжлэх болон хүргэх",module,Magento_Sales
-Invoice,Нэхэмжлэл,module,Magento_Sales
-Ship,Хүргэх,module,Magento_Sales
-Reorder,Дахин захиалах,module,Magento_Sales
-"Order # %1 %2 | %3","Захиалга # %1 %2 | %3",module,Magento_Sales
-"This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.","Энэ захиалга (%1) артиклууд агуулж байгаа ба админ хэсгээс засвар оруулж болхгүй байна. Хэрвээ та үргэлжлүүлэн засварлавал, (%2) артиклууд хасагдах болно. Түүнчлэн энэ захиалга цуцлагдаж өөр шинэ захиалга үүсгэгдэх болно.",module,Magento_Sales
-"Are you sure? This order will be canceled and a new one will be created instead.","Та үнэхээр итгэлтэй байна уу? Энэ захиалга цуцлагдаж шинэ захиалга үүгэгдэх гэж байна.",module,Magento_Sales
-"Save Gift Message","Бэлэгний зурвас хадгалах",module,Magento_Sales
-" [deleted]"," [устгагдсан]",module,Magento_Sales
-"Order Credit Memos","Захиалга эрхийн бичиг",module,Magento_Sales
-"Credit memo #%1 created","Эрхийн бичиг #%1 үүсгэгдлээ",module,Magento_Sales
-"Credit memo #%1 comment added","Эрхийн бичиг #%1 тайлбар нэмэгдлээ",module,Magento_Sales
-"Shipment #%1 created","Хүргэлт #%1 үүсгэгдлээ",module,Magento_Sales
-"Shipment #%1 comment added","Хүргэлт #%1 тайлбар нэмэгдлээ",module,Magento_Sales
-"Invoice #%1 created","Нэхэмжлэл #%1 үүсгэгдлээ",module,Magento_Sales
-"Invoice #%1 comment added","Нэхэмжлэл #%1 тайлбар нэмэгдлээ",module,Magento_Sales
-"Tracking number %1 for %2 assigned","%2-т зориулан ажиглах дугаар %1 олгогдлоо",module,Magento_Sales
-"Comments History","Тайлбарын түүх",module,Magento_Sales
-"Order History","Захиалгын түүх",module,Magento_Sales
-Information,Мэдээлэл,module,Magento_Sales
-"Order Information","Захиалгын мэдээлэл",module,Magento_Sales
-"Order Invoices","Захиалгын нэхэмжлэлүүд",module,Magento_Sales
-Shipments,Хүргэлтүүд,module,Magento_Sales
-"Order Shipments","Захиалгын хүргэлтүүд",module,Magento_Sales
-Transactions,Гүйлгээнүүд,module,Magento_Sales
-"Order View","Захиалга харагдац",module,Magento_Sales
-Any,Аль нэг,module,Magento_Sales
-Specified,Тодорхойлогдсон,module,Magento_Sales
-"Applies to Any of the Specified Order Statuses except canceled orders","Цуцлагдсан захиалгуудыг оруулалгүйгээр аль нэг тодорхойлогдсон захиалгын статусруу нэмэх",module,Magento_Sales
-"Cart Price Rule","Сагсны үнийн дүрэм",module,Magento_Sales
-Yes,Тийм,module,Magento_Sales
-No,Үгүй,module,Magento_Sales
-"Show Actual Values","Одоогын утгыг харуулах",module,Magento_Sales
-"New Order RSS","Шинэ захиалгын RSS",module,Magento_Sales
-Subtotal,Завсрын үр дүн,module,Magento_Sales
-"Shipping & Handling","Илгээлт & зохицуулалт",module,Magento_Sales
-"Discount (%1)","Хямдрал (%1)",module,Magento_Sales
-Discount,Хямдрал,module,Magento_Sales
-"Grand Total","Нийт дүн",module,Magento_Sales
-Back,Буцах,module,Magento_Sales
-Fetch,Авч ирэх,module,Magento_Sales
-"Transaction # %1 | %2","Гүйлгээ # %1 | %2",module,Magento_Sales
-N/A,Өгөгдөлгүй,module,Magento_Sales
-Key,Түлхүүр,module,Magento_Sales
-Value,Утга,module,Magento_Sales
-"We found an invalid entity model.","Хүчингүй энтити модуль оллоо.",module,Magento_Sales
-"Order # %1","Захиалга # %1",module,Magento_Sales
-"Back to My Orders","Захиалга руугаа буцах",module,Magento_Sales
-"View Another Order","Өөр захиалга харах",module,Magento_Sales
-"About Your Refund","Таны буцаан олголтын тухай",module,Magento_Sales
-"My Orders","Миний захиалгууд",module,Magento_Sales
-"Subscribe to Order Status","Захиалгын статусд бүртгүүлэх",module,Magento_Sales
-"About Your Invoice","Захиалгын нэхэмжлэлийн тухай",module,Magento_Sales
-"Print Order # %1","Захиалгын хэвлэх # %1",module,Magento_Sales
-"Grand Total to be Charged","Төлөх ёстой нийт дүн",module,Magento_Sales
-Unassign,Холбоосыг авах,module,Magento_Sales
-"We can\'t add this item to your shopping cart right now.","Энэ артиклийг яг одоо сагс руу хийх боломжгүй байна .",module,Magento_Sales
-"You sent the message.","Та зурвас явууллаа.",module,Magento_Sales
-Sales,Худалдаа,module,Magento_Sales
-"This order no longer exists.","Энэ захиалга байхгүй болсон байна.",module,Magento_Sales
-"Please enter a comment.","Тайлбар оруулна уу.",module,Magento_Sales
-"We cannot add order history.","Захиалгын түүхрүү нэмж болохгүй байна.",module,Magento_Sales
-"You updated the order address.","Та захиалгын хаягийг өөрчиллөө.",module,Magento_Sales
-"We can\'t update the order address right now.","Захиалгын хаягийг яг одоо өөрчилж чадахгүй.",module,Magento_Sales
-"You have not canceled the item.","Та энэ артиклийг цуцлаагүй байна.",module,Magento_Sales
-"You canceled the order.","Та захиалгыг цуцалсан байна.",module,Magento_Sales
-"""%1"" coupon code was not applied. Do not apply discount is selected for item(s)","""%1"" купон код орсонгүй. Сонгосон артиклуудад хямдрал үйлчилэхгүй",module,Magento_Sales
-"""%1"" coupon code is not valid.","""%1"" купон код хүчингүй.",module,Magento_Sales
-"The coupon code has been accepted.","Купон код зөвшөөрөгдлөө.",module,Magento_Sales
-"Quote item id is not received.","Квотын артиклийн ID ирээгүй байна.",module,Magento_Sales
-"Quote item is not loaded.","Квот артикль ачаалагдахгүй байна.",module,Magento_Sales
-"New Order","Шинэ захиалга",module,Magento_Sales
-"You created the order.","Та захиалга үүсгэлээ.",module,Magento_Sales
-"Order saving error: %1","Захиалга хадгалахад гарсан алдаа: %1",module,Magento_Sales
-"Cannot add new comment.","Шинэ тайлбар нэмж болохгүй байна.",module,Magento_Sales
-"The credit memo has been canceled.","Эрхийн бичиг цуцлагдсан байна.",module,Magento_Sales
-"Credit memo has not been canceled.","Эрхийн бичиг цуцлагдсангүй.",module,Magento_Sales
-"New Memo for #%1","#%1 зориулсан шинэ тэмдэглэл",module,Magento_Sales
-"New Memo","Шинэ тэмдэглэл",module,Magento_Sales
-"The credit memo\'s total must be positive.","Эрхийн бичгийн дүн нэмэх утгатай байх ёстой.",module,Magento_Sales
-"Cannot create online refund for Refund to Store Credit.","Дэлгүүрийн Кредит Буцаан олголтонд зориулж онлайн буцаан олголт хийж болохгүй байна.",module,Magento_Sales
-"You created the credit memo.","Та эрхийн бичиг үүсгэлээ.",module,Magento_Sales
-"We can\'t save the credit memo right now.","Яг одоо эрхийн бичиг хадгалж чадахгүй байна.",module,Magento_Sales
-"We can\'t update the item\'s quantity right now.","Артиклийн тоо ширхэгийг өөрчилж чадахгүй байна.",module,Magento_Sales
-"View Memo for #%1","#%1 зориулсан тэмдэглэлийг харах",module,Magento_Sales
-"View Memo","Тэмдэглэл харуулах",module,Magento_Sales
-"You voided the credit memo.","Та эрхийн бичгийг хоосоллоо.",module,Magento_Sales
-"We can\'t void the credit memo.","We can\'t void the credit memo.",module,Magento_Sales
-"The order no longer exists.","Энэ захиалга байхгүй болсон байна.",module,Magento_Sales
-"We can\'t create credit memo for the order.","Энэ захиалгад зориулж эрхийн бичиг үүсгэж чадагүй байна.",module,Magento_Sales
-"Edit Order","Захиалга өөрчилөх",module,Magento_Sales
-"You sent the order email.","Та захиалгын эмэйлийг илгээсэн.",module,Magento_Sales
-"We can\'t send the email order right now.","Захиалгын эмэйлийг яг одоо илгээж чадахгүй байна.",module,Magento_Sales
-"You have not put the order on hold.","Та энэ захиалгыг саатуулалтанд хийгээгүй байна.",module,Magento_Sales
-"You put the order on hold.","Та энэ захиалгыг саатуулалтанд хийлээ.",module,Magento_Sales
-"You canceled the invoice.","Та нэхэмжлэлийг цуцаллаа.",module,Magento_Sales
-"Invoice canceling error","Нэхэмжлэл цуцлалтын алдаа",module,Magento_Sales
-"The invoice has been captured.","Нэхэмжлэл бичигдсэн.",module,Magento_Sales
-"Invoice capturing error","Нэхэмжлэл бичих алдаа",module,Magento_Sales
-"The order does not allow an invoice to be created.","Захиалга нэхэмжлэл үүсгэхийг зөвшөөрөхгүй байна.",module,Magento_Sales
-"You can\'t create an invoice without products.","Та бараагүй нэхэмжлэл үүсгэж чадахгүй.",module,Magento_Sales
-"New Invoice","Шинэ нэхэмжлэл",module,Magento_Sales
-"We can\'t save the invoice right now.","Нэхэмжлэлийг яг одоо хадгалч чадахгүй байна.",module,Magento_Sales
-"The invoice and the shipment  have been created. The shipping label cannot be created now.","Нэхэмжлэл болон хүргэлт үүсгэгдсэн. Хүргэлтийн шошго үүсгэгдэж болохгүй байна.",module,Magento_Sales
-"You created the invoice and shipment.","Та нэхэмжлэл болон хүргэлт үүсгэлээ.",module,Magento_Sales
-"The invoice has been created.","Нэхэмжлэл үүсгэгдсэн.",module,Magento_Sales
-"We can\'t send the invoice email right now.","Нэхэмжлэлийн эмэйлийг яг одоо илгээх боломжгүй байна.",module,Magento_Sales
-"We can\'t send the shipment right now.","Хүргэлтийг яг одоо явуулах боломжгүй.",module,Magento_Sales
-"Cannot update item quantity.","Артиклийн тоог өөрчилж чадахгүй.",module,Magento_Sales
-"The invoice has been voided.","Нэхэмжлэл хоослогдсон.",module,Magento_Sales
-"Invoice voiding error","Нэхэмжлэл хоослолтын алдаа",module,Magento_Sales
-"%1 order(s) cannot be canceled.","%1 захиалга(ууд) цуцлагдах боломжгүй.",module,Magento_Sales
-"You cannot cancel the order(s).","Та энэ захиалга(ууд)-ыг цуцалж чадахгүй.",module,Magento_Sales
-"We canceled %1 order(s).","%1 захиалга(ууд) цуцалсан.",module,Magento_Sales
-"%1 order(s) were not put on hold.","%1 захиалга(ууд) саатуулалтанд хийгээгүй байна.",module,Magento_Sales
-"No order(s) were put on hold.","Ямар ч захиалга(ууд) саатуулалтанд хийгээгүй байна.",module,Magento_Sales
-"You have put %1 order(s) on hold.","Та %1 захиалга(ууд) саатуулалтанд хийлээ.",module,Magento_Sales
-"%1 order(s) were not released from on hold status.","%1 захиалга(ууд) саатуулагдсан статусаас гараагүй байна.",module,Magento_Sales
-"No order(s) were released from on hold status.","Ямар ч захиалга(ууд) саатуулагдсан статусаас гараагүй байна.",module,Magento_Sales
-"%1 order(s) have been released from on hold status.","%1 захиалга(ууд) саатуулагдсан статусаас гарсан байна.",module,Magento_Sales
-"There are no printable documents related to selected orders.","Сонгосон захиалгатай хамаатай хэвлэж болохоор баримт бичиг алга.",module,Magento_Sales
-"The payment has been accepted.","Төлбөр хийлт зөвшөөрөгдсөн.",module,Magento_Sales
-"The payment has been denied.","Төлбөр хийлт татгалзагдсан.",module,Magento_Sales
-"Transaction has been approved.","Гүйлгээ батлагдсан.",module,Magento_Sales
-"Transaction has been voided/declined.","Гүйлгээ хоослогдсон/татгалзагдсан.",module,Magento_Sales
-"There is no update for the transaction.","Энэ гүйлгээнд зориулсан өөрчилөлт алга.",module,Magento_Sales
-"We can\'t update the payment right now.","Яг одоо энэ төлбөр хийлтийг өөрчилж чадахгүй.",module,Magento_Sales
-"You assigned the order status.","Та захиалгын статусыг холболоо.",module,Magento_Sales
-"Something went wrong while assigning the order status.","Захиалгын статусыг холбож байхад ямар нэг зүйл буруу байлаа.",module,Magento_Sales
-"We can\'t find this order status.","Энэ захиалгын статусыг олч чадахгүй байна.",module,Magento_Sales
-"Create New Order Status","Шинэ захиалгын статус үүсгэх",module,Magento_Sales
-"We found another order status with the same order status code.",
-"Ижилхэн захиалгын статус кодтой өөр захиалгын статус олдлоо.",module,Magento_Sales
-"You saved the order status.","Та захиалгын статусыг хадгаллаа.",module,Magento_Sales
-"We can\'t add the order status right now.","Захиалгын статусыг яг одоо нэмж чадахгүй.",module,Magento_Sales
-"You have unassigned the order status.","Захиалгын статусын холбоосыг салгасан.",module,Magento_Sales
-"Something went wrong while unassigning the order.","Захиалгын холбоосыг салгаж байхад ямар нэг алдаа гарлаа.",module,Magento_Sales
-"Can\'t unhold order.","Захиалгын саатуулалтыг болиулж чадахгүй.",module,Magento_Sales
-"You released the order from holding status.","Та захиалгыг саатуулсан статусаас гаргаж авсан.",module,Magento_Sales
-"The order was not on hold.","Энэ захиалга саатуулалтгүй байсан.",module,Magento_Sales
-"Exception occurred during order load","Захиалгыг ачаалж байхад алдаа гарлаа",module,Magento_Sales
-"Something went wrong while saving the gift message.","Бэлгийн зурвасыг хадгалж байхад алдаа гарлаа.",module,Magento_Sales
-"You saved the gift card message.","Та бэлгийн картын зурвасыг хадгалсан.",module,Magento_Sales
-"The payment has been voided.","Төлбөр хийлт хоослогдсон.",module,Magento_Sales
-"We can\'t void the payment right now.","Төлбөр хийлтийг яг одоо цуцлах боломжгүй.",module,Magento_Sales
-"Please correct the transaction ID and try again.","Гүйлгээний ID-г засаад дахин оролдоно уу.",module,Magento_Sales
-"The transaction details have been updated.","Гүйлгээний дэлгэрэнгүй засагдлаа.",module,Magento_Sales
-"We can\'t update the transaction details.","Гүүлгээний дэлгэрэнгүйг өөрчилөх боломжгүй байна.",module,Magento_Sales
-"Orders and Returns","Захиалга болон Буцаалтууд",module,Magento_Sales
-"You entered incorrect data. Please try again.","Та буруу өгөгдөл оруулсан байна. Дахин оролдоно уу",module,Magento_Sales
-Home,Эхлэл,module,Magento_Sales
-"Go to Home Page","Эхлэл хуудаст очих",module,Magento_Sales
-"We can\'t find this wish list.","Энэ хүсэлтийн жагсаалтыг олж чадахгүй байна.",module,Magento_Sales
-"We could not add a product to cart by the ID ""%1"".","Бүтээгдэхүүнийг ID ""%1"" -р сагс руу нэмж чадахгүй байна .",module,Magento_Sales
-"There is an error in one of the option rows.","Сонголтын мөрүүдийн нэг нь алдаатай байна.",module,Magento_Sales
-"Shipping Address: ","Хүргэлтийн хаяг: ",module,Magento_Sales
-"Billing Address: ","Төлөлтийн хаяг: ",module,Magento_Sales
-"Please specify order items.","Захиалгын артиклуудыг тодорхойлно уу.",module,Magento_Sales
-"Please specify a shipping method.","Хүргэлтийн аргыг тодорхойлно уу.",module,Magento_Sales
-"Please specify a payment method.","Төлбөрийн аргыг тодорхойлно уу.",module,Magento_Sales
-"This payment method is not available.","Энэ төлбөрийн арга боломжгүй байна.",module,Magento_Sales
-"Validation is failed.","Шалгалт амжилтгүй боллоо.",module,Magento_Sales
-"You did not email your customer. Please check your email settings.","Та хэрэглэгч рүүгээ эмэйл явуулаагүй байна. эмэйлийн тохиргоогоо шалгана уу.",module,Magento_Sales
-"Path ""%1"" is not part of allowed directory ""%2""","Зам ""%1"" зөвшөөрөгдсөн хавтас ""%2"" дотор багтаагүй байна ",module,Magento_Sales
-"Identifying Fields required","Шаардлагатай талбаруудыг тогтоох",module,Magento_Sales
-"Id required","Id шаардлагатай",module,Magento_Sales
-"A hold action is not available.","Саатуулах үйлдэл боломжгүй байна.",module,Magento_Sales
-"You cannot remove the hold.","Энэ саатуулалтыг арилгах боломжгүй.",module,Magento_Sales
-"We cannot cancel this order.","Энэ захиалгыг цуцалж чадахгүй.",module,Magento_Sales
-Guest,Зочин,module,Magento_Sales
-"Please enter the first name.","Нэрийг оруулна уу.",module,Magento_Sales
-"Please enter the last name.","Овгийг оруулна уу.",module,Magento_Sales
-"Please enter the street.","Гудамжийг оруулна уу.",module,Magento_Sales
-"Please enter the city.","Хотыг оруулна уу.",module,Magento_Sales
-"Please enter the phone number.","Утасны дугаараа сонгоно уу.",module,Magento_Sales
-"Please enter the zip/postal code.","Шуудангийн индексийг оруулна уу.",module,Magento_Sales
-"Please enter the country.","Улсыг оруулна уу.",module,Magento_Sales
-"Please enter the state/province.","Аймаг дүүргийг сонгоно уу.",module,Magento_Sales
-"Requested entity doesn\'t exist","Шаардсан энтити байхгүй байна",module,Magento_Sales
-"Could not delete order address","Захиалгын хаягийг устгаж болохгүй байна",module,Magento_Sales
-"Could not save order address","Захиалгын хаягийг хадгалж болохгүй байна",module,Magento_Sales
-Pending,Хүлээгдэж байгаа,module,Magento_Sales
-Refunded,Буцаалт хийгдсэн,module,Magento_Sales
-Canceled,Цуцлагдсан,module,Magento_Sales
-"Unknown State","Тодорхойгүй байдал",module,Magento_Sales
-"We found an invalid quantity to refund item ""%1"".","Буцаан олгох артикль ""%1"" хүчингүй тоо олдлоо.",module,Magento_Sales
-"Maximum shipping amount allowed to refund is: %1","Буцаалт хийгдэх хамгийн өндөр хүргэлтийн дүн: %1",module,Magento_Sales
-"Could not delete credit memo","Эрхийн бичгийг устгаж болохгүй байна",module,Magento_Sales
-"Could not save credit memo","Эрхийн бичгийг хадгалж болохгүй байна",module,Magento_Sales
-"This order already has associated customer account","Энэ захиалга хэрэглэгчийн данстай аль хэдийн холбогдсон байна",module,Magento_Sales
-Paid,Төлсөн,module,Magento_Sales
-"We cannot register an existing invoice","Байгаа нэхэмжлэлийг бүртгэж чадахгүй байна",module,Magento_Sales
-"ID required","ID шаардлагатай",module,Magento_Sales
-"Unknown Status","Тодорхойгүй статус",module,Magento_Sales
-Ordered,Захиалагдсан,module,Magento_Sales
-Shipped,Хүргэгдсэн,module,Magento_Sales
-Invoiced,Нэхэмжлэгдсэн,module,Magento_Sales
-Backordered,Дахин захиалагдсан,module,Magento_Sales
-Returned,Буцаагдсан,module,Magento_Sales
-Partial,Хэсэг,module,Magento_Sales
-Mixed,Хольсон,module,Magento_Sales
-"Registered a Void notification.","Хоослолтын сонордуулга бүртгэгдлээ.",module,Magento_Sales
-"If the invoice was created offline, try creating an offline credit memo.","Хэрвээ нэхэмжлэл офлайн үүсгэгдсэн бол офлайн эрхийн бичиг үүсгэнэ үү.",module,Magento_Sales
-"We refunded %1 online.","Онлайнаар %1 буцаан олгосон.",module,Magento_Sales
-"We refunded %1 offline.","Офлайнаар %1 буцаан олгосон.",module,Magento_Sales
-"IPN ""Refunded"". Refund issued by merchant. Registered notification about refunded amount of %1. Transaction ID: ""%2"". Credit Memo has not been created. Please create offline Credit Memo.","IPN ""буцаан олгогдсон"". Буцаан олголт худалдаачинаар хийгдсэн. Буцаагдсан дүн %1 талаар сонордуулга хйигдсэн. Гүйлгээний ID: ""%2"". Эрхийн бичиг үүсгэгдээгүй байна. Одоо офлайн эрхийн бичиг үүсгэнэ үү.",module,Magento_Sales
-"The credit memo has been created automatically.","Эрхийн бичиг автоматаар үүсгэгдсэн байна.",module,Magento_Sales
-"Registered notification about refunded amount of %1.","Буцаагдсан дүн %1 талаар сонордуулга хйигдсэн.",module,Magento_Sales
-"Canceled order online","Захиалга онлайн цуцлагдсан",module,Magento_Sales
-"Canceled order offline","Захиалга офлайн цуцлагдсан",module,Magento_Sales
-"Approved the payment online.","Төлбөр онлайн зөвшөөрөгдсөн.",module,Magento_Sales
-"There is no need to approve this payment.","Энэ төлбөрийг зөвшөөрөх шаардлагагүй.",module,Magento_Sales
-"Denied the payment online","Төлбөр онлайн татгалзагдсан",module,Magento_Sales
-"Registered update about approved payment.","Төлбөрийн зөвшөөрлийн талаар өөрчилөлт бүртгэгдлээ.",module,Magento_Sales
-"Registered update about denied payment.","Төлбөр татгалзагдсан талаар өөрчилөлт бүртгэгдлээ.",module,Magento_Sales
-"There is no update for the payment.","Төлбөрийн талаар өөрчилөлт байхгүй байна.",module,Magento_Sales
-"Voided authorization.","Хоослогдсон эрх олголт.",module,Magento_Sales
-"Amount: %1.","Дүн: %1.",module,Magento_Sales
-"Transaction ID: ""%1""","Гүйлгээ ID: ""%1""",module,Magento_Sales
-"The payment method you requested is not available.","Таны шаардсан төлбөрийн арга боломжгүй байна.",module,Magento_Sales
-"The payment disallows storing objects.","Төлбөр объект хадгалахыг зөвшөөрөхгүй байна.",module,Magento_Sales
-"The transaction ""%1"" cannot be captured yet.","Гүйлгээ ""%1"" бичигдэж чадахгүй байна.",module,Magento_Sales
-"We will authorize %1 after the payment is approved at the payment gateway.","Төлбөрийн гарц дээр төлбөр зөвшөөрөгдсөний дараа %1 бүрэн эрхийг өгөх болно.",module,Magento_Sales
-"Order is suspended as its authorizing amount %1 is suspected to be fraudulent.","Захиалгын дүн %1 бүрэн эрх өгөх үед залилан байж болзошгүй тул захиалга түр зогсоогдсон байна.",module,Magento_Sales
-"Authorized amount of %1","Эрх олгогдсон дүн %1",module,Magento_Sales
-"An amount of %1 will be captured after being approved at the payment gateway.","Дүн %1 төлбөрийн гарцын зөвшөөрөл ирсэний дараа бичигдэх болно.",module,Magento_Sales
-"Captured amount of %1 online",Онлайн бичигдсэн дүн %1",module,Magento_Sales
-"The order amount of %1 is pending approval on the payment gateway.","Захиалгын дүн %1 төлбөрийн гарц дээр зөвшөөрөгдөхийг хүлээж байна.",module,Magento_Sales
-"Ordered amount of %1","Ordered amount of %1",module,Magento_Sales
-"Registered notification about captured amount of %1.","Бичигдсэн дүн %1 талаар сонордуулга бүртгэгдлээ.",module,Magento_Sales
-"Order is suspended as its capture amount %1 is suspected to be fraudulent.","Бичилтийн дүн %1 залилан байж болзошгүй гэж сэжиглэгдэн захиалга зогсоогдсон байна.",module,Magento_Sales
-"The parent transaction ID must have a transaction ID.","Эх гүйлгээний ID ямар нэг гүйлгээний ID-тай байх ёстой.",module,Magento_Sales
-"Payment transactions disallow storing objects.","Төлбөрийн гүйлгээнүүд объект хадгалахыг зөвшөөрөхгүй байна.",module,Magento_Sales
-"The transaction ""%1"" (%2) is already closed.","Гүйлгээ ""%1"" (%2) аль хэдийн хаагдсан байна.",module,Magento_Sales
-"Set order for existing transactions not allowed","Байгаа гүйлгээнүүдэд зориулж захиалга үүсгэхийг зөвшөөрөхгүй",module,Magento_Sales
-"At minimum, you need to set a payment ID.","Хамгийн багадаа төлбөр төлөлтийн ID өгөх хэрэгтэй.",module,Magento_Sales
-Order,Захиалга,module,Magento_Sales
-Authorization,"Эрх олголт",module,Magento_Sales
-"We found an unsupported transaction type ""%1"".","Дэмжихгүй гүйлгээний төрөл ""%1"" олдлоо.",module,Magento_Sales
-"Please set a proper payment and order id.","Төлбөрийн болон захиалгын зохилтой дугаар өгнө үү.",module,Magento_Sales
-"Please enter a Transaction ID.","Гүйлгээний ID оруулна уу.",module,Magento_Sales
-"You can\'t do this without a transaction object.","Гүйлгээний объектгүйгээр үүнийг хийж чадахгүй.",module,Magento_Sales
-"Order # ","Захиалга # ",module,Magento_Sales
-"Order Date: ","Захиалгын өдөр: ",module,Magento_Sales
-"Sold to:","Зарагдсан:",module,Magento_Sales
-"Ship to:","Хүргэгдсэн:",module,Magento_Sales
-"Payment Method:","Төлбөрийн арга:",module,Magento_Sales
-"Shipping Method:","Хүргэлтийн арга:",module,Magento_Sales
-"Total Shipping Charges","Хүргэлтийн нийт төлбөр",module,Magento_Sales
-Title,Гарчиг,module,Magento_Sales
-Number,Дугаар,module,Magento_Sales
-"We found an invalid renderer model.","Хүчингүй дамжуулах модель олдлоо.",module,Magento_Sales
-"Please define the PDF object before using.","Хэрэглэхийн өмнө PDF объект үүсгэнэ үү.",module,Magento_Sales
-"We don\'t recognize the draw line data. Please define the ""lines"" array.","""draw line"" өгөгдлийг танихгүй байна. ""lines"" массивийг зарлана уу.",module,Magento_Sales
-Products,Бүтээгдэхүүнүүд,module,Magento_Sales
-"Total (ex)","Нийт дүн (ороогүй)",module,Magento_Sales
-Qty,Тоо,module,Magento_Sales
-Tax,НӨТ,module,Magento_Sales
-"Total (inc)","Нийт дүн (орсон)",module,Magento_Sales
-"Credit Memo # ","Эрхийн бичиг # ",module,Magento_Sales
-"Invoice # ","Нэхэмжлэл # ",module,Magento_Sales
-"The order object is not specified.","Захиалгын объект тогтоогдоогүй.",module,Magento_Sales
-"The source object is not specified.","Эх объект тогтоогдоогүй.",module,Magento_Sales
-"An item object is not specified.","Артиклийн объект тогтоогдоогүй.",module,Magento_Sales
-"A PDF object is not specified.","PDF объект тогтоогдоогүй.",module,Magento_Sales
-"A PDF page object is not specified.","PDF хуудас объект тогтоогдоогүй.",module,Magento_Sales
-"Excl. Tax","НӨТ ороогүй",module,Magento_Sales
-"Incl. Tax","НӨТ орсон",module,Magento_Sales
-"Packing Slip # ","Пакетны хуудас # ",module,Magento_Sales
-title,гарчиг,module,Magento_Sales
-"The PDF total model %1 must be or extend \Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.","PDF дүнгийн модель %1 \Magento\Sales\Model\Order\Pdf\Total\DefaultTotal -аас уламжилсан байх ёстой.",module,Magento_Sales
-"We cannot register an existing shipment","Байгаа хүргэлтийг бүртгэж чадахгүй байна",module,Magento_Sales
-"We found an invalid quantity to ship for item ""%1"".","Артикль ""%1"" хүргэлт хийхэд хүчингүй тоо ширхэг оллоо.",module,Magento_Sales
-"Please enter a tracking number.","Мөрдөх дугаар оруулна уу.",module,Magento_Sales
-"Could not delete shipment","Хүргэлтийг устгаж болохгүй байна",module,Magento_Sales
-"Could not save shipment","Хүргэлтийг хадгалж болохгүй байна",module,Magento_Sales
-"The last status can\'t be unassigned from its current state.","Сүүлчийн статус одоогийн байдлаас нь салгаж чадахгүй.",module,Magento_Sales
-"Status can\'t be unassigned, because it is used by existing order(s).","Захиалгад хэрэглэгдэж байгаа болохоор статусыг салгаж болохгүй.",module,Magento_Sales
-"The total model should be extended from \Magento\Sales\Model\Order\Total\AbstractTotal.","Total model \Magento\Sales\Model\Order\Total\AbstractTotal моделоос уламжилсан байх хэрэгтэй.",module,Magento_Sales
-"We cannot determine the field name.","Талбарын нэрийг тогтоож чадахгүй байна.",module,Magento_Sales
-City,Хот,module,Magento_Sales
-Company,Компани,module,Magento_Sales
-Country,Улс,module,Magento_Sales
-Email,Эмэйл,module,Magento_Sales
-"First Name","Нэр",module,Magento_Sales
-"Last Name","Овог",module,Magento_Sales
-State/Province,Аймаг/Дүүрэг,module,Magento_Sales
-"Street Address","Гудамж",module,Magento_Sales
-"Phone Number","Утасны дугаар",module,Magento_Sales
-"Zip/Postal Code","Шуудангийн индекс код",module,Magento_Sales
-"We can't save the address:\n%1","Хаягийг хадгалж чадахгүй байна:\n%1",module,Magento_Sales
-"Cannot save comment:\n%1","Тайлбарыг хадгалж чадахгүй байна:\n%1",module,Magento_Sales
-"We don\'t have enough information to save the parent transaction ID.","Эх гүйлгээний ID хадгалах хангалттай мэдээлэл байхгүй байна.",module,Magento_Sales
-"We cannot create an empty shipment.","We cannot create an empty shipment.",module,Magento_Sales
-"Cannot save track:\n%1","Мөрийг хадгалж чахахгүй байна:\n%1",module,Magento_Sales
-"Cannot unassign status from state","Статусыг байдлаас салгаж чадахгүй байна",module,Magento_Sales
-"New Orders","Шинэ захиалгууд",module,Magento_Sales
-"Order #%1 created at %2","Захиалга #%1 %2 үүсгэгдсэн",module,Magento_Sales
-"Details for %1 #%2","Дэлгэрэнгүй %1 #%2",module,Magento_Sales
-"Notified Date: %1","Сонордуулсан огноо: %1",module,Magento_Sales
-"Comment: %1<br/>","Тайлбар: %1<br/>",module,Magento_Sales
-"Current Status: %1<br/>","Одоогийн статус: %1<br/>",module,Magento_Sales
-"Total: %1<br/>","Нийт дүн: %1<br/>",module,Magento_Sales
-"Order # %1 Notification(s)","Захиалга # %1 сонордуулга(ууд)",module,Magento_Sales
-"You can not cancel Credit Memo","Эрхийн бичгийг цуцалж чадахгүй",module,Magento_Sales
-"Could not cancel creditmemo","Эрхийн бичгийг цуцалсангүй",module,Magento_Sales
-"We cannot register an existing credit memo.","Байгаа эрхийн бичгийг бүртгэж чадсангүй.",module,Magento_Sales
-"The most money available to refund is %1.","Буцаан олголтонд хамгийн ихдээ %1 боломжтой.",module,Magento_Sales
-"We found an invalid quantity to invoice item ""%1"".","Нэхэмжлэлийн артикльд хүчингүй тоо ширхэг олдлоо ""%1"".",module,Magento_Sales
-"The Order State ""%1"" must not be set manually.","Захиалгын байдал ""%1"" гараар тогтоогдох ёсгүй.",module,Magento_Sales
-"VAT Request Identifier","НӨТ шаардлага тодорхойлогч",module,Magento_Sales
-"VAT Request Date","НӨТ шаардлагын огноо",module,Magento_Sales
-"Pending Payment","Хүлээгдэж буй Төлөлт",module,Magento_Sales
-Processing,Боловсруулж байна,module,Magento_Sales
-"On Hold","Саатуулагдсан",module,Magento_Sales
-Complete,Дууссан,module,Magento_Sales
-Closed,Хаагдсан,module,Magento_Sales
-"Suspected Fraud","Залилан сэжиглэгдсэн",module,Magento_Sales
-"Payment Review","Төлөлтийн хяналт",module,Magento_Sales
-New,Шинэ,module,Magento_Sales
-"test message","тест зурвас",module,Magento_Sales
-"Email has not been sent","Эмэйл илгээгдсэнгүй",module,Magento_Sales
-" Transaction ID: ""%1"""," Гүйлгээний ID: ""%1""",module,Magento_Sales
-View,Харагдац,module,Magento_Sales
-"Group was removed","Груп хасагдсан",module,Magento_Sales
-"Changing address information will not recalculate shipping, tax or other order amount.","Хаягийн мэдээллийн өөрчилөлт нь НӨТ, хүргэлт болон захиалгын бусад дүнг дахин тооцолоход хүргэхгүй.",module,Magento_Sales
-"Comment Text","Тайлбарын текст",module,Magento_Sales
-"Notify Customer by Email","Хэрэглэгчийг эмэйлээр мэдэгдэх",module,Magento_Sales
-"Visible on Storefront","Дэлгүүрийн нүүрэнд харагдуулах",module,Magento_Sales
-Customer,Хэрэглэгч,module,Magento_Sales
-Notified,Мэдэгдсэн,module,Magento_Sales
-"Not Notified","Мэдэгдээгүй",module,Magento_Sales
-"No Payment Methods","Төлбөрийн арга байхгүй",module,Magento_Sales
-"Order Comments","Захиалгын тайлбарууд",module,Magento_Sales
-"Apply Coupon Code","Купон код хэрэглэх",module,Magento_Sales
-Apply,Хэрэглэх,module,Magento_Sales
-"Remove Coupon Code","Купон код арилгах",module,Magento_Sales
-Remove,Арилгах,module,Magento_Sales
-"Address Information","Хаягийн мэдээлэл",module,Magento_Sales
-"Payment &amp; Shipping Information","Төлөлт &amp; Хүргэлтийн мэдээлэл",module,Magento_Sales
-"Order Total","Захиалгын нийт дүн",module,Magento_Sales
-"Order Currency:","Захиалгын мөнгөн тэмдэгт:",module,Magento_Sales
-"Same As Billing Address","Тооцооны хаягтай адилхан",module,Magento_Sales
-"Select from existing customer addresses:","Хэрэглэгчийн байгаа хаягуудаас сонгоно уу:",module,Magento_Sales
-"Add New Address","Шинэ хаяг нэмэх",module,Magento_Sales
-"Save in address book","Хаягын номонд хадгалах",module,Magento_Sales
-"You don\'t need to select a shipping address.","Та хүргэлтийн хаяг сонгох хэрэггүй.",module,Magento_Sales
-"Gift Message for the Entire Order","Бүтэн захиалгад зориулсан бэлгийн зурвас",module,Magento_Sales
-"Leave this box blank if you don\'t want to leave a gift message for the entire order.","Бүтэх захиалгадаа бэлгийн зурвас үлдээхийг хүсэхгүй байвал энэ нүдийг хоосон орхино уу.",module,Magento_Sales
-"Row Subtotal","Мөрийн дүн",module,Magento_Sales
-Action,Үйлдэл,module,Magento_Sales
-"No ordered items","Захиалагдсан артикльгүй",module,Magento_Sales
-"Update Items and Quantities","Артикль болон тоо ширхэгийг өөрчилөх",module,Magento_Sales
-"Total %1 product(s)","Нийт %1 бүтээгдэхүүн(үүд)",module,Magento_Sales
-Subtotal:,Завсрын дүн:,module,Magento_Sales
-"Tier Pricing","Үнийн үечлэл",module,Magento_Sales
-"Custom Price","Хэрэглэгчийн үнэ",module,Magento_Sales
-"Please select","Сонгоно уу",module,Magento_Sales
-"Move to Shopping Cart","Сагс руу зөөх",module,Magento_Sales
-"Move to Wish List","Хүсэлтийн жагсаалт руу зөөх",module,Magento_Sales
-"Subscribe to Newsletter","Зар мэдээг захиалах",module,Magento_Sales
-"Click to change shipping method","Хүргэлтийн аргыг өөрчлөхийн тулд дарна уу",module,Magento_Sales
-"Sorry, no quotes are available for this order.","Уучлаарай, энэ захиалгад зориулсан квот байхгүй байна.",module,Magento_Sales
-"Get shipping methods and rates","Хүргэлтийн арга болон үнийг авах",module,Magento_Sales
-"You don\'t need to select a shipping method.","Та хүргэлтийн аргыг сонгох хэрэггүй.",module,Magento_Sales
-"Customer\'s Activities","Хэрэглэгчийн идэвхүүд",module,Magento_Sales
-Refresh,Шинэчлэх,module,Magento_Sales
-Item,Артикль,module,Magento_Sales
-"Add To Order","Захиалга руу нэмэх",module,Magento_Sales
-"Configure and Add to Order","Тохируулах болон захиалга руу нэмэх",module,Magento_Sales
-"No items","Артикль байхгүй",module,Magento_Sales
-"Append Comments","Тайлбар нэмэгдсэн",module,Magento_Sales
-"Email Order Confirmation","Эмэйл захиалга баталгаажуулалт",module,Magento_Sales
-"Grand Total Excl. Tax","Эцсийн нийлбэр дүн НӨТ ороогүй",module,Magento_Sales
-"Grand Total Incl. Tax","Эцсийн нийлбэр дүн НӨТ орсон",module,Magento_Sales
-"Subtotal (Excl. Tax)","Завсрын дүн (НӨТ ороогүй)",module,Magento_Sales
-"Subtotal (Incl. Tax)","Завсрын дүн (НӨТ орсон)",module,Magento_Sales
-"Payment &amp; Shipping Method","Төлөлт &amp; Хүргэлтийн арга",module,Magento_Sales
-"Payment Information","Төлбөрийн мэдээлэл",module,Magento_Sales
-"The order was placed using %1.","Захиалгийг хийхэд %1 хэрэглэгдсэн.",module,Magento_Sales
-"Shipping Information","Хүргэлтийн мэдээлэл",module,Magento_Sales
-"Items to Refund","Буцаалт хийгдэх артиклууд",module,Magento_Sales
-"Return to Stock","Агуулга руу буцаах",module,Magento_Sales
-"Qty to Refund","Буцаалт хийгдэх тоо",module,Magento_Sales
-"Tax Amount","НӨТ дүн",module,Magento_Sales
-"Discount Amount","Хямдралын дүн",module,Magento_Sales
-"Row Total","Мөрийн дүн",module,Magento_Sales
-"No Items To Refund","Буцаалт хийхэд артикль алга",module,Magento_Sales
-"Credit Memo Comments","Эрхийн бичгийн тайлбарууд",module,Magento_Sales
-"Refund Totals","Буцаалтын дүн",module,Magento_Sales
-"Email Copy of Credit Memo","Эрхийн бичгийн эмэйлийн хуулбар",module,Magento_Sales
-"Please enter a positive number in this field.","Энэ талбарт эерэг утга оруулна уу .",module,Magento_Sales
-"Items Refunded","Буцаагдсан артиклууд",module,Magento_Sales
-"No Items","Артикль байхгүй",module,Magento_Sales
-"Memo Total","Эрхийн бичгийн дүн",module,Magento_Sales
-"Credit Memo History","Эрхийн бичгийн түүх",module,Magento_Sales
-"Credit Memo Totals","Эрхийн бичгийн дүнгүүд",module,Magento_Sales
-"Customer Name: %1","Хэрэглэгчийн нэр: %1",module,Magento_Sales
-"Purchased From: %1","Хаанаас худалдан авсан: %1",module,Magento_Sales
-"Gift Message","Бэлгийн зурвас",module,Magento_Sales
-From:,Хаанаас:,module,Magento_Sales
-To:,Хаашаа:,module,Magento_Sales
-Message:,Зурвас:,module,Magento_Sales
-"Shipping &amp; Handling","Хүргэлт &amp; Зохицуулалт",module,Magento_Sales
-"Gift Options","Бэлгийн сонголтууд",module,Magento_Sales
-"Create Shipment","Хүргэлт үүсгэх",module,Magento_Sales
-"Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Нэхэмжлэл болон хүргэлтийн төрлүүд захиалгын зарим артиклуудад тохирохгүй байна. Зөвхөн нэхэмжлэл үүсгэснийхээ дараа хүргэлт үүсгэнэ үү.",module,Magento_Sales
-%1,%1,module,Magento_Sales
-"Qty to Invoice","Нэхэмжлэл дэхь тоо",module,Magento_Sales
-"Invoice History","Нэхэмжлэлийн түүх",module,Magento_Sales
-"Invoice Comments","Нэхэмжлэлийн тайлбарууд",module,Magento_Sales
-"Invoice Totals","Нэхэмжлэлийн дүнгүүд",module,Magento_Sales
-Amount,Дүн,module,Magento_Sales
-"Capture Online","Онлайн бичих",module,Magento_Sales
-"Capture Offline","Офлайн бичих",module,Magento_Sales
-"Not Capture","Бичихгүй",module,Magento_Sales
-"The invoice will be created offline without the payment gateway.","Нэхэмжлэл төлбөрийн гарцгүйгээр офлайн үүсгэгдэнэ.",module,Magento_Sales
-"Email Copy of Invoice","Нэхэмжлэлийн эмэйлийн хуулбар",module,Magento_Sales
-"Items Invoiced","Нэхэмжлэгдсэн артиклууд",module,Magento_Sales
-"Total Tax","Нийт НӨТ",module,Magento_Sales
-"From Name","Нэр хаанаас",module,Magento_Sales
-"To Name","Нэр хаашаа",module,Magento_Sales
-Status,Статус,module,Magento_Sales
-Comment,Тайлбар,module,Magento_Sales
-"Notification Not Applicable","Сонордуулга хэрэглэж болохгүй",module,Magento_Sales
-"Order & Account Information","Захиалга болон дансны мэдээлэл",module,Magento_Sales
-"The order confirmation email was sent","Захиалгын батламж эмэйл илгээгдсэн",module,Magento_Sales
-"The order confirmation email is not sent","Захиалгын батламж эмэйл илгээгдсэнгүй",module,Magento_Sales
-"Order Date","Захиалгын огноо",module,Magento_Sales
-"Order Date (%1)","Захилагын огноо (%1)",module,Magento_Sales
-"Purchased From","Хаанаас худалдан авсан",module,Magento_Sales
-"Link to the New Order","Шинэ захиалга руу холбох",module,Magento_Sales
-"Link to the Previous Order","Өмнөх захиалга руу холбох",module,Magento_Sales
-"Placed from IP","Ямар IP-аас хийгдсэн",module,Magento_Sales
-"%1 / %2 rate:","%1 / %2 үнэлгээ:",module,Magento_Sales
-"Customer Name","Хэрэглэгчийн нэр",module,Magento_Sales
-"Customer Group","Хэрэглэгчийн груп",module,Magento_Sales
-"Item Status","Артикль статус",module,Magento_Sales
-"Original Price","Жинхэнэ үнэ",module,Magento_Sales
-"Tax Percent","НӨТ хувь",module,Magento_Sales
-"Notes for this Order","Захиалгын тэмэглэлүүд",module,Magento_Sales
-"Comment added","Тайлбар нэмэгдсэн",module,Magento_Sales
-"Transaction Data","Гүйлгээний огноо",module,Magento_Sales
-"Transaction ID","Гүйлгээний ID",module,Magento_Sales
-"Parent Transaction ID","Эх гүйлгээний ID",module,Magento_Sales
-"Order ID","Захиалгын ID",module,Magento_Sales
-"Transaction Type","Гүйлгээний төрөл",module,Magento_Sales
-"Is Closed","Хаагдсан",module,Magento_Sales
-"Created At","Хэзээ үүсгэгдсэн",module,Magento_Sales
-"Child Transactions","Доорхи гүйлгээ",module,Magento_Sales
-"Transaction Details","Гүйлгээний дэлгэрэнгүй",module,Magento_Sales
-Items,Артиклууд,module,Magento_Sales
-"Gift Message for this Order","Захиалгын бэлгийн зурвасууд",module,Magento_Sales
-"Shipped By","Хүргэгдсэн аар",module,Magento_Sales
-"Tracking Number","Мөрдөх дугаар",module,Magento_Sales
-"Billing Last Name","Тооцоон дээрхи овог",module,Magento_Sales
-"Find Order By","Захиалгыг олох аар",module,Magento_Sales
-"ZIP Code","Шуудангын индекс",module,Magento_Sales
-"Billing ZIP Code","Тооцоон дээрхи шуудангын индекс",module,Magento_Sales
-Continue,Үргэлжлүүлэх,module,Magento_Sales
-"Print All Refunds","Бүх буцаан олголтыг хэвлэх",module,Magento_Sales
-"Refund #","Буцаан олголт #",module,Magento_Sales
-"Print Refund","Буцаан олголт хэвлэх",module,Magento_Sales
-"Product Name","Бүтээгдэхүүний нэр",module,Magento_Sales
-"Order #","Захиалга #",module,Magento_Sales
-Date,Огноо,module,Magento_Sales
-"Ship To","Хааш нь хүргэх",module,Magento_Sales
-Actions,Үйлдлүүд,module,Magento_Sales
-"View Order","Захиалга харах",module,Magento_Sales
-"You have placed no orders.","Та одоогоор захиалга хийгээгүй байна.",module,Magento_Sales
-"No shipping information available","Хүртгэлийн мэдээлэл боломжгүй байна",module,Magento_Sales
-"Print Order","Захиалга хэвлэх",module,Magento_Sales
-"Print All Invoices","Бүх нэхэмжлэлийг хэвлэх",module,Magento_Sales
-"Invoice #","Нэхэмжлэл #",module,Magento_Sales
-"Print Invoice","Нэхэмжлэл хэвлэх",module,Magento_Sales
-"Qty Invoiced","Нэхэмжлэгдсэн тоо",module,Magento_Sales
-Close,Хаах,module,Magento_Sales
-"About Your Order","Таны захиалгын тухай",module,Magento_Sales
-"<span class=""label"">Order Date:</span> %1","<span class=""label"">Захиалгын огноо:</span> %1",module,Magento_Sales
-"Refund #%1","Буцаан олголт #%1",module,Magento_Sales
-"Shipment #%1","Хүргэлт #%1",module,Magento_Sales
-"Qty Shipped","Хүргэгдсэн тоо",module,Magento_Sales
-"Recent Orders","Хийгдсэн захиалгууд",module,Magento_Sales
-"View All","Бүгдийг харах",module,Magento_Sales
-"Gift Message for This Order","Энэ захиалгад зориулсан бэлгийн зурвас",module,Magento_Sales
-"Add to Cart","Сагсанд хийх",module,Magento_Sales
-Search,Хайх,module,Magento_Sales
-"%name,","%name,",module,Magento_Sales
-"Thank you for your order from %store_name.","%store_name дэлгүүрээс захиалга хийсэнд баярлалаа.",module,Magento_Sales
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Та захиалгынхаа статусыг эндээс шалгах боломжтой <a href=""%account_url"">өөрийн дансанд нэвтрэх</a>.",module,Magento_Sales
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Хэрэв таньд өөрийн захиалгынхаа талаар асуулт байвал <a href=""mailto:%store_email"">%store_email</a> эмэйл рүү бичээрэй",module,Magento_Sales
-"or call us at <a href=""tel:%store_phone"">%store_phone</a>","эсвэл <a href=""tel:%store_phone"">%store_phone</a> утсаар залгаж болно",module,Magento_Sales
-"Our hours are <span class=""no-link"">%store_hours</span>.","Бидний онгойх цаг <span class=""no-link"">%store_hours</span>.",module,Magento_Sales
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Захиалга #%order_id-д зориулсан таны эрхийн бичиг #%creditmemo_id ",module,Magento_Sales
-"Billing Info","Тооцооны мэдээлэл",module,Magento_Sales
-"Shipping Info","Хүргэлтийн мэдээлэл",module,Magento_Sales
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Таны захиалга #%increment_id <strong>%order_status</strong> статустай болж өөрчлөгдсөн байна.",module,Magento_Sales
-"Your Invoice #%invoice_id for Order #%order_id","#%order_id захиалгын эрхийн бичиг #%invoice_id",module,Magento_Sales
-"%customer_name,","%customer_name,",module,Magento_Sales
-"Once your package ships we will send you a tracking number.","Таны илгээмж илгээгдсэн тохиолдолд бид таньд мөрдөлтийн дугаар явуулна.",module,Magento_Sales
-"Your Order <span class=""no-link"">#%increment_id</span>","Таны захиалга <span class=""no-link"">#%increment_id</span>",module,Magento_Sales
-"Placed on <span class=""no-link"">%created_at</span>","Хийгдсэн <span class=""no-link"">%created_at</span>",module,Magento_Sales
-"Once your package ships we will send an email with a link to track your order.","Таны илгээмж илгээгдэхэд бид таньд захиалгаа мөрдөх холбоос бүхий эмэйлийг явуулах болно.",module,Magento_Sales
-"Your shipping confirmation is below. Thank you again for your business.","Таны хүргэлтийн баталгаажуулалт доор байна. Худалдаа хийсэн таньд дахин баярлалаа.",module,Magento_Sales
-"Your Shipment #%shipment_id for Order #%order_id","Захиалга #%order_id-д зориулсан хүргэлт #%shipment_id ",module,Magento_Sales
-"Gift Options for ","Бэлэгний сонголтууд ",module,Magento_Sales
-"Add Products","Бүтээгдэхүүн нэмэх",module,Magento_Sales
-"You have item changes","Та артикль өөрчилсөн",module,Magento_Sales
-Ok,Ok,module,Magento_Sales
-General,Ерөнхий,module,Magento_Sales
-"Hide Customer IP","Хэрэглэгчийн IP нуух",module,Magento_Sales
-"Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Хэрэглэгчийн IP захиалга, нэхэмжлэл, хүргэлт болон эрхийн бичиг дээр харагдахыг сонгох.",module,Magento_Sales
-"Checkout Totals Sort Order","Захиалгын дүнгийн эрэмбэлэлт",module,Magento_Sales
-"Allow Reorder","Дахиж захиалахыг зөвшөөрөх",module,Magento_Sales
-"Invoice and Packing Slip Design","Нэхэмжлэлийн болон хүргэлтийн маягтын дизайн",module,Magento_Sales
-"Logo for PDF Print-outs (200x50)","PDF гаралтад зориулсан лого (200x50)",module,Magento_Sales
+"Credit Memos","Эрхийн бичиг"
+Orders,Захиалга
+Invoices,Нэхэмжлэлүүд
+"We can\'t get the order instance right now.","Захиалгын хүсэлтийг яг одоо авч болохгүй байна."
+"Create New Order","Шинэ захиалга үүсгэх"
+"Save Order Address","Захиалгын хаяг хадгалах"
+Shipping,Хүргэлт
+Billing,Төлбөр
+"Edit Order %1 %2 Address","Захиалга %1 %2 хаяг өөрчилөх"
+"Order Address Information","Захиалгын хаягийн мэдээлэл"
+"Please correct the parent block for this block.","Энэ блокт зориулж эцэг блокыг өөрчилнө үү."
+"Submit Comment","Тайлбар оруулах"
+"Submit Order","Захиалга хийх"
+"Are you sure you want to cancel this order?","Энэ захиалгыг цуцалж байгаадаа та итгэлтэй байна уу?"
+Cancel,Болих
+"Billing Address","Төлбөрийн хаяг"
+"Payment Method","Төлбөрийн арга"
+"Order Comment","Захиалгын тайлбар"
+Coupons,Купон
+"Please select a customer","Хэрэглэгчийг сонгоно уу"
+"Create New Customer","Шинэ хэрэглэгч үүсгэх"
+"Account Information","Дансны мэдээлэл"
+From,-Аас4
+To,Хүртэл
+Message,Зурвас
+"Edit Order #%1","Захиалга #%1 өөрчилөх"
+"Create New Order for %1 in %2","%1 зориулж  %2 дээр шинэ захиалга үүсгэх"
+"Create New Order for New Customer in %1","Шинэ хэрэглэгчид зориулж шинэ захиалгыг %1 дээр үүсгэх"
+"Create New Order for %1","%1 зориулж шинэ захиалга үүсгэх"
+"Create New Order for New Customer","Шинэ хэрэглэгчид зориулж шинэ захиалга үүсгэх"
+"Items Ordered","Захиалагдсан артиклууд"
+"This product is disabled.","Энэ бүтээгдэхүүн идэвхижүүлэгдээгүй байна."
+"Buy %1 for price %2","%1-г %2 үнээр худалдан авах"
+"Item ordered qty","Артиклийн захиалагдсан тоо"
+"%1 with %2 discount each","%1-г %2 хямдрал тус бүрд нь"
+"%1 for %2","%1-г %2-оор"
+"* - Enter custom price including tax","* - Татвар шингэсэн үнийг оруул"
+"* - Enter custom price excluding tax","* - Татвар шингээгүй үнийг оруул"
+Configure,Тохируулга
+"This product does not have any configurable options","Энэ бүтээгдэхүүн тохируулагдах сонголтгүй байна"
+"Newsletter Subscription","Захидал мэдээ захиалах"
+"Please select products","Бүтээгдэхүүн сонгоно уу"
+"Add Selected Product(s) to Order","Сонгосон бүтээгдэхүүнүүдийг захиалга руу нэмэх"
+ID,ID
+Product,Бүтээгдэхүүн
+SKU,Барааны Код
+Price,Үнэ
+Select,Сонголт
+Quantity,Тоо
+"Shipping Address","Хүргэлтийн хаяг"
+"Shipping Method","Хүргэлт хийх арга"
+"Update Changes","Өөрчилөлтүүдийг хадгалах"
+"Shopping Cart","Сагс"
+"Are you sure you want to delete all items from shopping cart?","Сагсан доторх бүх барааг устгана гэдэгтээ итгэлтэй байна уу?"
+"Clear Shopping Cart","Сагсыг хоослох"
+"Products in Comparison List","Харьцуулах жагсаалт дотор байгаа бүтээгдэхүүнүүд"
+"Recently Compared Products","Саяхан харьцуулагдсан бүтээгдэхүүнүүд"
+"Recently Viewed Products","Саяхан харсан бүтээгдэхүүнүүд"
+"Last Ordered Items","Сүүлд захиалагдсан артиклууд"
+"Recently Viewed","Саяхан харагдсан"
+"Wish List","Хүсэлтийн жагсаалт"
+"Please select a store","Дэлгүүр сонгоно уу"
+"Order Totals","Захиалгын нийт дүн"
+"Shipping Incl. Tax (%1)","Хүргэлт (%1) НӨТ орсон"
+"Shipping Excl. Tax (%1)","Хүргэлт (%1) НӨТ ороогүй"
+"New Credit Memo for Invoice #%1","Нэхэмжлэл #%1 зориулж эрхийн бичиг үүсгэх"
+"New Credit Memo for Order #%1","Захиалга #%1 зориулж эрхийн бичиг үүсгэх"
+"Refund Shipping (Incl. Tax)","Хүргэлт буцаан олголт (НӨТ орсон)"
+"Refund Shipping (Excl. Tax)","Хүргэлт буцаан олголт (НӨТ ороогүй)"
+"Refund Shipping","Хүргэлт буцаан олголт"
+"Update Qty\'s","Тоо ширхэг шинэчилэх"
+Refund,Буцаан олголт
+"Refund Offline","Офлайн буцаан олголт"
+"Paid Amount","Төлсөн дүн"
+"Refund Amount","Буцаан олголтын дүн"
+"Shipping Amount","Хүргэлтийн дүн"
+"Shipping Refund","Хүргэлт буцаан олголт"
+"Order Grand Total","Захиалгын нийт дүн"
+"Adjustment Refund","Өөрчилөгдсөн буцаан олголт"
+"Adjustment Fee","Өөрчилөлөгдсөн төлбөр"
+"Send Email","эмэйл явуулах"
+"Are you sure you want to send a credit memo email to customer?","Хэрэглэгч рүү эрхийн бичгийн талаар эмэйл явуулахдаа итгэлтэй байна уу?"
+Void,Хоослолт
+Print,Хэвлэх
+"The credit memo email was sent.","Эрхийн бичгийн эмэйл явуулагдсан."
+"The credit memo email wasn\'t sent.","Эрхийн бичгийн талаарх эмэйл явуулагдаагүй."
+"Credit Memo #%1 | %3 | %2 (%4)","Эрхийн бичиг #%1 | %3 | %2 (%4)"
+"Total Refund","Нийт буцаан олголт"
+"New Invoice and Shipment for Order #%1"," Захиалга #%1 зориулж шинэ нэхэмжлэл болон хүргэлийн баримт"
+"New Invoice for Order #%1","Захиалга #%1 зориулж шинэ нэхэмжлэл"
+"Submit Invoice and Shipment","Нэхэмжлэл болон хүргэлт батлах"
+"Submit Invoice","Нэхэмжлэл батлах"
+"Are you sure you want to send an invoice email to customer?","Хэрэглэгч рүү нэхэмжлэлийн эмэйл явуулахдаа итгэлтэй байна уу?"
+"Credit Memo","Эрхийн бичиг"
+Capture,Бичилт
+"The invoice email was sent.","Нэхэмжлэлийн эмэйл явуулагдлаа."
+"The invoice email wasn\'t sent.","Нэхэмжлэлийн эмэйл явуулагдсангүй."
+"Invoice #%1 | %2 | %4 (%3)","Нэхэмжлэл #%1 | %2 | %4 (%3)"
+"Invalid parent block for this block","Энэ блокт хүчингүй эцэг блок"
+"Order Statuses","Захиалгын статус"
+"Create New Status","Шинэ статус үүсгэх"
+"Assign Status to State","Статусыг байдал руу холбох"
+"Save Status Assignment","Статус холбоос хадгалах"
+"Assign Order Status to State","Захиалгын статусыг байдалтай холбох"
+"Assignment Information","Холбоосын мэдээлэл"
+"Order Status","Захиалгын статус"
+"Order State","Захиалгын байдал"
+"Use Order Status As Default","Захиалгын статусыг стандартаар хэрэглэх"
+"Visible On Storefront","Дэлгүүрийн нүүрэнд харагдуулах"
+"Edit Order Status","Захиалгын статусыг өөрчилөх"
+"Save Status","Статус хадгалах"
+"New Order Status","Шинэ захиалгын статус"
+"Order Status Information","Захиалгын статус мэдээлэл"
+"Status Code","Статус код"
+"Status Label","Статус шошго"
+"Store View Specific Labels","Дэлгүүрийн харагдацад хамаатай шошгууд"
+"Total Paid","Төлбөн нийт дүн"
+"Total Refunded","Буцаан олголтын нийт дүн"
+"Total Due","Бүх төлбөр б"
+Edit,Өөрчилөх
+"Are you sure you want to send an order email to customer?","Захиалгын эмэйлийг хэрэглэгчрүү явуулахдаа итгэлтэй байна уу?"
+"This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","Энд офлайн буцаан олголтыг үүсгэх гэж байна. Онлайн буцаан олголтыг үүсгэхийн тулд, нэхэмжлэлийг нээгээд эрхийн бичиг үүсгэнэ үү. Та цааш нь үргэлжлүүлэх үү?"
+"Are you sure you want to void the payment?","Төлөлтийг хоослох гэж байгаадаа итгэлтэй байна уу?"
+Hold,Саатуулах
+hold,саатуулах
+Unhold,Саатуулахыг болиулах
+unhold,Саатуулахыг болиулах
+"Are you sure you want to accept this payment?","Энэ төлөлтийг зөвшөөрч байгаадаа итгэлтэй байна уу?"
+"Accept Payment","Төлөлтийг зөвшөөрөх"
+"Are you sure you want to deny this payment?","Энэ төлөлтийг татгалзаж байгаадаа итгэлэй байна уу?"
+"Deny Payment","Төлөлтийг татгалзах"
+"Get Payment Update","Төлөлтийн өөрчилөлтийг авах"
+"Invoice and Ship","Нэхэмжлэх болон хүргэх"
+Invoice,Нэхэмжлэл
+Ship,Хүргэх
+Reorder,Дахин захиалах
+"Order # %1 %2 | %3","Захиалга # %1 %2 | %3"
+"This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.","Энэ захиалга (%1) артиклууд агуулж байгаа ба админ хэсгээс засвар оруулж болхгүй байна. Хэрвээ та үргэлжлүүлэн засварлавал, (%2) артиклууд хасагдах болно. Түүнчлэн энэ захиалга цуцлагдаж өөр шинэ захиалга үүсгэгдэх болно."
+"Are you sure? This order will be canceled and a new one will be created instead.","Та үнэхээр итгэлтэй байна уу? Энэ захиалга цуцлагдаж шинэ захиалга үүгэгдэх гэж байна."
+"Save Gift Message","Бэлэгний зурвас хадгалах"
+" [deleted]"," [устгагдсан]"
+"Order Credit Memos","Захиалга эрхийн бичиг"
+"Credit memo #%1 created","Эрхийн бичиг #%1 үүсгэгдлээ"
+"Credit memo #%1 comment added","Эрхийн бичиг #%1 тайлбар нэмэгдлээ"
+"Shipment #%1 created","Хүргэлт #%1 үүсгэгдлээ"
+"Shipment #%1 comment added","Хүргэлт #%1 тайлбар нэмэгдлээ"
+"Invoice #%1 created","Нэхэмжлэл #%1 үүсгэгдлээ"
+"Invoice #%1 comment added","Нэхэмжлэл #%1 тайлбар нэмэгдлээ"
+"Tracking number %1 for %2 assigned","%2-т зориулан ажиглах дугаар %1 олгогдлоо"
+"Comments History","Тайлбарын түүх"
+"Order History","Захиалгын түүх"
+Information,Мэдээлэл
+"Order Information","Захиалгын мэдээлэл"
+"Order Invoices","Захиалгын нэхэмжлэлүүд"
+Shipments,Хүргэлтүүд
+"Order Shipments","Захиалгын хүргэлтүүд"
+Transactions,Гүйлгээнүүд
+"Order View","Захиалга харагдац"
+Any,Аль нэг
+Specified,Тодорхойлогдсон
+"Applies to Any of the Specified Order Statuses except canceled orders","Цуцлагдсан захиалгуудыг оруулалгүйгээр аль нэг тодорхойлогдсон захиалгын статусруу нэмэх"
+"Cart Price Rule","Сагсны үнийн дүрэм"
+Yes,Тийм
+No,Үгүй
+"Show Actual Values","Одоогын утгыг харуулах"
+"New Order RSS","Шинэ захиалгын RSS"
+Subtotal,Завсрын үр дүн
+"Shipping & Handling","Илгээлт & зохицуулалт"
+"Discount (%1)","Хямдрал (%1)"
+Discount,Хямдрал
+"Grand Total","Нийт дүн"
+Back,Буцах
+Fetch,Авч ирэх
+"Transaction # %1 | %2","Гүйлгээ # %1 | %2"
+N/A,Өгөгдөлгүй
+Key,Түлхүүр
+Value,Утга
+"We found an invalid entity model.","Хүчингүй энтити модуль оллоо."
+"Order # %1","Захиалга # %1"
+"Back to My Orders","Захиалга руугаа буцах"
+"View Another Order","Өөр захиалга харах"
+"About Your Refund","Таны буцаан олголтын тухай"
+"My Orders","Миний захиалгууд"
+"Subscribe to Order Status","Захиалгын статусд бүртгүүлэх"
+"About Your Invoice","Захиалгын нэхэмжлэлийн тухай"
+"Print Order # %1","Захиалгын хэвлэх # %1"
+"Grand Total to be Charged","Төлөх ёстой нийт дүн"
+Unassign,Холбоосыг авах
+"We can\'t add this item to your shopping cart right now.","Энэ артиклийг яг одоо сагс руу хийх боломжгүй байна ."
+"You sent the message.","Та зурвас явууллаа."
+Sales,Худалдаа
+"This order no longer exists.","Энэ захиалга байхгүй болсон байна."
+"Please enter a comment.","Тайлбар оруулна уу."
+"We cannot add order history.","Захиалгын түүхрүү нэмж болохгүй байна."
+"You updated the order address.","Та захиалгын хаягийг өөрчиллөө."
+"We can\'t update the order address right now.","Захиалгын хаягийг яг одоо өөрчилж чадахгүй."
+"You have not canceled the item.","Та энэ артиклийг цуцлаагүй байна."
+"You canceled the order.","Та захиалгыг цуцалсан байна."
+"""%1"" coupon code was not applied. Do not apply discount is selected for item(s)","""%1"" купон код орсонгүй. Сонгосон артиклуудад хямдрал үйлчилэхгүй"
+"""%1"" coupon code is not valid.","""%1"" купон код хүчингүй."
+"The coupon code has been accepted.","Купон код зөвшөөрөгдлөө."
+"Quote item id is not received.","Квотын артиклийн ID ирээгүй байна."
+"Quote item is not loaded.","Квот артикль ачаалагдахгүй байна."
+"New Order","Шинэ захиалга"
+"You created the order.","Та захиалга үүсгэлээ."
+"Order saving error: %1","Захиалга хадгалахад гарсан алдаа: %1"
+"Cannot add new comment.","Шинэ тайлбар нэмж болохгүй байна."
+"The credit memo has been canceled.","Эрхийн бичиг цуцлагдсан байна."
+"Credit memo has not been canceled.","Эрхийн бичиг цуцлагдсангүй."
+"New Memo for #%1","#%1 зориулсан шинэ тэмдэглэл"
+"New Memo","Шинэ тэмдэглэл"
+"The credit memo\'s total must be positive.","Эрхийн бичгийн дүн нэмэх утгатай байх ёстой."
+"Cannot create online refund for Refund to Store Credit.","Дэлгүүрийн Кредит Буцаан олголтонд зориулж онлайн буцаан олголт хийж болохгүй байна."
+"You created the credit memo.","Та эрхийн бичиг үүсгэлээ."
+"We can\'t save the credit memo right now.","Яг одоо эрхийн бичиг хадгалж чадахгүй байна."
+"We can\'t update the item\'s quantity right now.","Артиклийн тоо ширхэгийг өөрчилж чадахгүй байна."
+"View Memo for #%1","#%1 зориулсан тэмдэглэлийг харах"
+"View Memo","Тэмдэглэл харуулах"
+"You voided the credit memo.","Та эрхийн бичгийг хоосоллоо."
+"We can\'t void the credit memo.","We can\'t void the credit memo."
+"The order no longer exists.","Энэ захиалга байхгүй болсон байна."
+"We can\'t create credit memo for the order.","Энэ захиалгад зориулж эрхийн бичиг үүсгэж чадагүй байна."
+"Edit Order","Захиалга өөрчилөх"
+"You sent the order email.","Та захиалгын эмэйлийг илгээсэн."
+"We can\'t send the email order right now.","Захиалгын эмэйлийг яг одоо илгээж чадахгүй байна."
+"You have not put the order on hold.","Та энэ захиалгыг саатуулалтанд хийгээгүй байна."
+"You put the order on hold.","Та энэ захиалгыг саатуулалтанд хийлээ."
+"You canceled the invoice.","Та нэхэмжлэлийг цуцаллаа."
+"Invoice canceling error","Нэхэмжлэл цуцлалтын алдаа"
+"The invoice has been captured.","Нэхэмжлэл бичигдсэн."
+"Invoice capturing error","Нэхэмжлэл бичих алдаа"
+"The order does not allow an invoice to be created.","Захиалга нэхэмжлэл үүсгэхийг зөвшөөрөхгүй байна."
+"You can\'t create an invoice without products.","Та бараагүй нэхэмжлэл үүсгэж чадахгүй."
+"New Invoice","Шинэ нэхэмжлэл"
+"We can\'t save the invoice right now.","Нэхэмжлэлийг яг одоо хадгалч чадахгүй байна."
+"The invoice and the shipment  have been created. The shipping label cannot be created now.","Нэхэмжлэл болон хүргэлт үүсгэгдсэн. Хүргэлтийн шошго үүсгэгдэж болохгүй байна."
+"You created the invoice and shipment.","Та нэхэмжлэл болон хүргэлт үүсгэлээ."
+"The invoice has been created.","Нэхэмжлэл үүсгэгдсэн."
+"We can\'t send the invoice email right now.","Нэхэмжлэлийн эмэйлийг яг одоо илгээх боломжгүй байна."
+"We can\'t send the shipment right now.","Хүргэлтийг яг одоо явуулах боломжгүй."
+"Cannot update item quantity.","Артиклийн тоог өөрчилж чадахгүй."
+"The invoice has been voided.","Нэхэмжлэл хоослогдсон."
+"Invoice voiding error","Нэхэмжлэл хоослолтын алдаа"
+"%1 order(s) cannot be canceled.","%1 захиалга(ууд) цуцлагдах боломжгүй."
+"You cannot cancel the order(s).","Та энэ захиалга(ууд)-ыг цуцалж чадахгүй."
+"We canceled %1 order(s).","%1 захиалга(ууд) цуцалсан."
+"%1 order(s) were not put on hold.","%1 захиалга(ууд) саатуулалтанд хийгээгүй байна."
+"No order(s) were put on hold.","Ямар ч захиалга(ууд) саатуулалтанд хийгээгүй байна."
+"You have put %1 order(s) on hold.","Та %1 захиалга(ууд) саатуулалтанд хийлээ."
+"%1 order(s) were not released from on hold status.","%1 захиалга(ууд) саатуулагдсан статусаас гараагүй байна."
+"No order(s) were released from on hold status.","Ямар ч захиалга(ууд) саатуулагдсан статусаас гараагүй байна."
+"%1 order(s) have been released from on hold status.","%1 захиалга(ууд) саатуулагдсан статусаас гарсан байна."
+"There are no printable documents related to selected orders.","Сонгосон захиалгатай хамаатай хэвлэж болохоор баримт бичиг алга."
+"The payment has been accepted.","Төлбөр хийлт зөвшөөрөгдсөн."
+"The payment has been denied.","Төлбөр хийлт татгалзагдсан."
+"Transaction has been approved.","Гүйлгээ батлагдсан."
+"Transaction has been voided/declined.","Гүйлгээ хоослогдсон/татгалзагдсан."
+"There is no update for the transaction.","Энэ гүйлгээнд зориулсан өөрчилөлт алга."
+"We can\'t update the payment right now.","Яг одоо энэ төлбөр хийлтийг өөрчилж чадахгүй."
+"You assigned the order status.","Та захиалгын статусыг холболоо."
+"Something went wrong while assigning the order status.","Захиалгын статусыг холбож байхад ямар нэг зүйл буруу байлаа."
+"We can\'t find this order status.","Энэ захиалгын статусыг олч чадахгүй байна."
+"Create New Order Status","Шинэ захиалгын статус үүсгэх"
+"We found another order status with the same order status code.","Ижилхэн захиалгын статус кодтой өөр захиалгын статус олдлоо."
+"You saved the order status.","Та захиалгын статусыг хадгаллаа."
+"We can\'t add the order status right now.","Захиалгын статусыг яг одоо нэмж чадахгүй."
+"You have unassigned the order status.","Захиалгын статусын холбоосыг салгасан."
+"Something went wrong while unassigning the order.","Захиалгын холбоосыг салгаж байхад ямар нэг алдаа гарлаа."
+"Can\'t unhold order.","Захиалгын саатуулалтыг болиулж чадахгүй."
+"You released the order from holding status.","Та захиалгыг саатуулсан статусаас гаргаж авсан."
+"The order was not on hold.","Энэ захиалга саатуулалтгүй байсан."
+"Exception occurred during order load","Захиалгыг ачаалж байхад алдаа гарлаа"
+"Something went wrong while saving the gift message.","Бэлгийн зурвасыг хадгалж байхад алдаа гарлаа."
+"You saved the gift card message.","Та бэлгийн картын зурвасыг хадгалсан."
+"The payment has been voided.","Төлбөр хийлт хоослогдсон."
+"We can\'t void the payment right now.","Төлбөр хийлтийг яг одоо цуцлах боломжгүй."
+"Please correct the transaction ID and try again.","Гүйлгээний ID-г засаад дахин оролдоно уу."
+"The transaction details have been updated.","Гүйлгээний дэлгэрэнгүй засагдлаа."
+"We can\'t update the transaction details.","Гүүлгээний дэлгэрэнгүйг өөрчилөх боломжгүй байна."
+"Orders and Returns","Захиалга болон Буцаалтууд"
+"You entered incorrect data. Please try again.","Та буруу өгөгдөл оруулсан байна. Дахин оролдоно уу"
+Home,Эхлэл
+"Go to Home Page","Эхлэл хуудаст очих"
+"We can\'t find this wish list.","Энэ хүсэлтийн жагсаалтыг олж чадахгүй байна."
+"We could not add a product to cart by the ID ""%1"".","Бүтээгдэхүүнийг ID ""%1"" -р сагс руу нэмж чадахгүй байна ."
+"There is an error in one of the option rows.","Сонголтын мөрүүдийн нэг нь алдаатай байна."
+"Shipping Address: ","Хүргэлтийн хаяг: "
+"Billing Address: ","Төлөлтийн хаяг: "
+"Please specify order items.","Захиалгын артиклуудыг тодорхойлно уу."
+"Please specify a shipping method.","Хүргэлтийн аргыг тодорхойлно уу."
+"Please specify a payment method.","Төлбөрийн аргыг тодорхойлно уу."
+"This payment method is not available.","Энэ төлбөрийн арга боломжгүй байна."
+"Validation is failed.","Шалгалт амжилтгүй боллоо."
+"You did not email your customer. Please check your email settings.","Та хэрэглэгч рүүгээ эмэйл явуулаагүй байна. эмэйлийн тохиргоогоо шалгана уу."
+"Path ""%1"" is not part of allowed directory ""%2""","Зам ""%1"" зөвшөөрөгдсөн хавтас ""%2"" дотор багтаагүй байна "
+"Identifying Fields required","Шаардлагатай талбаруудыг тогтоох"
+"Id required","Id шаардлагатай"
+"A hold action is not available.","Саатуулах үйлдэл боломжгүй байна."
+"You cannot remove the hold.","Энэ саатуулалтыг арилгах боломжгүй."
+"We cannot cancel this order.","Энэ захиалгыг цуцалж чадахгүй."
+Guest,Зочин
+"Please enter the first name.","Нэрийг оруулна уу."
+"Please enter the last name.","Овгийг оруулна уу."
+"Please enter the street.","Гудамжийг оруулна уу."
+"Please enter the city.","Хотыг оруулна уу."
+"Please enter the phone number.","Утасны дугаараа сонгоно уу."
+"Please enter the zip/postal code.","Шуудангийн индексийг оруулна уу."
+"Please enter the country.","Улсыг оруулна уу."
+"Please enter the state/province.","Аймаг дүүргийг сонгоно уу."
+"Requested entity doesn\'t exist","Шаардсан энтити байхгүй байна"
+"Could not delete order address","Захиалгын хаягийг устгаж болохгүй байна"
+"Could not save order address","Захиалгын хаягийг хадгалж болохгүй байна"
+Pending,Хүлээгдэж байгаа
+Refunded,Буцаалт хийгдсэн
+Canceled,Цуцлагдсан
+"Unknown State","Тодорхойгүй байдал"
+"We found an invalid quantity to refund item ""%1"".","Буцаан олгох артикль ""%1"" хүчингүй тоо олдлоо."
+"Maximum shipping amount allowed to refund is: %1","Буцаалт хийгдэх хамгийн өндөр хүргэлтийн дүн: %1"
+"Could not delete credit memo","Эрхийн бичгийг устгаж болохгүй байна"
+"Could not save credit memo","Эрхийн бичгийг хадгалж болохгүй байна"
+"This order already has associated customer account","Энэ захиалга хэрэглэгчийн данстай аль хэдийн холбогдсон байна"
+Paid,Төлсөн
+"We cannot register an existing invoice","Байгаа нэхэмжлэлийг бүртгэж чадахгүй байна"
+"ID required","ID шаардлагатай"
+"Unknown Status","Тодорхойгүй статус"
+Ordered,Захиалагдсан
+Shipped,Хүргэгдсэн
+Invoiced,Нэхэмжлэгдсэн
+Backordered,Дахин захиалагдсан
+Returned,Буцаагдсан
+Partial,Хэсэг
+Mixed,Хольсон
+"Registered a Void notification.","Хоослолтын сонордуулга бүртгэгдлээ."
+"If the invoice was created offline, try creating an offline credit memo.","Хэрвээ нэхэмжлэл офлайн үүсгэгдсэн бол офлайн эрхийн бичиг үүсгэнэ үү."
+"We refunded %1 online.","Онлайнаар %1 буцаан олгосон."
+"We refunded %1 offline.","Офлайнаар %1 буцаан олгосон."
+"IPN ""Refunded"". Refund issued by merchant. Registered notification about refunded amount of %1. Transaction ID: ""%2"". Credit Memo has not been created. Please create offline Credit Memo.","IPN ""буцаан олгогдсон"". Буцаан олголт худалдаачинаар хийгдсэн. Буцаагдсан дүн %1 талаар сонордуулга хйигдсэн. Гүйлгээний ID: ""%2"". Эрхийн бичиг үүсгэгдээгүй байна. Одоо офлайн эрхийн бичиг үүсгэнэ үү."
+"The credit memo has been created automatically.","Эрхийн бичиг автоматаар үүсгэгдсэн байна."
+"Registered notification about refunded amount of %1.","Буцаагдсан дүн %1 талаар сонордуулга хйигдсэн."
+"Canceled order online","Захиалга онлайн цуцлагдсан"
+"Canceled order offline","Захиалга офлайн цуцлагдсан"
+"Approved the payment online.","Төлбөр онлайн зөвшөөрөгдсөн."
+"There is no need to approve this payment.","Энэ төлбөрийг зөвшөөрөх шаардлагагүй."
+"Denied the payment online","Төлбөр онлайн татгалзагдсан"
+"Registered update about approved payment.","Төлбөрийн зөвшөөрлийн талаар өөрчилөлт бүртгэгдлээ."
+"Registered update about denied payment.","Төлбөр татгалзагдсан талаар өөрчилөлт бүртгэгдлээ."
+"There is no update for the payment.","Төлбөрийн талаар өөрчилөлт байхгүй байна."
+"Voided authorization.","Хоослогдсон эрх олголт."
+"Amount: %1.","Дүн: %1."
+"Transaction ID: ""%1""","Гүйлгээ ID: ""%1"""
+"The payment method you requested is not available.","Таны шаардсан төлбөрийн арга боломжгүй байна."
+"The payment disallows storing objects.","Төлбөр объект хадгалахыг зөвшөөрөхгүй байна."
+"The transaction ""%1"" cannot be captured yet.","Гүйлгээ ""%1"" бичигдэж чадахгүй байна."
+"We will authorize %1 after the payment is approved at the payment gateway.","Төлбөрийн гарц дээр төлбөр зөвшөөрөгдсөний дараа %1 бүрэн эрхийг өгөх болно."
+"Order is suspended as its authorizing amount %1 is suspected to be fraudulent.","Захиалгын дүн %1 бүрэн эрх өгөх үед залилан байж болзошгүй тул захиалга түр зогсоогдсон байна."
+"Authorized amount of %1","Эрх олгогдсон дүн %1"
+"An amount of %1 will be captured after being approved at the payment gateway.","Дүн %1 төлбөрийн гарцын зөвшөөрөл ирсэний дараа бичигдэх болно."
+"Captured amount of %1 online",Онлайн бичигдсэн дүн %1"
+"The order amount of %1 is pending approval on the payment gateway.","Захиалгын дүн %1 төлбөрийн гарц дээр зөвшөөрөгдөхийг хүлээж байна."
+"Ordered amount of %1","Ordered amount of %1"
+"Registered notification about captured amount of %1.","Бичигдсэн дүн %1 талаар сонордуулга бүртгэгдлээ."
+"Order is suspended as its capture amount %1 is suspected to be fraudulent.","Бичилтийн дүн %1 залилан байж болзошгүй гэж сэжиглэгдэн захиалга зогсоогдсон байна."
+"The parent transaction ID must have a transaction ID.","Эх гүйлгээний ID ямар нэг гүйлгээний ID-тай байх ёстой."
+"Payment transactions disallow storing objects.","Төлбөрийн гүйлгээнүүд объект хадгалахыг зөвшөөрөхгүй байна."
+"The transaction ""%1"" (%2) is already closed.","Гүйлгээ ""%1"" (%2) аль хэдийн хаагдсан байна."
+"Set order for existing transactions not allowed","Байгаа гүйлгээнүүдэд зориулж захиалга үүсгэхийг зөвшөөрөхгүй"
+"At minimum, you need to set a payment ID.","Хамгийн багадаа төлбөр төлөлтийн ID өгөх хэрэгтэй."
+Order,Захиалга
+Authorization,"Эрх олголт"
+"We found an unsupported transaction type ""%1"".","Дэмжихгүй гүйлгээний төрөл ""%1"" олдлоо."
+"Please set a proper payment and order id.","Төлбөрийн болон захиалгын зохилтой дугаар өгнө үү."
+"Please enter a Transaction ID.","Гүйлгээний ID оруулна уу."
+"You can\'t do this without a transaction object.","Гүйлгээний объектгүйгээр үүнийг хийж чадахгүй."
+"Order # ","Захиалга # "
+"Order Date: ","Захиалгын өдөр: "
+"Sold to:","Зарагдсан:"
+"Ship to:","Хүргэгдсэн:"
+"Payment Method:","Төлбөрийн арга:"
+"Shipping Method:","Хүргэлтийн арга:"
+"Total Shipping Charges","Хүргэлтийн нийт төлбөр"
+Title,Гарчиг
+Number,Дугаар
+"We found an invalid renderer model.","Хүчингүй дамжуулах модель олдлоо."
+"Please define the PDF object before using.","Хэрэглэхийн өмнө PDF объект үүсгэнэ үү."
+"We don\'t recognize the draw line data. Please define the ""lines"" array.","""draw line"" өгөгдлийг танихгүй байна. ""lines"" массивийг зарлана уу."
+Products,Бүтээгдэхүүнүүд
+"Total (ex)","Нийт дүн (ороогүй)"
+Qty,Тоо
+Tax,НӨТ
+"Total (inc)","Нийт дүн (орсон)"
+"Credit Memo # ","Эрхийн бичиг # "
+"Invoice # ","Нэхэмжлэл # "
+"The order object is not specified.","Захиалгын объект тогтоогдоогүй."
+"The source object is not specified.","Эх объект тогтоогдоогүй."
+"An item object is not specified.","Артиклийн объект тогтоогдоогүй."
+"A PDF object is not specified.","PDF объект тогтоогдоогүй."
+"A PDF page object is not specified.","PDF хуудас объект тогтоогдоогүй."
+"Excl. Tax","НӨТ ороогүй"
+"Incl. Tax","НӨТ орсон"
+"Packing Slip # ","Пакетны хуудас # "
+title,гарчиг
+"The PDF total model %1 must be or extend \Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.","PDF дүнгийн модель %1 \Magento\Sales\Model\Order\Pdf\Total\DefaultTotal -аас уламжилсан байх ёстой."
+"We cannot register an existing shipment","Байгаа хүргэлтийг бүртгэж чадахгүй байна"
+"We found an invalid quantity to ship for item ""%1"".","Артикль ""%1"" хүргэлт хийхэд хүчингүй тоо ширхэг оллоо."
+"Please enter a tracking number.","Мөрдөх дугаар оруулна уу."
+"Could not delete shipment","Хүргэлтийг устгаж болохгүй байна"
+"Could not save shipment","Хүргэлтийг хадгалж болохгүй байна"
+"The last status can\'t be unassigned from its current state.","Сүүлчийн статус одоогийн байдлаас нь салгаж чадахгүй."
+"Status can\'t be unassigned, because it is used by existing order(s).","Захиалгад хэрэглэгдэж байгаа болохоор статусыг салгаж болохгүй."
+"The total model should be extended from \Magento\Sales\Model\Order\Total\AbstractTotal.","Total model \Magento\Sales\Model\Order\Total\AbstractTotal моделоос уламжилсан байх хэрэгтэй."
+"We cannot determine the field name.","Талбарын нэрийг тогтоож чадахгүй байна."
+City,Хот
+Company,Компани
+Country,Улс
+Email,Эмэйл
+"First Name","Нэр"
+"Last Name","Овог"
+State/Province,Аймаг/Дүүрэг
+"Street Address","Гудамж"
+"Phone Number","Утасны дугаар"
+"Zip/Postal Code","Шуудангийн индекс код"
+"We can't save the address:\n%1","Хаягийг хадгалж чадахгүй байна:\n%1"
+"Cannot save comment:\n%1","Тайлбарыг хадгалж чадахгүй байна:\n%1"
+"We don\'t have enough information to save the parent transaction ID.","Эх гүйлгээний ID хадгалах хангалттай мэдээлэл байхгүй байна."
+"We cannot create an empty shipment.","We cannot create an empty shipment."
+"Cannot save track:\n%1","Мөрийг хадгалж чахахгүй байна:\n%1"
+"Cannot unassign status from state","Статусыг байдлаас салгаж чадахгүй байна"
+"New Orders","Шинэ захиалгууд"
+"Order #%1 created at %2","Захиалга #%1 %2 үүсгэгдсэн"
+"Details for %1 #%2","Дэлгэрэнгүй %1 #%2"
+"Notified Date: %1","Сонордуулсан огноо: %1"
+"Comment: %1<br/>","Тайлбар: %1<br/>"
+"Current Status: %1<br/>","Одоогийн статус: %1<br/>"
+"Total: %1<br/>","Нийт дүн: %1<br/>"
+"Order # %1 Notification(s)","Захиалга # %1 сонордуулга(ууд)"
+"You can not cancel Credit Memo","Эрхийн бичгийг цуцалж чадахгүй"
+"Could not cancel creditmemo","Эрхийн бичгийг цуцалсангүй"
+"We cannot register an existing credit memo.","Байгаа эрхийн бичгийг бүртгэж чадсангүй."
+"The most money available to refund is %1.","Буцаан олголтонд хамгийн ихдээ %1 боломжтой."
+"We found an invalid quantity to invoice item ""%1"".","Нэхэмжлэлийн артикльд хүчингүй тоо ширхэг олдлоо ""%1""."
+"The Order State ""%1"" must not be set manually.","Захиалгын байдал ""%1"" гараар тогтоогдох ёсгүй."
+"VAT Request Identifier","НӨТ шаардлага тодорхойлогч"
+"VAT Request Date","НӨТ шаардлагын огноо"
+"Pending Payment","Хүлээгдэж буй Төлөлт"
+Processing,Боловсруулж байна
+"On Hold","Саатуулагдсан"
+Complete,Дууссан
+Closed,Хаагдсан
+"Suspected Fraud","Залилан сэжиглэгдсэн"
+"Payment Review","Төлөлтийн хяналт"
+New,Шинэ
+"test message","тест зурвас"
+"Email has not been sent","Эмэйл илгээгдсэнгүй"
+" Transaction ID: ""%1"""," Гүйлгээний ID: ""%1"""
+View,Харагдац
+"Group was removed","Груп хасагдсан"
+"Changing address information will not recalculate shipping, tax or other order amount.","Хаягийн мэдээллийн өөрчилөлт нь НӨТ, хүргэлт болон захиалгын бусад дүнг дахин тооцолоход хүргэхгүй."
+"Comment Text","Тайлбарын текст"
+"Notify Customer by Email","Хэрэглэгчийг эмэйлээр мэдэгдэх"
+"Visible on Storefront","Дэлгүүрийн нүүрэнд харагдуулах"
+Customer,Хэрэглэгч
+Notified,Мэдэгдсэн
+"Not Notified","Мэдэгдээгүй"
+"No Payment Methods","Төлбөрийн арга байхгүй"
+"Order Comments","Захиалгын тайлбарууд"
+"Apply Coupon Code","Купон код хэрэглэх"
+Apply,Хэрэглэх
+"Remove Coupon Code","Купон код арилгах"
+Remove,Арилгах
+"Address Information","Хаягийн мэдээлэл"
+"Payment &amp; Shipping Information","Төлөлт &amp; Хүргэлтийн мэдээлэл"
+"Order Total","Захиалгын нийт дүн"
+"Order Currency:","Захиалгын мөнгөн тэмдэгт:"
+"Same As Billing Address","Тооцооны хаягтай адилхан"
+"Select from existing customer addresses:","Хэрэглэгчийн байгаа хаягуудаас сонгоно уу:"
+"Add New Address","Шинэ хаяг нэмэх"
+"Save in address book","Хаягын номонд хадгалах"
+"You don\'t need to select a shipping address.","Та хүргэлтийн хаяг сонгох хэрэггүй."
+"Gift Message for the Entire Order","Бүтэн захиалгад зориулсан бэлгийн зурвас"
+"Leave this box blank if you don\'t want to leave a gift message for the entire order.","Бүтэх захиалгадаа бэлгийн зурвас үлдээхийг хүсэхгүй байвал энэ нүдийг хоосон орхино уу."
+"Row Subtotal","Мөрийн дүн"
+Action,Үйлдэл
+"No ordered items","Захиалагдсан артикльгүй"
+"Update Items and Quantities","Артикль болон тоо ширхэгийг өөрчилөх"
+"Total %1 product(s)","Нийт %1 бүтээгдэхүүн(үүд)"
+Subtotal:,Завсрын дүн:
+"Tier Pricing","Үнийн үечлэл"
+"Custom Price","Хэрэглэгчийн үнэ"
+"Please select","Сонгоно уу"
+"Move to Shopping Cart","Сагс руу зөөх"
+"Move to Wish List","Хүсэлтийн жагсаалт руу зөөх"
+"Subscribe to Newsletter","Зар мэдээг захиалах"
+"Click to change shipping method","Хүргэлтийн аргыг өөрчлөхийн тулд дарна уу"
+"Sorry, no quotes are available for this order.","Уучлаарай, энэ захиалгад зориулсан квот байхгүй байна."
+"Get shipping methods and rates","Хүргэлтийн арга болон үнийг авах"
+"You don\'t need to select a shipping method.","Та хүргэлтийн аргыг сонгох хэрэггүй."
+"Customer\'s Activities","Хэрэглэгчийн идэвхүүд"
+Refresh,Шинэчлэх
+Item,Артикль
+"Add To Order","Захиалга руу нэмэх"
+"Configure and Add to Order","Тохируулах болон захиалга руу нэмэх"
+"No items","Артикль байхгүй"
+"Append Comments","Тайлбар нэмэгдсэн"
+"Email Order Confirmation","Эмэйл захиалга баталгаажуулалт"
+"Grand Total Excl. Tax","Эцсийн нийлбэр дүн НӨТ ороогүй"
+"Grand Total Incl. Tax","Эцсийн нийлбэр дүн НӨТ орсон"
+"Subtotal (Excl. Tax)","Завсрын дүн (НӨТ ороогүй)"
+"Subtotal (Incl. Tax)","Завсрын дүн (НӨТ орсон)"
+"Payment &amp; Shipping Method","Төлөлт &amp; Хүргэлтийн арга"
+"Payment Information","Төлбөрийн мэдээлэл"
+"The order was placed using %1.","Захиалгийг хийхэд %1 хэрэглэгдсэн."
+"Shipping Information","Хүргэлтийн мэдээлэл"
+"Items to Refund","Буцаалт хийгдэх артиклууд"
+"Return to Stock","Агуулга руу буцаах"
+"Qty to Refund","Буцаалт хийгдэх тоо"
+"Tax Amount","НӨТ дүн"
+"Discount Amount","Хямдралын дүн"
+"Row Total","Мөрийн дүн"
+"No Items To Refund","Буцаалт хийхэд артикль алга"
+"Credit Memo Comments","Эрхийн бичгийн тайлбарууд"
+"Refund Totals","Буцаалтын дүн"
+"Email Copy of Credit Memo","Эрхийн бичгийн эмэйлийн хуулбар"
+"Please enter a positive number in this field.","Энэ талбарт эерэг утга оруулна уу ."
+"Items Refunded","Буцаагдсан артиклууд"
+"No Items","Артикль байхгүй"
+"Memo Total","Эрхийн бичгийн дүн"
+"Credit Memo History","Эрхийн бичгийн түүх"
+"Credit Memo Totals","Эрхийн бичгийн дүнгүүд"
+"Customer Name: %1","Хэрэглэгчийн нэр: %1"
+"Purchased From: %1","Хаанаас худалдан авсан: %1"
+"Gift Message","Бэлгийн зурвас"
+From:,Хаанаас:
+To:,Хаашаа:
+Message:,Зурвас:
+"Shipping &amp; Handling","Хүргэлт &amp; Зохицуулалт"
+"Gift Options","Бэлгийн сонголтууд"
+"Create Shipment","Хүргэлт үүсгэх"
+"Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Нэхэмжлэл болон хүргэлтийн төрлүүд захиалгын зарим артиклуудад тохирохгүй байна. Зөвхөн нэхэмжлэл үүсгэснийхээ дараа хүргэлт үүсгэнэ үү."
+%1,%1
+"Qty to Invoice","Нэхэмжлэл дэхь тоо"
+"Invoice History","Нэхэмжлэлийн түүх"
+"Invoice Comments","Нэхэмжлэлийн тайлбарууд"
+"Invoice Totals","Нэхэмжлэлийн дүнгүүд"
+Amount,Дүн
+"Capture Online","Онлайн бичих"
+"Capture Offline","Офлайн бичих"
+"Not Capture","Бичихгүй"
+"The invoice will be created offline without the payment gateway.","Нэхэмжлэл төлбөрийн гарцгүйгээр офлайн үүсгэгдэнэ."
+"Email Copy of Invoice","Нэхэмжлэлийн эмэйлийн хуулбар"
+"Items Invoiced","Нэхэмжлэгдсэн артиклууд"
+"Total Tax","Нийт НӨТ"
+"From Name","Нэр хаанаас"
+"To Name","Нэр хаашаа"
+Status,Статус
+Comment,Тайлбар
+"Notification Not Applicable","Сонордуулга хэрэглэж болохгүй"
+"Order & Account Information","Захиалга болон дансны мэдээлэл"
+"The order confirmation email was sent","Захиалгын батламж эмэйл илгээгдсэн"
+"The order confirmation email is not sent","Захиалгын батламж эмэйл илгээгдсэнгүй"
+"Order Date","Захиалгын огноо"
+"Order Date (%1)","Захилагын огноо (%1)"
+"Purchased From","Хаанаас худалдан авсан"
+"Link to the New Order","Шинэ захиалга руу холбох"
+"Link to the Previous Order","Өмнөх захиалга руу холбох"
+"Placed from IP","Ямар IP-аас хийгдсэн"
+"%1 / %2 rate:","%1 / %2 үнэлгээ:"
+"Customer Name","Хэрэглэгчийн нэр"
+"Customer Group","Хэрэглэгчийн груп"
+"Item Status","Артикль статус"
+"Original Price","Жинхэнэ үнэ"
+"Tax Percent","НӨТ хувь"
+"Notes for this Order","Захиалгын тэмэглэлүүд"
+"Comment added","Тайлбар нэмэгдсэн"
+"Transaction Data","Гүйлгээний огноо"
+"Transaction ID","Гүйлгээний ID"
+"Parent Transaction ID","Эх гүйлгээний ID"
+"Order ID","Захиалгын ID"
+"Transaction Type","Гүйлгээний төрөл"
+"Is Closed","Хаагдсан"
+"Created At","Хэзээ үүсгэгдсэн"
+"Child Transactions","Доорхи гүйлгээ"
+"Transaction Details","Гүйлгээний дэлгэрэнгүй"
+Items,Артиклууд
+"Gift Message for this Order","Захиалгын бэлгийн зурвасууд"
+"Shipped By","Хүргэгдсэн аар"
+"Tracking Number","Мөрдөх дугаар"
+"Billing Last Name","Тооцоон дээрхи овог"
+"Find Order By","Захиалгыг олох аар"
+"ZIP Code","Шуудангын индекс"
+"Billing ZIP Code","Тооцоон дээрхи шуудангын индекс"
+Continue,Үргэлжлүүлэх
+"Print All Refunds","Бүх буцаан олголтыг хэвлэх"
+"Refund #","Буцаан олголт #"
+"Print Refund","Буцаан олголт хэвлэх"
+"Product Name","Бүтээгдэхүүний нэр"
+"Order #","Захиалга #"
+Date,Огноо
+"Ship To","Хааш нь хүргэх"
+Actions,Үйлдлүүд
+"View Order","Захиалга харах"
+"You have placed no orders.","Та одоогоор захиалга хийгээгүй байна."
+"No shipping information available","Хүртгэлийн мэдээлэл боломжгүй байна"
+"Print Order","Захиалга хэвлэх"
+"Print All Invoices","Бүх нэхэмжлэлийг хэвлэх"
+"Invoice #","Нэхэмжлэл #"
+"Print Invoice","Нэхэмжлэл хэвлэх"
+"Qty Invoiced","Нэхэмжлэгдсэн тоо"
+Close,Хаах
+"About Your Order","Таны захиалгын тухай"
+"<span class=""label"">Order Date:</span> %1","<span class=""label"">Захиалгын огноо:</span> %1"
+"Refund #%1","Буцаан олголт #%1"
+"Shipment #%1","Хүргэлт #%1"
+"Qty Shipped","Хүргэгдсэн тоо"
+"Recent Orders","Хийгдсэн захиалгууд"
+"View All","Бүгдийг харах"
+"Gift Message for This Order","Энэ захиалгад зориулсан бэлгийн зурвас"
+"Add to Cart","Сагсанд хийх"
+Search,Хайх
+"%name,","%name,"
+"Thank you for your order from %store_name.","%store_name дэлгүүрээс захиалга хийсэнд баярлалаа."
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Та захиалгынхаа статусыг эндээс шалгах боломжтой <a href=""%account_url"">өөрийн дансанд нэвтрэх</a>."
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Хэрэв таньд өөрийн захиалгынхаа талаар асуулт байвал <a href=""mailto:%store_email"">%store_email</a> эмэйл рүү бичээрэй"
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","эсвэл <a href=""tel:%store_phone"">%store_phone</a> утсаар залгаж болно"
+"Our hours are <span class=""no-link"">%store_hours</span>.","Бидний онгойх цаг <span class=""no-link"">%store_hours</span>."
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Захиалга #%order_id-д зориулсан таны эрхийн бичиг #%creditmemo_id "
+"Billing Info","Тооцооны мэдээлэл"
+"Shipping Info","Хүргэлтийн мэдээлэл"
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Таны захиалга #%increment_id <strong>%order_status</strong> статустай болж өөрчлөгдсөн байна."
+"Your Invoice #%invoice_id for Order #%order_id","#%order_id захиалгын эрхийн бичиг #%invoice_id"
+"%customer_name,","%customer_name,"
+"Once your package ships we will send you a tracking number.","Таны илгээмж илгээгдсэн тохиолдолд бид таньд мөрдөлтийн дугаар явуулна."
+"Your Order <span class=""no-link"">#%increment_id</span>","Таны захиалга <span class=""no-link"">#%increment_id</span>"
+"Placed on <span class=""no-link"">%created_at</span>","Хийгдсэн <span class=""no-link"">%created_at</span>"
+"Once your package ships we will send an email with a link to track your order.","Таны илгээмж илгээгдэхэд бид таньд захиалгаа мөрдөх холбоос бүхий эмэйлийг явуулах болно."
+"Your shipping confirmation is below. Thank you again for your business.","Таны хүргэлтийн баталгаажуулалт доор байна. Худалдаа хийсэн таньд дахин баярлалаа."
+"Your Shipment #%shipment_id for Order #%order_id","Захиалга #%order_id-д зориулсан хүргэлт #%shipment_id"
+"Gift Options for ","Бэлэгний сонголтууд "
+"Add Products","Бүтээгдэхүүн нэмэх"
+"You have item changes","Та артикль өөрчилсөн"
+Ok,Ok
+General,Ерөнхий
+"Hide Customer IP","Хэрэглэгчийн IP нуух"
+"Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Хэрэглэгчийн IP захиалга, нэхэмжлэл, хүргэлт болон эрхийн бичиг дээр харагдахыг сонгох."
+"Checkout Totals Sort Order","Захиалгын дүнгийн эрэмбэлэлт"
+"Allow Reorder","Дахиж захиалахыг зөвшөөрөх"
+"Invoice and Packing Slip Design","Нэхэмжлэлийн болон хүргэлтийн маягтын дизайн"
+"Logo for PDF Print-outs (200x50)","PDF гаралтад зориулсан лого (200x50)"
 "
                         Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.
                     ","
                         Таны стандарт лого PDF болон HTML документуудад хэрэглэгдсэх болно.<br />(jpeg, tiff, png) Хэрэв зураг бүрзийж харагдвал том зураг хэрэглээд үзээрэй.
-                    ",module,Magento_Sales
-"Logo for HTML Print View","HTML хэвлэх харагдацад зориулсан лого",module,Magento_Sales
+                    "
+"Logo for HTML Print View","HTML хэвлэх харагдацад зориулсан лого"
 "
                         Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)
                     ","
                         Зөвхөн HTML документэд зориулсан лого. Хоосон тохиолдолд стандарт лого хэрэглэгдэнэ.<br />(jpeg, gif, png)
-                    ",module,Magento_Sales
-Address,Хаяг,module,Magento_Sales
-"Minimum Order Amount","Захиалгын хамгийн бага дүн",module,Magento_Sales
-Enable,Идэвхитэй,module,Magento_Sales
-"Minimum Amount","Хамгийн бага дүн",module,Magento_Sales
-"Subtotal after discount","Хямдарсаны дараах хэсгийн дүн",module,Magento_Sales
-"Include Tax to Amount","НӨТ-ийг дүнд оруулах",module,Magento_Sales
-"Description Message","Тодорхойлолт зурвас",module,Magento_Sales
-"This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.","Хэрэв хэсгийн дүн (хямдарсаны дараа) зөвшөөрөгдсөн хамгийн бага дүнгээс доогуур байгаа тохиолдолд энэ зурвас худалдан авагчийн сагсан дотор харагдах болно.",module,Magento_Sales
-"Error to Show in Shopping Cart","Алдааг худалдан авалтын сагсан дотор харуулах",module,Magento_Sales
-"Validate Each Address Separately in Multi-address Checkout","Олон хаягтай худалдан авалтын үед бүх хаягийг шалгах",module,Magento_Sales
-"Multi-address Description Message","Олон хаягийн тодорхойлолт зурвас",module,Magento_Sales
-"We'll use the default description above if you leave this empty.","Хэрэв та үүнийг хоосон орхивол дээрхи стандарт зурвас хэрэглэгдэх болно.",module,Magento_Sales
-"Multi-address Error to Show in Shopping Cart","Олон хаягийн талаархи алдааг худалдааны сагсан дотор харагдуулах",module,Magento_Sales
-"We'll use the default error above if you leave this empty.","Хэрэв та үүнийг хоосон орхивол дээрхи стандарт алдаа хэрэглэгдэх болно.",module,Magento_Sales
-Dashboard,"Хянах самбар",module,Magento_Sales
-"Use Aggregated Data","Цуглуулсан өгөгдлийг хэрэглэх",module,Magento_Sales
-"Orders Cron Settings","Захиалгын крон тохиргоо",module,Magento_Sales
-"Pending Payment Order Lifetime (minutes)","Хүлээгдэж байгаа захиалгын хугацаа (минут)",module,Magento_Sales
-"Sales Emails","Худалдааны эмэйл",module,Magento_Sales
-"Asynchronous sending","Асинхрон илгээх",module,Magento_Sales
-Enabled,Идэвхитэй,module,Magento_Sales
-"New Order Confirmation Email Sender","Шинэ захиалгын баталгаажуулалт эмэйлын илгээгч",module,Magento_Sales
-"New Order Confirmation Template","Шинэ захиалгын баталгаажуулалтын загвар",module,Magento_Sales
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Хэрэв ""стандарт"" сонголт сонгогдсон тохиолдолд эмэйл загвар нь загварын буцаж уналт дээр суурилна.",module,Magento_Sales
-"New Order Confirmation Template for Guest","Зочинд зориулсан шинэ захиалгын загвар",module,Magento_Sales
-"Send Order Email Copy To","Захиалгын эмэйлийн хуулбарыг ийш нь илгээх",module,Magento_Sales
-Comma-separated,"таслалаар тусгаарлагдсан",module,Magento_Sales
-"Send Order Email Copy Method","Захиалгын эмэйл илгээх арга",module,Magento_Sales
-"Order Comment Email Sender","Захиалгын тайлбар эмэйл илгээгч",module,Magento_Sales
-"Order Comment Email Template","Захиалгын тайлбар эмэйл загвар",module,Magento_Sales
-"Order Comment Email Template for Guest","Зочинд зориулсан захиалгын тайлбар эмэйл загвар",module,Magento_Sales
-"Send Order Comment Email Copy To","Захиалгын тайлбарын эмэйлийн хуулбарыг ийш нь илгээх",module,Magento_Sales
-"Send Order Comments Email Copy Method","Захиалгын тайлбарын эмэйл илгээх арга",module,Magento_Sales
-"Invoice Email Sender","Нэхэмжлэл эмэйл илгээгч",module,Magento_Sales
-"Invoice Email Template","Нэхэмжлэл эмэйлийн загвар",module,Magento_Sales
-"Invoice Email Template for Guest","Зочинд зориулсан нэхэмжлэл эмэйлийн загвар",module,Magento_Sales
-"Send Invoice Email Copy To","Нэхэмжлэл эмэйлийн хуулбарыг ийш нь илгээх",module,Magento_Sales
-"Send Invoice Email Copy Method","Нэхэмжлэл эмэйлийн хуулбарыг ийш нь илгээх",module,Magento_Sales
-"Invoice Comment Email Sender","Нэхэмжлэл тайлбар эмэйл илгээгч",module,Magento_Sales
-"Invoice Comment Email Template","Нэхэмжлэл тайлбар эмэйлийн загвар",module,Magento_Sales
-"Invoice Comment Email Template for Guest","Зочин зориулсан нэхэмжлэл тайлбар эмэйлийн загвар",module,Magento_Sales
-"Send Invoice Comment Email Copy To","Нэхэмжлэл тайлбарын эмэйл хуулбарыг ийш нь илгээх",module,Magento_Sales
-"Send Invoice Comments Email Copy Method","Нэхэмжлэл тайлбарын эмэйлийн хуулбарыг илгээх арга",module,Magento_Sales
-Shipment,Хүргэлт,module,Magento_Sales
-"Shipment Email Sender","Хүргэлтийн эмэйл илгээгч",module,Magento_Sales
-"Shipment Email Template","Хүргэлтийн эмэйл загвар",module,Magento_Sales
-"Shipment Email Template for Guest","Зочинд зориулсан хүргэлтийн эмэйл загвар",module,Magento_Sales
-"Send Shipment Email Copy To","Хүргэлтийн эмэйлийн хуулбарыг ийш нь илгээх",module,Magento_Sales
-"Send Shipment Email Copy Method","Хүргэлтийн эмэйлийн хуулбарыг илгээх арга",module,Magento_Sales
-"Shipment Comments","Хүргэлтийн тайлбар",module,Magento_Sales
-"Shipment Comment Email Sender","Хүргэлийн тайлбарын эмэйл илгээгч",module,Magento_Sales
-"Shipment Comment Email Template","Хүргэлийн тайлбарын эмэйл загвар",module,Magento_Sales
-"Shipment Comment Email Template for Guest","Зочинд зориулсан хүргэлийн тайлбарын эмэйл загвар",module,Magento_Sales
-"Send Shipment Comment Email Copy To","Хүргэлийн тайлбарын эмэйлийн хуулбарыг ийш нь илгээх",module,Magento_Sales
-"Send Shipment Comments Email Copy Method","Хүргэлийн тайлбарын эмэйл хуулбарыг илгээх арга",module,Magento_Sales
-"Credit Memo Email Sender","Эрхийн бичгийн эмэйл илгээгч",module,Magento_Sales
-"Credit Memo Email Template","Эрхийн бичгийн эмэйл загвар",module,Magento_Sales
-"Credit Memo Email Template for Guest","Зочинд зориулсан эрхийн бичгийн эмэйл загвар",module,Magento_Sales
-"Send Credit Memo Email Copy To","Эрхийн бичгийн эмэйл хуулбарыг ийш нь илгээх",module,Magento_Sales
-"Send Credit Memo Email Copy Method","Эрхийн бичгийн эмэйл хуулбарыг илгээх арга",module,Magento_Sales
-"Credit Memo Comment Email Sender","Эрхийн бичгийн тайлбарын эмэйл илгээгч",module,Magento_Sales
-"Credit Memo Comment Email Template","Эрхийн бичгийн тайлбарын эмэйл загвар",module,Magento_Sales
-"Credit Memo Comment Email Template for Guest","Зочинд зориулсан эрхийн бичгийн тайлбарын эмэйл загвар",module,Magento_Sales
-"Send Credit Memo Comment Email Copy To","Эрхийн бичгийн эмэйл хуулбарыг ийш нь илгээх",module,Magento_Sales
-"Send Credit Memo Comments Email Copy Method","Эрхийн бичгийн эмэйл хуулбарыг илгээх арга",module,Magento_Sales
-"PDF Print-outs","PDF гаргалт",module,Magento_Sales
-"Display Order ID in Header","Захиалгын ID толгойн хэсэгт харуулах",module,Magento_Sales
-"Customer Order Status Notification","Хэрэглэгчийн захиалгын статусын сонохдуулга",module,Magento_Sales
-"Asynchronous indexing","Асинхрон индексжүүлэлт",module,Magento_Sales
-"Orders and Returns Search Form","Захиалга болон буцаалтын хайлтын форм",module,Magento_Sales
-"Anchor Custom Title","Зангуунд хэрэглэгчийн өгсөн гарчиг ",module,Magento_Sales
-Template,Загвар,module,Magento_Sales
-"Default Template","Стандарт загвар",module,Magento_Sales
-Name,Нэр,module,Magento_Sales
-Phone,Утас,module,Magento_Sales
-"ZIP/Post Code","Шуудангийн индексийн код",module,Magento_Sales
-"Signed-up Point","Бүртгүүлэх цэг",module,Magento_Sales
-Website,Вэбсайт,module,Magento_Sales
-order-header,order-header,module,Magento_Sales
-"Bill-to Name","Тооцоон дээрх нэр",module,Magento_Sales
-Created,Үүсгэгдсэн,module,Magento_Sales
-"Invoice Date","Нэхэмжлэлийн огноо",module,Magento_Sales
-"Ship-to Name","Хүргэлтэн дээрх нэр",module,Magento_Sales
-"Ship Date","Хүргэлтийн огноо",module,Magento_Sales
-"Total Quantity","Нийт тоо",module,Magento_Sales
-"Default Status","Стандарт статус",module,Magento_Sales
-"State Code and Title","Байдлын код болон Гарчиг",module,Magento_Sales
-"All Store Views","Бүх дэлгүүрийн харагдац",module,Magento_Sales
-"PDF Credit Memos","PDF эрхийн бичиг",module,Magento_Sales
-"Purchase Point","Худалдааны газар",module,Magento_Sales
-"Print Invoices","Нэхэмжлэл хэвлэх",module,Magento_Sales
-"Print Packing Slips","Хүргэлтийн маягт хэвлэх",module,Magento_Sales
-"Print Credit Memos","Эрхийн бичиг хэвлэх",module,Magento_Sales
-"Print All","Бүгдийг хэвлэх",module,Magento_Sales
-"Print Shipping Labels","Хүргэлтийн шошгыг хэвлэх",module,Magento_Sales
-"Purchase Date","Худалдааны огноо",module,Magento_Sales
-"Grand Total (Base)","Эцсийн нийлбэр дүн (үндсэн)",module,Magento_Sales
-"Grand Total (Purchased)","Эцсийн нийлбэр дүн (төлсөн)",module,Magento_Sales
-"Customer Email","Хэрэглэгчийн эмэйл",module,Magento_Sales
-"Shipping and Handling","Хүргэлт болон Зохицуулах",module,Magento_Sales
-"PDF Invoices","PDF нэхэмжлэлүүд",module,Magento_Sales
-"PDF Shipments","PDF хүргэлтүүд",module,Magento_Sales
-"PDF Creditmemos","PDF эрхийн бичгүүд",module,Magento_Sales
-Refunds,"Буцаан олголт",module,Magento_Sales
+                    "
+Address,Хаяг
+"Minimum Order Amount","Захиалгын хамгийн бага дүн"
+Enable,Идэвхитэй
+"Minimum Amount","Хамгийн бага дүн"
+"Subtotal after discount","Хямдарсаны дараах хэсгийн дүн"
+"Include Tax to Amount","НӨТ-ийг дүнд оруулах"
+"Description Message","Тодорхойлолт зурвас"
+"This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.","Хэрэв хэсгийн дүн (хямдарсаны дараа) зөвшөөрөгдсөн хамгийн бага дүнгээс доогуур байгаа тохиолдолд энэ зурвас худалдан авагчийн сагсан дотор харагдах болно."
+"Error to Show in Shopping Cart","Алдааг худалдан авалтын сагсан дотор харуулах"
+"Validate Each Address Separately in Multi-address Checkout","Олон хаягтай худалдан авалтын үед бүх хаягийг шалгах"
+"Multi-address Description Message","Олон хаягийн тодорхойлолт зурвас"
+"We'll use the default description above if you leave this empty.","Хэрэв та үүнийг хоосон орхивол дээрхи стандарт зурвас хэрэглэгдэх болно."
+"Multi-address Error to Show in Shopping Cart","Олон хаягийн талаархи алдааг худалдааны сагсан дотор харагдуулах"
+"We'll use the default error above if you leave this empty.","Хэрэв та үүнийг хоосон орхивол дээрхи стандарт алдаа хэрэглэгдэх болно."
+Dashboard,"Хянах самбар"
+"Use Aggregated Data","Цуглуулсан өгөгдлийг хэрэглэх"
+"Orders Cron Settings","Захиалгын крон тохиргоо"
+"Pending Payment Order Lifetime (minutes)","Хүлээгдэж байгаа захиалгын хугацаа (минут)"
+"Sales Emails","Худалдааны эмэйл"
+"Asynchronous sending","Асинхрон илгээх"
+Enabled,Идэвхитэй
+"New Order Confirmation Email Sender","Шинэ захиалгын баталгаажуулалт эмэйлын илгээгч"
+"New Order Confirmation Template","Шинэ захиалгын баталгаажуулалтын загвар"
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Хэрэв ""стандарт"" сонголт сонгогдсон тохиолдолд эмэйл загвар нь загварын буцаж уналт дээр суурилна."
+"New Order Confirmation Template for Guest","Зочинд зориулсан шинэ захиалгын загвар"
+"Send Order Email Copy To","Захиалгын эмэйлийн хуулбарыг ийш нь илгээх"
+Comma-separated,"таслалаар тусгаарлагдсан"
+"Send Order Email Copy Method","Захиалгын эмэйл илгээх арга"
+"Order Comment Email Sender","Захиалгын тайлбар эмэйл илгээгч"
+"Order Comment Email Template","Захиалгын тайлбар эмэйл загвар"
+"Order Comment Email Template for Guest","Зочинд зориулсан захиалгын тайлбар эмэйл загвар"
+"Send Order Comment Email Copy To","Захиалгын тайлбарын эмэйлийн хуулбарыг ийш нь илгээх"
+"Send Order Comments Email Copy Method","Захиалгын тайлбарын эмэйл илгээх арга"
+"Invoice Email Sender","Нэхэмжлэл эмэйл илгээгч"
+"Invoice Email Template","Нэхэмжлэл эмэйлийн загвар"
+"Invoice Email Template for Guest","Зочинд зориулсан нэхэмжлэл эмэйлийн загвар"
+"Send Invoice Email Copy To","Нэхэмжлэл эмэйлийн хуулбарыг ийш нь илгээх"
+"Send Invoice Email Copy Method","Нэхэмжлэл эмэйлийн хуулбарыг ийш нь илгээх"
+"Invoice Comment Email Sender","Нэхэмжлэл тайлбар эмэйл илгээгч"
+"Invoice Comment Email Template","Нэхэмжлэл тайлбар эмэйлийн загвар"
+"Invoice Comment Email Template for Guest","Зочин зориулсан нэхэмжлэл тайлбар эмэйлийн загвар"
+"Send Invoice Comment Email Copy To","Нэхэмжлэл тайлбарын эмэйл хуулбарыг ийш нь илгээх"
+"Send Invoice Comments Email Copy Method","Нэхэмжлэл тайлбарын эмэйлийн хуулбарыг илгээх арга"
+Shipment,Хүргэлт
+"Shipment Email Sender","Хүргэлтийн эмэйл илгээгч"
+"Shipment Email Template","Хүргэлтийн эмэйл загвар"
+"Shipment Email Template for Guest","Зочинд зориулсан хүргэлтийн эмэйл загвар"
+"Send Shipment Email Copy To","Хүргэлтийн эмэйлийн хуулбарыг ийш нь илгээх"
+"Send Shipment Email Copy Method","Хүргэлтийн эмэйлийн хуулбарыг илгээх арга"
+"Shipment Comments","Хүргэлтийн тайлбар"
+"Shipment Comment Email Sender","Хүргэлийн тайлбарын эмэйл илгээгч"
+"Shipment Comment Email Template","Хүргэлийн тайлбарын эмэйл загвар"
+"Shipment Comment Email Template for Guest","Зочинд зориулсан хүргэлийн тайлбарын эмэйл загвар"
+"Send Shipment Comment Email Copy To","Хүргэлийн тайлбарын эмэйлийн хуулбарыг ийш нь илгээх"
+"Send Shipment Comments Email Copy Method","Хүргэлийн тайлбарын эмэйл хуулбарыг илгээх арга"
+"Credit Memo Email Sender","Эрхийн бичгийн эмэйл илгээгч"
+"Credit Memo Email Template","Эрхийн бичгийн эмэйл загвар"
+"Credit Memo Email Template for Guest","Зочинд зориулсан эрхийн бичгийн эмэйл загвар"
+"Send Credit Memo Email Copy To","Эрхийн бичгийн эмэйл хуулбарыг ийш нь илгээх"
+"Send Credit Memo Email Copy Method","Эрхийн бичгийн эмэйл хуулбарыг илгээх арга"
+"Credit Memo Comment Email Sender","Эрхийн бичгийн тайлбарын эмэйл илгээгч"
+"Credit Memo Comment Email Template","Эрхийн бичгийн тайлбарын эмэйл загвар"
+"Credit Memo Comment Email Template for Guest","Зочинд зориулсан эрхийн бичгийн тайлбарын эмэйл загвар"
+"Send Credit Memo Comment Email Copy To","Эрхийн бичгийн эмэйл хуулбарыг ийш нь илгээх"
+"Send Credit Memo Comments Email Copy Method","Эрхийн бичгийн эмэйл хуулбарыг илгээх арга"
+"PDF Print-outs","PDF гаргалт"
+"Display Order ID in Header","Захиалгын ID толгойн хэсэгт харуулах"
+"Customer Order Status Notification","Хэрэглэгчийн захиалгын статусын сонохдуулга"
+"Asynchronous indexing","Асинхрон индексжүүлэлт"
+"Orders and Returns Search Form","Захиалга болон буцаалтын хайлтын форм"
+"Anchor Custom Title","Зангуунд хэрэглэгчийн өгсөн гарчиг "
+Template,Загвар
+"Default Template","Стандарт загвар"
+Name,Нэр
+Phone,Утас
+"ZIP/Post Code","Шуудангийн индексийн код"
+"Signed-up Point","Бүртгүүлэх цэг"
+Website,Вэбсайт
+order-header,order-header
+"Bill-to Name","Тооцоон дээрх нэр"
+Created,Үүсгэгдсэн
+"Invoice Date","Нэхэмжлэлийн огноо"
+"Ship-to Name","Хүргэлтэн дээрх нэр"
+"Ship Date","Хүргэлтийн огноо"
+"Total Quantity","Нийт тоо"
+"Default Status","Стандарт статус"
+"State Code and Title","Байдлын код болон Гарчиг"
+"All Store Views","Бүх дэлгүүрийн харагдац"
+"PDF Credit Memos","PDF эрхийн бичиг"
+"Purchase Point","Худалдааны газар"
+"Print Invoices","Нэхэмжлэл хэвлэх"
+"Print Packing Slips","Хүргэлтийн маягт хэвлэх"
+"Print Credit Memos","Эрхийн бичиг хэвлэх"
+"Print All","Бүгдийг хэвлэх"
+"Print Shipping Labels","Хүргэлтийн шошгыг хэвлэх"
+"Purchase Date","Худалдааны огноо"
+"Grand Total (Base)","Эцсийн нийлбэр дүн (үндсэн)"
+"Grand Total (Purchased)","Эцсийн нийлбэр дүн (төлсөн)"
+"Customer Email","Хэрэглэгчийн эмэйл"
+"Shipping and Handling","Хүргэлт болон Зохицуулах"
+"PDF Invoices","PDF нэхэмжлэлүүд"
+"PDF Shipments","PDF хүргэлтүүд"
+"PDF Creditmemos","PDF эрхийн бичгүүд"
+Refunds,"Буцаан олголт"

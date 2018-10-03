@@ -1,44 +1,44 @@
-"Now Shopping by","Худалдан авах аар",theme,frontend/Magento/luma
-Previous,Өмнөх,theme,frontend/Magento/luma
-Remove,Арилгах,theme,frontend/Magento/luma
-"Remove This Item","Энэ артиклыг хасах",theme,frontend/Magento/luma
-"Shop By","Худалдан авах аар",theme,frontend/Magento/luma
-"Clear All","Бүгдийг цэвэрлэх",theme,frontend/Magento/luma
-"Shopping Options","Худалдан авалтын сонголтууд",theme,frontend/Magento/luma
-"%name,","%name,",theme,frontend/Magento/luma
-"Welcome to %store_name.","%store_name дэлгүүрт тавтай морил.",theme,frontend/Magento/luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Манай хуудсанд нэвтрэхийн тулд төлөх хуудсыг эсвэл <a href=""%customer_url"">Миний данс</a> хуудсыг хэрэглэнэ:",theme,frontend/Magento/luma
-Email:,Эмэйл:,theme,frontend/Magento/luma
-Password:,"Нууц үг":,theme,frontend/Magento/luma
-"Password you set when creating account","Таны данс үүсгэж байхдаа өгсөн нууц үг",theme,frontend/Magento/luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Тө өөрийн дансны нууц үгээ мартсан уу? Тэгвэл <a href=""%reset_url"">энд</a> дарж шинэчилнэ үү.",theme,frontend/Magento/luma
-"When you sign in to your account, you will be able to:","Хэрэв та өөрийн дансаар орвол эдгээрийг хийх боломжтой байна:",theme,frontend/Magento/luma
-"Quick Checkout","Хурдан төлөх хуудас",theme,frontend/Magento/luma
-"Proceed through checkout faster","Төлөх хуудас дундуур хурдан үргэлжлүүлэх",theme,frontend/Magento/luma
-"Order Status","Захиалгын статус",theme,frontend/Magento/luma
-"Check the status of orders","Захиалгуудын статусыг шалгах",theme,frontend/Magento/luma
-"Manage Addresses","Хаягуудыг зохицуулах",theme,frontend/Magento/luma
-"Store alternative addresses","Дэлгүүрийн өөр нэг хаяг",theme,frontend/Magento/luma
-"For shipping to multiple family members and friends","For shipping to multiple family members and friends",theme,frontend/Magento/luma
-"Order History","Захиалгын түүх",theme,frontend/Magento/luma
-"View past orders","Сүүлийн захиалгуудыг үзэх",theme,frontend/Magento/luma
-"About Us","Бидний тухай",theme,frontend/Magento/luma
-"Customer Service","Хэрэглэгчийн сервис",theme,frontend/Magento/luma
-"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Онгойх цагууд:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
-"Thank you for your order from %store_name.","Таньд %store_name дэлгүүрээс худалдан авалт хийсэнд баярлалаа.",theme,frontend/Magento/luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","<a href=""%account_url"">Өөрийн данс руугаа нэвтэрч</a> захиалгынхаа статусыг шалгаж болно.",theme,frontend/Magento/luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Хэрэв таньд захиалгатайгаа холбоотой ямар нэг асуулт байгаа бол <a href=""mailto:%store_email"">%store_email</a> эмэйл рүү бичээрэй.",theme,frontend/Magento/luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","#%order_id захиалгад зориулсан таны эрхийн бичиг #%creditmemo_id",theme,frontend/Magento/luma
-"Billing Info","Тооцооны мэдээ",theme,frontend/Magento/luma
-"Shipping Info","Хүргэлтийн мэдээ",theme,frontend/Magento/luma
-"Payment Method","Төлөлтийн мэдээ",theme,frontend/Magento/luma
-"Shipping Method","Хүргэлтийн арга",theme,frontend/Magento/luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Таны захиалга #%increment_id өөрчилөгдсөн ба <strong>%order_status</strong> статустай байна.",theme,frontend/Magento/luma
-"Your Invoice #%invoice_id for Order #%order_id","Захиалга #%order_id зориулсан нэхэмжлэл #%invoice_id",theme,frontend/Magento/luma
-"%customer_name,","%customer_name,",theme,frontend/Magento/luma
-"Once your package ships we will send you a tracking number.","Таны илгээмж илгээгдсэн тохиолдолд танд захиалга мөрдөх дугаарыг явуулах болно.",theme,frontend/Magento/luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Таны захиалга <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
-"Placed on <span class=""no-link"">%created_at</span>","Үүсгэгдсэн <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
-"Your shipping confirmation is below. Thank you again for your business.","Дараах бол таны хүргэлтийн мэдээлэл. Таны худалдаанд дахин баярласнаа илэрхийлье.",theme,frontend/Magento/luma
-"Your Shipment #%shipment_id for Order #%order_id","Таны хүргэлт #%shipment_id for Order #%order_id",theme,frontend/Magento/luma
+"Now Shopping by","Худалдан авах аар"
+Previous,Өмнөх
+Remove,Арилгах
+"Remove This Item","Энэ артиклыг хасах"
+"Shop By","Худалдан авах аар"
+"Clear All","Бүгдийг цэвэрлэх"
+"Shopping Options","Худалдан авалтын сонголтууд"
+"%name,","%name,"
+"Welcome to %store_name.","%store_name дэлгүүрт тавтай морил."
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Манай хуудсанд нэвтрэхийн тулд төлөх хуудсыг эсвэл <a href=""%customer_url"">Миний данс</a> хуудсыг хэрэглэнэ:"
+Email:,Эмэйл:
+Password:,"Нууц үг"
+"Password you set when creating account","Таны данс үүсгэж байхдаа өгсөн нууц үг"
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Тө өөрийн дансны нууц үгээ мартсан уу? Тэгвэл <a href=""%reset_url"">энд</a> дарж шинэчилнэ үү."
+"When you sign in to your account, you will be able to:","Хэрэв та өөрийн дансаар орвол эдгээрийг хийх боломжтой байна:"
+"Quick Checkout","Хурдан төлөх хуудас"
+"Proceed through checkout faster","Төлөх хуудас дундуур хурдан үргэлжлүүлэх"
+"Order Status","Захиалгын статус"
+"Check the status of orders","Захиалгуудын статусыг шалгах"
+"Manage Addresses","Хаягуудыг зохицуулах"
+"Store alternative addresses","Дэлгүүрийн өөр нэг хаяг"
+"For shipping to multiple family members and friends","For shipping to multiple family members and friends"
+"Order History","Захиалгын түүх"
+"View past orders","Сүүлийн захиалгуудыг үзэх"
+"About Us","Бидний тухай"
+"Customer Service","Хэрэглэгчийн сервис"
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>"
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Онгойх цагууд:<br /><span class=""no-link"">%store_hours</span>."
+"Thank you for your order from %store_name.","Таньд %store_name дэлгүүрээс худалдан авалт хийсэнд баярлалаа."
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","<a href=""%account_url"">Өөрийн данс руугаа нэвтэрч</a> захиалгынхаа статусыг шалгаж болно."
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Хэрэв таньд захиалгатайгаа холбоотой ямар нэг асуулт байгаа бол <a href=""mailto:%store_email"">%store_email</a> эмэйл рүү бичээрэй."
+"Your Credit Memo #%creditmemo_id for Order #%order_id","#%order_id захиалгад зориулсан таны эрхийн бичиг #%creditmemo_id"
+"Billing Info","Тооцооны мэдээ"
+"Shipping Info","Хүргэлтийн мэдээ"
+"Payment Method","Төлбөрийн мэдээ"
+"Shipping Method","Хүргэлтийн арга"
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Таны захиалга #%increment_id өөрчилөгдсөн ба <strong>%order_status</strong> статустай байна."
+"Your Invoice #%invoice_id for Order #%order_id","Захиалга #%order_id зориулсан нэхэмжлэл #%invoice_id"
+"%customer_name,","%customer_name,"
+"Once your package ships we will send you a tracking number.","Таны илгээмж илгээгдсэн тохиолдолд танд захиалга мөрдөх дугаарыг явуулах болно."
+"Your Order <span class=""no-link"">#%increment_id</span>","Таны захиалга <span class=""no-link"">#%increment_id</span>"
+"Placed on <span class=""no-link"">%created_at</span>","Үүсгэгдсэн <span class=""no-link"">%created_at</span>"
+"Your shipping confirmation is below. Thank you again for your business.","Дараах бол таны хүргэлтийн мэдээлэл. Таны худалдаанд дахин баярласнаа илэрхийлье."
+"Your Shipment #%shipment_id for Order #%order_id","Таны захиалга #%order_id -ын хүргэлт #%shipment_id"

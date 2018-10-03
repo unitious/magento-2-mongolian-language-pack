@@ -1,17 +1,17 @@
-"Save Currency Rates","Мөнгөн тэмдэгтийн тариф хадгалах",module,Magento_CurrencySymbol
-Reset,"Хэвд нь оруулах",module,Magento_CurrencySymbol
-Import,Импорт,module,Magento_CurrencySymbol
-"Manage Currency Rates","Мөнгөн тэмдэгтийн тарифийг удирдах",module,Magento_CurrencySymbol
-"Import Service","Импорт Сервис",module,Magento_CurrencySymbol
-"Save Currency Symbols","Мөнгөн тэмдэгт хадгалах",module,Magento_CurrencySymbol
-"Currency Symbols","Мөнгөн тэмдэгт тэмдэгүүд",module,Magento_CurrencySymbol
-"Use Standard","Стандарт хэрэглэх",module,Magento_CurrencySymbol
-"Please specify a correct Import Service.","Зөв импорт сервис тогтооно уу.",module,Magento_CurrencySymbol
-"We can\'t initialize the import model.","Импорт модель тогтоож чадахгүй байна.",module,Magento_CurrencySymbol
-"Click ""Save"" to apply the rates we found.","Олдсон тарифийг нэмэхийн тулд ""Хадгалах"" дарна уу.",module,Magento_CurrencySymbol
-"Currency Rates","Мөнгөн тэмдэгтийн тарифуул",module,Magento_CurrencySymbol
-"Please correct the input data for %1 => %2 rate","%1 => %2 тариф зориулсан өгөгдөлийн оролтыг зөв болгоно уу",module,Magento_CurrencySymbol
-"All valid rates have been saved.","Бүх хүчинтэй тарифууд хадгалагдсан.",module,Magento_CurrencySymbol
-System,Систем,module,Magento_CurrencySymbol
-"You applied the custom currency symbols.","Хэрэглэгчийн мөнгөн тэмдэгтийн тэмдэг нэмлээ.",module,Magento_CurrencySymbol
-"Old rate:","Хуучин тариф:",module,Magento_CurrencySymbol
+"Save Currency Rates","Мөнгөн тэмдэгтийн тариф хадгалах"
+Reset,"Хэвд нь оруулах"
+Import,Импорт
+"Manage Currency Rates","Мөнгөн тэмдэгтийн тарифийг удирдах"
+"Import Service","Импорт Сервис"
+"Save Currency Symbols","Мөнгөн тэмдэгт хадгалах"
+"Currency Symbols","Мөнгөн тэмдэгт тэмдэгүүд"
+"Use Standard","Стандарт хэрэглэх"
+"Please specify a correct Import Service.","Зөв импорт сервис тогтооно уу."
+"We can\'t initialize the import model.","Импорт модель тогтоож чадахгүй байна."
+"Click ""Save"" to apply the rates we found.","Олдсон тарифийг нэмэхийн тулд ""Хадгалах"" дарна уу."
+"Currency Rates","Мөнгөн тэмдэгтийн тарифуул"
+"Please correct the input data for %1 => %2 rate","%1 => %2 тариф зориулсан өгөгдөлийн оролтыг зөв болгоно уу"
+"All valid rates have been saved.","Бүх хүчинтэй тарифууд хадгалагдсан."
+System,Систем
+"You applied the custom currency symbols.","Хэрэглэгчийн мөнгөн тэмдэгтийн тэмдэг нэмлээ."
+"Old rate:","Хуучин тариф:"

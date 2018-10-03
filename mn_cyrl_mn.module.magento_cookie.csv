@@ -1,13 +1,13 @@
-"Invalid domain name: %1","Хүчингүй домэйн нэр: %1",module,Magento_Cookie
-"Invalid cookie lifetime: %1","Хүчингүй күүки наслалт: %1",module,Magento_Cookie
-"Invalid cookie path","Хүчингүй күүки зам",module,Magento_Cookie
-"We use cookies to make your experience better.","Танд илүү сайн туршлага хийхэд зориулж күүки хэрэглэдэг.",module,Magento_Cookie
-"To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","Шинэ хэрэглэгчийн өгөгдөлийн дүрмийн дагуу күүки ашиглахдаа таны зөвшөөрлийг авч байна.",module,Magento_Cookie
-"<a href=""%1"">Learn more</a>.","<a href=""%1"">Илүү мэдэж авах</a>.",module,Magento_Cookie
-"Allow Cookies","Күүки зөвшөөрөх",module,Magento_Cookie
-"Default Cookie Settings","Стандарт Күүки тохируулга",module,Magento_Cookie
-"Cookie Lifetime","Күүки наслалт",module,Magento_Cookie
-"Cookie Path","Күүки зам",module,Magento_Cookie
-"Cookie Domain","Күүки домэйн",module,Magento_Cookie
-"Use HTTP Only","Зөвхөн HTTP хэрэглэх",module,Magento_Cookie
-"Cookie Restriction Mode","Күүки хязгаарлах горим",module,Magento_Cookie
+"Invalid domain name: %1","Хүчингүй домэйн нэр: %1"
+"Invalid cookie lifetime: %1","Хүчингүй күүки наслалт: %1"
+"Invalid cookie path","Хүчингүй күүки зам"
+"We use cookies to make your experience better.","Танд илүү сайн туршлага хийхэд зориулж күүки хэрэглэдэг."
+"To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","Шинэ хэрэглэгчийн өгөгдөлийн дүрмийн дагуу күүки ашиглахдаа таны зөвшөөрлийг авч байна."
+"<a href=""%1"">Learn more</a>.","<a href=""%1"">Илүү мэдэж авах</a>."
+"Allow Cookies","Күүки зөвшөөрөх"
+"Default Cookie Settings","Стандарт Күүки тохируулга"
+"Cookie Lifetime","Күүки наслалт"
+"Cookie Path","Күүки зам"
+"Cookie Domain","Күүки домэйн"
+"Use HTTP Only","Зөвхөн HTTP хэрэглэх"
+"Cookie Restriction Mode","Күүки хязгаарлах горим"

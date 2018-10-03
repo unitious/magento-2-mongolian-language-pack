@@ -1,137 +1,141 @@
-"Shopping Cart","Худалдааны Сагс",module,Magento_Checkout
-"Invalid method: %1","Хүчингүй арга: %1",module,Magento_Checkout
-City,Хот,module,Magento_Checkout
-Country,Улс,module,Magento_Checkout
-State/Province,Аймаг/Дүүрэг,module,Magento_Checkout
-"Zip/Postal Code","Шуудангийн индекс код",module,Magento_Checkout
-"My Cart (1 item)","Миний сагс (1 артикль)",module,Magento_Checkout
-"My Cart (%1 items)","Миний сагс (%1 артиклиуд)",module,Magento_Checkout
-"My Cart","Миний сагс",module,Magento_Checkout
-"Minimum order amount is %1","Хамгийн бага захиалгын дүн %1",module,Magento_Checkout
-"Customer is already registered","Хэрэглэгч аль хэдийн бүртгэгдсэн",module,Magento_Checkout
-"Your session has expired","Таны суулт дууссан байна",module,Magento_Checkout
-"You added %1 to your shopping cart.","Та %1-г өөрийн худалдааны сагсандаа нэмлээ.",module,Magento_Checkout
-"We can\'t add this item to your shopping cart right now.","Энэ артиклийг яг одоогоор таны сагсанд нэмэх боломжгүй.",module,Magento_Checkout
-"Out of stock","Агуулахад байхгүй",module,Magento_Checkout
-"We can't find the quote item.","Квотын артикль олж чадахгүй байна.",module,Magento_Checkout
-"We cannot configure the product.","Бүтээгдэхүүнийг тохируулж чадахгүй байна.",module,Magento_Checkout
-"You used coupon code ""%1"".","Та купон код ""%1"" хэрэглэсэн.",module,Magento_Checkout
-"The coupon code ""%1"" is not valid.","Купон код ""%1"" хүчингүй байна.",module,Magento_Checkout
-"You canceled the coupon code.","Та купон кодоо хаслаа.",module,Magento_Checkout
-"We cannot apply the coupon code.","Энэ купон кодыг нэмэх боломжгүй.",module,Magento_Checkout
-"We can\'t remove the item.","Энэ артиклийг хасч чадахгүй байна.",module,Magento_Checkout
-"%1 was updated in your shopping cart.","%1 таны сагсанд шинэчлэгдсэн.",module,Magento_Checkout
-"We can\'t update the item right now.","Яг одоогоор энэ артиклийг шинэчлэх боломжгүй.",module,Magento_Checkout
-"We can\'t update the shopping cart.","Сагыг шинэчилж чадахгүй байна.",module,Magento_Checkout
-"One-page checkout is turned off.","Нэг хуудаст тооцооны хуудас хаагдсан байна.",module,Magento_Checkout
-"Guest checkout is disabled.","Зочин тооцоо хийлт хаагдсан байна.",module,Magento_Checkout
-Checkout,"Тооцоо хийлт",module,Magento_Checkout
-"Page not found.","Хуудас олдсонгүй.",module,Magento_Checkout
-"Please agree to all the terms and conditions before placing the order.","Захиалга нэмэхээс өмнө бүх нөхцөл болон дүрмийг зөвшөөрнө үү.",module,Magento_Checkout
-"Something went wrong while processing your order. Please try again later.","Захиалгыг боловсруулж байхад алдаа гарлаа. Дараа дахин оролдоно уу",module,Magento_Checkout
-"%1 doesn\'t extend \Magento\Checkout\CustomerData\ItemInterface","%1 \Magento\Checkout\CustomerData\ItemInterface уламжлаагүй байна",module,Magento_Checkout
-"We can\'t find the product.","Энэ бүтээгдэхүүнийг олж чадахгүй байна.",module,Magento_Checkout
-"The product does not exist.","Энэ бүтээгдэхүүн байхгүй байна.",module,Magento_Checkout
-"We don't have some of the products you want.","Таны хүсч байгаа зарим бүтээгдэхүүн байхгүй байна.",module,Magento_Checkout
-"We don't have as many of some products as you want.","Зарим бүтээгдэхүүнээс таны хүсч байгаа хэмжээгээр алга.",module,Magento_Checkout
-"Quantity was recalculated from %1 to %2","Тоо ширхэг %1 ээс %2 руу шилжүүлэгдсэн байна",module,Magento_Checkout
-"We adjusted product quantities to fit the required increments.","Шаардагдсан хэмжээнд тохируулан бүтээгдэхүүний тоо ширхэгийг заслаа.",module,Magento_Checkout
-"This quote item does not exist.","Квот дахь артикль байхгүй байна.",module,Magento_Checkout
-"Display number of items in cart","Сагсан дахь артиклиудын тоог харуулах",module,Magento_Checkout
-"Display item quantities","Артикль тоог харуулах",module,Magento_Checkout
-"Shipping address is not set","Хүргэлтийн хаяг оруулаагүй байна",module,Magento_Checkout
-"Unable to save address. Please, check input data.","Хаяг хадгалах боломжгүй. Оруулсан өгөгдлөө шалгана уу",module,Magento_Checkout
-"Carrier with such method not found: %1, %2","Ийм аргатай зөөвөрлөгч олдсонгүй: %1, %2",module,Magento_Checkout
-"Unable to save shipping information. Please, check input data.","Хүргэлтийн мэдээллийг хадгалах боломжгүй. Оруулсан өгөгдөлөө шалгана уу.",module,Magento_Checkout
-"Cart contains virtual product(s) only. Shipping address is not applicable.","Сагс зөвхөн виртуал бүтээгдэхүүн(үүд) агуулж байна. Хүргэлтийн хаяг хэрэгцээгүй.",module,Magento_Checkout
-"Shipping method is not applicable for empty cart","Хүргэлтийн арга хоосон сагсанд хэрэгцээгүй",module,Magento_Checkout
-" item"," артикль",module,Magento_Checkout
-" items"," артиклиуд",module,Magento_Checkout
-"Totals calculation is not applicable to empty cart","Нийт дүнгийн тооцоололт хоосон сагсанд хэрэггүй",module,Magento_Checkout
-"Invalid data","Хүчингүй өгөгдөл",module,Magento_Checkout
-"The customer address is not valid.","Хэрэглэгчийн хаяг алдаатай байна.",module,Magento_Checkout
-"Invalid shipping method","Хүчингүй хүргэлтийн арга",module,Magento_Checkout
-"There are more than one shipping addresses.","Энд нэгээс илүү хүргэлтийн арга байна.",module,Magento_Checkout
-"Sorry, guest checkout is not available.","Уучлаарай, зочин тооцоололт боломжгүй.",module,Magento_Checkout
-"You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.",
-"Та өөрийн дансаа батлах ёстой. Баталгаажуулах холбоосыг эмэйлээсээ шалга эсвэл шинэ холбоос авахын тулд <a href=""%1"">энд дар</a>.",module,Magento_Checkout
-"Load customer quote error","Хэрэглэгчийн квот ачаалахад алдаа гарлаа",module,Magento_Checkout
-"Error message!","Алдааны мэдээлэл!",module,Magento_Checkout
-Error!,Алдаа!,module,Magento_Checkout
-"Wrong minimum amount.","Буруу хамгийн бага дүн.",module,Magento_Checkout
-Message,Зурвас,module,Magento_Checkout
-"<a href=""%1"" onclick=""this.target=\'_blank\'"" class=""print"">Print receipt</a>",
-"<a href=""%1"" onclick=""this.target=\'_blank\'"" class=""print"">Баримт хэвлэх</a>",module,Magento_Checkout
-"Apply Discount Code","Хямдралын код нэмэх",module,Magento_Checkout
-"Enter discount code","Хямдралын код оруулах",module,Magento_Checkout
-"Apply Discount","Хямдрал нэмэх",module,Magento_Checkout
-"Cancel Coupon","Купон цуцлах",module,Magento_Checkout
-"Shopping Cart Items","Сагсан дахь артиклиуд",module,Magento_Checkout
-Item,Артикль,module,Magento_Checkout
-Price,Үнэ,module,Magento_Checkout
-Qty,Тоо,module,Magento_Checkout
-Subtotal,"Завсрын дүн",module,Magento_Checkout
-"Continue Shopping","Худалдан авалт үргэлжлүүлэх",module,Magento_Checkout
-"Clear Shopping Cart","Сагс хоослох",module,Magento_Checkout
-"Update Shopping Cart","Сагс шинэчилэх",module,Magento_Checkout
-"Update Cart","Сагс шинэчилэх",module,Magento_Checkout
-"See price before order confirmation.","Захиалга батлахын өмнө үнийг харна уу.",module,Magento_Checkout
-"What's this?","Энэ юу вэ?",module,Magento_Checkout
-"Edit item parameters","Артикль параметр өөрчилөх",module,Magento_Checkout
-Edit,Өөрчилөх,module,Magento_Checkout
-"Remove item","Артикль хасах",module,Magento_Checkout
-"You have no items in your shopping cart.","Таны сагсан дотор артикль байхгүй байна.",module,Magento_Checkout
-"Click <a href=""%1"">here</a> to continue shopping.","Худалдан авалтыг үргэлжлүүлэхийн тулд <a href=""%1"">энд дар</a>.",module,Magento_Checkout
-"Estimate Tax","Татвар тооцох",module,Magento_Checkout
-"Estimate Shipping and Tax","Хүргэлт болон татвар тооцох",module,Magento_Checkout
-"Excl. Tax","Татвар ороогүй",module,Magento_Checkout
-Loading...,"Ачаалж байна...",module,Magento_Checkout
-"Order #","Захиалга #",module,Magento_Checkout
-"Proceed to Checkout","Тооцоо хийх",module,Magento_Checkout
-"Product Name","Бүтээгдэхүүний нэр",module,Magento_Checkout
-"Incl. Tax","Татвар орсон",module,Magento_Checkout
-"Your order number is: %1.","Таны захиалгын дугаар: %1.",module,Magento_Checkout
-"Your order # is: <span>%1</span>.","Таны захиалга # бол: <span>%1</span>.",module,Magento_Checkout
-"We\'ll email you an order confirmation with details and tracking info.","Танд захиалгын дэлгэрэнгүй болон мөрдөх мэдээлэлтэй захиалга баталгаажуулсан эмэйл явуулах болно.",module,Magento_Checkout
-"Payment Transaction Failed","Төлбөрийн гүйлгээ алдаатай",module,Magento_Checkout
-Reason,Шалтгаан,module,Magento_Checkout
-"Checkout Type","Тооцооны төрөл",module,Magento_Checkout
-Customer:,Хэрэглэгч:,module,Magento_Checkout
-Items,Артиклиуд,module,Magento_Checkout
-Total:,Нийт:,module,Magento_Checkout
-"Billing Address:","Тооцоны хаяг:",module,Magento_Checkout
-"Shipping Address:","Хүргэлтийн хаяг:",module,Magento_Checkout
-"Shipping Method:","Хүргэлтийн арга:",module,Magento_Checkout
-"Payment Method:","Төлөлтийн арга:",module,Magento_Checkout
-"Date & Time:","Өдөр & Цаг:",module,Magento_Checkout
-"Checkout Options","Тооцооны сонголтууд",module,Magento_Checkout
-"Enable Onepage Checkout","Нэг хуудас тооцоололтыг идэвхижүүлэх",module,Magento_Checkout
-"Allow Guest Checkout","Зочин тооцоололтыг зөвшөөрөх",module,Magento_Checkout
-"Require Customer To Be Logged In To Checkout","Хэрэглэгч тооцоо хийж байхдаа нэвтрэхийг зөвшөөрөх",module,Magento_Checkout
-"Quote Lifetime (days)","Квот амьдрах хугацаа (өдрөөр)",module,Magento_Checkout
-"After Adding a Product Redirect to Shopping Cart","Бүтээгдэхүүн нэмсэний дараа сагс руу үсрэх",module,Magento_Checkout
-"My Cart Link","Миний сагсны холбоос",module,Magento_Checkout
-"Display Cart Summary","Сагсны хураангуй харуулах",module,Magento_Checkout
-"Shopping Cart Sidebar","Сагс хажуу багана",module,Magento_Checkout
-"Display Shopping Cart Sidebar","Сагсыг хажуу баганад харуулах",module,Magento_Checkout
-"Maximum Display Recently Added Item(s)","Дөнгөж сая нэмэгдсэн артикль(ууд)-ын хамгийн их харагдуулалт",module,Magento_Checkout
-"Payment Failed Emails","Төлөлт алдаатай эмэйлүүд",module,Magento_Checkout
-"Payment Failed Email Sender","Алдаатай Төлөлт эмэйл илгээгч",module,Magento_Checkout
-"Payment Failed Email Receiver","Алдаатай Төлөлт эмэйл хүлээн авагч",module,Magento_Checkout
-"Payment Failed Template","Алдаатай Төлөлт темплэйт",module,Magento_Checkout
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Хэрэв ""Стандарт"" сонгогдсон бол эмэйл сонголт загварын буцаж унах зарчим дээр суурилна.",module,Magento_Checkout
-"Send Payment Failed Email Copy To","Алдаатай Төлөлт Эмэйлийн хуулбарыг хаашаа илгээх",module,Magento_Checkout
-"Separate by "","".",""",""-аар тусгаарлах.",module,Magento_Checkout
-"Send Payment Failed Email Copy Method","Алдаатай Төлөлт Эмэйл Хуулбар илгээх арга",module,Magento_Checkout
-Shipping,Хүргэлт,module,Magento_Checkout
-"Order Total","Захиалгын дүн",module,Magento_Checkout
-"Shipping Address","Хүргэлтийн хаяг",module,Magento_Checkout
-"Save Address","Хаяг хадгалах",module,Magento_Checkout
-Cancel,Болих,module,Magento_Checkout
-"We'll send your order confirmation here.","Таны захиалгын баталгаажуулалтыг явуулах болно.",module,Magento_Checkout
-"For delivery questions.","Хүргэлтэнд зориулсан асуултууд.",module,Magento_Checkout
-Payment,Төлөлт,module,Magento_Checkout
-"Cart Subtotal","Сагсны завсрын дүн",module,Magento_Checkout
-"Not yet calculated","Арай тооцоологдоогүй",module,Magento_Checkout
-"We received your order!","Таны захиалгыг хүлээн авсан!",module,Magento_Checkout
-"Thank you for your purchase!","Таны худалдан авалтанд баярлалаа!",module,Magento_Checkout
+"Shopping Cart","Худалдааны Сагс"
+"Invalid method: %1","Хүчингүй арга: %1"
+City,Хот
+Country,Улс
+State/Province,Аймаг/Дүүрэг
+"Zip/Postal Code","Шуудангийн индекс код"
+"My Cart (1 item)","Миний сагс (1 артикль)"
+"My Cart (%1 items)","Миний сагс (%1 артиклиуд)"
+"My Cart","Миний сагс"
+"Minimum order amount is %1","Хамгийн бага захиалгын дүн %1"
+"Customer is already registered","Хэрэглэгч аль хэдийн бүртгэгдсэн"
+"Your session has expired","Таны суулт дууссан байна"
+"You added %1 to your shopping cart.","Та %1-г өөрийн худалдааны сагсандаа нэмлээ."
+"We can\'t add this item to your shopping cart right now.","Энэ артиклийг яг одоогоор таны сагсанд нэмэх боломжгүй."
+"Out of stock","Агуулахад байхгүй"
+"We can't find the quote item.","Квотын артикль олж чадахгүй байна."
+"We cannot configure the product.","Бүтээгдэхүүнийг тохируулж чадахгүй байна."
+"You used coupon code ""%1"".","Та купон код ""%1"" хэрэглэсэн."
+"The coupon code ""%1"" is not valid.","Купон код ""%1"" хүчингүй байна."
+"You canceled the coupon code.","Та купон кодоо хаслаа."
+"We cannot apply the coupon code.","Энэ купон кодыг нэмэх боломжгүй."
+"We can\'t remove the item.","Энэ артиклийг хасч чадахгүй байна."
+"%1 was updated in your shopping cart.","%1 таны сагсанд шинэчлэгдсэн."
+"We can\'t update the item right now.","Яг одоогоор энэ артиклийг шинэчлэх боломжгүй."
+"We can\'t update the shopping cart.","Сагыг шинэчилж чадахгүй байна."
+"One-page checkout is turned off.","Нэг хуудаст тооцооны хуудас хаагдсан байна."
+"Guest checkout is disabled.","Зочин тооцоо хийлт хаагдсан байна."
+Checkout,"Тооцоо хийлт"
+"Page not found.","Хуудас олдсонгүй."
+"Please agree to all the terms and conditions before placing the order.","Захиалга нэмэхээс өмнө бүх нөхцөл болон дүрмийг зөвшөөрнө үү."
+"Something went wrong while processing your order. Please try again later.","Захиалгыг боловсруулж байхад алдаа гарлаа. Дараа дахин оролдоно уу"
+"%1 doesn\'t extend \Magento\Checkout\CustomerData\ItemInterface","%1 \Magento\Checkout\CustomerData\ItemInterface уламжлаагүй байна"
+"We can\'t find the product.","Энэ бүтээгдэхүүнийг олж чадахгүй байна."
+"The product does not exist.","Энэ бүтээгдэхүүн байхгүй байна."
+"We don't have some of the products you want.","Таны хүсч байгаа зарим бүтээгдэхүүн байхгүй байна."
+"We don't have as many of some products as you want.","Зарим бүтээгдэхүүнээс таны хүсч байгаа хэмжээгээр алга."
+"Quantity was recalculated from %1 to %2","Тоо ширхэг %1 ээс %2 руу шилжүүлэгдсэн байна"
+"We adjusted product quantities to fit the required increments.","Шаардагдсан хэмжээнд тохируулан бүтээгдэхүүний тоо ширхэгийг заслаа."
+"This quote item does not exist.","Квот дахь артикль байхгүй байна."
+"Display number of items in cart","Сагсан дахь артиклиудын тоог харуулах"
+"Display item quantities","Артикль тоог харуулах"
+"Shipping address is not set","Хүргэлтийн хаяг оруулаагүй байна"
+"Unable to save address. Please, check input data.","Хаяг хадгалах боломжгүй. Оруулсан өгөгдлөө шалгана уу"
+"Carrier with such method not found: %1, %2","Ийм аргатай зөөвөрлөгч олдсонгүй: %1, %2"
+"Unable to save shipping information. Please, check input data.","Хүргэлтийн мэдээллийг хадгалах боломжгүй. Оруулсан өгөгдөлөө шалгана уу."
+"Cart contains virtual product(s) only. Shipping address is not applicable.","Сагс зөвхөн виртуал бүтээгдэхүүн(үүд) агуулж байна. Хүргэлтийн хаяг хэрэгцээгүй."
+"Shipping method is not applicable for empty cart","Хүргэлтийн арга хоосон сагсанд хэрэгцээгүй"
+" item"," артикль"
+" items"," артиклиуд"
+"Totals calculation is not applicable to empty cart","Нийт дүнгийн тооцоололт хоосон сагсанд хэрэггүй"
+"Invalid data","Хүчингүй өгөгдөл"
+"The customer address is not valid.","Хэрэглэгчийн хаяг алдаатай байна."
+"Invalid shipping method","Хүчингүй хүргэлтийн арга"
+"There are more than one shipping addresses.","Энд нэгээс илүү хүргэлтийн арга байна."
+"Sorry, guest checkout is not available.","Уучлаарай, зочин тооцоололт боломжгүй."
+"You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Та өөрийн дансаа батлах ёстой. Баталгаажуулах холбоосыг эмэйлээсээ шалга эсвэл шинэ холбоос авахын тулд <a href=""%1"">энд дар</a>."
+"Load customer quote error","Хэрэглэгчийн квот ачаалахад алдаа гарлаа"
+"Error message!","Алдааны мэдээлэл!"
+Error!,Алдаа!
+"Wrong minimum amount.","Буруу хамгийн бага дүн."
+Message,Зурвас
+"<a href=""%1"" onclick=""this.target=\'_blank\'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target=\'_blank\'"" class=""print"">Баримт хэвлэх</a>"
+"Apply Discount Code","Хямдралын код нэмэх"
+"Enter discount code","Хямдралын код оруулах"
+"Apply Discount","Хямдрал нэмэх"
+"Cancel Coupon","Купон цуцлах"
+"Shopping Cart Items","Сагсан дахь артиклиуд"
+Item,Артикль
+Price,Үнэ
+Qty,Тоо
+Subtotal,"Завсрын дүн"
+"Continue Shopping","Худалдан авалт үргэлжлүүлэх"
+"Clear Shopping Cart","Сагс хоослох"
+"Update Shopping Cart","Сагс шинэчилэх"
+"Update Cart","Сагс шинэчилэх"
+"See price before order confirmation.","Захиалга батлахын өмнө үнийг харна уу."
+"What's this?","Энэ юу вэ?"
+"Edit item parameters","Артикль параметр өөрчилөх"
+Edit,Өөрчилөх
+"Remove item","Артикль хасах"
+"You have no items in your shopping cart.","Таны сагсан дотор артикль байхгүй байна."
+"Click <a href=""%1"">here</a> to continue shopping.","Худалдан авалтыг үргэлжлүүлэхийн тулд <a href=""%1"">энд дар</a>."
+"Estimate Tax","Татвар тооцох"
+"Estimate Shipping and Tax","Хүргэлт болон татвар тооцох"
+"Excl. Tax","Татвар ороогүй"
+Loading...,"Ачаалж байна..."
+"Order #","Захиалга #"
+"Proceed to Checkout","Тооцоо хийх"
+"Product Name","Бүтээгдэхүүний нэр"
+"Incl. Tax","Татвар орсон"
+"Your order number is: %1.","Таны захиалгын дугаар: %1."
+"Your order # is: <span>%1</span>.","Таны захиалга # бол: <span>%1</span>."
+"We\'ll email you an order confirmation with details and tracking info.","Танд захиалгын дэлгэрэнгүй болон мөрдөх мэдээлэлтэй захиалга баталгаажуулсан эмэйл явуулах болно."
+"Payment Transaction Failed","Төлбөрийн гүйлгээ алдаатай"
+Reason,Шалтгаан
+"Checkout Type","Тооцооны төрөл"
+Customer:,Хэрэглэгч:
+Items,Артиклиуд
+Total:,Нийт:
+"Billing Address:","Тооцоны хаяг:"
+"Shipping Address:","Хүргэлтийн хаяг:"
+"Shipping Method:","Хүргэлтийн арга:"
+"Payment Method:","Төлөлтийн арга:"
+"Date & Time:","Өдөр & Цаг:"
+"Checkout Options","Тооцооны сонголтууд"
+"Enable Onepage Checkout","Нэг хуудас тооцоололтыг идэвхижүүлэх"
+"Allow Guest Checkout","Зочин тооцоололтыг зөвшөөрөх"
+"Require Customer To Be Logged In To Checkout","Хэрэглэгч тооцоо хийж байхдаа нэвтрэхийг зөвшөөрөх"
+"Quote Lifetime (days)","Квот амьдрах хугацаа (өдрөөр)"
+"After Adding a Product Redirect to Shopping Cart","Бүтээгдэхүүн нэмсэний дараа сагс руу үсрэх"
+"My Cart Link","Миний сагсны холбоос"
+"Display Cart Summary","Сагсны хураангуй харуулах"
+"Shopping Cart Sidebar","Сагс хажуу багана"
+"Display Shopping Cart Sidebar","Сагсыг хажуу баганад харуулах"
+"Maximum Display Recently Added Item(s)","Дөнгөж сая нэмэгдсэн артикль(ууд)-ын хамгийн их харагдуулалт"
+"Payment Failed Emails","Төлөлт алдаатай эмэйлүүд"
+"Payment Failed Email Sender","Алдаатай Төлөлт эмэйл илгээгч"
+"Payment Failed Email Receiver","Алдаатай Төлөлт эмэйл хүлээн авагч"
+"Payment Failed Template","Алдаатай Төлөлт темплэйт"
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Хэрэв ""Стандарт"" сонгогдсон бол эмэйл сонголт загварын буцаж унах зарчим дээр суурилна."
+"Send Payment Failed Email Copy To","Алдаатай Төлөлт Эмэйлийн хуулбарыг хаашаа илгээх"
+"Separate by "","".",""",""-аар тусгаарлах."
+"Send Payment Failed Email Copy Method","Алдаатай Төлөлт Эмэйл Хуулбар илгээх арга"
+Shipping,Хүргэлт
+"Order Total","Захиалгын дүн"
+"Shipping Address","Хүргэлтийн хаяг"
+"Save Address","Хаяг хадгалах"
+Cancel,Болих
+"We'll send your order confirmation here.","Таны захиалгын баталгаажуулалтыг явуулах болно."
+"For delivery questions.","Хүргэлтэнд зориулсан асуултууд."
+Payment,Төлөлт
+"Cart Subtotal","Сагсны завсрын дүн"
+"Not yet calculated","Арай тооцоологдоогүй"
+"We received your order!","Таны захиалгыг хүлээн авсан!"
+"Thank you for your purchase!","Таны худалдан авалтанд баярлалаа!"
+"Review & Payments","Хяналт болон төлбөр"
+"Order Summary","Захиалга"
+"Item in Cart"," бараа сагсанд байна"
+"Items in Cart"," бараа сагсанд байна"
+"Place Order","Захиалга хийх"
+"You can create an account after checkout.","Захиалга хийсний дараа шинэ данс үүсгэж болно."

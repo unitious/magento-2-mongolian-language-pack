@@ -1,11 +1,17 @@
 {
-  "name": "ulzii/mage2-locale-mn-cyrl-mn",
+  "name": "unitious/magento-2-mongolian-language-pack",
   "description": "Mongolian language for Magento 2",
   "license": [
     "OSL-3.0"
   ],
+  "authors": [
+        {
+            "name": "Munkh-Ulzii B.",
+            "homepage": "http://www.ulzii.com"
+        }
+  ],
   "require": {
-    "magento/framework": "100.0.*"
+    "magento/framework": "^100.0.0 || ^101.0.0"
   },
   "type": "magento2-language",
   "autoload": {

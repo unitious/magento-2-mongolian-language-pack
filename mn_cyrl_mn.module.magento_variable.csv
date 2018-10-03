@@ -1,21 +1,21 @@
-"Custom Variables","Хэрэглэгчийн хувьсагч",module,Magento_Variable
-"Add New Variable","Шинэ хувьсагч нэмэх",module,Magento_Variable
-"Save and Continue Edit","Хадгалах болон Өөрчлөлтийг үргэлжлүүлэх",module,Magento_Variable
-"Custom Variable ""%1""","Хэрэглэгчийн хувьсагч ""%1""",module,Magento_Variable
-"New Custom Variable","Шинэ хэрэглэгчийн хувьсагч",module,Magento_Variable
-Variable,Хувьсагч,module,Magento_Variable
-"Variable Code","Хувьсагчийн код",module,Magento_Variable
-"Variable Name","Хувьсагчийн нэр",module,Magento_Variable
-"Use Default Variable Values","Хувьсагчийн стандарт утгуудыг хэрэглэх",module,Magento_Variable
-No,Үгүй,module,Magento_Variable
-Yes,Тийм,module,Magento_Variable
-"Variable HTML Value","Хувьсагч HTML утга",module,Magento_Variable
-"Variable Plain Value","Хувьсагч Энгийн утга",module,Magento_Variable
-"You deleted the custom variable.","Та хэрэглэгчийн хувьсагчийг устгасан.",module,Magento_Variable
-"You saved the custom variable.","Та хэрэглэгчийн хувьсагчийг хадгалсан.",module,Magento_Variable
-"Variable Code must be цор ганц байх ёстой.","Хувьсагчийн код .",module,Magento_Variable
-"Validation has failed.","Баталгаа бүтсэнгүй.",module,Magento_Variable
-%1,%1,module,Magento_Variable
-"Insert Variable...","Хувьсагч оруулна уу...",module,Magento_Variable
-"Variable ID","Хувьсагч ID",module,Magento_Variable
-Name,Нэр,module,Magento_Variable
+"Custom Variables","Хэрэглэгчийн хувьсагч"
+"Add New Variable","Шинэ хувьсагч нэмэх"
+"Save and Continue Edit","Хадгалах болон Өөрчлөлтийг үргэлжлүүлэх"
+"Custom Variable ""%1""","Хэрэглэгчийн хувьсагч ""%1"""
+"New Custom Variable","Шинэ хэрэглэгчийн хувьсагч"
+Variable,Хувьсагч
+"Variable Code","Хувьсагчийн код"
+"Variable Name","Хувьсагчийн нэр"
+"Use Default Variable Values","Хувьсагчийн стандарт утгуудыг хэрэглэх"
+No,Үгүй
+Yes,Тийм
+"Variable HTML Value","Хувьсагч HTML утга"
+"Variable Plain Value","Хувьсагч Энгийн утга"
+"You deleted the custom variable.","Та хэрэглэгчийн хувьсагчийг устгасан."
+"You saved the custom variable.","Та хэрэглэгчийн хувьсагчийг хадгалсан."
+"Variable Code must be цор ганц байх ёстой.","Хувьсагчийн код ."
+"Validation has failed.","Баталгаа бүтсэнгүй."
+%1,%1
+"Insert Variable...","Хувьсагч оруулна уу..."
+"Variable ID","Хувьсагч ID"
+Name,Нэр

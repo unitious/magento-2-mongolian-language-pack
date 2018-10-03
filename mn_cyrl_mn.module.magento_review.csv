@@ -1,131 +1,131 @@
-"Save Review","Save Review",module,Magento_Review
-"New Review","New Review",module,Magento_Review
-"Review Details","Review Details",module,Magento_Review
-Product,Product,module,Magento_Review
-"Product Rating","Product Rating",module,Magento_Review
-Status,Status,module,Magento_Review
-Visibility,Visibility,module,Magento_Review
-Nickname,Nickname,module,Magento_Review
-"Summary of Review","Summary of Review",module,Magento_Review
-Review,Review,module,Magento_Review
-Previous,Previous,module,Magento_Review
-"Save and Previous","Save and Previous",module,Magento_Review
-"Save and Next","Save and Next",module,Magento_Review
-Next,Next,module,Magento_Review
-"Delete Review","Delete Review",module,Magento_Review
-"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Review
-"Edit Review '%1'","Edit Review '%1'",module,Magento_Review
-"<a href=""%1"" onclick=""this.target=\'blank\'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>","<a href=""%1"" onclick=""this.target=\'blank\'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>",module,Magento_Review
-Administrator,Administrator,module,Magento_Review
-Guest,Guest,module,Magento_Review
-Author,Author,module,Magento_Review
-"Summary Rating","Summary Rating",module,Magento_Review
-"Detailed Rating","Detailed Rating",module,Magento_Review
-ID,ID,module,Magento_Review
-Created,Created,module,Magento_Review
-Title,Title,module,Magento_Review
-Type,Type,module,Magento_Review
-SKU,SKU,module,Magento_Review
-Action,Action,module,Magento_Review
-Edit,Edit,module,Magento_Review
-Delete,Delete,module,Magento_Review
-"Are you sure?","Are you sure?",module,Magento_Review
-"Update Status","Update Status",module,Magento_Review
-Customer,Customer,module,Magento_Review
-"Pending Reviews of Customer `%1`","Pending Reviews of Customer `%1`",module,Magento_Review
-"Pending Reviews","Pending Reviews",module,Magento_Review
-"All Reviews of Customer `%1`","All Reviews of Customer `%1`",module,Magento_Review
-"All Reviews of Product `%1`","All Reviews of Product `%1`",module,Magento_Review
-"All Reviews","All Reviews",module,Magento_Review
-Name,Name,module,Magento_Review
-"Product Store Name","Product Store Name",module,Magento_Review
-Price,Price,module,Magento_Review
-Quantity,Quantity,module,Magento_Review
-Websites,Websites,module,Magento_Review
-"Manage Ratings","Manage Ratings",module,Magento_Review
-"Add New Rating","Add New Rating",module,Magento_Review
-"Save Rating","Save Rating",module,Magento_Review
-"Delete Rating","Delete Rating",module,Magento_Review
-"Edit Rating #%1","Edit Rating #%1",module,Magento_Review
-"New Rating","New Rating",module,Magento_Review
-"Rating Title","Rating Title",module,Magento_Review
-"Default Value","Default Value",module,Magento_Review
-"Rating Visibility","Rating Visibility",module,Magento_Review
-"Is Active","Is Active",module,Magento_Review
-"Sort Order","Sort Order",module,Magento_Review
-"Rating Information","Rating Information",module,Magento_Review
-"Product Reviews","Product Reviews",module,Magento_Review
-"Pending product review(s)","Pending product review(s)",module,Magento_Review
-"Product: <a href=""%1"" target=""_blank"">%2</a> <br/>","Product: <a href=""%1"" target=""_blank"">%2</a> <br/>",module,Magento_Review
-"Summary of review: %1 <br/>","Summary of review: %1 <br/>",module,Magento_Review
-"Review: %1 <br/>","Review: %1 <br/>",module,Magento_Review
-"Store: %1 <br/>","Store: %1 <br/>",module,Magento_Review
-"Click <a href=""%1"">here</a> to see the review.","Click <a href=""%1"">here</a> to see the review.",module,Magento_Review
-"Product: ""%1"" reviewed by: %2","Product: ""%1"" reviewed by: %2",module,Magento_Review
-"Pending Reviews RSS","Pending Reviews RSS",module,Magento_Review
-"Reviews %1","Reviews %1",module,Magento_Review
-Reviews,Reviews,module,Magento_Review
-"The review has been deleted.","The review has been deleted.",module,Magento_Review
-"Something went wrong  deleting this review.","Something went wrong  deleting this review.",module,Magento_Review
-"Customer Reviews","Customer Reviews",module,Magento_Review
-"Edit Review","Edit Review",module,Magento_Review
-"We can\'t retrieve the product ID.","We can\'t retrieve the product ID.",module,Magento_Review
-"Please select review(s).","Please select review(s).",module,Magento_Review
-"A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted.",module,Magento_Review
-"Something went wrong while deleting these records.","Something went wrong while deleting these records.",module,Magento_Review
-"A total of %1 record(s) have been updated.","A total of %1 record(s) have been updated.",module,Magento_Review
-"Something went wrong while updating these review(s).","Something went wrong while updating these review(s).",module,Magento_Review
-"You saved the review.","You saved the review.",module,Magento_Review
-"Something went wrong while saving this review.","Something went wrong while saving this review.",module,Magento_Review
-"The review was removed by another user or does not exist.","The review was removed by another user or does not exist.",module,Magento_Review
-"You deleted the rating.","You deleted the rating.",module,Magento_Review
-Ratings,Ratings,module,Magento_Review
-"You saved the rating.","You saved the rating.",module,Magento_Review
-"My Product Reviews","My Product Reviews",module,Magento_Review
-"You submitted your review for moderation.","You submitted your review for moderation.",module,Magento_Review
-"We can\'t post your review right now.","We can\'t post your review right now.",module,Magento_Review
-"Storage key was not set","Storage key was not set",module,Magento_Review
-Approved,Approved,module,Magento_Review
-Pending,Pending,module,Magento_Review
-"Not Approved","Not Approved",module,Magento_Review
-"Please enter a review summary.","Please enter a review summary.",module,Magento_Review
-"Please enter a nickname.","Please enter a nickname.",module,Magento_Review
-"Please enter a review.","Please enter a review.",module,Magento_Review
-"Rating isn't Available","Rating isn't Available",module,Magento_Review
-"Please specify a rating title for a store, or we\'ll just use the default value.","Please specify a rating title for a store, or we\'ll just use the default value.",module,Magento_Review
-"Assigned Options","Assigned Options",module,Magento_Review
-"Option Title:","Option Title:",module,Magento_Review
-"Product Name","Product Name",module,Magento_Review
-Rating,Rating,module,Magento_Review
-Actions,Actions,module,Magento_Review
-"See Details","See Details",module,Magento_Review
-"You have submitted no reviews.","You have submitted no reviews.",module,Magento_Review
-Back,Back,module,Magento_Review
-"My Recent Reviews","My Recent Reviews",module,Magento_Review
-"View All","View All",module,Magento_Review
-"Average Customer Rating:","Average Customer Rating:",module,Magento_Review
-"Your Review","Your Review",module,Magento_Review
-"Submitted on %1","Submitted on %1",module,Magento_Review
-"Back to My Reviews","Back to My Reviews",module,Magento_Review
-"Ratings Review Summary","Ratings Review Summary",module,Magento_Review
-"Be the first to review this product","Be the first to review this product",module,Magento_Review
-"Write Your Own Review","Write Your Own Review",module,Magento_Review
-"* Required Fields","* Required Fields",module,Magento_Review
-"You're reviewing:","You're reviewing:",module,Magento_Review
-"Your Rating","Your Rating",module,Magento_Review
-"%1 %2","%1 %2",module,Magento_Review
-Summary,Summary,module,Magento_Review
-"Submit Review","Submit Review",module,Magento_Review
-"Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>",module,Magento_Review
-"Add Your Review","Add Your Review",module,Magento_Review
-"%1 Review(s)","%1 Review(s)",module,Magento_Review
-"Review by","Review by",module,Magento_Review
-"Posted on","Posted on",module,Magento_Review
-"Back to Main Product Info","Back to Main Product Info",module,Magento_Review
-"Average Customer Rating","Average Customer Rating",module,Magento_Review
-"Product Rating:","Product Rating:",module,Magento_Review
-"Product Review (submitted on %1):","Product Review (submitted on %1):",module,Magento_Review
-"Back to Product Reviews","Back to Product Reviews",module,Magento_Review
-"Allow Guests to Write Reviews","Allow Guests to Write Reviews",module,Magento_Review
-Active,Active,module,Magento_Review
-Inactive,Inactive,module,Magento_Review
+"Save Review","Үнэлгээ хадгалах"
+"New Review","Шинэ үнэлгээ"
+"Review Details","Үнэлгээ дэлгэрэнгүй"
+Product,Бүтээгдэхүүн
+"Product Rating","Бүтээгдэхүүний үнэлгээ"
+Status,Статус
+Visibility,Харагдац
+Nickname,Нэр
+"Summary of Review","Үнэлгээний товчлол"
+Review,Үнэлгээ
+Previous,Өмнөх
+"Save and Previous","Хадгалах ба Өмнөх"
+"Save and Next","Хадгалах ба Дараах"
+Next,Дараах
+"Delete Review","Үнэлгээ устгах"
+"Are you sure you want to do this?","Та үүнийг хийхдээ итгэлтэй байна уу?"
+"Edit Review '%1'","Үнэлгээ засварлах '%1'"
+"<a href=""%1"" onclick=""this.target=\'blank\'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>","<a href=""%1"" onclick=""this.target=\'blank\'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>"
+Administrator,Администратор
+Guest,Зочин
+Author,Зохиогч
+"Summary Rating","Үнэлгээний товчлол"
+"Detailed Rating","Дэлгэрэнгүй үнэлгээ"
+ID,ID
+Created,Үүсгэгдсэн
+Title,Гарчиг
+Type,Төрөл
+SKU,Бүтээгдэхүүний-дугаар
+Action,Үйлдэл
+Edit,Засварлах
+Delete,Устгах
+"Are you sure?","Та итгэлтэй байна уу?"
+"Update Status","Статус өөрчлөх"
+Customer,Хэрэглэгч
+"Pending Reviews of Customer `%1`","`%1` хэрэглэгчийн хүлээгдэж буй үнэлгээнүүд"
+"Pending Reviews","Хүлээгдэж буй үнэлгээнүүд"
+"All Reviews of Customer `%1`","`%1` хэрэглэгчийн бүх үнэлгээнүүд"
+"All Reviews of Product `%1`","`%1` бүтээгдэхүүний бүх үнэлгээнүүд"
+"All Reviews","Бүх үнэлгээнүүд"
+Name,Нэр
+"Product Store Name","Дэлгүүр дэхь бүтээгдэхүүний нэр"
+Price,Үнэ
+Quantity,Тоо
+Websites,Вэбсайтууд
+"Manage Ratings","Үнэлгээ удирдах"
+"Add New Rating","Шинэ үнэлгээ нэмэх"
+"Save Rating","Үнэлгээ хадгалах"
+"Delete Rating","Үнэлгээ устгах"
+"Edit Rating #%1","#%1 үнэлгээ засварлах"
+"New Rating","Шинэ үнэлгээ"
+"Rating Title","Үнэлгээний гарчиг"
+"Default Value","Стандарт утга"
+"Rating Visibility","Үнэлгээ харагдац"
+"Is Active","бол идэвхитэй"
+"Sort Order","Эрэмбэлэх дэс дараа"
+"Rating Information","Үнэлгээний мэдээлэл"
+"Product Reviews","Бүтээгдэхүүний үнэлгээнүүд"
+"Pending product review(s)","Хүлээгдэж буй бүтээгдэхүүний үнэлгээ(үүд)"
+"Product: <a href=""%1"" target=""_blank"">%2</a> <br/>","Бүтээгдэхүүн: <a href=""%1"" target=""_blank"">%2</a> <br/>"
+"Summary of review: %1 <br/>","Үнэлгээний товчлол: %1 <br/>"
+"Review: %1 <br/>","Үнэлгээ: %1 <br/>"
+"Store: %1 <br/>","Дэлгүүр: %1 <br/>"
+"Click <a href=""%1"">here</a> to see the review.","Үнэлгээ харахын тулд <a href=""%1"">энд</a> дарна уу."
+"Product: ""%1"" reviewed by: %2","Бүтээгдэхүүн: ""%1"" үнэлэгдсэн хэнээр: %2"
+"Pending Reviews RSS","Хүлээгдэж буй үнэлгээний RSS"
+"Reviews %1","Үнэлгээнүүд %1"
+Reviews,Үнэлгээнүүд
+"The review has been deleted.","Үнэлгээ устгагдсан."
+"Something went wrong  deleting this review.","Үнэлгээ устгах үед ямар нэг зүйл буруу байлаа."
+"Customer Reviews","Хэрэглэгчийн үнэлгээнүүд"
+"Edit Review","Үнэлгээ засах"
+"We can\'t retrieve the product ID.","Бүтээгдэхүүний ID олж чадахгүй байна."
+"Please select review(s).","Please select review(s)."
+"A total of %1 record(s) have been deleted.","Нийт %1 бичлэг(үүд) устгагдсан."
+"Something went wrong while deleting these records.","Эдгээр бичлэгүүдийг устгаж байхад ямар нэг зүйл буруу байлаа."
+"A total of %1 record(s) have been updated.","Нийт %1 бичлэг(үүд) өөрлөгдсөн."
+"Something went wrong while updating these review(s).","Эдгээр бичлэг(үүд)-ийг өөрчилж байхад ямар нэг зүйл буруу байлаа."
+"You saved the review.","Та үнэлгээг хадгалсан."
+"Something went wrong while saving this review.","Энэ үнэлгээг хадгалж байхад ямар нэг зүйл буруу байлаа."
+"The review was removed by another user or does not exist.","Үнэлгээ өөр хэрэглэгчээр шилжүүлэгдсэн эсвэл байхгүй болсон байна."
+"You deleted the rating.","Та үнэлгээ устгасан."
+Ratings,Үнэлгээнүүд
+"You saved the rating.","Та үнэлгээг хадгалсан."
+"My Product Reviews","Миний бүтээгдэхүүний үнэлгээнүүд"
+"You submitted your review for moderation.","Та өөрийн үнэлгээг шалгуулахаар илгээсэн."
+"We can\'t post your review right now.","Би таны үнэлгээг яг одоогоор оруулж чадахгүй байна."
+"Storage key was not set","Хадгалалтын түлхүүр суулгагдаагүй байна"
+Approved,Зөвшөөрөгдсөн
+Pending,Хүлээгдэж-буй
+"Not Approved","Зөвшөөрөгдөөгүй"
+"Please enter a review summary.","Үнэлгээний товчлол оруулна уу."
+"Please enter a nickname.","Нэрээ оруулна уу."
+"Please enter a review.","Үнэлгээн оруулна уу."
+"Rating isn't Available","Үнэлгээ боломжгүй байна"
+"Please specify a rating title for a store, or we\'ll just use the default value.","Дэлгүүрт зориулж үнэлгээний гарчиг оруулна уу эсвэл стандарт утга хэрэглэгдэх болно."
+"Assigned Options","Холбогдсон сонголтууд"
+"Option Title:","Сонголтын гарчиг:"
+"Product Name","Бүтээгдэхүүний нэр"
+Rating,Үнэлгээ
+Actions,Үйлдлүүд
+"See Details","Дэлгэрэнгүй харах"
+"You have submitted no reviews.","Та үнэлгээ оруулаагүй байна."
+Back,Буцах
+"My Recent Reviews","Миний сүүлийн үнэлгээнүүд "
+"View All","Бүгдийг харах"
+"Average Customer Rating:","Хэрэглэгчийн дундаж үнэлгээ:"
+"Your Review","Таны үнэлгээ"
+"Submitted on %1","%1-д орсон"
+"Back to My Reviews","Миний үнэлгээнүүд руу буцах"
+"Ratings Review Summary","Үнэлгээний хураангуй"
+"Be the first to review this product","Энэ бүтээгдэхүүний үнэлгээний анхдагч бол"
+"Write Your Own Review","Өөрийн үнэлгээг бичих"
+"* Required Fields","* Шаардлагатай талбарууд"
+"You're reviewing:","Та үнэлгээ өгч байна:"
+"Your Rating","Таны үнэлгээ"
+"%1 %2","%1 %2"
+Summary,Хураангуй
+"Submit Review","Үнэлгээ оруулах"
+"Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Зөвхөн бүртгэлтэй хэрэглэгчид үнэлгээ бичиж чадна. <a href=""%1"">Sign in</a> or <a href=""%2"">Данс үүсгэх</a>"
+"Add Your Review","Өөрийн үнэлгээг нэмэх"
+"%1 Review(s)","%1 Үнэлгээ(үүд)"
+"Review by","Үнэлгээг бичсэн"
+"Posted on","Оруулсан огноо"
+"Back to Main Product Info","Бүтээгдэхүүний үндсэн мэдээлэл рүү буцах"
+"Average Customer Rating","Хэрэглэгчийн дундаж үнэлгээ"
+"Product Rating:","Бүтээгдэхүүний үнэлгээ:"
+"Product Review (submitted on %1):","Бүтээгдэхүүний үнэлгээ (нэмэгдсэн %1):"
+"Back to Product Reviews","Бүтээгдэхүүний үнэлгээ рүү буцах"
+"Allow Guests to Write Reviews","Зочин үнэлгээ бичихийг зөвшөөрөх"
+Active,Идэвхитэй
+Inactive,Идэвхигүй
