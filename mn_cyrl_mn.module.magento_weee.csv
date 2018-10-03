@@ -1,29 +1,29 @@
-"Add Tax","Add Tax"
-"Delete Tax","Delete Tax"
-"All Websites","All Websites"
+"Add Tax","Татвар Нэмэх"
+"Delete Tax","Татвар Хасах"
+"All Websites","Бүх вебсайтууд"
 FPT,FPT
-"We found a duplicate of website, country and state fields for a fixed product tax","We found a duplicate of website, country and state fields for a fixed product tax"
-"Including FPT only","Including FPT only"
-"Including FPT and FPT description","Including FPT and FPT description"
-"Excluding FPT. Including FPT description and final price","Excluding FPT. Including FPT description and final price"
-"Excluding FPT","Excluding FPT"
+"We found a duplicate of website, country and state fields for a fixed product tax","Бид бүтээгдэхүүний тогтмол татварын талбаруудын (вебсайт, улс, аймаг) хуулбарыг оллоо"
+"Including FPT only","Зөвхөн БТТ-г оруулж байна"
+"Including FPT and FPT description","БТТ болон БТТ тайлбарыг оруулж байна"
+"Excluding FPT. Including FPT description and final price","БТТ-г гаргаж байна. БТТ тайлбар болон эцсийн дүнг оруулж байна"
+"Excluding FPT","БТТ-г гаргаж байна"
 label_value,label_value
 frontend_label,frontend_label
-"Fixed Product Tax","Fixed Product Tax"
-"Excl. Tax","Excl. Tax"
-Total,Total
-"Incl. Tax","Incl. Tax"
-"Total Incl. Tax","Total Incl. Tax"
-Website,Website
-Country/State,Country/State
-Tax,Tax
-Action,Action
-"Final Price","Final Price"
-"Fixed Product Taxes","Fixed Product Taxes"
-"Enable FPT","Enable FPT"
-"Display Prices In Product Lists","Display Prices In Product Lists"
-"Display Prices On Product View Page","Display Prices On Product View Page"
-"Display Prices In Sales Modules","Display Prices In Sales Modules"
-"Display Prices In Emails","Display Prices In Emails"
-"Apply Tax To FPT","Apply Tax To FPT"
-"Include FPT In Subtotal","Include FPT In Subtotal"
+"Fixed Product Tax","Бүтээгдэхүүний Тогтмол Татвар"
+"Excl. Tax","Татваргүй"
+Total,Нийт
+"Incl. Tax","Татвартай"
+"Total Incl. Tax","Татвар оролцуулсан нийт дүн"
+Website,Вебсайт
+Country/State,Улс/Аймаг
+Tax,Татвар
+Action,Үйлдэл
+"Final Price","Эцсийн Дүн"
+"Fixed Product Taxes","Бүтээгдэхүүний Тогтмол Татвар"
+"Enable FPT","БТТ-г идэвхжүүлэх"
+"Display Prices In Product Lists","Бүтээгдэхүүний жагсаалтад үнийг харуулах"
+"Display Prices On Product View Page","Бүтээгдэхүүний дэлгэрэнгүй хуудсанд үнийг харуулах"
+"Display Prices In Sales Modules","Борлуулалтын модульд үнийг харуулах"
+"Display Prices In Emails","И-мэйлд үнийг харуулах"
+"Apply Tax To FPT","БТТ-д татвар бодох"
+"Include FPT In Subtotal","Завсрын дүнд БТТ-г оролцуулах"
