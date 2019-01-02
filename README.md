@@ -139,10 +139,10 @@ php bin/magento setup:static-content:deploy mn_Cyrl_MN
 |Magento_User| |
 |Magento_Usps| |
 |Magento_Variable|100%|
-|Magento_Webapi| |
-|Magento_Weee| |
-|Magento_Widget| |
-|Magento_Wishlist|100% Ganzorig|
+|Magento_Webapi|100%|
+|Magento_Weee|100%|
+|Magento_Widget|100%|
+|Magento_Wishlist|100%|
 |lib/web/mage/adminhtml/backup.js|100%|
 |lib/web/mage/adminhtml/wysiwyg/widget.js|100%|
 |lib/web/mage/backend/suggest.js|100%|
