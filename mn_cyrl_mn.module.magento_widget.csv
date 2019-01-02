@@ -1,72 +1,72 @@
-"Widget Insertion","Widget Insertion"
-"Insert Widget","Insert Widget"
-label,label
-Choose...,Choose...
-Close,Close
-"Not Selected","Not Selected"
+"Widget Insertion","Widget Оруулга"
+"Insert Widget","Widget Оруулах"
+label,шошго
+Choose...,Сонгох...
+Close,Хаах
+"Not Selected","Сонгогдоогүй"
 Widget,Widget
-"Widget Type","Widget Type"
-"-- Please Select --","-- Please Select --"
-"Manage Widget Instances","Manage Widget Instances"
-"Add Widget","Add Widget"
-"Save and Continue Edit","Save and Continue Edit"
+"Widget Type","Widget-н Төрөл"
+"-- Please Select --","-- Сонгоно уу --"
+"Manage Widget Instances","Widget Тохиолдлуудыг Удирдах"
+"Add Widget","Widget нэмэх"
+"Save and Continue Edit","Хадгалаад үргэлжлүүлэн засах"
 "Widget ""%1""","Widget ""%1"""
-"New Widget Instance","New Widget Instance"
-"Custom Layouts","Custom Layouts"
-"Page Layouts","Page Layouts"
-"Please Select Container First","Please Select Container First"
-"Storefront Properties","Storefront Properties"
-Type,Type
-"Design Package/Theme","Design Package/Theme"
-"Widget Title","Widget Title"
-"Assign to Store Views","Assign to Store Views"
-"Sort Order","Sort Order"
-"Sort Order of widget instances in the same container","Sort Order of widget instances in the same container"
-"Layout Updates","Layout Updates"
-Categories,Categories
-"Anchor Categories","Anchor Categories"
-"Non-Anchor Categories","Non-Anchor Categories"
-"All Product Types","All Product Types"
-Products,Products
-"Generic Pages","Generic Pages"
-"All Pages","All Pages"
-"Specified Page","Specified Page"
-"Add Layout Update","Add Layout Update"
-"Remove Layout Update","Remove Layout Update"
-"Widget Options","Widget Options"
-Settings,Settings
-"Design Theme","Design Theme"
-Continue,Continue
-"Please specify a Widget Type.","Please specify a Widget Type."
-CMS,CMS
-"Please specify a correct widget.","Please specify a correct widget."
-"The widget instance has been deleted.","The widget instance has been deleted."
-"New Widget","New Widget"
-Widgets,Widgets
-"The widget instance has been saved.","The widget instance has been saved."
-name,name
-description,description
-"We cannot create the widget instance because it is missing required information.","We cannot create the widget instance because it is missing required information."
+"New Widget Instance","Шинэ Widget Тохиолдол"
+"Custom Layouts","Захиалгат Зохиомжууд"
+"Page Layouts","Хуудсын Зохиомжууд"
+"Please Select Container First","Эхлээд Агуулахаа Сонгоно уу"
+"Storefront Properties","Дэлгүүрийн Шинж чанарууд"
+Type,Төрөл
+"Design Package/Theme","Багц/Сэдвийг Загварчлах"
+"Widget Title","Widget-н Гарчиг"
+"Assign to Store Views","Дэлгүүрийн Харагдац-д Даалгах"
+"Sort Order","Захиалгыг Эрэмбэлэх"
+"Sort Order of widget instances in the same container","Ижил агуулах дахь widget тохиолдлуудын захиалгыг эрэмбэлэх"
+"Layout Updates","Зохиомжын Шинэчилэлтүүд"
+Categories,Ангилалууд
+"Anchor Categories","Anchor Ангилалууд"
+"Non-Anchor Categories","Non-Anchor Ангилалууд"
+"All Product Types","Бүтээгдэхүүний бүх төрлүүд"
+Products,Бүтээгдэхүүнүүд
+"Generic Pages","Ерөнхий Хуудаснууд"
+"All Pages","Бүх Хуудас"
+"Specified Page","Тодорхой Хуудас"
+"Add Layout Update","Зохиомжын Шинэчилэл Нэмэх"
+"Remove Layout Update","Зохиомжын Шинэчлэл Хасах"
+"Widget Options","Widget Тохиргоонууд"
+Settings,Тохируулга
+"Design Theme","Сэдвийг Загварчлах"
+Continue,Үргэлжлүүлэх
+"Please specify a Widget Type.","Widget-н төрлийг тодорхойлно уу."
+CMS,АУС
+"Please specify a correct widget.","Зөв widget-г тодорхойлно уу."
+"The widget instance has been deleted.","Widget тохиолдол устгагдсан байна."
+"New Widget","Шинэ Widget"
+Widgets,Widget-үүд
+"The widget instance has been saved.","Widget тохиолдол хадгалагдлаа."
+name,нэр
+description,тайлбар
+"We cannot create the widget instance because it is missing required information.","Шаардлагатай мэдээллүүд дутуу байгаа учир widget тохиолдол үүсгэх боломжгүй байна."
 None,None
 %1,%1
-Container,Container
-Template,Template
-All,All
-"Specific %1","Specific %1"
-"Open Chooser","Open Chooser"
-Apply,Apply
-Page,Page
-"Orders and Returns","Orders and Returns"
-"Orders and Returns Search Form","Orders and Returns Search Form"
-"Anchor Custom Title","Anchor Custom Title"
-"CMS Page Link Block Template","CMS Page Link Block Template"
-"CMS Page Link Inline Template","CMS Page Link Inline Template"
-"Display a Link to Loading a Spreadsheet","Display a Link to Loading a Spreadsheet"
-"Defines whether a link to My Account","Defines whether a link to My Account"
-"Link Text","Link Text"
-"The text of the link to the My Account &gt; Order by SKU page","The text of the link to the My Account &gt; Order by SKU page"
-"Load a list of SKUs","Load a list of SKUs"
-Product,Product
-"Select Product...","Select Product..."
-Conditions,Conditions
+Container,Агуулах
+Template,Загвар
+All,Бүх
+"Specific %1","Тодорхой %1"
+"Open Chooser","Сонгогчыг Нээх"
+Apply,Ашиглах
+Page,Хуудас
+"Orders and Returns","Захиалга болон Буцаалтууд"
+"Orders and Returns Search Form","Захиалга болон Буцаалтууд Хайх Форм"
+"Anchor Custom Title","Захиалгат Anchor Гарчиг"
+"CMS Page Link Block Template","АУС Хуудсын Холбоос Block Загвар"
+"CMS Page Link Inline Template","АУС Хуудсын Холбоос Inline Загвар"
+"Display a Link to Loading a Spreadsheet","Хүснэгт ачааллах холбоосыг харуулах"
+"Defines whether a link to My Account","Ямар ч үед Миний Бүртгэл-рүү холбохыг тодорхойлох"
+"Link Text","Холбоосын Бичвэр"
+"The text of the link to the My Account &gt; Order by SKU page","Миний Бүртгэл холбоосын бичвэр &gt; SKU хуудсын захиалга"
+"Load a list of SKUs","SKU-н жагсаалтыг ачаалах"
+Product,Бүтээгдэхүүн
+"Select Product...","Бүтээгдэхүүн Сонгох..."
+Conditions,Нөхцөлүүд
 "Widget ID","Widget ID"
