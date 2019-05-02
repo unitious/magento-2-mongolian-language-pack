@@ -1,10 +1,10 @@
-Always,Always
-"After number of attempts to login","After number of attempts to login"
-"Provided form does not exist","Provided form does not exist"
-"Incorrect CAPTCHA","Incorrect CAPTCHA"
-"Incorrect CAPTCHA.","Incorrect CAPTCHA."
-"Please enter the letters from the image","Please enter the letters from the image"
-"<strong>Attention</strong>: Captcha is case sensitive.","<strong>Attention</strong>: Captcha is case sensitive."
+Always,Үргэлж
+"After number of attempts to login","нэвтрэх гэж оролдсон төдий тооны оролдлогын дараа"
+"Provided form does not exist","Үзүүлэх форм байхгүй"
+"Incorrect CAPTCHA","Алдаатай CAPTCHA"
+"Incorrect CAPTCHA.","Алдаатай CAPTCHA."
+"Please enter the letters from the image","Үсгүүдийг зургаас хараад оруулна уу"
+"<strong>Attention</strong>: Captcha is case sensitive.","<strong>Анхаар</strong>: Captcha том жижиг үсэг ялгаатай."
 "Reload captcha","Тэмдэгтүүдийг дахин дуудах"
 "Please type the letters below","Дараах тэмдэгтүүдийг оруулна уу"
 CAPTCHA,CAPTCHA
