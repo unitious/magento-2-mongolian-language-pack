@@ -8,11 +8,11 @@ Always,Үргэлж
 "Reload captcha","Тэмдэгтүүдийг дахин дуудах"
 "Please type the letters below","Дараах тэмдэгтүүдийг оруулна уу"
 CAPTCHA,CAPTCHA
-"Enable CAPTCHA in Admin","Enable CAPTCHA in Admin"
-Font,Font
-Forms,Forms
-"Displaying Mode","Displaying Mode"
-"Number of Unsuccessful Attempts to Login","Number of Unsuccessful Attempts to Login"
+"Enable CAPTCHA in Admin","CAPTCHA админ хэсэгт идэвхижүүлэх"
+Font,Фонт
+Forms,Форм
+"Displaying Mode","Үзүүлэх хэлбэр"
+"Number of Unsuccessful Attempts to Login","Нэвтрэх амжилтгүй оролдлогын тоо"
 "If 0 is specified, CAPTCHA on the Login form will be always available.","If 0 is specified, CAPTCHA on the Login form will be always available."
 "CAPTCHA Timeout (minutes)","CAPTCHA Timeout (minutes)"
 "Number of Symbols","Number of Symbols"
