@@ -91,16 +91,16 @@ Remove,Remove
 "For the best experience on our site, be sure to turn on Local Storage in your browser.","For the best experience on our site, be sure to turn on Local Storage in your browser."
 "This is demo store. No orders will be fulfilled.","This is demo store. No orders will be fulfilled."
 "Items %1 to %2 of %3 total","Items %1 to %2 of %3 total"
-"%1 Item","%1 Item"
-"%1 Item(s)","%1 Item(s)"
-Page,Page
-Previous,Previous
+"%1 Item","%1 ширхэг"
+"%1 Item(s)","%1 ширхэг"
+Page,Хуудас
+Previous,Өмнөх
 "You\'re currently reading page","You\'re currently reading page"
-Next,Next
-Show,Show
-"per page","per page"
+Next,Дараах
+Show,Харах
+"per page","хуудсанд"
 "About the calendar","About the calendar"
-Close,Close
+Close,Хаах
 "Go Today","Go Today"
 WK,WK
 Time,Time
@@ -144,3 +144,4 @@ Copyright,Copyright
 "2 columns with left bar","2 columns with left bar"
 "2 columns with right bar","2 columns with right bar"
 "3 columns","3 columns"
+"Created","Огноо"

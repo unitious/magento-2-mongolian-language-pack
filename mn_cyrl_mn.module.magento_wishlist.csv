@@ -1,6 +1,6 @@
 "Wish List","Хүслийн жагсаалт"
 "Wish List Sharing","Хүслийн жагсаалт хуваалцах"
-"My Wish List","Миний хүслийн жагсаалт"
+"My Wish List","Хүслийн жагсаалт"
 "%1's Wish List","%1-н хүслийн жагсаалт"
 "Page not found.","Хуудас олдсонгүй."
 "We can\'t specify a product.","Бүтээгдэхүүнийг тодруулах боломжгүй байна."
@@ -99,8 +99,8 @@ Back,Буцах
 "Email Text Length Limit","эмэйл бичвэрийн уртын хязгаар"
 "General Options","Ерөнхий сонголтууд"
 Enabled,Идэвхжсэн
-"My Wish List Link","Миний хүслийн жагсаалтын холбоос"
-"Display Wish List Summary","Хүслийн жагсаалтын хураангуйг харах"
+"My Wish List Link","Хүслийн жагсаалтын холбоос"
+"Display Wish List Summary","Хүслийн жагсаалтыг харах"
 "Enable RSS","RSS-г идэвхжүүлэх"
 "No Items Found","Ямар ч артикль олдсонгүй"
 "Product Name","Бүтээгдэхүүний нэр"

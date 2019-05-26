@@ -3,7 +3,7 @@
 "You subscribe to our newsletter.","You subscribe to our newsletter."
 "You don\'t subscribe to our newsletter.","You don\'t subscribe to our newsletter."
 "You have not set a default shipping address.","Танд стандарт хүргэлтийн хаяг байхгүй байна."
-"You have not set a default billing address.","Танд стандарт тооцооны хаяг байхгүй байна."
+"You have not set a default billing address.","Танд стандарт нэхэмжлэлийн хаяг байхгүй байна."
 "Address Book","Хаягын ном"
 "Edit Address","Хаяг өөрчилөх"
 "Add New Address","Add New Address"
@@ -281,7 +281,7 @@ Customer,Customer
 "Account Created on (%1):","Account Created on (%1):"
 "Account Created in:","Account Created in:"
 "Customer Group:","Customer Group:"
-"Default Billing Address","Стандарт тооцооны хаяг"
+"Default Billing Address","Стандарт нэхэмжлэлийн хаяг"
 "Sales Statistics","Sales Statistics"
 "Web Site","Web Site"
 Store,Store
