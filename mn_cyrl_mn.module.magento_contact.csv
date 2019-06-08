@@ -7,7 +7,7 @@
 Name,Нэр
 Email,Эмэйл
 "Phone Number","Утасны дугаар"
-"What’s on your mind?","Таны бодол юу вэ?"
+"What’s on your mind?","Юун тухай"
 Submit,Илгээх
 "Name: %name","Нэр: %name"
 "Email: %email","Эмэйл: %email"
@@ -15,7 +15,7 @@ Submit,Илгээх
 "Comment: %comment","Тайлбар: %comment"
 Contacts,Холбоо
 "Contact Us","Бидэнтэй холбогдоно уу"
-"Enable Contact Us","Бидэнтэй холбогдоно уу идэвхижүүлэх"
+"Enable Contact Us","Холбоо барих идэвхижүүлэх"
 "Email Options","Эмэйл сонголтууд"
 "Send Emails To","Хааш нь илгээх эмэйл"
 "Email Sender","Эмэйл илгээгч"
