@@ -11,7 +11,7 @@
         }
   ],
   "require": {
-    "magento/framework": "^100.0.0 || ^101.0.0 || ^102.0.0s"
+    "magento/framework": "*"
   },
   "type": "magento2-language",
   "autoload": {
