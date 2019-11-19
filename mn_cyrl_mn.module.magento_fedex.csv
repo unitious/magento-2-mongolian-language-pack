@@ -38,7 +38,7 @@ Indirect,Indirect
 Pounds,Pounds
 Kilograms,Kilograms
 "For some reason we can\'t retrieve tracking info right now.","For some reason we can\'t retrieve tracking info right now."
-status,status
+status,статус
 "Empty response","Empty response"
 None,None
 FedEx,FedEx

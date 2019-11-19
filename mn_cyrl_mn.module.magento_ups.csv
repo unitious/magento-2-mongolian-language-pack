@@ -62,7 +62,7 @@ Kilograms,Kilograms
 "Sorry, something went wrong. Please try again or contact us and we\'ll try to help.","Sorry, something went wrong. Please try again or contact us and we\'ll try to help."
 "We can\'t convert a rate from ""%1-%2"".","We can\'t convert a rate from ""%1-%2""."
 "Cannot retrieve shipping rates","Cannot retrieve shipping rates"
-status,status
+status,статус
 error_message,error_message
 "Empty response","Empty response"
 "Delivery Confirmation","Delivery Confirmation"

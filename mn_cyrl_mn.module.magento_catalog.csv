@@ -35,7 +35,7 @@ label,шошго
 "Save and Continue Edit","Хадгалах ба Өөрчилөлтийг үргэлжлүүлэх"
 "Save Attribute","Аттрибут хадгалах"
 "Delete Attribute","Аттрибут устгах"
-"Edit Product Attribute ""%1""","Бүтээгдэхүүний аттрибут ""%1"" өөрчилөх"
+"Edit Product Attribute ""%1""","Бүтээгдэхүүний аттрибут ""%1"" өөрчлөх"
 "New Product Attribute","Бүтээгдэхүүний шинэ аттрибут"
 "Advanced Attribute Properties","Аттрибутын нэмэлт үзүүлэлтүүд"
 "Attribute Code","Аттрибут код"
@@ -97,7 +97,7 @@ Empty,Хоослох
 "Add Attribute","Аттрибут нэмэх"
 "Add New Group","Шинэ бүлэг нэмэх"
 "Add Group","Бүлэг нэмэх"
-"Edit Attribute Set Name","Аттрибут бүрдэл нэрийг өөрчилөх"
+"Edit Attribute Set Name","Аттрибут бүрдэл нэрийг өөрчлөх"
 "Дотор хэрэглэх",""
 "Based On","дээр суурилагдсан"
 "Add New Attribute Set","Шинэ аттрибут бүрдэл нэмэх"
@@ -105,12 +105,12 @@ Empty,Хоослох
 "Attribute Sets","Аттрибуут цуглуулгууд"
 "Close Window","Цонх хаах"
 "New Product","Шинэ бүтээгдэхүүн"
-"Save & Edit","Хадгалах & Өөрчилөх"
+"Save & Edit","Хадгалах & Өөрчлөх"
 "Save & New","Хадгалах & Шинэ үүсгэх"
 "Save & Duplicate","Хадгалах & Хувилах"
 "Save & Close","Хадгалах & Хаах"
 Attributes,Аттрибутууд
-Change,Өөрчилөх
+Change,Өөрчлөх
 "Advanced Inventory","Дэвшилтэт бүртгэл"
 Websites,Вэбсайтууд
 "Products Information","Бүтээгдэхүүнүүдийн мэдээлэл"
@@ -151,9 +151,9 @@ Cross-sells,Крос-худалдаа
 "Position of Watermark for %1","%1 зориулсан усан тэмдгийн байрлал"
 "Name in %1","%1 дэхь нэр"
 Quantity,Тоо
-Edit,Өөрчилөх
+Edit,Өөрчлөх
 "Are you sure?","Та үнэхээр итгэлтэй байна уу?"
-"Change Status","Статус өөрчилөх"
+"Change Status","Статус өөрчлөх"
 "Update Attributes","Аттрибутуудыг шинэчлэх"
 "Images and Videos","Зургууд болон Видеонууд"
 "Click here or drag and drop to add images.","Зураг нэмэхийн тулд энд дар эсвэл драг&дроп хэрэглэ."
@@ -210,7 +210,7 @@ Catalog,Каталог
 "We can\'t find an attribute to delete.","Устгах аттрибутыг олж чадахгүй байна."
 "This attribute no longer exists.","Энэ аттрибут байхгүй болсон байна."
 "This attribute cannot be edited.","Энэ аттрибутыг өөрчилж чадахгүй."
-"Edit Product Attribute","Бүтээгдэхүүн аттрибут өөрчилөх"
+"Edit Product Attribute","Бүтээгдэхүүн аттрибут өөрчлөх"
 "An attribute set named \'%1\' already exists.","\'%1\' нэртэй аттрибутын бүрдэл аль хэдийн байна."
 "Something went wrong while saving the attribute.","Аттрибутыг хадгалах явцад ямар нэг зүйл буруу байлаа."
 "Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Аттрибут код ""%1"" хүчингүй байна. Энэ талбарт зөвхөн үсэг, Тоо эсвэл доогуур зураас(_) хэрэглэх бөгөөд, эхний тэмдэгт үсэг байх ёстой."
@@ -652,7 +652,7 @@ Set,Суулгах
 "All Store Views","Бүт дэлгүүрийн харагдац"
 "Delete items","Артиклиуд устгах"
 "Delete selected items?","Сонгосон артиклиудыг устгах?"
-"Change status","Статус өөрчилөх"
+"Change status","Статус өөрчлөх"
 Enable,Идэвхижүүлэх
 Disable,"Идэвхигүй болгох"
 "Update attributes","Аттрибутуудыг өөрчлөх"

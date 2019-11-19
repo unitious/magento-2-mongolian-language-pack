@@ -5,7 +5,7 @@
 "You have not set a default shipping address.","Танд стандарт хүргэлтийн хаяг байхгүй байна."
 "You have not set a default billing address.","Танд стандарт нэхэмжлэлийн хаяг байхгүй байна."
 "Address Book","Хаягын ном"
-"Edit Address","Хаяг өөрчилөх"
+"Edit Address","Хаяг өөрчлөх"
 "Add New Address","Add New Address"
 region,region
 "Create Order","Create Order"
@@ -38,9 +38,9 @@ Newsletter,Newsletter
 "Start date","Start date"
 "End Date","End Date"
 "Receive Date","Receive Date"
-Subject,Subject
-Status,Status
-Sent,Sent
+Subject,Гарчиг
+Status,Статус
+Sent,Илгээсэн
 Cancel,Cancel
 "Not Sent","Not Sent"
 Sending,Sending
@@ -289,11 +289,11 @@ Store,Store
 "Lifetime Sales","Lifetime Sales"
 "Average Sale","Average Sale"
 "All Store Views","All Store Views"
-Change,Өөрчилөх
-"Manage Addresses","Хаяг өөрчилөх"
+Change,Өөрчлөх
+"Manage Addresses","Хаяг өөрчлөх"
 "Default Shipping Address","Стандарт хүргэлтийн хаяг"
 "Contact Information","Харилцах мэдээлэл"
-"Change Password","Нууц үг өөрчилөх"
+"Change Password","Нууц үг өөрчлөх"
 Newsletters,"Зар мэдээлэл"
 "You subscribe to ""General Subscription"".","You subscribe to ""General Subscription""."
 or,or
@@ -481,4 +481,4 @@ Addresses,Addresses
 "Password forgotten","Нууц үг мартсан"
 "My Dashboard","Миний данс"
 "You are signed out.","Та өөрийн данснаасаа гарлаа."
-"Reset My Password","Нууц үгээ өөрчилөх"
+"Reset My Password","Нууц үгээ өөрчлөх"

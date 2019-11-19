@@ -2,8 +2,8 @@
 "Add New Block","Шинэ блок нэмэх"
 "Save Block","Блок хадгалах"
 "Delete Block","Блок устгах"
-"Save and Continue Edit","Хадгалах ба үргэлжлүүлэн өөрчилөх"
-"Edit Block '%1'","Блок '%1' өөрчилөх"
+"Save and Continue Edit","Хадгалах ба үргэлжлүүлэн өөрчлөх"
+"Edit Block '%1'","Блок '%1' өөрчлөх"
 "New Block","Шинэ блок"
 "Block Information","Блок мэдээлэл"
 "General Information","Ерөнхий мэдээлэл"
@@ -20,19 +20,19 @@ Title,Гарчиг
 "Add New Page","Шинэ хуудас нэмэх"
 "Save Page","Хуудас хадгалах"
 "Delete Page","Хуудас устгах"
-"Edit Page '%1'","Хуудас '%1' өөрчилөх"
+"Edit Page '%1'","Хуудас '%1' өөрчлөх"
 "New Page","Шинэ хуудас"
 "Content Heading","Агуулгын толгой"
 "Page Layout","Хуудас зохиомж"
 Layout,Зохиомж
-"Layout Update XML","Зохиомж өөрчилөх XML"
+"Layout Update XML","Зохиомж өөрчлөх XML"
 "Custom Design","Хэрэглэгчийн дизайн"
 "Custom Design From","Хэрэглэгчийн дизайн хэзээнээс"
 "Custom Design To","Хэрэглэгчийн дизайн хүртэл"
 "-- Please Select --","-- Сонголт хийнэ үү --"
 "Custom Theme","Хэрэглэгчийн загвар"
 "Custom Layout","Хэрэглэгчийн зохиомж"
-"Custom Layout Update XML","Хэрэглэгчийн зохиомж өөрчилөх XML"
+"Custom Layout Update XML","Хэрэглэгчийн зохиомж өөрчлөх XML"
 Design,Дизайн
 "Page Information","Хуудасны мэдээлэл"
 "Page Title","Хуудасны гарчиг"
@@ -64,7 +64,7 @@ CMS,CMS
 "You deleted the block.","Та блок устгасан байна."
 "We can\'t find a block to delete.","Устгах блок олсонгүй."
 "This block no longer exists.","Энэ блок байхгүй болсон байна."
-"Edit Block","Блок өөрчилөх"
+"Edit Block","Блок өөрчлөх"
 Blocks,Блокууд
 "Please correct the data sent.","Илгээгдсэн өгөгдлийг зөв болгоно уу."
 "A total of %1 record(s) have been deleted.","Нийт %1 бичлэг(үүд) устгагдсан."
@@ -101,7 +101,7 @@ RuntimeException,АчаалалтЭксепшн
 Exception,Эксепшн
 "Could not create directory.","Директор үүсгэж чадахгүй байна."
 "All Store Views","Бүх дэлгүүрийн харагдац"
-Edit,Өөрчилөх
+Edit,Өөрчлөх
 Delete,Устгах
 "Delete ${ $.$data.title }","Устга ${ $.$data.title }"
 "Are you sure you wan\'t to delete a ${ $.$data.title } record?","${ $.$data.title } бичилтийг устгахдаа итгэлтэй байна уу?"

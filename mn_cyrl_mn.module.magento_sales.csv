@@ -6,7 +6,7 @@ Invoices,Нэхэмжлэлүүд
 "Save Order Address","Захиалгын хаяг хадгалах"
 Shipping,Хүргэлт
 Billing,Төлбөр
-"Edit Order %1 %2 Address","Захиалга %1 %2 хаяг өөрчилөх"
+"Edit Order %1 %2 Address","Захиалга %1 %2 хаяг өөрчлөх"
 "Order Address Information","Захиалгын хаягийн мэдээлэл"
 "Please correct the parent block for this block.","Энэ блокт зориулж эцэг блокыг өөрчилнө үү."
 "Submit Comment","Тайлбар оруулах"
@@ -23,7 +23,7 @@ Coupons,Купон
 From,-Аас4
 To,Хүртэл
 Message,Зурвас
-"Edit Order #%1","Захиалга #%1 өөрчилөх"
+"Edit Order #%1","Захиалга #%1 өөрчлөх"
 "Create New Order for %1 in %2","%1 зориулж  %2 дээр шинэ захиалга үүсгэх"
 "Create New Order for New Customer in %1","Шинэ хэрэглэгчид зориулж шинэ захиалгыг %1 дээр үүсгэх"
 "Create New Order for %1","%1 зориулж шинэ захиалга үүсгэх"
@@ -107,7 +107,7 @@ Capture,Бичилт
 "Order State","Захиалгын байдал"
 "Use Order Status As Default","Захиалгын статусыг стандартаар хэрэглэх"
 "Visible On Storefront","Дэлгүүрийн нүүрэнд харагдуулах"
-"Edit Order Status","Захиалгын статусыг өөрчилөх"
+"Edit Order Status","Захиалгын статусыг өөрчлөх"
 "Save Status","Статус хадгалах"
 "New Order Status","Шинэ захиалгын статус"
 "Order Status Information","Захиалгын статус мэдээлэл"
@@ -117,7 +117,7 @@ Capture,Бичилт
 "Total Paid","Төлбөн нийт дүн"
 "Total Refunded","Буцаан олголтын нийт дүн"
 "Total Due","Бүх төлбөр б"
-Edit,Өөрчилөх
+Edit,Өөрчлөх
 "Are you sure you want to send an order email to customer?","Захиалгын и-мэйлийг хэрэглэгчрүү явуулахдаа итгэлтэй байна уу?"
 "This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","Энд офлайн буцаан олголтыг үүсгэх гэж байна. Онлайн буцаан олголтыг үүсгэхийн тулд, нэхэмжлэлийг нээгээд эрхийн бичиг үүсгэнэ үү. Та цааш нь үргэлжлүүлэх үү?"
 "Are you sure you want to void the payment?","Төлөлтийг хоослох гэж байгаадаа итгэлтэй байна уу?"
@@ -220,7 +220,7 @@ Sales,Худалдаа
 "We can\'t void the credit memo.","We can\'t void the credit memo."
 "The order no longer exists.","Энэ захиалга байхгүй болсон байна."
 "We can\'t create credit memo for the order.","Энэ захиалгад зориулж эрхийн бичиг үүсгэж чадагүй байна."
-"Edit Order","Захиалга өөрчилөх"
+"Edit Order","Захиалга өөрчлөх"
 "You sent the order email.","Та захиалгын и-мэйлийг илгээсэн."
 "We can\'t send the email order right now.","Захиалгын и-мэйлийг яг одоо илгээж чадахгүй байна."
 "You have not put the order on hold.","Та энэ захиалгыг саатуулалтанд хийгээгүй байна."
@@ -276,7 +276,7 @@ Sales,Худалдаа
 "We can\'t void the payment right now.","Төлбөр хийлтийг яг одоо цуцлах боломжгүй."
 "Please correct the transaction ID and try again.","Гүйлгээний ID-г засаад дахин оролдоно уу."
 "The transaction details have been updated.","Гүйлгээний дэлгэрэнгүй засагдлаа."
-"We can\'t update the transaction details.","Гүүлгээний дэлгэрэнгүйг өөрчилөх боломжгүй байна."
+"We can\'t update the transaction details.","Гүүлгээний дэлгэрэнгүйг өөрчлөх боломжгүй байна."
 "Orders and Returns","Захиалга болон Буцаалтууд"
 "You entered incorrect data. Please try again.","Та буруу өгөгдөл оруулсан байна. Дахин оролдоно уу"
 Home,Эхлэл
@@ -481,7 +481,7 @@ Remove,Арилгах
 "Row Subtotal","Мөрийн дүн"
 Action,Үйлдэл
 "No ordered items","Захиалагдсан артикльгүй"
-"Update Items and Quantities","Артикль болон тоо ширхэгийг өөрчилөх"
+"Update Items and Quantities","Артикль болон тоо ширхэгийг өөрчлөх"
 "Total %1 product(s)","Нийт %1 бүтээгдэхүүн(үүд)"
 Subtotal:,Завсрын дүн:
 "Tier Pricing","Үнийн үечлэл"

@@ -26,7 +26,7 @@ minor,минор
 notice,мэдэгдэл
 "Wrong message type","Буруу зурвасын төрөл"
 "Wrong notification ID specified.","Буруу сонордуулгын ID заагдсан."
-"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} live орчинд Base Unsecure URL / Base Secure URL -аар ашиглахыг санал болгоогүй. Энэхүү <a href=""%1"">тохиргооны</a> утгыг өөрчилөхийг зөвлөж байна."
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} live орчинд Base Unsecure URL / Base Secure URL -аар ашиглахыг санал болгоогүй. Энэхүү <a href=""%1"">тохиргооны</a> утгыг өөрчлөхийг зөвлөж байна."
 "One or more of the Cache Types are invalidated: %1. ","Зарим нэг/бүх кэшүүд хүчингүй болсон байна: %1. "
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","<a href=""%1"">Kэш менежемент</a>-рүү орж кэшийг дахин шинэчилнэ үү."
 "We were unable to synchronize one or more media files. Please refer to the log file for details.","Зарим медиа файлуудыг синхронжуулагдсангүй. Илүү дэлгэрэнгүйг лог файлруу орж лавлаарай."

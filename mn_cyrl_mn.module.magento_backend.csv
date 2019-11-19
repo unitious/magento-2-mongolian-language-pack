@@ -93,7 +93,7 @@ No,Үгүй
 "New Web Site","Шинэ вэбсайт"
 "Edit Store","Дэлгүүр засварлах"
 "New Store","Шинэ дэлгүүр"
-"Edit Store View","Дэлгүүрийн харагдац өөрчилөх"
+"Edit Store View","Дэлгүүрийн харагдац өөрчлөх"
 "New Store View","Шинэ дэлгүүрийн харагдац"
 "Store Information","Дэлгүүрийн мэдээлэл"
 "Web Site","Вэбсайт"
@@ -102,7 +102,7 @@ Name,Нэр
 "Default Store View","Стандарт дэлгүүрийн харагдац"
 "Store View Information","Дэлгүүрийн харагдацын мэдээлэл"
 Code,Код
-Status,Төлөв
+Status,Статус
 Disabled,Идэвхигүй
 Enabled,Идэвхитэй
 "Sort Order","Эрэмбэлэх"
