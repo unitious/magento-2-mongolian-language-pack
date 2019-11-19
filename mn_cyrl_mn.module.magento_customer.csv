@@ -330,10 +330,10 @@ Email,Email
 "New Password","Шинэ нууц үг"
 "Confirm New Password","Шинэ нууц үг бататгах"
 Save,Save
-"Please enter your email address below to receive a password reset link.","Нууц үг сэргээх холбоос хүлээж авахын тулд хэрэглэгчийн эмэйлээ оруулна уу"
+"Please enter your email address below to receive a password reset link.","Нууц үг сэргээх холбоос хүлээж авахын тулд хэрэглэгчийн И-мэйлээ оруулна уу"
 Submit,Submit
 "Registered Customers","Бүртгэлтэй хэрэглэгчид"
-"If you have an account, sign in with your email address.","Хэрэв та өөрийн данстай бол эмэйл хаягаараа нэвтэрч орно уу."
+"If you have an account, sign in with your email address.","Хэрэв та өөрийн данстай бол И-мэйл хаягаараа нэвтэрч орно уу."
 Password,Password
 Login,Login
 "Forgot Your Password?","Нууц үгээ мартсануу?"

@@ -53,8 +53,8 @@ Title,Гарчиг
 "Transaction Details URL","Гүйлгээний дэлгэрэнгүй URL"
 "Accepted Currency","Зөвшөөрөгдсөн мөнгөн тэмдэгт"
 Debug,Дебаг
-"Email Customer","Хэрэглэгчийн эмэйл"
-"Merchant's Email","Худалдааны эмэйл"
+"Email Customer","Хэрэглэгчийн И-мэйл"
+"Merchant's Email","Худалдааны И-мэйл"
 "Credit Card Types","Кредит картны төрөл"
 "Credit Card Verification","Кредит картны баталгаажуулалт"
 "Payment from Applicable Countries","Таарсан улсуудаас төлөлт"

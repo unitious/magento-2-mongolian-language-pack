@@ -5,20 +5,20 @@
 "Write Us","Бидэнд бичих"
 "Jot us a note and we’ll get back to you as quickly as possible.","Та бидэнд тэмдэглэл бичнэ үү. Бид аль болох хурдан буцаж холбогдох болно."
 Name,Нэр
-Email,Эмэйл
+Email,И-мэйл
 "Phone Number","Утасны дугаар"
 "What’s on your mind?","Юун тухай"
 Submit,Илгээх
 "Name: %name","Нэр: %name"
-"Email: %email","Эмэйл: %email"
+"Email: %email","И-мэйл: %email"
 "Phone Number: %telephone","Утасны дугаар: %telephone"
 "Comment: %comment","Тайлбар: %comment"
 Contacts,Холбоо
 "Contact Us","Бидэнтэй холбогдоно уу"
 "Enable Contact Us","Холбоо барих идэвхижүүлэх"
-"Email Options","Эмэйл сонголтууд"
-"Send Emails To","Хааш нь илгээх эмэйл"
-"Email Sender","Эмэйл илгээгч"
-"Email Template","Эмэйл темплэйт"
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Хэрэв ""Стандарт"" сонголттой бол эмэйл темплэйт теме буцаж унах зарчимаар сонгогдоно."
+"Email Options","И-мэйл сонголтууд"
+"Send Emails To","Хааш нь илгээх И-мэйл"
+"Email Sender","И-мэйл илгээгч"
+"Email Template","И-мэйл темплэйт"
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Хэрэв ""Стандарт"" сонголттой бол И-мэйл темплэйт теме буцаж унах зарчимаар сонгогдоно."
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Бидэнтэй холбогдсон танд баярлалаа. Бид таны шууданд шуурхай хариу илгээхийг хичээх болно."

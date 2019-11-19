@@ -8,7 +8,7 @@ Remove,Арилгах
 "%name,","%name,"
 "Welcome to %store_name.","%store_name дэлгүүрт тавтай морил."
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Манай хуудсанд нэвтрэхийн тулд төлөх хуудсыг эсвэл <a href=""%customer_url"">Миний данс</a> хуудсыг хэрэглэнэ:"
-Email:,Эмэйл:
+Email:,И-мэйл:
 Password:,"Нууц үг"
 "Password you set when creating account","Таны данс үүсгэж байхдаа өгсөн нууц үг"
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Тө өөрийн дансны нууц үгээ мартсан уу? Тэгвэл <a href=""%reset_url"">энд</a> дарж шинэчилнэ үү."
@@ -28,7 +28,7 @@ Password:,"Нууц үг"
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Онгойх цагууд:<br /><span class=""no-link"">%store_hours</span>."
 "Thank you for your order from %store_name.","Таньд %store_name дэлгүүрээс худалдан авалт хийсэнд баярлалаа."
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","<a href=""%account_url"">Өөрийн данс руугаа нэвтэрч</a> захиалгынхаа статусыг шалгаж болно."
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Хэрэв таньд захиалгатайгаа холбоотой ямар нэг асуулт байгаа бол <a href=""mailto:%store_email"">%store_email</a> эмэйл рүү бичээрэй."
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Хэрэв таньд захиалгатайгаа холбоотой ямар нэг асуулт байгаа бол <a href=""mailto:%store_email"">%store_email</a> И-мэйл рүү бичээрэй."
 "Your Credit Memo #%creditmemo_id for Order #%order_id","#%order_id захиалгад зориулсан таны эрхийн бичиг #%creditmemo_id"
 "Billing Info","Тооцооны мэдээ"
 "Shipping Info","Хүргэлтийн мэдээ"
