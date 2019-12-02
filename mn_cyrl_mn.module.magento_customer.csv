@@ -481,4 +481,6 @@ Addresses,Addresses
 "Password forgotten","Нууц үг мартсан"
 "My Dashboard","Миний данс"
 "You are signed out.","Та өөрийн данснаасаа гарлаа."
-"Reset My Password","Нууц үгээ өөрчлөх"
+"Reset My Password","Нууц үгээ өөрчлөх",
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Таны дансанд нэвтрэх үйлдэл амжилттай болсонгүй. Та дараа дахин оролдно уу."
+"Minimum length of this field must be equal or greater than 8 symbols. Leading and trailing spaces will be ignored.","Хамгийн багадаа %1 тэмдэг оруулна уу. Эхлэл төгсгөлд орсон хоосон зай тооцогдохгүй болно."
